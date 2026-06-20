@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "site": "ordway_theater",
+    "scraping_time": "2026-06-20T17:26:29.486143",
+    "start_date_range": "2026-06-20",
+    "end_date_range": "2026-10-18",
+    "total_shows_extracted": 9
+  },
+  "shows": [
+    {
+      "date": "2026-06-17",
+      "end_date": "2026-06-28",
+      "venue": "Ordway Music Theater",
+      "title": "SIX",
+      "tour": "Broadway",
+      "support_raw": "The Ordway Presents",
+      "artists": [
+        "SIX"
+      ],
+      "link": "https://ordway.org/events/six/"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Ordway Concert Hall",
+      "title": "BIG GRAVITY",
+      "tour": "Concerts",
+      "support_raw": "TaikoArts Midwest Presents",
+      "artists": [
+        "BIG GRAVITY"
+      ],
+      "link": "https://boxoffice.ordway.org/Online/mapSelect.asp?BOset::WSmap::seatmap::performance_ids=00F97BC3-53A5-4208-B1D5-26D6F02F00D9"
+    },
+    {
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "venue": "Ordway Concert Hall",
+      "title": "The Moth Mainstage in St. Paul: AMERICAN DREAMS",
+      "tour": "Podcasts",
+      "support_raw": "The Moth Presents",
+      "artists": [
+        "The Moth Mainstage in St. Paul",
+        "AMERICAN DREAMS"
+      ],
+      "link": "https://boxoffice.ordway.org/Online/mapSelect.asp?BOset::WSmap::seatmap::performance_ids=91D29859-906B-4946-8646-8C1EF419DE3E"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-28",
+      "venue": "Ordway Theater",
+      "title": "Royalty",
+      "tour": "Concerts",
+      "support_raw": "One Voice Mixed Chorus Presents",
+      "artists": [
+        "Royalty"
+      ],
+      "link": "https://ordway.org/events/ovmc-royalty/"
+    },
+    {
+      "date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "venue": "Ordway Concert Hall",
+      "title": "A Musical Journey to Korea",
+      "tour": "Concerts",
+      "support_raw": "Oratorio Society of Minnesota Presents",
+      "artists": [
+        "A Musical Journey to Korea"
+      ],
+      "link": "https://ordway.org/events/oratorio-journey-to-korea/"
+    },
+    {
+      "date": "2026-08-12",
+      "end_date": "2026-09-06",
+      "venue": "Ordway Music Theater",
+      "title": "Dirty Dancing: The Musical",
+      "tour": "Broadway",
+      "support_raw": "The Ordway Presents",
+      "artists": [
+        "Dirty Dancing",
+        "The Musical"
+      ],
+      "link": "https://ordway.org/events/dirty-dancing/"
+    },
+    {
+      "date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "venue": "Ordway Concert Hall",
+      "title": "Cantus & Imani Winds: My Ancestors Speak",
+      "tour": "Concerts",
+      "support_raw": "Cantus Vocal Ensemble Presents",
+      "artists": [
+        "Cantus",
+        "Imani Winds: My Ancestors Speak"
+      ],
+      "link": "https://boxoffice.ordway.org/Online/mapSelect.asp?BOset::WSmap::seatmap::performance_ids=97030D11-5F3C-43B1-BA9D-D8BFBC02439D"
+    },
+    {
+      "date": "2026-10-06",
+      "end_date": "2026-10-11",
+      "venue": "Ordway Music Theater",
+      "title": "Mystic Pizza",
+      "tour": "Broadway",
+      "support_raw": "The Ordway Presents",
+      "artists": [
+        "Mystic Pizza"
+      ],
+      "link": "https://ordway.org/events/mystic-pizza/"
+    },
+    {
+      "date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "venue": "Ordway Concert Hall",
+      "title": "Branford Marsalis and Dianne Reeves: Live at the Ordway",
+      "tour": "Concerts",
+      "support_raw": "The Dakota Presents",
+      "artists": [
+        "Branford Marsalis",
+        "Dianne Reeves: Live at the Ordway"
+      ],
+      "link": "https://boxoffice.ordway.org/Online/mapSelect.asp?BOset::WSmap::seatmap::performance_ids=5016FCE4-1EEF-420A-BE6A-9938A4F4F373"
+    }
+  ]
+}

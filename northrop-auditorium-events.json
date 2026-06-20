@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "site": "northrop_auditorium",
+    "scraping_time": "2026-06-20T17:26:29.471379",
+    "start_date_range": "2026-06-20",
+    "end_date_range": "2026-10-18",
+    "total_shows_extracted": 3
+  },
+  "shows": [
+    {
+      "date": "2026-09-22",
+      "end_date": "2026-09-22",
+      "venue": "Northrop Auditorium",
+      "title": "Esther Freier Lecture: An Evening With George Saunders",
+      "tour": "UMN Conversations at Northrop Tuesday, Sept. 22, 7:30 p.m.Free Event, Registration Required",
+      "support_raw": "The Department of English Presents",
+      "artists": [
+        "Esther Freier Lecture",
+        "An Evening With George Saunders"
+      ],
+      "link": "https://www.tickets.umn.edu/northrop/online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=50A46CD8-7D2F-454D-BE07-E69175159704"
+    },
+    {
+      "date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "venue": "Northrop Auditorium",
+      "title": "Paul Taylor Dance Company",
+      "tour": "With Live OrchestraSaturday, Sept. 26, 7:30 p.m.2026-27 Northrop Season",
+      "support_raw": "Northrop Presents",
+      "artists": [
+        "Paul Taylor Dance Company"
+      ],
+      "link": "https://tickets.umn.edu/northrop/online/article/NRP2627SEASON"
+    },
+    {
+      "date": "2026-10-09",
+      "end_date": "2026-10-11",
+      "venue": "Northrop Auditorium",
+      "title": "Emily Johnson / Catalyst: Overflow Radio",
+      "tour": "Friday, Oct. 9-Monday, Oct. 12Noon-6 p.m. Each DayOnstage SeatingPick Your Price2026-27 Northrop Season",
+      "support_raw": "Northrop Presents",
+      "artists": [
+        "Emily Johnson / Catalyst",
+        "Overflow Radio"
+      ],
+      "link": "https://tickets.umn.edu/northrop/online/article/NRP2627SEASON"
+    }
+  ]
+}

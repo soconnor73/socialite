@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "site": "mn_united_fc",
+    "scraping_time": "2026-06-20T17:26:28.948971",
+    "start_date_range": "2026-06-20",
+    "end_date_range": "2026-10-18",
+    "total_shows_extracted": 8
+  },
+  "shows": [
+    {
+      "date": "2026-08-19",
+      "venue": "Allianz Field",
+      "title": "Minnesota United FC vs. Atlanta United",
+      "tour": "MLS Regular Season",
+      "support_raw": "Year 10 Celebration Game, Presented by Allianz Life",
+      "artists": [
+        "Minnesota United FC",
+        "Atlanta United"
+      ],
+      "link": "https://www.mnufc.com/competitions/mls-regular-season/2026/matches/minvsatl-08-19-2026"
+    },
+    {
+      "date": "2026-08-11",
+      "venue": "Allianz Field",
+      "title": "Minnesota United FC vs. Atlante FC",
+      "tour": "Cup Short",
+      "support_raw": "",
+      "artists": [
+        "Minnesota United FC",
+        "Atlante FC"
+      ],
+      "link": "https://www.mnufc.com/competitions/leagues-cup/2026/matches/minvsafc-08-11-2026"
+    },
+    {
+      "date": "2026-08-07",
+      "venue": "Allianz Field",
+      "title": "Tigres UANL vs. Minnesota United FC",
+      "tour": "Cup Short",
+      "support_raw": "",
+      "artists": [
+        "Tigres UANL",
+        "Minnesota United FC"
+      ],
+      "link": "https://www.mnufc.com/competitions/leagues-cup/2026/matches/tigvsmin-08-07-2026"
+    },
+    {
+      "date": "2026-08-04",
+      "venue": "Allianz Field",
+      "title": "Minnesota United FC vs. FC Juárez",
+      "tour": "Cup Short",
+      "support_raw": "",
+      "artists": [
+        "Minnesota United FC",
+        "FC Juárez"
+      ],
+      "link": "https://www.mnufc.com/competitions/leagues-cup/2026/matches/minvsfcj-08-04-2026"
+    },
+    {
+      "date": "2026-08-01",
+      "venue": "Allianz Field",
+      "title": "Minnesota United FC vs. San Diego FC",
+      "tour": "MLS Regular Season",
+      "support_raw": "Black Excellence, Presented by nVent",
+      "artists": [
+        "Minnesota United FC",
+        "San Diego FC"
+      ],
+      "link": "https://www.mnufc.com/competitions/mls-regular-season/2026/matches/minvssd-08-01-2026"
+    },
+    {
+      "date": "2026-07-26",
+      "venue": "Allianz Field",
+      "title": "Minnesota United FC vs. Liberia",
+      "tour": "MLS Match",
+      "support_raw": "",
+      "artists": [
+        "Minnesota United FC",
+        "Liberia"
+      ],
+      "link": "https://www.mnufc.com/competitions/club-friendly-matches/2026/matches/minvslbr-07-26-2026"
+    },
+    {
+      "date": "2026-07-25",
+      "venue": "Allianz Field",
+      "title": "Minnesota United FC vs. Vancouver Whitecaps FC",
+      "tour": "MLS Regular Season",
+      "support_raw": "Presented by Allina Health",
+      "artists": [
+        "Minnesota United FC",
+        "Vancouver Whitecaps FC"
+      ],
+      "link": "https://www.mnufc.com/competitions/mls-regular-season/2026/matches/minvsvan-07-25-2026"
+    },
+    {
+      "date": "2026-06-20",
+      "venue": "Allianz Field",
+      "title": "MNUFC2 vs. St Louis CITY2",
+      "tour": "Regular",
+      "support_raw": "",
+      "artists": [
+        "MNUFC2",
+        "St Louis CITY2"
+      ],
+      "link": "https://www.mnufc.com/competitions/mls-next-pro/2026/matches/minvsstl-06-20-2026"
+    }
+  ]
+}

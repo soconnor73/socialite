@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Socialite Events Calendar</title>
+    <!-- Google Fonts & Icons -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet" />
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="glow-bg"></div>
+    
+    <div class="app-container">
+        <!-- Sidebar / Filter controls -->
+        <aside class="sidebar">
+            <div class="brand">
+                <span class="material-symbols-outlined logo-icon">calendar_month</span>
+                <h1>Socialite</h1>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-label">Total Aggregated Events</div>
+                <div class="stat-value" id="stats-total">0</div>
+                <div class="stat-range" id="stats-range">June 20 - Oct 18, 2026</div>
+            </div>
+            
+            <div class="filter-section">
+                <h2>Search Events</h2>
+                <div class="search-box">
+                    <span class="material-symbols-outlined search-icon">search</span>
+                    <input type="text" id="search-input" placeholder="Artist, venue, keyword...">
+                </div>
+            </div>
+            
+            <div class="filter-section">
+                <h2>Date Filter</h2>
+                <div class="date-inputs">
+                    <div class="date-field">
+                        <label for="start-date-filter">Start</label>
+                        <input type="date" id="start-date-filter" value="2026-06-20">
+                    </div>
+                    <div class="date-field">
+                        <label for="end-date-filter">End</label>
+                        <input type="date" id="end-date-filter" value="2026-10-18">
+                    </div>
+                </div>
+            </div>
+
+            <div class="filter-section">
+                <div class="section-header">
+                    <h2>Filter by Source</h2>
+                    <button class="text-btn" id="clear-sources-btn">Clear All</button>
+                </div>
+                <div class="source-pills-list" id="source-filter-container">
+                    <!-- Source checkboxes injected here dynamically -->
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <header class="content-header">
+                <div class="current-period">
+                    <button class="nav-btn" id="prev-period-btn">
+                        <span class="material-symbols-outlined">chevron_left</span>
+                    </button>
+                    <h2 id="period-display-label">Loading...</h2>
+                    <button class="nav-btn" id="next-period-btn">
+                        <span class="material-symbols-outlined">chevron_right</span>
+                    </button>
+                </div>
+                
+                <div class="view-toggles">
+                    <button class="toggle-btn active" id="view-grid-btn">
+                        <span class="material-symbols-outlined">grid_on</span>
+                        Grid View
+                    </button>
+                    <button class="toggle-btn" id="view-list-btn">
+                        <span class="material-symbols-outlined">format_list_bulleted</span>
+                        List View
+                    </button>
+                </div>
+            </header>
+
+            <!-- Calendar Month Grid Container -->
+            <section class="calendar-grid-wrapper" id="calendar-grid-view">
+                <div class="days-header-row">
+                    <div>Mon</div>
+                    <div>Tue</div>
+                    <div>Wed</div>
+                    <div>Thu</div>
+                    <div>Fri</div>
+                    <div>Sat</div>
+                    <div>Sun</div>
+                </div>
+                <div class="month-days-grid" id="month-days-container">
+                    <!-- Injected via JavaScript -->
+                </div>
+            </section>
+
+            <!-- List View Container -->
+            <section class="list-feed-wrapper hidden" id="list-feed-view">
+                <div class="list-feed-container" id="list-feed-container">
+                    <!-- Injected via JavaScript -->
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Glassmorphic Details Modal -->
+    <div class="modal-overlay hidden" id="event-modal">
+        <div class="modal-card">
+            <button class="modal-close-btn" id="close-modal-btn">
+                <span class="material-symbols-outlined">close</span>
+            </button>
+            <div class="modal-badge-row">
+                <span class="modal-badge" id="modal-venue-badge">First Avenue</span>
+                <span class="modal-badge secondary" id="modal-genre-badge">Concert</span>
+            </div>
+            <h1 class="modal-title" id="modal-event-title">Event Title</h1>
+            
+            <div class="modal-details-grid">
+                <div class="detail-item">
+                    <span class="material-symbols-outlined detail-icon">calendar_today</span>
+                    <div>
+                        <div class="detail-title">Date</div>
+                        <div class="detail-value" id="modal-date">Saturday, June 20, 2026</div>
+                    </div>
+                </div>
+                <div class="detail-item" id="modal-time-container">
+                    <span class="material-symbols-outlined detail-icon">schedule</span>
+                    <div>
+                        <div class="detail-title">Time / Performance</div>
+                        <div class="detail-value" id="modal-time">7:00 PM</div>
+                    </div>
+                </div>
+                <div class="detail-item" id="modal-support-container">
+                    <span class="material-symbols-outlined detail-icon">group_add</span>
+                    <div>
+                        <div class="detail-title">Support / Openers</div>
+                        <div class="detail-value" id="modal-support">Support bands</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal-artists-section">
+                <h3>Artists / Performers</h3>
+                <div class="artists-pills" id="modal-artists-container">
+                    <!-- Artist pills injected here -->
+                </div>
+            </div>
+
+            <div class="modal-action-row">
+                <a href="#" target="_blank" class="primary-btn" id="modal-tickets-link">
+                    <span class="material-symbols-outlined">local_activity</span>
+                    Get Tickets
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

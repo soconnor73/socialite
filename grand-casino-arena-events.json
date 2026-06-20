@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "site": "grand_casino_arena",
+    "scraping_time": "2026-06-20T17:26:24.891499",
+    "start_date_range": "2026-06-20",
+    "end_date_range": "2026-10-18",
+    "total_shows_extracted": 12
+  },
+  "shows": [
+    {
+      "date": "2026-06-24",
+      "venue": "Grand Casino Arena",
+      "title": "Lionel Richie and Earth, Wind & Fire",
+      "tour": "Starts at 7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Lionel Richie",
+        "Earth, Wind & Fire"
+      ],
+      "link": "https://www.grandcasinoarena.com/events/detail/lionel-richie-and-earth-wind-fire-1"
+    },
+    {
+      "date": "2026-06-28",
+      "venue": "Grand Casino Arena",
+      "title": "Josh Groban",
+      "tour": "Starts at 8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Josh Groban"
+      ],
+      "link": "https://www.grandcasinoarena.com/events/detail/josh-groban-1"
+    },
+    {
+      "date": "2026-07-02",
+      "venue": "Grand Casino Arena",
+      "title": "Alex Warren",
+      "tour": "Starts at 7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Alex Warren"
+      ],
+      "link": "https://www.grandcasinoarena.com/events/detail/alex-warren"
+    },
+    {
+      "date": "2026-07-15",
+      "venue": "Grand Casino Arena",
+      "title": "Melanie Martinez - Canceled",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Melanie Martinez"
+      ],
+      "link": "https://www.grandcasinoarena.com/events/detail/melanie-martinez"
+    },
+    {
+      "date": "2026-07-18",
+      "venue": "Grand Casino Arena",
+      "title": "Monster Jam",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Monster Jam"
+      ],
+      "link": "https://www.grandcasinoarena.com/events/detail/monster-jam-2026"
+    },
+    {
+      "date": "2026-08-29",
+      "venue": "Grand Casino Arena",
+      "title": "Cody Johnson",
+      "tour": "Starts at 7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Cody Johnson"
+      ],
+      "link": "https://www.grandcasinoarena.com/events/detail/cody-johnson-1"
+    },
+    {
+      "date": "2026-09-15",
+      "venue": "Grand Casino Arena",
+      "title": "Eric Clapton",
+      "tour": "Starts at 7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "link": "https://www.grandcasinoarena.com/events/detail/eric-clapton-2026"
+    },
+    {
+      "date": "2026-09-17",
+      "venue": "Grand Casino Arena",
+      "title": "Phoebe Bridgers",
+      "tour": "Starts at 7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Phoebe Bridgers"
+      ],
+      "link": "https://www.grandcasinoarena.com/events/detail/phoebe-bridgers"
+    },
+    {
+      "date": "2026-09-20",
+      "venue": "Grand Casino Arena",
+      "title": "Weezer",
+      "tour": "Starts at 7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Weezer"
+      ],
+      "link": "https://www.grandcasinoarena.com/events/detail/weezer-2026"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Grand Casino Arena",
+      "title": "Teddy Swims: The UGLY Tour",
+      "tour": "Starts at 7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Teddy Swims"
+      ],
+      "link": "https://www.grandcasinoarena.com/events/detail/teddy-swims"
+    },
+    {
+      "date": "2026-09-27",
+      "venue": "Grand Casino Arena",
+      "title": "Johnny Blue Skies",
+      "tour": "Starts at 8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Johnny Blue Skies"
+      ],
+      "link": "https://www.grandcasinoarena.com/events/detail/johnny-blue-skies"
+    },
+    {
+      "date": "2026-10-04",
+      "venue": "Grand Casino Arena",
+      "title": "JOURNEY",
+      "tour": "Starts at 7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "JOURNEY"
+      ],
+      "link": "https://www.grandcasinoarena.com/events/detail/journey-2026"
+    }
+  ]
+}

@@ -1,0 +1,1357 @@
+{
+  "metadata": {
+    "site": "hennepin_arts",
+    "scraping_time": "2026-06-20T17:26:29.443200",
+    "start_date_range": "2026-06-20",
+    "end_date_range": "2026-10-18",
+    "total_shows_extracted": 112
+  },
+  "shows": [
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Hennepin Arts",
+      "title": "Second Chance Prom 2026",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Second Chance Prom 2026"
+      ],
+      "link": "https://www.ticketmaster.com/event/06006496CEB748CC"
+    },
+    {
+      "date": "2026-09-24",
+      "end_date": "2026-09-24",
+      "venue": "Hennepin Arts",
+      "title": "Basement Yard Live",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Basement Yard Live"
+      ],
+      "link": "https://www.ticketmaster.com/event/060064C1C063A17C"
+    },
+    {
+      "date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "venue": "Hennepin Arts",
+      "title": "Basement Yard 2026",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Basement Yard 2026"
+      ],
+      "link": "https://www.ticketmaster.com/event/060064C1C05FA178"
+    },
+    {
+      "date": "2026-10-09",
+      "end_date": "2026-10-09",
+      "venue": "Hennepin Arts",
+      "title": "Sasha Velour TRAVESTY",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Sasha Velour TRAVESTY"
+      ],
+      "link": "https://www.ticketmaster.com/event/060064CC9094AB9E"
+    },
+    {
+      "date": "2026-09-15",
+      "end_date": "2026-09-15",
+      "venue": "Hennepin Arts",
+      "title": "Mamma Mia",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Mamma Mia"
+      ],
+      "link": "https://hennepinarts.org/events/mamma-mia"
+    },
+    {
+      "date": "2026-09-16",
+      "end_date": "2026-09-16",
+      "venue": "Hennepin Arts",
+      "title": "Mamma Mia!",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Mamma Mia!"
+      ],
+      "link": "https://hennepinarts.org/events/mamma-mia-2026"
+    },
+    {
+      "date": "2026-09-17",
+      "end_date": "2026-09-17",
+      "venue": "Hennepin Arts",
+      "title": "Mamma Mia!",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Mamma Mia!"
+      ],
+      "link": "https://hennepinarts.org/events/mamma-mia-2026"
+    },
+    {
+      "date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "venue": "Hennepin Arts",
+      "title": "Mamma Mia!",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Mamma Mia!"
+      ],
+      "link": "https://hennepinarts.org/events/mamma-mia-2026"
+    },
+    {
+      "date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "venue": "Hennepin Arts",
+      "title": "Mamma Mia!",
+      "tour": "2:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Mamma Mia!"
+      ],
+      "link": "https://hennepinarts.org/events/mamma-mia-2026"
+    },
+    {
+      "date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "venue": "Hennepin Arts",
+      "title": "Mamma Mia",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Mamma Mia"
+      ],
+      "link": "https://hennepinarts.org/events/mamma-mia"
+    },
+    {
+      "date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "venue": "Hennepin Arts",
+      "title": "Mamma Mia",
+      "tour": "1:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Mamma Mia"
+      ],
+      "link": "https://hennepinarts.org/events/mamma-mia"
+    },
+    {
+      "date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "venue": "Hennepin Arts",
+      "title": "Mamma Mia",
+      "tour": "6:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Mamma Mia"
+      ],
+      "link": "https://hennepinarts.org/events/mamma-mia"
+    },
+    {
+      "date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "venue": "Hennepin Arts",
+      "title": "Sara Bareilles",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Sara Bareilles"
+      ],
+      "link": "https://www.ticketmaster.com/event/060064BD6BFF27D8"
+    },
+    {
+      "date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "venue": "Hennepin Arts",
+      "title": "Jim Henson's Fraggle Rock: Back to the Rock LIVE",
+      "tour": "3:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Jim Henson's Fraggle Rock: Back to the Rock LIVE"
+      ],
+      "link": "https://hennepinarts.org/events/jim-hensons-fraggle-rock-back-to-the-rock-live-2026"
+    },
+    {
+      "date": "2026-10-10",
+      "end_date": "2026-10-10",
+      "venue": "Hennepin Arts",
+      "title": "Little Big Town",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Little Big Town"
+      ],
+      "link": "https://hennepinarts.org/events/little-big-town-2026"
+    },
+    {
+      "date": "2026-10-14",
+      "end_date": "2026-10-14",
+      "venue": "Hennepin Arts",
+      "title": "Robert Plant",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Robert Plant"
+      ],
+      "link": "https://www.ticketmaster.com/event/060064C4D7E0E535"
+    },
+    {
+      "date": "2026-07-14",
+      "end_date": "2026-07-14",
+      "venue": "Hennepin Arts",
+      "title": "Lyle Lovett",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Lyle Lovett"
+      ],
+      "link": "https://www.ticketmaster.com/event/06006481B0B8DE2B"
+    },
+    {
+      "date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "venue": "Hennepin Arts",
+      "title": "Yolanda Del Rio",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Yolanda Del Rio"
+      ],
+      "link": "https://www.ticketmaster.com/event/060064C19C936461"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "Hennepin Arts",
+      "title": "Leanne Morgan",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Leanne Morgan"
+      ],
+      "link": "https://www.ticketmaster.com/event/060064748395612F"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Hennepin Arts",
+      "title": "Leanne Morgan",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Leanne Morgan"
+      ],
+      "link": "https://www.ticketmaster.com/event/06006479DB3AFD94"
+    },
+    {
+      "date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "venue": "Hennepin Arts",
+      "title": "David Sedaris",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "David Sedaris"
+      ],
+      "link": "https://hennepinarts.org/events/david-sedaris-2024"
+    },
+    {
+      "date": "2026-10-02",
+      "end_date": "2026-10-02",
+      "venue": "Hennepin Arts",
+      "title": "Edith Márquez",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Edith Márquez"
+      ],
+      "link": "https://www.ticketmaster.com/event/060064BBCDB3BB06"
+    },
+    {
+      "date": "2026-10-01",
+      "end_date": "2026-10-01",
+      "venue": "Hennepin Arts",
+      "title": "Rocky Horror Picture Show Spooktacular Tour",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Rocky Horror Picture Show Spooktacular Tour"
+      ],
+      "link": "https://hennepinarts.org/events/rocky-horror-picture-show-spooktacular-tour-2026"
+    },
+    {
+      "date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "venue": "Hennepin Arts",
+      "title": "Jewelry Power Elite",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Jewelry Power Elite"
+      ],
+      "link": "https://hennepinarts.org/events/jewelry-power-elite-2026"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "venue": "Hennepin Arts",
+      "title": "Jewelry Power Elite",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Jewelry Power Elite"
+      ],
+      "link": "https://hennepinarts.org/events/jewelry-power-elite-2026"
+    },
+    {
+      "date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "venue": "Hennepin Arts",
+      "title": "Jewelry Power Elite",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Jewelry Power Elite"
+      ],
+      "link": "https://hennepinarts.org/events/jewelry-power-elite-2026"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Hennepin Arts",
+      "title": "Jewelry Power Elite",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Jewelry Power Elite"
+      ],
+      "link": "https://hennepinarts.org/events/jewelry-power-elite-2026"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "Hennepin Arts",
+      "title": "Off Book",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Off Book"
+      ],
+      "link": "https://hennepinarts.org/events/off-book-2026"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Hennepin Arts",
+      "title": "Off Book",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Off Book"
+      ],
+      "link": "https://hennepinarts.org/events/off-book-2026"
+    },
+    {
+      "date": "2026-10-08",
+      "end_date": "2026-10-08",
+      "venue": "Hennepin Arts",
+      "title": "Buddy Guy",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Buddy Guy"
+      ],
+      "link": "https://www.ticketmaster.com/event/060064A5A939C8AF"
+    },
+    {
+      "date": "2026-08-14",
+      "end_date": "2026-08-14",
+      "venue": "Hennepin Arts",
+      "title": "Josh Johnson",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Josh Johnson"
+      ],
+      "link": "https://www.ticketmaster.com/josh-johnsons-comedy-band-camp-minneapolis-minnesota-08-14-2026/event/0600645ACEFBB831"
+    },
+    {
+      "date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "venue": "Hennepin Arts",
+      "title": "Josh Johnson",
+      "tour": "8:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Josh Johnson"
+      ],
+      "link": "https://www.ticketmaster.com/josh-johnsons-comedy-band-camp-minneapolis-minnesota-08-15-2026/event/0600645ACF0BB85F"
+    },
+    {
+      "date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "venue": "Hennepin Arts",
+      "title": "Josh Johnson",
+      "tour": "5:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Josh Johnson"
+      ],
+      "link": "https://www.ticketmaster.com/event/0600645ACF06B83F"
+    },
+    {
+      "date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "venue": "Hennepin Arts",
+      "title": "Josh Johnson",
+      "tour": "5:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Josh Johnson"
+      ],
+      "link": "https://www.ticketmaster.com/event/0600645BBA1C5A9D"
+    },
+    {
+      "date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "venue": "Hennepin Arts",
+      "title": "Josh Johnson",
+      "tour": "8:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Josh Johnson"
+      ],
+      "link": "https://www.ticketmaster.com/josh-johnsons-comedy-band-camp-minneapolis-minnesota-08-16-2026/event/0600645BBA205AB0"
+    },
+    {
+      "date": "2026-09-12",
+      "end_date": "2026-09-12",
+      "venue": "Hennepin Arts",
+      "title": "Candace Cameron Bure",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Candace Cameron Bure"
+      ],
+      "link": "https://www.ticketmaster.com/event/0600649B98349092"
+    },
+    {
+      "date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "venue": "Hennepin Arts",
+      "title": "Matute",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Matute"
+      ],
+      "link": "https://www.ticketmaster.com/event/06006498A5F724E8"
+    },
+    {
+      "date": "2026-08-14",
+      "end_date": "2026-08-14",
+      "venue": "Hennepin Arts",
+      "title": "Mat Kearney",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Mat Kearney"
+      ],
+      "link": "https://www.ticketmaster.com/mat-kearney-nothing-left-to-lose-minneapolis-minnesota-08-14-2026/event/06006458D9B76D1A"
+    },
+    {
+      "date": "2026-10-07",
+      "end_date": "2026-10-07",
+      "venue": "Hennepin Arts",
+      "title": "Beck",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Beck"
+      ],
+      "link": "https://www.ticketmaster.com/event/06006489F2BBC2A3"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Hennepin Arts",
+      "title": "Battle of the Improv All-Stars",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Battle of the Improv All-Stars"
+      ],
+      "link": "https://hennepinarts.org/events/battle-of-the-improv-all-stars-2025"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "Hennepin Arts",
+      "title": "Battle of the Improv All-Stars",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Battle of the Improv All-Stars"
+      ],
+      "link": "https://hennepinarts.org/events/battle-of-the-improv-all-stars-2025"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Hennepin Arts",
+      "title": "Battle of the Improv All-Stars",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Battle of the Improv All-Stars"
+      ],
+      "link": "https://hennepinarts.org/events/battle-of-the-improv-all-stars-2025"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "venue": "Hennepin Arts",
+      "title": "Battle of the Improv All-Stars",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Battle of the Improv All-Stars"
+      ],
+      "link": "https://hennepinarts.org/events/battle-of-the-improv-all-stars-2025"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Hennepin Arts",
+      "title": "Battle of the Improv All-Stars",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Battle of the Improv All-Stars"
+      ],
+      "link": "https://hennepinarts.org/events/battle-of-the-improv-all-stars-2025"
+    },
+    {
+      "date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "venue": "Hennepin Arts",
+      "title": "Battle of the Improv All-Stars",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Battle of the Improv All-Stars"
+      ],
+      "link": "https://hennepinarts.org/events/battle-of-the-improv-all-stars-2025"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "venue": "Hennepin Arts",
+      "title": "Battle of the Improv All-Stars",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Battle of the Improv All-Stars"
+      ],
+      "link": "https://hennepinarts.org/events/battle-of-the-improv-all-stars-2025"
+    },
+    {
+      "date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "venue": "Hennepin Arts",
+      "title": "Battle of the Improv All-Stars",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Battle of the Improv All-Stars"
+      ],
+      "link": "https://hennepinarts.org/events/battle-of-the-improv-all-stars-2025"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Hennepin Arts",
+      "title": "Battle of the Improv All-Stars",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Battle of the Improv All-Stars"
+      ],
+      "link": "https://hennepinarts.org/events/battle-of-the-improv-all-stars-2025"
+    },
+    {
+      "date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "venue": "Hennepin Arts",
+      "title": "Battle of the Improv All-Stars",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Battle of the Improv All-Stars"
+      ],
+      "link": "https://hennepinarts.org/events/battle-of-the-improv-all-stars-2025"
+    },
+    {
+      "date": "2026-08-08",
+      "end_date": "2026-08-08",
+      "venue": "Hennepin Arts",
+      "title": "Battle of the Improv All-Stars",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Battle of the Improv All-Stars"
+      ],
+      "link": "https://hennepinarts.org/events/battle-of-the-improv-all-stars-2025"
+    },
+    {
+      "date": "2026-07-07",
+      "end_date": "2026-07-07",
+      "venue": "Hennepin Arts",
+      "title": "Mike Campbell & The Dirty Knobs",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Mike Campbell",
+        "The Dirty Knobs"
+      ],
+      "link": "https://www.ticketmaster.com/event/06006465A8F461EC"
+    },
+    {
+      "date": "2026-10-12",
+      "end_date": "2026-10-12",
+      "venue": "Hennepin Arts",
+      "title": "Undertale",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Undertale"
+      ],
+      "link": "https://www.ticketmaster.com/event/0600647A01555915"
+    },
+    {
+      "date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "venue": "Hennepin Arts",
+      "title": "Tom Papa",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Tom Papa"
+      ],
+      "link": "https://hennepinarts.org/events/tom-papa-2026"
+    },
+    {
+      "date": "2026-10-01",
+      "end_date": "2026-10-01",
+      "venue": "Hennepin Arts",
+      "title": "Tab Benoit",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Tab Benoit"
+      ],
+      "link": "https://www.ticketmaster.com/event/06006463CBB55433"
+    },
+    {
+      "date": "2026-10-15",
+      "end_date": "2026-10-15",
+      "venue": "Hennepin Arts",
+      "title": "Ben Schwartz",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Ben Schwartz"
+      ],
+      "link": "https://hennepinarts.org/events/ben-schwartz"
+    },
+    {
+      "date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "venue": "Hennepin Arts",
+      "title": "Laura Ramoso",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Laura Ramoso"
+      ],
+      "link": "https://www.ticketmaster.com/event/0600646AD1A2F14E"
+    },
+    {
+      "date": "2026-09-25",
+      "end_date": "2026-09-25",
+      "venue": "Hennepin Arts",
+      "title": "Bassem Youssef",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Bassem Youssef"
+      ],
+      "link": "https://www.ticketmaster.com/event/0600646BD3B1458B"
+    },
+    {
+      "date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "venue": "Hennepin Arts",
+      "title": "John Crist",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "John Crist"
+      ],
+      "link": "https://www.ticketmaster.com/event/0600646BA972CB9D"
+    },
+    {
+      "date": "2026-08-12",
+      "end_date": "2026-08-12",
+      "venue": "Hennepin Arts",
+      "title": "The Marvelous Miss Gender starring BOSCO",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "The Marvelous Miss Gender starring BOSCO"
+      ],
+      "link": "https://hennepinarts.org/events/the-marvelous-miss-gender-starring-bosco"
+    },
+    {
+      "date": "2026-10-13",
+      "end_date": "2026-10-13",
+      "venue": "Hennepin Arts",
+      "title": "Sting",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Sting"
+      ],
+      "link": "https://www.ticketmaster.com/sting-30-tour-minneapolis-minnesota-10-13-2026/event/06006457B542E3D6"
+    },
+    {
+      "date": "2026-10-14",
+      "end_date": "2026-10-14",
+      "venue": "Hennepin Arts",
+      "title": "Sting",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Sting"
+      ],
+      "link": "https://www.ticketmaster.com/event/06006457B546E3D9"
+    },
+    {
+      "date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "1:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "2:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "1:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "6:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-14",
+      "end_date": "2026-07-14",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-16",
+      "end_date": "2026-07-16",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "2:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "1:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "6:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-21",
+      "end_date": "2026-07-21",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-22",
+      "end_date": "2026-07-22",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-23",
+      "end_date": "2026-07-23",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "2:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "1:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "6:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-28",
+      "end_date": "2026-07-28",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-29",
+      "end_date": "2026-07-29",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-30",
+      "end_date": "2026-07-30",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "2:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-08-02",
+      "end_date": "2026-08-02",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "1:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-08-02",
+      "end_date": "2026-08-02",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "6:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-08-04",
+      "end_date": "2026-08-04",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-08-06",
+      "end_date": "2026-08-06",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-08-08",
+      "end_date": "2026-08-08",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "2:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-08-08",
+      "end_date": "2026-08-08",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-08-09",
+      "end_date": "2026-08-09",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "1:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-08-09",
+      "end_date": "2026-08-09",
+      "venue": "Hennepin Arts",
+      "title": "Wicked",
+      "tour": "6:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Wicked"
+      ],
+      "link": "https://hennepinarts.org/events/wicked"
+    },
+    {
+      "date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "venue": "Hennepin Arts",
+      "title": "World Ballet Company Swan Lake",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "World Ballet Company Swan Lake"
+      ],
+      "link": "https://www.ticketmaster.com/event/0600644AA0D87DA2"
+    },
+    {
+      "date": "2026-08-08",
+      "end_date": "2026-08-08",
+      "venue": "Hennepin Arts",
+      "title": "Alicia Villarreal",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Alicia Villarreal"
+      ],
+      "link": "https://www.ticketmaster.com/event/0600626DD74C908A"
+    },
+    {
+      "date": "2026-10-09",
+      "end_date": "2026-10-09",
+      "venue": "Hennepin Arts",
+      "title": "Clue",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Clue"
+      ],
+      "link": "https://hennepinarts.org/events/clue-2026"
+    },
+    {
+      "date": "2026-10-10",
+      "end_date": "2026-10-10",
+      "venue": "Hennepin Arts",
+      "title": "Clue",
+      "tour": "2:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Clue"
+      ],
+      "link": "https://hennepinarts.org/events/clue-2026"
+    },
+    {
+      "date": "2026-10-10",
+      "end_date": "2026-10-10",
+      "venue": "Hennepin Arts",
+      "title": "Clue",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Clue"
+      ],
+      "link": "https://hennepinarts.org/events/clue-2026"
+    },
+    {
+      "date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "venue": "Hennepin Arts",
+      "title": "Clue",
+      "tour": "1:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Clue"
+      ],
+      "link": "https://hennepinarts.org/events/clue-2026"
+    },
+    {
+      "date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "venue": "Hennepin Arts",
+      "title": "Clue",
+      "tour": "6:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Clue"
+      ],
+      "link": "https://hennepinarts.org/events/clue-2026"
+    },
+    {
+      "date": "2026-10-07",
+      "end_date": "2026-10-07",
+      "venue": "Hennepin Arts",
+      "title": "Leonid and Friends",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Leonid",
+        "Friends"
+      ],
+      "link": "https://www.ticketmaster.com/event/0600643AB980ACC5"
+    },
+    {
+      "date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "venue": "Hennepin Arts",
+      "title": "Small Town Murder",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Small Town Murder"
+      ],
+      "link": "https://hennepinarts.org/events/small-town-murder-2024"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Hennepin Arts",
+      "title": "Derek Hough",
+      "tour": "8:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Derek Hough"
+      ],
+      "link": "https://www.ticketmaster.com/event/06006369B88EB6A7"
+    },
+    {
+      "date": "2026-08-30",
+      "end_date": "2026-08-30",
+      "venue": "Hennepin Arts",
+      "title": "Ray LoMontagne",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Ray LoMontagne"
+      ],
+      "link": "https://www.ticketmaster.com/event/060062655C630B67"
+    }
+  ]
+}

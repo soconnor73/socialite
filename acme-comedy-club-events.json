@@ -1,0 +1,781 @@
+{
+  "metadata": {
+    "site": "acme_comedy_club",
+    "scraping_time": "2026-06-20T17:26:24.913373",
+    "start_date_range": "2026-06-20",
+    "end_date_range": "2026-10-18",
+    "total_shows_extracted": 70
+  },
+  "shows": [
+    {
+      "date": "2026-06-20",
+      "venue": "ACME Comedy Club",
+      "title": "David Cross",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "David Cross"
+      ],
+      "link": "https://acmecomedycompany.com/shows/06-19-2026-david-cross"
+    },
+    {
+      "date": "2026-06-20",
+      "venue": "ACME Comedy Club",
+      "title": "David Cross",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "David Cross"
+      ],
+      "link": "https://acmecomedycompany.com/shows/06-19-2026-david-cross"
+    },
+    {
+      "date": "2026-06-24",
+      "venue": "ACME Comedy Club",
+      "title": "Jackie Kashian",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Jackie Kashian"
+      ],
+      "link": "https://acmecomedycompany.com/shows/06-24-2026-jackie-kashian"
+    },
+    {
+      "date": "2026-06-25",
+      "venue": "ACME Comedy Club",
+      "title": "Jackie Kashian",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Jackie Kashian"
+      ],
+      "link": "https://acmecomedycompany.com/shows/06-24-2026-jackie-kashian"
+    },
+    {
+      "date": "2026-06-26",
+      "venue": "ACME Comedy Club",
+      "title": "Jackie Kashian",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Jackie Kashian"
+      ],
+      "link": "https://acmecomedycompany.com/shows/06-24-2026-jackie-kashian"
+    },
+    {
+      "date": "2026-06-26",
+      "venue": "ACME Comedy Club",
+      "title": "Jackie Kashian",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Jackie Kashian"
+      ],
+      "link": "https://acmecomedycompany.com/shows/06-24-2026-jackie-kashian"
+    },
+    {
+      "date": "2026-06-27",
+      "venue": "ACME Comedy Club",
+      "title": "Jackie Kashian",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Jackie Kashian"
+      ],
+      "link": "https://acmecomedycompany.com/shows/06-24-2026-jackie-kashian"
+    },
+    {
+      "date": "2026-06-27",
+      "venue": "ACME Comedy Club",
+      "title": "Jackie Kashian",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Jackie Kashian"
+      ],
+      "link": "https://acmecomedycompany.com/shows/06-24-2026-jackie-kashian"
+    },
+    {
+      "date": "2026-07-01",
+      "venue": "ACME Comedy Club",
+      "title": "Robert Baril",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Robert Baril"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-01-2026-robert-baril"
+    },
+    {
+      "date": "2026-07-02",
+      "venue": "ACME Comedy Club",
+      "title": "Robert Baril",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Robert Baril"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-01-2026-robert-baril"
+    },
+    {
+      "date": "2026-07-03",
+      "venue": "ACME Comedy Club",
+      "title": "Robert Baril",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Robert Baril"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-01-2026-robert-baril"
+    },
+    {
+      "date": "2026-07-03",
+      "venue": "ACME Comedy Club",
+      "title": "Robert Baril",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Robert Baril"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-01-2026-robert-baril"
+    },
+    {
+      "date": "2026-07-08",
+      "venue": "ACME Comedy Club",
+      "title": "Trevor Anderson",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Trevor Anderson"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-08-2026-trevor-anderson"
+    },
+    {
+      "date": "2026-07-09",
+      "venue": "ACME Comedy Club",
+      "title": "Trevor Anderson",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Trevor Anderson"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-08-2026-trevor-anderson"
+    },
+    {
+      "date": "2026-07-10",
+      "venue": "ACME Comedy Club",
+      "title": "Trevor Anderson",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Trevor Anderson"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-08-2026-trevor-anderson"
+    },
+    {
+      "date": "2026-07-10",
+      "venue": "ACME Comedy Club",
+      "title": "Trevor Anderson",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Trevor Anderson"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-08-2026-trevor-anderson"
+    },
+    {
+      "date": "2026-07-11",
+      "venue": "ACME Comedy Club",
+      "title": "Trevor Anderson",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Trevor Anderson"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-08-2026-trevor-anderson"
+    },
+    {
+      "date": "2026-07-11",
+      "venue": "ACME Comedy Club",
+      "title": "Trevor Anderson",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Trevor Anderson"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-08-2026-trevor-anderson"
+    },
+    {
+      "date": "2026-07-15",
+      "venue": "ACME Comedy Club",
+      "title": "Erica Rhodes",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Erica Rhodes"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-15-2026-erica-rhodes"
+    },
+    {
+      "date": "2026-07-16",
+      "venue": "ACME Comedy Club",
+      "title": "Erica Rhodes",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Erica Rhodes"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-15-2026-erica-rhodes"
+    },
+    {
+      "date": "2026-07-17",
+      "venue": "ACME Comedy Club",
+      "title": "Erica Rhodes",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Erica Rhodes"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-15-2026-erica-rhodes"
+    },
+    {
+      "date": "2026-07-17",
+      "venue": "ACME Comedy Club",
+      "title": "Erica Rhodes",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Erica Rhodes"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-15-2026-erica-rhodes"
+    },
+    {
+      "date": "2026-07-18",
+      "venue": "ACME Comedy Club",
+      "title": "Erica Rhodes",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Erica Rhodes"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-15-2026-erica-rhodes"
+    },
+    {
+      "date": "2026-07-18",
+      "venue": "ACME Comedy Club",
+      "title": "Erica Rhodes",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Erica Rhodes"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-15-2026-erica-rhodes"
+    },
+    {
+      "date": "2026-07-22",
+      "venue": "ACME Comedy Club",
+      "title": "K.P. Anderson",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "K.P. Anderson"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-22-2026-k-p-anderson"
+    },
+    {
+      "date": "2026-07-23",
+      "venue": "ACME Comedy Club",
+      "title": "K.P. Anderson",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "K.P. Anderson"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-22-2026-k-p-anderson"
+    },
+    {
+      "date": "2026-07-24",
+      "venue": "ACME Comedy Club",
+      "title": "K.P. Anderson",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "K.P. Anderson"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-22-2026-k-p-anderson"
+    },
+    {
+      "date": "2026-07-24",
+      "venue": "ACME Comedy Club",
+      "title": "K.P. Anderson",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "K.P. Anderson"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-22-2026-k-p-anderson"
+    },
+    {
+      "date": "2026-07-25",
+      "venue": "ACME Comedy Club",
+      "title": "K.P. Anderson",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "K.P. Anderson"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-22-2026-k-p-anderson"
+    },
+    {
+      "date": "2026-07-25",
+      "venue": "ACME Comedy Club",
+      "title": "K.P. Anderson",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "K.P. Anderson"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-22-2026-k-p-anderson"
+    },
+    {
+      "date": "2026-07-29",
+      "venue": "ACME Comedy Club",
+      "title": "Tim Slagle",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Tim Slagle"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-29-2026-tim-slagle"
+    },
+    {
+      "date": "2026-07-30",
+      "venue": "ACME Comedy Club",
+      "title": "Tim Slagle",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Tim Slagle"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-29-2026-tim-slagle"
+    },
+    {
+      "date": "2026-07-31",
+      "venue": "ACME Comedy Club",
+      "title": "Tim Slagle",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Tim Slagle"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-29-2026-tim-slagle"
+    },
+    {
+      "date": "2026-07-31",
+      "venue": "ACME Comedy Club",
+      "title": "Tim Slagle",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Tim Slagle"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-29-2026-tim-slagle"
+    },
+    {
+      "date": "2026-08-01",
+      "venue": "ACME Comedy Club",
+      "title": "Tim Slagle",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Tim Slagle"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-29-2026-tim-slagle"
+    },
+    {
+      "date": "2026-08-01",
+      "venue": "ACME Comedy Club",
+      "title": "Tim Slagle",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Tim Slagle"
+      ],
+      "link": "https://acmecomedycompany.com/shows/07-29-2026-tim-slagle"
+    },
+    {
+      "date": "2026-08-05",
+      "venue": "ACME Comedy Club",
+      "title": "Maddie Wiener",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Maddie Wiener"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-05-2026-maddie-wiener"
+    },
+    {
+      "date": "2026-08-06",
+      "venue": "ACME Comedy Club",
+      "title": "Maddie Wiener",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Maddie Wiener"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-05-2026-maddie-wiener"
+    },
+    {
+      "date": "2026-08-07",
+      "venue": "ACME Comedy Club",
+      "title": "Maddie Wiener",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Maddie Wiener"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-05-2026-maddie-wiener"
+    },
+    {
+      "date": "2026-08-07",
+      "venue": "ACME Comedy Club",
+      "title": "Maddie Wiener",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Maddie Wiener"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-05-2026-maddie-wiener"
+    },
+    {
+      "date": "2026-08-08",
+      "venue": "ACME Comedy Club",
+      "title": "Maddie Wiener",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Maddie Wiener"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-05-2026-maddie-wiener"
+    },
+    {
+      "date": "2026-08-08",
+      "venue": "ACME Comedy Club",
+      "title": "Maddie Wiener",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Maddie Wiener"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-05-2026-maddie-wiener"
+    },
+    {
+      "date": "2026-08-12",
+      "venue": "ACME Comedy Club",
+      "title": "Chris Porter",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Chris Porter"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-12-2026-chris-porter"
+    },
+    {
+      "date": "2026-08-13",
+      "venue": "ACME Comedy Club",
+      "title": "Chris Porter",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Chris Porter"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-12-2026-chris-porter"
+    },
+    {
+      "date": "2026-08-14",
+      "venue": "ACME Comedy Club",
+      "title": "Chris Porter",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Chris Porter"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-12-2026-chris-porter"
+    },
+    {
+      "date": "2026-08-14",
+      "venue": "ACME Comedy Club",
+      "title": "Chris Porter",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Chris Porter"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-12-2026-chris-porter"
+    },
+    {
+      "date": "2026-08-15",
+      "venue": "ACME Comedy Club",
+      "title": "Chris Porter",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Chris Porter"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-12-2026-chris-porter"
+    },
+    {
+      "date": "2026-08-15",
+      "venue": "ACME Comedy Club",
+      "title": "Chris Porter",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Chris Porter"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-12-2026-chris-porter"
+    },
+    {
+      "date": "2026-08-19",
+      "venue": "ACME Comedy Club",
+      "title": "Malik Ellessal",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Malik Ellessal"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-19-2026-malik-ellessal"
+    },
+    {
+      "date": "2026-08-20",
+      "venue": "ACME Comedy Club",
+      "title": "Malik Ellessal",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Malik Ellessal"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-19-2026-malik-ellessal"
+    },
+    {
+      "date": "2026-08-21",
+      "venue": "ACME Comedy Club",
+      "title": "Malik Ellessal",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Malik Ellessal"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-19-2026-malik-ellessal"
+    },
+    {
+      "date": "2026-08-21",
+      "venue": "ACME Comedy Club",
+      "title": "Malik Ellessal",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Malik Ellessal"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-19-2026-malik-ellessal"
+    },
+    {
+      "date": "2026-08-22",
+      "venue": "ACME Comedy Club",
+      "title": "Malik Ellessal",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Malik Ellessal"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-19-2026-malik-ellessal"
+    },
+    {
+      "date": "2026-08-22",
+      "venue": "ACME Comedy Club",
+      "title": "Malik Ellessal",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Malik Ellessal"
+      ],
+      "link": "https://acmecomedycompany.com/shows/08-19-2026-malik-ellessal"
+    },
+    {
+      "date": "2026-09-03",
+      "venue": "ACME Comedy Club",
+      "title": "Tommy Brennan",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Tommy Brennan"
+      ],
+      "link": "https://acmecomedycompany.com/shows/09-03-2026-tommy-brennan"
+    },
+    {
+      "date": "2026-09-04",
+      "venue": "ACME Comedy Club",
+      "title": "Tommy Brennan",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Tommy Brennan"
+      ],
+      "link": "https://acmecomedycompany.com/shows/09-03-2026-tommy-brennan"
+    },
+    {
+      "date": "2026-09-04",
+      "venue": "ACME Comedy Club",
+      "title": "Tommy Brennan",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Tommy Brennan"
+      ],
+      "link": "https://acmecomedycompany.com/shows/09-03-2026-tommy-brennan"
+    },
+    {
+      "date": "2026-09-05",
+      "venue": "ACME Comedy Club",
+      "title": "Tommy Brennan",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Tommy Brennan"
+      ],
+      "link": "https://acmecomedycompany.com/shows/09-03-2026-tommy-brennan"
+    },
+    {
+      "date": "2026-09-05",
+      "venue": "ACME Comedy Club",
+      "title": "Tommy Brennan",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Tommy Brennan"
+      ],
+      "link": "https://acmecomedycompany.com/shows/09-03-2026-tommy-brennan"
+    },
+    {
+      "date": "2026-09-10",
+      "venue": "ACME Comedy Club",
+      "title": "Adrienne Iapalucci",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Adrienne Iapalucci"
+      ],
+      "link": "https://acmecomedycompany.com/shows/09-10-2026-adrienne-iapalucci"
+    },
+    {
+      "date": "2026-09-11",
+      "venue": "ACME Comedy Club",
+      "title": "Adrienne Iapalucci",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Adrienne Iapalucci"
+      ],
+      "link": "https://acmecomedycompany.com/shows/09-10-2026-adrienne-iapalucci"
+    },
+    {
+      "date": "2026-09-11",
+      "venue": "ACME Comedy Club",
+      "title": "Adrienne Iapalucci",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Adrienne Iapalucci"
+      ],
+      "link": "https://acmecomedycompany.com/shows/09-10-2026-adrienne-iapalucci"
+    },
+    {
+      "date": "2026-09-12",
+      "venue": "ACME Comedy Club",
+      "title": "Adrienne Iapalucci",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Adrienne Iapalucci"
+      ],
+      "link": "https://acmecomedycompany.com/shows/09-10-2026-adrienne-iapalucci"
+    },
+    {
+      "date": "2026-09-12",
+      "venue": "ACME Comedy Club",
+      "title": "Adrienne Iapalucci",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Adrienne Iapalucci"
+      ],
+      "link": "https://acmecomedycompany.com/shows/09-10-2026-adrienne-iapalucci"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "ACME Comedy Club",
+      "title": "Mark Normand",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Mark Normand"
+      ],
+      "link": "https://acmecomedycompany.com/shows/09-24-2026-mark-normand"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "ACME Comedy Club",
+      "title": "Mark Normand",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Mark Normand"
+      ],
+      "link": "https://acmecomedycompany.com/shows/09-24-2026-mark-normand"
+    },
+    {
+      "date": "2026-09-25",
+      "venue": "ACME Comedy Club",
+      "title": "Mark Normand",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Mark Normand"
+      ],
+      "link": "https://acmecomedycompany.com/shows/09-24-2026-mark-normand"
+    },
+    {
+      "date": "2026-09-25",
+      "venue": "ACME Comedy Club",
+      "title": "Mark Normand",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Mark Normand"
+      ],
+      "link": "https://acmecomedycompany.com/shows/09-24-2026-mark-normand"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "ACME Comedy Club",
+      "title": "Mark Normand",
+      "tour": "Show at 7:00pm",
+      "support_raw": "",
+      "artists": [
+        "Mark Normand"
+      ],
+      "link": "https://acmecomedycompany.com/shows/09-24-2026-mark-normand"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "ACME Comedy Club",
+      "title": "Mark Normand",
+      "tour": "Show at 9:30pm",
+      "support_raw": "",
+      "artists": [
+        "Mark Normand"
+      ],
+      "link": "https://acmecomedycompany.com/shows/09-24-2026-mark-normand"
+    }
+  ]
+}

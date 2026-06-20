@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "site": "us_bank_stadium",
+    "scraping_time": "2026-06-20T17:26:29.455479",
+    "start_date_range": "2026-06-20",
+    "end_date_range": "2026-10-18",
+    "total_shows_extracted": 6
+  },
+  "shows": [
+    {
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "venue": "U.S. Bank Stadium",
+      "title": "Chris Brown & Usher",
+      "tour": "7:00 PM",
+      "support_raw": "THE R&B TOUR",
+      "artists": [
+        "Chris Brown",
+        "Usher"
+      ],
+      "link": "https://www.usbankstadium.com/events/detail/chris-brown-usher"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-02",
+      "venue": "U.S. Bank Stadium",
+      "title": "WWE SummerSlam",
+      "tour": "U.S. Bank Stadium Event",
+      "support_raw": "",
+      "artists": [
+        "WWE SummerSlam"
+      ],
+      "link": "https://www.usbankstadium.com/events/detail/summerslam"
+    },
+    {
+      "date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "venue": "U.S. Bank Stadium",
+      "title": "Ed Sheeran",
+      "tour": "5:30 PM",
+      "support_raw": "LOOP Tour",
+      "artists": [
+        "Ed Sheeran"
+      ],
+      "link": "https://www.usbankstadium.com/events/detail/ed-sheeran-3"
+    },
+    {
+      "date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "venue": "U.S. Bank Stadium",
+      "title": "Vikings v. Baltimore Ravens",
+      "tour": "12:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Vikings",
+        "Baltimore Ravens"
+      ],
+      "link": "https://www.usbankstadium.com/events/detail/vikings-ravens-2026"
+    },
+    {
+      "date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "venue": "U.S. Bank Stadium",
+      "title": "Vikings v. Green Bay Packers",
+      "tour": "3:25 PM",
+      "support_raw": "",
+      "artists": [
+        "Vikings",
+        "Green Bay Packers"
+      ],
+      "link": "https://www.usbankstadium.com/events/detail/vikings-packers-2026"
+    },
+    {
+      "date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "venue": "U.S. Bank Stadium",
+      "title": "Vikings v. Miami Dolphins",
+      "tour": "3:05 PM",
+      "support_raw": "",
+      "artists": [
+        "Vikings",
+        "Miami Dolphins"
+      ],
+      "link": "https://www.usbankstadium.com/events/detail/vikings-dolphins-2026"
+    }
+  ]
+}

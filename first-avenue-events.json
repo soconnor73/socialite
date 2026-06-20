@@ -1,0 +1,1976 @@
+{
+  "metadata": {
+    "site": "first_avenue",
+    "scraping_time": "2026-06-20T17:26:24.874530",
+    "start_date_range": "2026-06-20",
+    "end_date_range": "2026-10-18",
+    "total_shows_extracted": 165
+  },
+  "shows": [
+    {
+      "date": "2026-06-20",
+      "venue": "Surly Brewing Festival Field",
+      "title": "Amyl and The Sniffers",
+      "tour": "",
+      "support_raw": "with Party Dozen",
+      "artists": [
+        "Amyl and The Sniffers",
+        "Party Dozen"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-amyl-and-the-sniffers/"
+    },
+    {
+      "date": "2026-06-20",
+      "venue": "Amsterdam Bar & Hall",
+      "title": "Enter Shikari",
+      "tour": "North America 2026",
+      "support_raw": "with Boston Manor and Initiate",
+      "artists": [
+        "Enter Shikari",
+        "Boston Manor",
+        "Initiate"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-enter-shikari/"
+    },
+    {
+      "date": "2026-06-20",
+      "venue": "First Avenue",
+      "title": "Ole 60",
+      "tour": "Smokestack Town Tour",
+      "support_raw": "with Phil Kane",
+      "artists": [
+        "Ole 60",
+        "Phil Kane"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-ole-60-sat/"
+    },
+    {
+      "date": "2026-06-20",
+      "venue": "Fine Line",
+      "title": "underscores",
+      "tour": "Galleria - North American Chapter",
+      "support_raw": "with umru",
+      "artists": [
+        "underscores",
+        "umru"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-underscores/"
+    },
+    {
+      "date": "2026-06-20",
+      "venue": "7th St Entry",
+      "title": "High Speed Snowshoes",
+      "tour": "★ Local Show ★",
+      "support_raw": "with TABAH and Sallyforth",
+      "artists": [
+        "High Speed Snowshoes",
+        "TABAH",
+        "Sallyforth"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-high-speed-snowshoes/"
+    },
+    {
+      "date": "2026-06-20",
+      "venue": "Turf Club",
+      "title": "Reverend Horton Heat",
+      "tour": "",
+      "support_raw": "with The Surfrajettes",
+      "artists": [
+        "Reverend Horton Heat",
+        "The Surfrajettes"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-reverend-horton-heat/"
+    },
+    {
+      "date": "2026-06-20",
+      "venue": "The Cedar Cultural Center",
+      "title": "An Evening with Bob Schneider",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Bob Schneider"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-bob-schneider/"
+    },
+    {
+      "date": "2026-06-21",
+      "venue": "First Avenue",
+      "title": "F1RST Wrestling presents WREMIX",
+      "tour": "music from Sean Anonymous • burlesque from Sweetpea – The Energizer Hunny • drag from Lala Luzious – The Snack Of The Cities ★ Local Show ★",
+      "support_raw": "",
+      "artists": [
+        "F1RST Wrestling presents WREMIX"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-f1rst-wrestling-wremix/"
+    },
+    {
+      "date": "2026-06-21",
+      "venue": "Fine Line",
+      "title": "Dexter and the Moonrocks",
+      "tour": "",
+      "support_raw": "with Cigarettes @ Sunset and High June",
+      "artists": [
+        "Dexter and the Moonrocks",
+        "Cigarettes @ Sunset",
+        "High June"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-dexter-and-the-moonrocks/"
+    },
+    {
+      "date": "2026-06-21",
+      "venue": "Turf Club",
+      "title": "High On Fire",
+      "tour": "",
+      "support_raw": "with Northern Hammer",
+      "artists": [
+        "High On Fire",
+        "Northern Hammer"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-high-on-fire/"
+    },
+    {
+      "date": "2026-06-21",
+      "venue": "7th St Entry",
+      "title": "Bright Young Things and Wim Tapley & The Cannons",
+      "tour": "★ Local Show ★",
+      "support_raw": "with Anything You Want",
+      "artists": [
+        "Bright Young Things and Wim Tapley & The Cannons",
+        "Anything You Want"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-bright-young-things-and-wim-tapley-the-cannons/"
+    },
+    {
+      "date": "2026-06-22",
+      "venue": "Fine Line",
+      "title": "Dexter and the Moonrocks",
+      "tour": "",
+      "support_raw": "with Cigarettes @ Sunset and High June",
+      "artists": [
+        "Dexter and the Moonrocks",
+        "Cigarettes @ Sunset",
+        "High June"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-dexter-and-the-moonrocks-mon/"
+    },
+    {
+      "date": "2026-06-23",
+      "venue": "7th St Entry",
+      "title": "The Melismatics and Che Arthur",
+      "tour": "★ Local Show ★",
+      "support_raw": "with Two Harbors",
+      "artists": [
+        "The Melismatics and Che Arthur",
+        "Two Harbors"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-the-melismatics-and-che-arthur/"
+    },
+    {
+      "date": "2026-06-23",
+      "venue": "Turf Club",
+      "title": "COLD",
+      "tour": "Goodbye Cruel World – The Red Album Played in Its Entirety",
+      "support_raw": "with Sierra Swan",
+      "artists": [
+        "COLD",
+        "Sierra Swan"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-cold/"
+    },
+    {
+      "date": "2026-06-23",
+      "venue": "Fine Line",
+      "title": "Ásgeir",
+      "tour": "",
+      "support_raw": "with Poolboy",
+      "artists": [
+        "Ásgeir",
+        "Poolboy"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-asgeir/"
+    },
+    {
+      "date": "2026-06-24",
+      "venue": "Fine Line",
+      "title": "Jessica Baio",
+      "tour": "The Other Side Tour",
+      "support_raw": "with Britton",
+      "artists": [
+        "Jessica Baio",
+        "Britton"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-jessica-baio/"
+    },
+    {
+      "date": "2026-06-24",
+      "venue": "7th St Entry",
+      "title": "Aaron Rowe",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Aaron Rowe"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-aaron-rowe/"
+    },
+    {
+      "date": "2026-06-24",
+      "venue": "First Avenue",
+      "title": "Kim Gordon",
+      "tour": "",
+      "support_raw": "with The Fiery Furnaces",
+      "artists": [
+        "Kim Gordon",
+        "The Fiery Furnaces"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-kim-gordon/"
+    },
+    {
+      "date": "2026-06-25",
+      "venue": "7th St Entry",
+      "title": "Social Animals",
+      "tour": "",
+      "support_raw": "with Lew Apollo",
+      "artists": [
+        "Social Animals",
+        "Lew Apollo"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-social-animals/"
+    },
+    {
+      "date": "2026-06-25",
+      "venue": "Fine Line",
+      "title": "Myki Meeks and Nini Coco LIVE!",
+      "tour": "with host Domita Sanchez • music from DJRL • featuring Sasha Cassadine • Ken Doll • Muńeca Nova • Frozaen Pissás • Luna Muse • Chevelle Brooks",
+      "support_raw": "",
+      "artists": [
+        "Myki Meeks and Nini Coco LIVE!"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-myki-meeks-and-nini-coco-live/"
+    },
+    {
+      "date": "2026-06-26",
+      "venue": "Turf Club",
+      "title": "Emmy Woods, Lake Davi, TOMBOYY , Pine & Fire",
+      "tour": "Second Annual Country Queers Make Do ★ Local Show ★",
+      "support_raw": "",
+      "artists": [
+        "Emmy Woods",
+        "Lake Davi",
+        "TOMBOYY",
+        "Pine & Fire"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-emmy-woods-lake-davi-tomboyy-pine-fire/"
+    },
+    {
+      "date": "2026-06-26",
+      "venue": "7th St Entry",
+      "title": "Widowspeak",
+      "tour": "",
+      "support_raw": "with Neu Blume",
+      "artists": [
+        "Widowspeak",
+        "Neu Blume"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-widowspeak/"
+    },
+    {
+      "date": "2026-06-26",
+      "venue": "Fine Line",
+      "title": "Dancing On My Own ⏤ Queer Pop Icons Night",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Dancing On My Own",
+        "Queer Pop Icons Night"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-dancing-on-my-own-queer-pop-icons/"
+    },
+    {
+      "date": "2026-06-26",
+      "venue": "First Avenue",
+      "title": "DJ Keezy presents The Klituation Pride Party",
+      "tour": "featuring Uniiqu3 • XINA • Maria Isa • DJ Keezy • HAWX • OMGigi • Lady Cummeal Cassadine • Jasmine Spice • hosted by Micamaryjane ★ Local Show ★",
+      "support_raw": "",
+      "artists": [
+        "The Klituation Pride Party"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-klituation-pride-party/"
+    },
+    {
+      "date": "2026-06-27",
+      "venue": "7th St Entry",
+      "title": "GR3G",
+      "tour": "Hosted by Juice Lord ★ Local Show ★",
+      "support_raw": "with Mack OC, BLOOD $MOKE BODY and Jandeltha Rae",
+      "artists": [
+        "GR3G",
+        "Mack OC",
+        "BLOOD $MOKE BODY",
+        "Jandeltha Rae"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-gr3g/"
+    },
+    {
+      "date": "2026-06-27",
+      "venue": "Turf Club",
+      "title": "UltraBomb",
+      "tour": "",
+      "support_raw": "with Cheap Glue",
+      "artists": [
+        "UltraBomb",
+        "Cheap Glue"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-ultrabomb/"
+    },
+    {
+      "date": "2026-06-27",
+      "venue": "Fine Line",
+      "title": "Gothess ⏤ MPLS Burning Hearts Pride Party",
+      "tour": "ft. DJ Q • PRSPHNE • Guest • Drag Burlesque by Bon Bon • Zetoviii • Joy Coy • Ala Verga! • Hosted by Anne of Smitten Kitten with special guests North Star Roller Derby Reps ★ Local Show ★",
+      "support_raw": "",
+      "artists": [
+        "Gothess",
+        "MPLS Burning Hearts Pride Party"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-gothess-mpls-burning-hearts-pride/"
+    },
+    {
+      "date": "2026-06-27",
+      "venue": "First Avenue",
+      "title": "Flip Phone XXL Pride Edition starring Lushious Massacr and Joey Jay and Dance Party with DJ Larry Peace",
+      "tour": "featuring Sasha Cassadine • Julia Starr • Starr Dust • Cariño • Priscilla Es Yuicy • Chevelle Brooks • Hunky Dory • Myster’eo Cassadine • Iconica • hosted by Domita Sanchez ★ Local Show ★",
+      "support_raw": "",
+      "artists": [
+        "Flip Phone XXL Pride Edition starring Lushious Massacr and Joey Jay and Dance Party with DJ Larry Peace"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-flip-phone-xxl-pride/"
+    },
+    {
+      "date": "2026-06-28",
+      "venue": "7th St Entry",
+      "title": "Ben Lapidus",
+      "tour": "",
+      "support_raw": "with Products Band",
+      "artists": [
+        "Ben Lapidus",
+        "Products Band"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-ben-lapidus/"
+    },
+    {
+      "date": "2026-06-28",
+      "venue": "Fine Line",
+      "title": "PawPaw Rod",
+      "tour": "",
+      "support_raw": "with Adrian Lyles",
+      "artists": [
+        "PawPaw Rod",
+        "Adrian Lyles"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-pawpaw-rod/"
+    },
+    {
+      "date": "2026-06-28",
+      "venue": "Palace Theatre",
+      "title": "Kurt Vile and The Violators",
+      "tour": "",
+      "support_raw": "with The Wandering Eye (Ween Tribute)",
+      "artists": [
+        "Kurt Vile and The Violators",
+        "The Wandering Eye (Ween Tribute)"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-kurt-vile-and-the-violators/"
+    },
+    {
+      "date": "2026-06-28",
+      "venue": "First Avenue",
+      "title": "WOLFMOTHER",
+      "tour": "20th Anniversary Tour",
+      "support_raw": "with Love Gang",
+      "artists": [
+        "WOLFMOTHER",
+        "Love Gang"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-wolfmother/"
+    },
+    {
+      "date": "2026-06-30",
+      "venue": "Fine Line",
+      "title": "Tiny Desk Contest On The Road 2026 ft. Cure for Paranoia",
+      "tour": "On The Road 2026",
+      "support_raw": "with Riley & The Urban Revival and Sadie Gustafson-Zook",
+      "artists": [
+        "Tiny Desk Contest On The Road 2026 ft. Cure for Paranoia",
+        "Riley",
+        "The Urban Revival",
+        "Sadie Gustafson-Zook"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-tiny-desk-contest/"
+    },
+    {
+      "date": "2026-06-30",
+      "venue": "First Avenue",
+      "title": "BABYFACE RAY and 42 DUGG",
+      "tour": "4 THE TRENCHES TOUR",
+      "support_raw": "",
+      "artists": [
+        "BABYFACE RAY and 42 DUGG"
+      ],
+      "link": "https://first-avenue.com/event/2026-06-babyface-ray-and-42-dugg/"
+    },
+    {
+      "date": "2026-07-01",
+      "venue": "Fine Line",
+      "title": "TopOppGen",
+      "tour": "",
+      "support_raw": "with Aziedoesntexist",
+      "artists": [
+        "TopOppGen",
+        "Aziedoesntexist"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-topoppgen/"
+    },
+    {
+      "date": "2026-07-02",
+      "venue": "7th St Entry",
+      "title": "Ken Pomeroy",
+      "tour": "",
+      "support_raw": "with Ramsey Thornton",
+      "artists": [
+        "Ken Pomeroy",
+        "Ramsey Thornton"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-ken-pomeroy/"
+    },
+    {
+      "date": "2026-07-02",
+      "venue": "First Avenue",
+      "title": "An Evening with Super Diamond ⏤ The Neil Diamond Tribute",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Super Diamond",
+        "The Neil Diamond Tribute"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-super-diamond-tribute/"
+    },
+    {
+      "date": "2026-07-03",
+      "venue": "Turf Club",
+      "title": "Cole Diamond",
+      "tour": "Birthday Show and EP Release ★ Local Show ★",
+      "support_raw": "with Cowboy Thoughts, Lone Rock Bride and Turn Turn Turn",
+      "artists": [
+        "Cole Diamond",
+        "Cowboy Thoughts",
+        "Lone Rock Bride",
+        "Turn Turn Turn"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-cole-diamond/"
+    },
+    {
+      "date": "2026-07-03",
+      "venue": "7th St Entry",
+      "title": "Terrapin Stallion",
+      "tour": "Primal Grateful Dead, Ween, & More! ★ Local Show ★",
+      "support_raw": "",
+      "artists": [
+        "Terrapin Stallion"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-terrapin-stallion/"
+    },
+    {
+      "date": "2026-07-07",
+      "venue": "7th St Entry",
+      "title": "Novulent",
+      "tour": "",
+      "support_raw": "with Babyteeth",
+      "artists": [
+        "Novulent",
+        "Babyteeth"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-novulent/"
+    },
+    {
+      "date": "2026-07-08",
+      "venue": "The Fitzgerald Theater",
+      "title": "The Church",
+      "tour": "The Singles: 1980-2025",
+      "support_raw": "",
+      "artists": [
+        "The Church"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-the-church/"
+    },
+    {
+      "date": "2026-07-08",
+      "venue": "Palace Theatre",
+      "title": "Father John Misty",
+      "tour": "",
+      "support_raw": "with King Tuff",
+      "artists": [
+        "Father John Misty",
+        "King Tuff"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-father-john-misty/"
+    },
+    {
+      "date": "2026-07-08",
+      "venue": "7th St Entry",
+      "title": "Anvil",
+      "tour": "",
+      "support_raw": "with Midnite Hellion",
+      "artists": [
+        "Anvil",
+        "Midnite Hellion"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-anvil/"
+    },
+    {
+      "date": "2026-07-09",
+      "venue": "7th St Entry",
+      "title": "Daphne Jane",
+      "tour": "★ Local Show ★",
+      "support_raw": "with Harlow, Lana Leone and Jojo Ventus Ninja",
+      "artists": [
+        "Daphne Jane",
+        "Harlow",
+        "Lana Leone",
+        "Jojo Ventus Ninja"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-daphne-jane/"
+    },
+    {
+      "date": "2026-07-09",
+      "venue": "The Fitzgerald Theater",
+      "title": "Craig Finn and Patterson Hood",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Craig Finn and Patterson Hood"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-craig-finn-and-patterson-hood/"
+    },
+    {
+      "date": "2026-07-09",
+      "venue": "First Avenue",
+      "title": "Benjamin Tod & Lost Dog Street Band",
+      "tour": "2026 Tour",
+      "support_raw": "with Leon Majcen",
+      "artists": [
+        "Benjamin Tod & Lost Dog Street Band",
+        "Leon Majcen"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-benjamin-tod/"
+    },
+    {
+      "date": "2026-07-10",
+      "venue": "7th St Entry",
+      "title": "PRIVATE EVENT",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "PRIVATE EVENT"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-private-event-071026/"
+    },
+    {
+      "date": "2026-07-10",
+      "venue": "Armory",
+      "title": "Death Cab for Cutie",
+      "tour": "I Built You A Tower World Tour",
+      "support_raw": "with Jay Som",
+      "artists": [
+        "Death Cab for Cutie",
+        "Jay Som"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-death-cab-for-cutie/"
+    },
+    {
+      "date": "2026-07-10",
+      "venue": "Turf Club",
+      "title": "SKÁLD",
+      "tour": "",
+      "support_raw": "with Áit Ait",
+      "artists": [
+        "SKÁLD",
+        "Áit Ait"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-skald/"
+    },
+    {
+      "date": "2026-07-10",
+      "venue": "7th St Entry",
+      "title": "DETROIT",
+      "tour": "'Hugo’s Ball' in Entirety in the Entry ★ Local Show ★",
+      "support_raw": "",
+      "artists": [
+        "DETROIT"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-detroit/"
+    },
+    {
+      "date": "2026-07-10",
+      "venue": "Fine Line",
+      "title": "girl so in love ⏤ an Olivia Rodrigo night",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "girl so in love",
+        "an Olivia Rodrigo night"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-girl-so-in-love-an-olivia-rodrigo-night/"
+    },
+    {
+      "date": "2026-07-10",
+      "venue": "First Avenue",
+      "title": "Trader Joe’s vs. Aldi Rave",
+      "tour": "",
+      "support_raw": "with DJ Hampster Dance",
+      "artists": [
+        "Trader Joe’s vs. Aldi Rave",
+        "DJ Hampster Dance"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-trader-joes-vs-aldi-rave/"
+    },
+    {
+      "date": "2026-07-11",
+      "venue": "First Avenue",
+      "title": "The Bouncing Souls",
+      "tour": "'Born To Be' Tour",
+      "support_raw": "with The Suicide Machines, Death By Stereo and The Drowns",
+      "artists": [
+        "The Bouncing Souls",
+        "The Suicide Machines",
+        "Death By Stereo",
+        "The Drowns"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-the-bouncing-souls/"
+    },
+    {
+      "date": "2026-07-11",
+      "venue": "Turf Club",
+      "title": "Dylan & The Dead Tribute ft. China Rider and Mind Out of Time",
+      "tour": "40th Anniversary of the Minneapolis Metrodome Show ★ Local Show ★",
+      "support_raw": "with Daisy Forester & Duncan MJ of OISTER BOY (Tom Petty Tribute)",
+      "artists": [
+        "Dylan & The Dead Tribute ft. China Rider and Mind Out of Time",
+        "Daisy Forester",
+        "Duncan MJ of OISTER BOY (Tom Petty Tribute)"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-dylan-the-dead-tribute/"
+    },
+    {
+      "date": "2026-07-11",
+      "venue": "7th St Entry",
+      "title": "Pullstring",
+      "tour": "'Growing Pains’ EP Release ★ Local Show ★",
+      "support_raw": "with The Dalmatian Club, Call Me Fritz and Syncline",
+      "artists": [
+        "Pullstring",
+        "The Dalmatian Club",
+        "Call Me Fritz",
+        "Syncline"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-pullstring/"
+    },
+    {
+      "date": "2026-07-11",
+      "venue": "Fine Line",
+      "title": "Cowboy Mouth",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Cowboy Mouth"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-cowboy-mouth/"
+    },
+    {
+      "date": "2026-07-12",
+      "venue": "First Avenue",
+      "title": "Paul Oakenfold and The Crystal Method",
+      "tour": "",
+      "support_raw": "with Liquid Todd",
+      "artists": [
+        "Paul Oakenfold and The Crystal Method",
+        "Liquid Todd"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-paul-oakenfold-and-the-crystal-method/"
+    },
+    {
+      "date": "2026-07-12",
+      "venue": "7th St Entry",
+      "title": "Lucius Arthur",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Lucius Arthur"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-lucius-arthur/"
+    },
+    {
+      "date": "2026-07-13",
+      "venue": "7th St Entry",
+      "title": "Wells Ferrari",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Wells Ferrari"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-wells-ferrari/"
+    },
+    {
+      "date": "2026-07-14",
+      "venue": "First Avenue",
+      "title": "Juvenile",
+      "tour": "'Boiling Point' Album Release Tour",
+      "support_raw": "with The 400 Degreez Band & Friends",
+      "artists": [
+        "Juvenile",
+        "The 400 Degreez Band",
+        "Friends"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-juvenile/"
+    },
+    {
+      "date": "2026-07-15",
+      "venue": "Fine Line",
+      "title": "Nick Lowe and Los Straitjackets",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Nick Lowe and Los Straitjackets"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-nick-lowe-los-straitjackets/"
+    },
+    {
+      "date": "2026-07-15",
+      "venue": "7th St Entry",
+      "title": "The Body",
+      "tour": "",
+      "support_raw": "with BIG|BRAVE and Scaphe",
+      "artists": [
+        "The Body",
+        "BIG|BRAVE",
+        "Scaphe"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-the-body/"
+    },
+    {
+      "date": "2026-07-15",
+      "venue": "Turf Club",
+      "title": "Pearl & the Oysters",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Pearl & the Oysters"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-pearl-and-the-oysters/"
+    },
+    {
+      "date": "2026-07-16",
+      "venue": "7th St Entry",
+      "title": "Wax and DJ Hoppa",
+      "tour": "",
+      "support_raw": "with K.A.A.N.",
+      "artists": [
+        "Wax and DJ Hoppa",
+        "K.A.A.N."
+      ],
+      "link": "https://first-avenue.com/event/2026-07-wax-and-dj-hoppa/"
+    },
+    {
+      "date": "2026-07-16",
+      "venue": "Fine Line",
+      "title": "Wavves",
+      "tour": "",
+      "support_raw": "with Bass Drum of Death and Worlds Worst",
+      "artists": [
+        "Wavves",
+        "Bass Drum of Death",
+        "Worlds Worst"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-wavves/"
+    },
+    {
+      "date": "2026-07-17",
+      "venue": "Turf Club",
+      "title": "Man Man",
+      "tour": "",
+      "support_raw": "with Death Valley Girls",
+      "artists": [
+        "Man Man",
+        "Death Valley Girls"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-man-man/"
+    },
+    {
+      "date": "2026-07-17",
+      "venue": "7th St Entry",
+      "title": "ford. ( Live )",
+      "tour": "Music Lights Color Tour",
+      "support_raw": "with Gilligan Moss",
+      "artists": [
+        "ford. ( Live )",
+        "Gilligan Moss"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-ford-live/"
+    },
+    {
+      "date": "2026-07-17",
+      "venue": "Fine Line",
+      "title": "RaveQuest",
+      "tour": "featuring BEJALVIN (DJ set) • Daisy Hex • mother3k (Anita Velveeta) • starthirl ★ Local Show ★",
+      "support_raw": "",
+      "artists": [
+        "RaveQuest"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-ravequest/"
+    },
+    {
+      "date": "2026-07-17",
+      "venue": "First Avenue",
+      "title": "Miss Jackson If You’re Nasty ⏤ Janet Jackson Dance Night",
+      "tour": "Celebration of the 40th Anniversary of 'Control' ★ Local Show ★",
+      "support_raw": "with McShellen, Ms. Lakesha and Mike 2600",
+      "artists": [
+        "Miss Jackson If You’re Nasty",
+        "Janet Jackson Dance Night",
+        "McShellen",
+        "Ms. Lakesha",
+        "Mike 2600"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-miss-jackson-if-youre-nasty-janet-jackson-dance-night/"
+    },
+    {
+      "date": "2026-07-18",
+      "venue": "Turf Club",
+      "title": "Drivin N Cryin",
+      "tour": "",
+      "support_raw": "with Laid Back Country Picker",
+      "artists": [
+        "Drivin N Cryin",
+        "Laid Back Country Picker"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-drivin-n-cryin/"
+    },
+    {
+      "date": "2026-07-18",
+      "venue": "7th St Entry",
+      "title": "Cas Haley",
+      "tour": "",
+      "support_raw": "with Reed Grimm and Jon Wayne",
+      "artists": [
+        "Cas Haley",
+        "Reed Grimm",
+        "Jon Wayne"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-cas-haley/"
+    },
+    {
+      "date": "2026-07-18",
+      "venue": "First Avenue",
+      "title": "Club XCX",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Club XCX"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-club-xcx/"
+    },
+    {
+      "date": "2026-07-18",
+      "venue": "Fine Line",
+      "title": "SOS: The Recession Pop Party",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "SOS: The Recession Pop Party"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-sos-the-recession-pop-party/"
+    },
+    {
+      "date": "2026-07-19",
+      "venue": "The Fitzgerald Theater",
+      "title": "Killer Queen – A Tribute to Queen",
+      "tour": "featuring Patrick Myers as Freddie Mercury",
+      "support_raw": "",
+      "artists": [
+        "Killer Queen – A Tribute to Queen"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-killer-queen/"
+    },
+    {
+      "date": "2026-07-19",
+      "venue": "7th St Entry",
+      "title": "Mike Love ( solo )",
+      "tour": "",
+      "support_raw": "with SensaMotion",
+      "artists": [
+        "Mike Love ( solo )",
+        "SensaMotion"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-mike-love-solo/"
+    },
+    {
+      "date": "2026-07-19",
+      "venue": "Turf Club",
+      "title": "Billy Allen + The Pollies",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Billy Allen + The Pollies"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-billy-allen-the-pollies/"
+    },
+    {
+      "date": "2026-07-20",
+      "venue": "7th St Entry",
+      "title": "Kevian Kraemer",
+      "tour": "",
+      "support_raw": "with Jackson Marshall",
+      "artists": [
+        "Kevian Kraemer",
+        "Jackson Marshall"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-kevian-kraemer/"
+    },
+    {
+      "date": "2026-07-21",
+      "venue": "Palace Theatre",
+      "title": "Pavement",
+      "tour": "",
+      "support_raw": "with Nap Eyes",
+      "artists": [
+        "Pavement",
+        "Nap Eyes"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-pavement/"
+    },
+    {
+      "date": "2026-07-21",
+      "venue": "7th St Entry",
+      "title": "Alex Lahey ( Solo )",
+      "tour": "",
+      "support_raw": "with Gay Meat",
+      "artists": [
+        "Alex Lahey ( Solo )",
+        "Gay Meat"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-alex-lahey/"
+    },
+    {
+      "date": "2026-07-22",
+      "venue": "First Avenue",
+      "title": "Lucero",
+      "tour": "",
+      "support_raw": "with Justin Wells",
+      "artists": [
+        "Lucero",
+        "Justin Wells"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-lucero/"
+    },
+    {
+      "date": "2026-07-22",
+      "venue": "Turf Club",
+      "title": "mc chris",
+      "tour": "",
+      "support_raw": "with Swell Rell",
+      "artists": [
+        "mc chris",
+        "Swell Rell"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-mc-chris/"
+    },
+    {
+      "date": "2026-07-22",
+      "venue": "7th St Entry",
+      "title": "The Family Crest",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "The Family Crest"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-the-family-crest/"
+    },
+    {
+      "date": "2026-07-23",
+      "venue": "The Cedar Cultural Center",
+      "title": "Wild Child",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Wild Child"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-wild-child/"
+    },
+    {
+      "date": "2026-07-23",
+      "venue": "7th St Entry",
+      "title": "Harvey Street",
+      "tour": "",
+      "support_raw": "with Bright Young Things and Syncline",
+      "artists": [
+        "Harvey Street",
+        "Bright Young Things",
+        "Syncline"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-harvey-street/"
+    },
+    {
+      "date": "2026-07-23",
+      "venue": "Turf Club",
+      "title": "Rattle and Hum (A U2 Tribute Band) and Kars 4 Skids (The Cars Tribute)",
+      "tour": "★ Local Show ★",
+      "support_raw": "",
+      "artists": [
+        "Rattle and Hum (A U2 Tribute Band) and Kars 4 Skids (The Cars Tribute)"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-rattle-and-hum-and-kars-4-skids-tributes/"
+    },
+    {
+      "date": "2026-07-24",
+      "venue": "7th St Entry",
+      "title": "Kill Bill the Rapper",
+      "tour": "I FOUND THE END",
+      "support_raw": "with Ashtin Larold",
+      "artists": [
+        "Kill Bill the Rapper",
+        "Ashtin Larold"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-kill-bill-the-rapper/"
+    },
+    {
+      "date": "2026-07-24",
+      "venue": "Turf Club",
+      "title": "Birthday Suits",
+      "tour": "Peelander-Z Benefit ★ Local Show ★",
+      "support_raw": "with Panel and ME ME ME",
+      "artists": [
+        "Birthday Suits",
+        "Panel",
+        "ME ME ME"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-birthday-suits/"
+    },
+    {
+      "date": "2026-07-24",
+      "venue": "Fine Line",
+      "title": "One Direction Night",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "One Direction Night"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-one-direction-night/"
+    },
+    {
+      "date": "2026-07-24",
+      "venue": "First Avenue",
+      "title": "United We Dance",
+      "tour": "Festival Energy. All Night.",
+      "support_raw": "",
+      "artists": [
+        "United We Dance"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-united-we-dance/"
+    },
+    {
+      "date": "2026-07-25",
+      "venue": "7th St Entry",
+      "title": "Blu & Exile",
+      "tour": "Time Heals Everything Tour 2026",
+      "support_raw": "with Sirplus",
+      "artists": [
+        "Blu & Exile",
+        "Sirplus"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-blu-and-exile/"
+    },
+    {
+      "date": "2026-07-25",
+      "venue": "Fine Line",
+      "title": "GoldFish",
+      "tour": "",
+      "support_raw": "with Alboa",
+      "artists": [
+        "GoldFish",
+        "Alboa"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-goldfish/"
+    },
+    {
+      "date": "2026-07-25",
+      "venue": "Turf Club",
+      "title": "House of Heavy: Nu Metal + Metalcore Night",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "House of Heavy: Nu Metal + Metalcore Night"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-house-of-heavy/"
+    },
+    {
+      "date": "2026-07-25",
+      "venue": "First Avenue",
+      "title": "Off Campus Night",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Off Campus Night"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-off-campus-night/"
+    },
+    {
+      "date": "2026-07-27",
+      "venue": "7th St Entry",
+      "title": "LSD and the Search for God",
+      "tour": "",
+      "support_raw": "with Total Wife",
+      "artists": [
+        "LSD and the Search for God",
+        "Total Wife"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-lsd-and-the-search-for-god/"
+    },
+    {
+      "date": "2026-07-27",
+      "venue": "First Avenue",
+      "title": "Audrey Hobert",
+      "tour": "The Staircase To Stardom Tour",
+      "support_raw": "",
+      "artists": [
+        "Audrey Hobert"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-audrey-hobert/"
+    },
+    {
+      "date": "2026-07-28",
+      "venue": "7th St Entry",
+      "title": "Good Boy Daisy",
+      "tour": "The Summer Love Tour",
+      "support_raw": "with Summerdrive and Pity Party",
+      "artists": [
+        "Good Boy Daisy",
+        "Summerdrive",
+        "Pity Party"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-good-boy-daisy/"
+    },
+    {
+      "date": "2026-07-28",
+      "venue": "Fine Line",
+      "title": "Jukebox the Ghost",
+      "tour": "Variety Show Spectacular!",
+      "support_raw": "",
+      "artists": [
+        "Jukebox the Ghost"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-jukebox-the-ghost/"
+    },
+    {
+      "date": "2026-07-29",
+      "venue": "Turf Club",
+      "title": "Space Monkey Mafia and Left on Tenth",
+      "tour": "★ Local Show ★",
+      "support_raw": "with Sunshine & The Night Walkers",
+      "artists": [
+        "Space Monkey Mafia and Left on Tenth",
+        "Sunshine",
+        "The Night Walkers"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-space-monkey-mafia-and-left-on-tenth/"
+    },
+    {
+      "date": "2026-07-29",
+      "venue": "7th St Entry",
+      "title": "Fever Field",
+      "tour": "★ Local Show ★",
+      "support_raw": "with 1947 and Poolboy",
+      "artists": [
+        "Fever Field",
+        "1947",
+        "Poolboy"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-fever-field/"
+    },
+    {
+      "date": "2026-07-30",
+      "venue": "7th St Entry",
+      "title": "Hayden Blount",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Hayden Blount"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-hayden-blount/"
+    },
+    {
+      "date": "2026-07-30",
+      "venue": "Turf Club",
+      "title": "DATE MY FRIEND",
+      "tour": "Showcase your amazing single friend in a three minute speech!",
+      "support_raw": "with Jake Luppen",
+      "artists": [
+        "DATE MY FRIEND",
+        "Jake Luppen"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-date-my-friend/"
+    },
+    {
+      "date": "2026-07-31",
+      "venue": "Turf Club",
+      "title": "A Thousand Horses",
+      "tour": "White Flag Down Tour",
+      "support_raw": "with Matt Koziol",
+      "artists": [
+        "A Thousand Horses",
+        "Matt Koziol"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-a-thousand-horses/"
+    },
+    {
+      "date": "2026-07-31",
+      "venue": "7th St Entry",
+      "title": "Vacation Manor",
+      "tour": "Farewell Tour",
+      "support_raw": "with Nolen Durham",
+      "artists": [
+        "Vacation Manor",
+        "Nolen Durham"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-vacation-manor/"
+    },
+    {
+      "date": "2026-07-31",
+      "venue": "Fine Line",
+      "title": "Tyler Braden",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Tyler Braden"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-tyler-braden/"
+    },
+    {
+      "date": "2026-07-31",
+      "venue": "First Avenue",
+      "title": "Hot in Herre ⏤ 2000s Dance Party",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Hot in Herre",
+        "2000s Dance Party"
+      ],
+      "link": "https://first-avenue.com/event/2026-07-hot-in-herre/"
+    },
+    {
+      "date": "2026-08-01",
+      "venue": "First Avenue",
+      "title": "GCW presents RUDE AWAKENING",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "GCW presents RUDE AWAKENING"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-gcw-rude-awakening/"
+    },
+    {
+      "date": "2026-08-01",
+      "venue": "Fine Line",
+      "title": "Faouzia",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Faouzia"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-faouzia/"
+    },
+    {
+      "date": "2026-08-01",
+      "venue": "Turf Club",
+      "title": "Bronwyn Keith-Hynes",
+      "tour": "",
+      "support_raw": "with The Foxgloves",
+      "artists": [
+        "Bronwyn Keith-Hynes",
+        "The Foxgloves"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-bronwyn-keith-hynes/"
+    },
+    {
+      "date": "2026-08-01",
+      "venue": "7th St Entry",
+      "title": "League Two",
+      "tour": "★ Local Show ★",
+      "support_raw": "with Waking Hours and Eli Orion",
+      "artists": [
+        "League Two",
+        "Waking Hours",
+        "Eli Orion"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-league-two/"
+    },
+    {
+      "date": "2026-08-01",
+      "venue": "First Avenue",
+      "title": "F1rst Wrestling presents WREMIX",
+      "tour": "★ Local Show ★",
+      "support_raw": "",
+      "artists": [
+        "F1rst Wrestling presents WREMIX"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-f1rst-wrestling-wremix/"
+    },
+    {
+      "date": "2026-08-02",
+      "venue": "First Avenue",
+      "title": "GCW vs. F1rst Wrestling",
+      "tour": "★ Local Show ★",
+      "support_raw": "",
+      "artists": [
+        "GCW vs. F1rst Wrestling"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-gcw-vs-f1rst-wrestling/"
+    },
+    {
+      "date": "2026-08-02",
+      "venue": "7th St Entry",
+      "title": "Brotherkenzie",
+      "tour": "★ Local Show ★",
+      "support_raw": "",
+      "artists": [
+        "Brotherkenzie"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-brotherkenzie/"
+    },
+    {
+      "date": "2026-08-03",
+      "venue": "Palace Theatre",
+      "title": "Suki Waterhouse",
+      "tour": "The Loveland Tour",
+      "support_raw": "with Charlotte Lawrence",
+      "artists": [
+        "Suki Waterhouse",
+        "Charlotte Lawrence"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-suki-waterhouse/"
+    },
+    {
+      "date": "2026-08-03",
+      "venue": "7th St Entry",
+      "title": "Cruz Beckham and The Breakers",
+      "tour": "For Your Love Tour",
+      "support_raw": "",
+      "artists": [
+        "Cruz Beckham and The Breakers"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-cruz-beckham-and-the-breakers/"
+    },
+    {
+      "date": "2026-08-05",
+      "venue": "First Avenue",
+      "title": "Tomahawk",
+      "tour": "",
+      "support_raw": "with Melvins",
+      "artists": [
+        "Tomahawk",
+        "Melvins"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-tomahawk/"
+    },
+    {
+      "date": "2026-08-06",
+      "venue": "Surly Brewing Festival Field",
+      "title": "Young the Giant",
+      "tour": "Victory Garden Tour",
+      "support_raw": "with Cold War Kids and KennyHoopla",
+      "artists": [
+        "Young the Giant",
+        "Cold War Kids",
+        "KennyHoopla"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-young-the-giant/"
+    },
+    {
+      "date": "2026-08-06",
+      "venue": "The Cedar Cultural Center",
+      "title": "Cinema Therapy LIVE!",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Cinema Therapy LIVE!"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-cinema-therapy-live/"
+    },
+    {
+      "date": "2026-08-06",
+      "venue": "7th St Entry",
+      "title": "Noeline Hofmann",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Noeline Hofmann"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-noeline-hofmann/"
+    },
+    {
+      "date": "2026-08-07",
+      "venue": "7th St Entry",
+      "title": "Sophie Hiroko",
+      "tour": "★ Local Show ★",
+      "support_raw": "with Ava Levy, Scrunchies and Lana Leone",
+      "artists": [
+        "Sophie Hiroko",
+        "Ava Levy",
+        "Scrunchies",
+        "Lana Leone"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-sophie-hiroko/"
+    },
+    {
+      "date": "2026-08-07",
+      "venue": "Turf Club",
+      "title": "Reese Glover",
+      "tour": "★ Local Show ★",
+      "support_raw": "with Thomas Sticha and Tony Cuchetti",
+      "artists": [
+        "Reese Glover",
+        "Thomas Sticha",
+        "Tony Cuchetti"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-reese-glover/"
+    },
+    {
+      "date": "2026-08-08",
+      "venue": "Turf Club",
+      "title": "Dale Watson and His Lone Stars",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Dale Watson and His Lone Stars"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-dale-watson-and-his-lone-stars/"
+    },
+    {
+      "date": "2026-08-08",
+      "venue": "7th St Entry",
+      "title": "The Penny Peaches",
+      "tour": "★ Local Show ★",
+      "support_raw": "with Lone Rock Bride and Anna Devine",
+      "artists": [
+        "The Penny Peaches",
+        "Lone Rock Bride",
+        "Anna Devine"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-the-penny-peaches/"
+    },
+    {
+      "date": "2026-08-08",
+      "venue": "The Fitzgerald Theater",
+      "title": "Circle Jerks x Repo Man",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Circle Jerks x Repo Man"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-circle-jerks-x-repo-man/"
+    },
+    {
+      "date": "2026-08-08",
+      "venue": "Fine Line",
+      "title": "Broadway Rave",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Broadway Rave"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-broadway-rave/"
+    },
+    {
+      "date": "2026-08-09",
+      "venue": "7th St Entry",
+      "title": "DWLLRS",
+      "tour": "One of Those Nights Tour",
+      "support_raw": "with thebandfriday",
+      "artists": [
+        "DWLLRS",
+        "thebandfriday"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-dwllrs/"
+    },
+    {
+      "date": "2026-08-10",
+      "venue": "7th St Entry",
+      "title": "Blimey and Tommy Oeffling and The B-Team",
+      "tour": "★ Local Show ★",
+      "support_raw": "with True Lust",
+      "artists": [
+        "Blimey and Tommy Oeffling and The B-Team",
+        "True Lust"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-tommy-oeffling/"
+    },
+    {
+      "date": "2026-08-12",
+      "venue": "7th St Entry",
+      "title": "Riff Wood",
+      "tour": "",
+      "support_raw": "with Willowake",
+      "artists": [
+        "Riff Wood",
+        "Willowake"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-riff-wood/"
+    },
+    {
+      "date": "2026-08-12",
+      "venue": "Fine Line",
+      "title": "Willow Avalon",
+      "tour": "Pink Pocket Pistol Tour",
+      "support_raw": "with JD Clayton and Slater Nalley",
+      "artists": [
+        "Willow Avalon",
+        "JD Clayton",
+        "Slater Nalley"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-willow-avalon/"
+    },
+    {
+      "date": "2026-08-13",
+      "venue": "Palace Theatre",
+      "title": "Modest Mouse",
+      "tour": "",
+      "support_raw": "with Califone",
+      "artists": [
+        "Modest Mouse",
+        "Califone"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-modest-mouse/"
+    },
+    {
+      "date": "2026-08-13",
+      "venue": "7th St Entry",
+      "title": "Casket Cassette",
+      "tour": "",
+      "support_raw": "with Stranger Gallery and Stare Away",
+      "artists": [
+        "Casket Cassette",
+        "Stranger Gallery",
+        "Stare Away"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-casket-cassette/"
+    },
+    {
+      "date": "2026-08-14",
+      "venue": "State Theatre",
+      "title": "Mat Kearney",
+      "tour": "Nothing Left to Lose, Everything to Gain Tour",
+      "support_raw": "with Jake Scott",
+      "artists": [
+        "Mat Kearney",
+        "Jake Scott"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-mat-kearney/"
+    },
+    {
+      "date": "2026-08-14",
+      "venue": "Turf Club",
+      "title": "Megasound",
+      "tour": "★ Local Show ★",
+      "support_raw": "",
+      "artists": [
+        "Megasound"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-megasound/"
+    },
+    {
+      "date": "2026-08-14",
+      "venue": "Fine Line",
+      "title": "Gimme Gimme Disco",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Gimme Gimme Disco"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-gimme-gimme-disco/"
+    },
+    {
+      "date": "2026-08-14",
+      "venue": "First Avenue",
+      "title": "Can't Feel My Face: 2010s Dance Party",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Can't Feel My Face: 2010s Dance Party"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-cant-feel-my-face/"
+    },
+    {
+      "date": "2026-08-15",
+      "venue": "Surly Brewing Festival Field",
+      "title": "Big Thief",
+      "tour": "Somersault Slide 360 Tour",
+      "support_raw": "",
+      "artists": [
+        "Big Thief"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-big-thief/"
+    },
+    {
+      "date": "2026-08-15",
+      "venue": "The Fitzgerald Theater",
+      "title": "Mr. Keillor's Birthday Show",
+      "tour": "featuring Garrison Keillor • Lynn Peterson • Maria Jette • Richard Dworsky • Pat Donohue • Richard Kreihn • and a few others ★ Local Show ★",
+      "support_raw": "",
+      "artists": [
+        "Mr. Keillor's Birthday Show"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-mr-keillors-birthday-show/"
+    },
+    {
+      "date": "2026-08-15",
+      "venue": "First Avenue",
+      "title": "The Crane Wives",
+      "tour": "ACT III",
+      "support_raw": "with Brye",
+      "artists": [
+        "The Crane Wives",
+        "Brye"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-the-crane-wives/"
+    },
+    {
+      "date": "2026-08-15",
+      "venue": "Turf Club",
+      "title": "Buffalo Nichols",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Buffalo Nichols"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-buffalo-nichols/"
+    },
+    {
+      "date": "2026-08-15",
+      "venue": "Fine Line",
+      "title": "NDVST presents DEBÍ TIRAR MÁS FIESTAS",
+      "tour": "The Bad Bunny Party",
+      "support_raw": "",
+      "artists": [
+        "NDVST presents DEBÍ TIRAR MÁS FIESTAS"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-bad-bunny-party/"
+    },
+    {
+      "date": "2026-08-16",
+      "venue": "Fine Line",
+      "title": "Loe Shimmy",
+      "tour": "Pretty Girls Run the World Tour",
+      "support_raw": "",
+      "artists": [
+        "Loe Shimmy"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-loe-shimmy/"
+    },
+    {
+      "date": "2026-08-16",
+      "venue": "First Avenue",
+      "title": "American Football",
+      "tour": "",
+      "support_raw": "with Afternoon Bike Ride",
+      "artists": [
+        "American Football",
+        "Afternoon Bike Ride"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-american-football/"
+    },
+    {
+      "date": "2026-08-16",
+      "venue": "7th St Entry",
+      "title": "American Vanity",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "American Vanity"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-american-vanity/"
+    },
+    {
+      "date": "2026-08-18",
+      "venue": "Armory",
+      "title": "LCD Soundsystem",
+      "tour": "",
+      "support_raw": "with Victoryland",
+      "artists": [
+        "LCD Soundsystem",
+        "Victoryland"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-lcd-soundsystem/"
+    },
+    {
+      "date": "2026-08-19",
+      "venue": "Fine Line",
+      "title": "Kill Lincoln, JER , Bad Operation, and The Best of the Worst",
+      "tour": "Bad Time Records Tour 2026",
+      "support_raw": "",
+      "artists": [
+        "Kill Lincoln",
+        "JER",
+        "Bad Operation",
+        "and The Best of the Worst"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-kill-lincoln-jer-bad-operation/"
+    },
+    {
+      "date": "2026-08-19",
+      "venue": "Turf Club",
+      "title": "Meltt",
+      "tour": "",
+      "support_raw": "with Los Eclipses",
+      "artists": [
+        "Meltt",
+        "Los Eclipses"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-meltt/"
+    },
+    {
+      "date": "2026-08-20",
+      "venue": "Fine Line",
+      "title": "WILLIS",
+      "tour": "",
+      "support_raw": "with The Braymores and The Flooks",
+      "artists": [
+        "WILLIS",
+        "The Braymores",
+        "The Flooks"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-willis/"
+    },
+    {
+      "date": "2026-08-20",
+      "venue": "7th St Entry",
+      "title": "Squeaky Feet",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Squeaky Feet"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-squeaky-feet/"
+    },
+    {
+      "date": "2026-08-20",
+      "venue": "Turf Club",
+      "title": "Raynes",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Raynes"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-raynes/"
+    },
+    {
+      "date": "2026-08-21",
+      "venue": "Amsterdam Bar & Hall",
+      "title": "Jay Webb",
+      "tour": "The HOMESICK Tour",
+      "support_raw": "with Caitlynne Curtis",
+      "artists": [
+        "Jay Webb",
+        "Caitlynne Curtis"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-jay-webb/"
+    },
+    {
+      "date": "2026-08-21",
+      "venue": "7th St Entry",
+      "title": "anni xo",
+      "tour": "★ Local Show ★",
+      "support_raw": "with Huhroon, bathtub cig and lily blue",
+      "artists": [
+        "anni xo",
+        "Huhroon",
+        "bathtub cig",
+        "lily blue"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-anni-xo/"
+    },
+    {
+      "date": "2026-08-21",
+      "venue": "Turf Club",
+      "title": "Bonus Joy ⏤ A New Comedy Variety Show",
+      "tour": "hosted by Ben Katzner • Pearl Rose • comedy from Maggie Faris • Comrade Tripp • music from Ashton & Maddock • magic from Parker William ★ Local Show ★",
+      "support_raw": "",
+      "artists": [
+        "Bonus Joy",
+        "A New Comedy Variety Show"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-bonus-joy-comedy-variety/"
+    },
+    {
+      "date": "2026-08-22",
+      "venue": "7th St Entry",
+      "title": "FINICK",
+      "tour": "★ Local Show ★",
+      "support_raw": "with Sallyforth, Lone Rock Bride and Woodzen",
+      "artists": [
+        "FINICK",
+        "Sallyforth",
+        "Lone Rock Bride",
+        "Woodzen"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-finick/"
+    },
+    {
+      "date": "2026-08-22",
+      "venue": "Turf Club",
+      "title": "David Huckfelt & The Unarmed Forces",
+      "tour": "★ Local Show ★",
+      "support_raw": "with Misty Boyce",
+      "artists": [
+        "David Huckfelt & The Unarmed Forces",
+        "Misty Boyce"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-david-huckfelt-the-unarmed-forces/"
+    },
+    {
+      "date": "2026-08-22",
+      "venue": "First Avenue",
+      "title": "Eagles Of Death Metal",
+      "tour": "'Death By Sexy' 20th Anniversary Tour",
+      "support_raw": "with Mountain Head",
+      "artists": [
+        "Eagles Of Death Metal",
+        "Mountain Head"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-eagles-of-death-metal/"
+    },
+    {
+      "date": "2026-08-23",
+      "venue": "7th St Entry",
+      "title": "Value Select",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Value Select"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-value-select/"
+    },
+    {
+      "date": "2026-08-23",
+      "venue": "First Avenue",
+      "title": "Umphrey's McGee",
+      "tour": "SUMMER 2026",
+      "support_raw": "",
+      "artists": [
+        "Umphrey's McGee"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-umphreys-mcgee/"
+    },
+    {
+      "date": "2026-08-25",
+      "venue": "Fine Line",
+      "title": "Mo Lowda & The Humble",
+      "tour": "",
+      "support_raw": "with Beemer",
+      "artists": [
+        "Mo Lowda & The Humble",
+        "Beemer"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-mo-lowda-the-humble/"
+    },
+    {
+      "date": "2026-08-25",
+      "venue": "Turf Club",
+      "title": "Nitzer Ebb",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Nitzer Ebb"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-nitzer-ebb/"
+    },
+    {
+      "date": "2026-08-27",
+      "venue": "Turf Club",
+      "title": "Trish Toledo",
+      "tour": "",
+      "support_raw": "with Rudy De Anda",
+      "artists": [
+        "Trish Toledo",
+        "Rudy De Anda"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-trish-toledo/"
+    },
+    {
+      "date": "2026-08-27",
+      "venue": "7th St Entry",
+      "title": "Slow Magic",
+      "tour": "",
+      "support_raw": "with Shrimpnose",
+      "artists": [
+        "Slow Magic",
+        "Shrimpnose"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-slow-magic/"
+    },
+    {
+      "date": "2026-08-28",
+      "venue": "Surly Brewing Festival Field",
+      "title": "Alabama Shakes",
+      "tour": "",
+      "support_raw": "with Hannah Cohen",
+      "artists": [
+        "Alabama Shakes",
+        "Hannah Cohen"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-alabama-shakes-fri/"
+    },
+    {
+      "date": "2026-08-29",
+      "venue": "Surly Brewing Festival Field",
+      "title": "Alabama Shakes",
+      "tour": "",
+      "support_raw": "with Hannah Cohen",
+      "artists": [
+        "Alabama Shakes",
+        "Hannah Cohen"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-alabama-shakes-sat/"
+    },
+    {
+      "date": "2026-08-29",
+      "venue": "7th St Entry",
+      "title": "Ben Chapman",
+      "tour": "Feet On Fire Tour",
+      "support_raw": "",
+      "artists": [
+        "Ben Chapman"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-ben-chapman/"
+    },
+    {
+      "date": "2026-08-29",
+      "venue": "Fine Line",
+      "title": "Pond",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "Pond"
+      ],
+      "link": "https://first-avenue.com/event/2026-08-pond/"
+    },
+    {
+      "date": "2026-08-31",
+      "venue": "Turf Club",
+      "title": "MikelParis of O.A.R.",
+      "tour": "",
+      "support_raw": "",
+      "artists": [
+        "MikelParis of O.A.R."
+      ],
+      "link": "https://first-avenue.com/event/2026-08-mikelparis-of-o-a-r/"
+    }
+  ]
+}
