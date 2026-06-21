@@ -795,7 +795,7 @@ body {
         transform: translateX(0);
     }
 
-    /* Mobile text contrast enhancements */
+    /* Mobile text contrast and layout enhancements */
     .sidebar h1, 
     .sidebar h2, 
     .sidebar label, 
@@ -803,17 +803,44 @@ body {
     .sidebar .stat-value {
         color: #ffffff !important;
     }
+    .sidebar .brand h1,
+    .sidebar .brand .logo-icon {
+        -webkit-text-fill-color: #ffffff !important;
+        color: #ffffff !important;
+    }
     .sidebar .stat-label, 
     .sidebar .stat-range {
-        color: #cccccc !important;
+        color: #d1d5db !important; /* Lighter grey for readable stats metadata */
+    }
+    .sidebar .stat-card {
+        background: rgba(255, 255, 255, 0.04) !important;
+        border-color: rgba(255, 255, 255, 0.15) !important;
     }
     .sidebar .search-box input,
     .sidebar .date-inputs input {
         color: #ffffff !important;
-        background: rgba(255, 255, 255, 0.08) !important;
+        background: rgba(255, 255, 255, 0.1) !important;
+        border-color: rgba(255, 255, 255, 0.2) !important;
+    }
+    .sidebar .search-box input::placeholder {
+        color: #9ca3af !important; /* Highly readable placeholder text */
+    }
+    .sidebar .search-icon {
+        color: #ffffff !important;
     }
     .sidebar input[type="date"]::-webkit-calendar-picker-indicator {
         filter: invert(1) !important;
+    }
+    .sidebar .text-btn {
+        color: #818cf8 !important; /* Lighter indigo for readable text buttons */
+    }
+    .sidebar .source-item {
+        border-color: rgba(255, 255, 255, 0.25) !important;
+        background: rgba(255, 255, 255, 0.05) !important;
+    }
+    .sidebar .source-item.active {
+        background: rgba(99, 102, 241, 0.25) !important;
+        border-color: rgba(99, 102, 241, 0.8) !important;
     }
 
     /* 2-Column layout for source filters list on mobile to reduce vertical scrolling */
