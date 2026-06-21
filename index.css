@@ -807,9 +807,13 @@ body {
     .sidebar .stat-range {
         color: #cccccc !important;
     }
-    .sidebar .search-box input {
+    .sidebar .search-box input,
+    .sidebar .date-inputs input {
         color: #ffffff !important;
         background: rgba(255, 255, 255, 0.08) !important;
+    }
+    .sidebar input[type="date"]::-webkit-calendar-picker-indicator {
+        filter: invert(1) !important;
     }
 
     /* 2-Column layout for source filters list on mobile to reduce vertical scrolling */
