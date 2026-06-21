@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "site": "coch_cooking_classes",
+    "scraping_time": "2026-06-20T23:32:38.682153",
+    "start_date_range": "2026-06-20",
+    "end_date_range": "2026-10-18",
+    "total_shows_extracted": 8
+  },
+  "shows": [
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Cooks of Crocus Hill - St. Paul",
+      "title": "Gluten-Free Bakery Mornings",
+      "tour": "Cooking Class",
+      "support_raw": "10 AM  $99",
+      "artists": [
+        "Gluten-Free Bakery Mornings"
+      ],
+      "link": "https://cooksofcrocushill.com/gluten-free-bakery-mornings-june-20-st-paul-10-am/"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Cooks of Crocus Hill - Minneapolis",
+      "title": "Sushi, Sushi",
+      "tour": "Cooking Class",
+      "support_raw": "6 PM  $125",
+      "artists": [
+        "Sushi, Sushi"
+      ],
+      "link": "https://cooksofcrocushill.com/sushi-sushi-june-20-minneapolis-6-pm/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Cooks of Crocus Hill - St. Paul",
+      "title": "Brunch & Bubbles",
+      "tour": "Cooking Class",
+      "support_raw": "10 AM  $115",
+      "artists": [
+        "Brunch & Bubbles"
+      ],
+      "link": "https://cooksofcrocushill.com/brunch-bubbles-june-21-st-paul-10-am/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Cooks of Crocus Hill - St. Paul",
+      "title": "Big Blade Fiesta! Father's Day Knife Skills",
+      "tour": "Cooking Class",
+      "support_raw": "4 PM  $175",
+      "artists": [
+        "Big Blade Fiesta! Father's Day Knife Skills"
+      ],
+      "link": "https://cooksofcrocushill.com/big-blade-fiesta-father-s-day-knife-skills-june-21-st-paul-4-pm/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Cooks of Crocus Hill - Minneapolis",
+      "title": "Pasta, Pasta",
+      "tour": "Cooking Class",
+      "support_raw": "4 PM  $99",
+      "artists": [
+        "Pasta, Pasta"
+      ],
+      "link": "https://cooksofcrocushill.com/pasta-pasta-june-21-minneapolis-4-pm/"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "Cooks of Crocus Hill - St. Paul",
+      "title": "My Big Fat Greek Wine Tasting",
+      "tour": "Cooking Class",
+      "support_raw": "6 PM  $75",
+      "artists": [
+        "My Big Fat Greek Wine Tasting"
+      ],
+      "link": "https://cooksofcrocushill.com/my-big-fat-greek-wine-tasting-june-24-st-paul-6-pm/"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "Cooks of Crocus Hill - Minneapolis",
+      "title": "Gluten-Free Pizza Party",
+      "tour": "Cooking Class",
+      "support_raw": "6 PM  $110",
+      "artists": [
+        "Gluten-Free Pizza Party"
+      ],
+      "link": "https://cooksofcrocushill.com/gluten-free-pizza-party-june-27-minneapolis-6-pm/"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Cooks of Crocus Hill - Minneapolis",
+      "title": "Game Night in the Kitchen: Latin",
+      "tour": "Cooking Class",
+      "support_raw": "4 PM  $110",
+      "artists": [
+        "Game Night in the Kitchen: Latin"
+      ],
+      "link": "https://cooksofcrocushill.com/game-night-in-the-kitchen-latin-june-28-minneapolis-4-pm/"
+    }
+  ]
+}

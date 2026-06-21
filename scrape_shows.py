@@ -20,7 +20,7 @@ def get_page_content(url, use_cloudscraper=False):
             print(f"Cloudscraper fetch failed: {e}. Falling back to standard fetch.")
             
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
         'Accept-Encoding': 'gzip, deflate'
     }
     req = urllib.request.Request(url, headers=headers)
@@ -34,6 +34,53 @@ def get_page_content(url, use_cloudscraper=False):
         print(f"Error fetching {url}: {e}")
         return None
 
+def get_month_windows(start_date, end_date):
+    windows = []
+    curr = start_date
+    while curr <= end_date:
+        if curr.month == 12:
+            next_month = datetime.date(curr.year + 1, 1, 1)
+        else:
+            next_month = datetime.date(curr.year, curr.month + 1, 1)
+        month_end = next_month - datetime.timedelta(days=1)
+        range_end = min(month_end, end_date)
+        windows.append((curr.strftime('%Y-%m-%d'), range_end.strftime('%Y-%m-%d')))
+        curr = next_month
+    return windows
+
+def get_month_strings(start_date, end_date):
+    months = []
+    curr = datetime.date(start_date.year, start_date.month, 1)
+    while curr <= end_date:
+        months.append(curr.strftime('%Y-%m'))
+        if curr.month == 12:
+            curr = datetime.date(curr.year + 1, 1, 1)
+        else:
+            curr = datetime.date(curr.year, curr.month + 1, 1)
+    return months
+
+def get_first_avenue_months(start_date, end_date):
+    months = []
+    curr = datetime.date(start_date.year, start_date.month, 1)
+    while curr <= end_date:
+        months.append((curr.year, curr.month, curr.strftime('%Y%m01')))
+        if curr.month == 12:
+            curr = datetime.date(curr.year + 1, 1, 1)
+        else:
+            curr = datetime.date(curr.year, curr.month + 1, 1)
+    return months
+
+def get_twins_months(start_date, end_date):
+    months = []
+    curr = datetime.date(start_date.year, start_date.month, 1)
+    while curr <= end_date:
+        months.append((curr.year, curr.month, curr.strftime('%Y-%m')))
+        if curr.month == 12:
+            curr = datetime.date(curr.year + 1, 1, 1)
+        else:
+            curr = datetime.date(curr.year, curr.month + 1, 1)
+    return months
+
 def scrape_site(site_name, start_date, end_date):
     print(f"\n--- Scraping {site_name} from {start_date} to {end_date} ---")
     
@@ -46,12 +93,7 @@ def scrape_site(site_name, start_date, end_date):
     all_shows = []
 
     if site_name == 'first_avenue':
-        # June, July, August 2026
-        months_to_query = [
-            (2026, 6, "20260601"),
-            (2026, 7, "20260701"),
-            (2026, 8, "20260801")
-        ]
+        months_to_query = get_first_avenue_months(start_date, end_date)
         for year, month, start_date_str in months_to_query:
             filepath = f"raw_html/shows_{start_date_str}.html"
             html = None
@@ -197,12 +239,7 @@ def scrape_site(site_name, start_date, end_date):
             all_shows.extend(shows)
 
     elif site_name == 'minnesota_twins':
-        # June, July, August 2026
-        months_to_query = [
-            (2026, 6, "2026-06"),
-            (2026, 7, "2026-07"),
-            (2026, 8, "2026-08")
-        ]
+        months_to_query = get_twins_months(start_date, end_date)
         for year, month, date_str in months_to_query:
             filepath = f"raw_html/twins_schedule_{date_str}.html"
             html = None
@@ -343,6 +380,334 @@ def scrape_site(site_name, start_date, end_date):
             print(f"Parsed {len(shows)} shows from ordway.org")
             all_shows.extend(shows)
 
+    elif site_name == 'visit_stpaul':
+        filepath = "raw_html/visit_stpaul.html"
+        html = None
+        if os.path.exists(filepath):
+            print(f"Using cached file: {filepath}")
+            with open(filepath, 'rb') as f:
+                html = f.read()
+        else:
+            url = "https://www.visitsaintpaul.com/events-calendar/"
+            html = get_page_content(url)
+            if html:
+                os.makedirs("raw_html", exist_ok=True)
+                with open(filepath, "wb") as f:
+                    f.write(html)
+                time.sleep(1)
+        if html:
+            shows = parser.parse(html)
+            print(f"Parsed {len(shows)} shows from visitsaintpaul.com")
+            all_shows.extend(shows)
+
+    elif site_name == 'dakota_jazz_club':
+        # Dakota uses a monthly calendar view
+        months_to_fetch = get_month_strings(start_date, end_date)
+        for month_str in months_to_fetch:
+            filepath = f"raw_html/dakota_jazz_club_{month_str}.html"
+            html = None
+            if os.path.exists(filepath):
+                print(f"Using cached file: {filepath}")
+                with open(filepath, 'rb') as f:
+                    html = f.read()
+            else:
+                url = f"https://www.dakotacooks.com/events/month/{month_str}/"
+                html = get_page_content(url)
+                if html:
+                    os.makedirs("raw_html", exist_ok=True)
+                    with open(filepath, "wb") as f:
+                        f.write(html)
+                    time.sleep(1)
+            if html:
+                shows = parser.parse(html)
+                print(f"Parsed {len(shows)} shows from dakotacooks.com ({month_str})")
+                all_shows.extend(shows)
+
+    elif site_name == 'berlin_jazz_club':
+        filepath = "raw_html/berlin_jazz_club.html"
+        html = None
+        if os.path.exists(filepath):
+            print(f"Using cached file: {filepath}")
+            with open(filepath, 'rb') as f:
+                html = f.read()
+        else:
+            url = "https://www.berlinmpls.com/calendar"
+            html = get_page_content(url)
+            if html:
+                os.makedirs("raw_html", exist_ok=True)
+                with open(filepath, "wb") as f:
+                    f.write(html)
+                time.sleep(1)
+        if html:
+            shows = parser.parse(html)
+            print(f"Parsed {len(shows)} shows from berlinmpls.com")
+            all_shows.extend(shows)
+
+    elif site_name == 'crooners':
+        # Crooners uses Tribe monthly calendar view
+        months_to_fetch = get_month_strings(start_date, end_date)
+        for month_str in months_to_fetch:
+            filepath = f"raw_html/crooners_month_{month_str}.html"
+            html = None
+            if os.path.exists(filepath):
+                print(f"Using cached file: {filepath}")
+                with open(filepath, 'rb') as f:
+                    html = f.read()
+            else:
+                url = f"https://www.croonersmn.com/events/month/{month_str}/"
+                html = get_page_content(url)
+                if html:
+                    os.makedirs("raw_html", exist_ok=True)
+                    with open(filepath, "wb") as f:
+                        f.write(html)
+                    time.sleep(1)
+            if html:
+                shows = parser.parse(html)
+                print(f"Parsed {len(shows)} shows from croonersmn.com ({month_str})")
+                all_shows.extend(shows)
+
+    elif site_name == 'visit_duluth':
+        # Visit Duluth uses Tribe REST API — HTML month pages require JS navigation
+        # Fetch paginated API responses for each month in the target window
+        api_base = 'https://visitduluth.com/wp-json/tribe/events/v1/events'
+        month_windows = get_month_windows(start_date, end_date)
+        for (w_start, w_end) in month_windows:
+            page = 1
+            while True:
+                cache_key = f"{w_start}_{w_end}_p{page}"
+                filepath = f"raw_html/visit_duluth_{cache_key}.json"
+                raw = None
+                if os.path.exists(filepath):
+                    print(f"Using cached file: {filepath}")
+                    with open(filepath, 'rb') as f:
+                        raw = f.read()
+                else:
+                    url = (f"{api_base}?start_date={w_start}&end_date={w_end}"
+                           f"&per_page=50&page={page}")
+                    raw = get_page_content(url)
+                    if raw:
+                        os.makedirs("raw_html", exist_ok=True)
+                        with open(filepath, 'wb') as f:
+                            f.write(raw)
+                        time.sleep(0.5)
+                if not raw:
+                    break
+                shows = parser.parse(raw)
+                print(f"Parsed {len(shows)} shows from visitduluth.com ({w_start} p{page})")
+                all_shows.extend(shows)
+                # Check if more pages exist
+                try:
+                    import json as _json
+                    data = _json.loads(raw)
+                    total = int(data.get('total', 0))
+                    fetched_so_far = (page - 1) * 50 + len(shows)
+                    if fetched_so_far >= total:
+                        break
+                except Exception:
+                    break
+                page += 1
+
+    elif site_name == 'luminary_arts_center':
+        # Luminary Arts Center uses Tribe REST API
+        api_base = 'https://luminaryartscenter.com/wp-json/tribe/events/v1/events'
+        month_windows = get_month_windows(start_date, end_date)
+        for (w_start, w_end) in month_windows:
+            page = 1
+            while True:
+                cache_key = f"{w_start}_{w_end}_p{page}"
+                filepath = f"raw_html/luminary_arts_center_{cache_key}.json"
+                raw = None
+                if os.path.exists(filepath):
+                    print(f"Using cached file: {filepath}")
+                    with open(filepath, 'rb') as f:
+                        raw = f.read()
+                else:
+                    url = (f"{api_base}?start_date={w_start}&end_date={w_end}"
+                           f"&per_page=50&page={page}")
+                    raw = get_page_content(url)
+                    if raw:
+                        os.makedirs("raw_html", exist_ok=True)
+                        with open(filepath, 'wb') as f:
+                            f.write(raw)
+                        time.sleep(0.5)
+                if not raw:
+                    break
+                shows = parser.parse(raw)
+                print(f"Parsed {len(shows)} shows from luminaryartscenter.com ({w_start} p{page})")
+                all_shows.extend(shows)
+                # Check if more pages exist
+                try:
+                    import json as _json
+                    data = _json.loads(raw)
+                    total = int(data.get('total', 0))
+                    fetched_so_far = (page - 1) * 50 + len(shows)
+                    if fetched_so_far >= total:
+                        break
+                except Exception:
+                    break
+                page += 1
+
+    elif site_name == 'utepils_brewery':
+        # Utepils Brewery uses Tribe REST API
+        api_base = 'https://www.utepilsbrewing.com/wp-json/tribe/events/v1/events'
+        month_windows = get_month_windows(start_date, end_date)
+        for (w_start, w_end) in month_windows:
+            page = 1
+            while True:
+                cache_key = f"{w_start}_{w_end}_p{page}"
+                filepath = f"raw_html/utepils_brewery_{cache_key}.json"
+                raw = None
+                if os.path.exists(filepath):
+                    print(f"Using cached file: {filepath}")
+                    with open(filepath, 'rb') as f:
+                        raw = f.read()
+                else:
+                    url = (f"{api_base}?start_date={w_start}&end_date={w_end}"
+                           f"&per_page=50&page={page}")
+                    raw = get_page_content(url)
+                    if raw:
+                        os.makedirs("raw_html", exist_ok=True)
+                        with open(filepath, 'wb') as f:
+                            f.write(raw)
+                        time.sleep(0.5)
+                if not raw:
+                    break
+                shows = parser.parse(raw)
+                print(f"Parsed {len(shows)} shows from utepilsbrewing.com ({w_start} p{page})")
+                all_shows.extend(shows)
+                # Check if more pages exist
+                try:
+                    import json as _json
+                    data = _json.loads(raw)
+                    total = int(data.get('total', 0))
+                    fetched_so_far = (page - 1) * 50 + len(shows)
+                    if fetched_so_far >= total:
+                        break
+                except Exception:
+                    break
+                page += 1
+
+    elif site_name == 'pryes_brewing':
+        filepath = "raw_html/pryes_brewing.html"
+        html = None
+        if os.path.exists(filepath):
+            print(f"Using cached file: {filepath}")
+            with open(filepath, 'rb') as f:
+                html = f.read()
+        else:
+            url = "https://www.pryesbrewing.com/events"
+            html = get_page_content(url)
+            if html:
+                os.makedirs("raw_html", exist_ok=True)
+                with open(filepath, "wb") as f:
+                    f.write(html)
+                time.sleep(1)
+        if html:
+            shows = parser.parse(html)
+            print(f"Parsed {len(shows)} shows from pryesbrewing.com")
+            all_shows.extend(shows)
+
+    elif site_name == 'mncba_workshops':
+        filepath = "raw_html/mncba_workshops.html"
+        html = None
+        if os.path.exists(filepath):
+            print(f"Using cached file: {filepath}")
+            with open(filepath, 'rb') as f:
+                html = f.read()
+        else:
+            url = "https://mnbookarts.org/category/adult-workshops"
+            html = get_page_content(url)
+            if html:
+                os.makedirs("raw_html", exist_ok=True)
+                with open(filepath, "wb") as f:
+                    f.write(html)
+                time.sleep(1)
+        if html:
+            shows = parser.parse(html)
+            print(f"Parsed {len(shows)} shows from mnbookarts.org")
+            all_shows.extend(shows)
+
+    elif site_name == 'coch_cooking_classes':
+        filepath = "raw_html/coch_cooking_classes.html"
+        html = None
+        if os.path.exists(filepath):
+            print(f"Using cached file: {filepath}")
+            with open(filepath, 'rb') as f:
+                html = f.read()
+        else:
+            url = "https://cooksofcrocushill.com/cooking-classes/upcoming-classes/"
+            html = get_page_content(url)
+            if html:
+                os.makedirs("raw_html", exist_ok=True)
+                with open(filepath, "wb") as f:
+                    f.write(html)
+                time.sleep(1)
+        if html:
+            shows = parser.parse(html)
+            print(f"Parsed {len(shows)} shows from cooksofcrocushill.com")
+            all_shows.extend(shows)
+
+    elif site_name == 'dame_errant_clay':
+        filepath = "raw_html/dame_errant_clay.html"
+        html = None
+        if os.path.exists(filepath):
+            print(f"Using cached file: {filepath}")
+            with open(filepath, 'rb') as f:
+                html = f.read()
+        else:
+            url = "https://www.dameerrant.com/workshopsandevents"
+            html = get_page_content(url)
+            if html:
+                os.makedirs("raw_html", exist_ok=True)
+                with open(filepath, "wb") as f:
+                    f.write(html)
+                time.sleep(1)
+        if html:
+            shows = parser.parse(html)
+            print(f"Parsed {len(shows)} shows from dameerrant.com")
+            all_shows.extend(shows)
+
+    elif site_name == 'mpls_parks':
+        # Minneapolis Parks uses Tribe REST API
+        api_base = 'https://www.minneapolisparks.org/wp-json/tribe/events/v1/events'
+        month_windows = get_month_windows(start_date, end_date)
+        for (w_start, w_end) in month_windows:
+            page = 1
+            while True:
+                cache_key = f"{w_start}_{w_end}_p{page}"
+                filepath = f"raw_html/mpls_parks_{cache_key}.json"
+                raw = None
+                if os.path.exists(filepath):
+                    print(f"Using cached file: {filepath}")
+                    with open(filepath, 'rb') as f:
+                        raw = f.read()
+                else:
+                    # Filter by category 316 (Events- All)
+                    url = (f"{api_base}?start_date={w_start}&end_date={w_end}"
+                           f"&categories=316&per_page=50&page={page}")
+                    raw = get_page_content(url)
+                    if raw:
+                        os.makedirs("raw_html", exist_ok=True)
+                        with open(filepath, 'wb') as f:
+                            f.write(raw)
+                        time.sleep(0.5)
+                if not raw:
+                    break
+                shows = parser.parse(raw)
+                print(f"Parsed {len(shows)} shows from minneapolisparks.org ({w_start} p{page})")
+                all_shows.extend(shows)
+                # Check if more pages exist
+                try:
+                    import json as _json
+                    data = _json.loads(raw)
+                    total = int(data.get('total', 0))
+                    fetched_so_far = (page - 1) * 50 + len(shows)
+                    if fetched_so_far >= total:
+                        break
+                except Exception:
+                    break
+                page += 1
+
     # Filter shows to target 60-day window
     # Supports both single dates and date range checks
     filtered_shows = []
@@ -376,12 +741,12 @@ def scrape_site(site_name, start_date, end_date):
     print(f"Structured data saved to {output_filename}")
 
 def main():
-    # Set target timeframe: 120 days starting 2026-06-20
-    start_date = datetime.date(2026, 6, 20)
+    # Set target timeframe: 120 days starting today
+    start_date = datetime.date.today()
     end_date = start_date + datetime.timedelta(days=120)
     
     # List of sites to scrape
-    sites_to_scrape = ['first_avenue', 'grand_casino_arena', 'acme_comedy_club', 'guthrie_theater', 'minneapolis', 'mn_united_fc', 'minnesota_twins', 'target_center', 'minnesota_orchestra', 'hennepin_arts', 'us_bank_stadium', 'northrop_auditorium', 'ordway_theater']
+    sites_to_scrape = ['first_avenue', 'grand_casino_arena', 'acme_comedy_club', 'guthrie_theater', 'minneapolis', 'mn_united_fc', 'minnesota_twins', 'target_center', 'minnesota_orchestra', 'hennepin_arts', 'us_bank_stadium', 'northrop_auditorium', 'ordway_theater', 'visit_stpaul', 'dakota_jazz_club', 'berlin_jazz_club', 'crooners', 'visit_duluth', 'luminary_arts_center', 'utepils_brewery', 'pryes_brewing', 'mncba_workshops', 'coch_cooking_classes', 'dame_errant_clay', 'mpls_parks']
     
     for site in sites_to_scrape:
         scrape_site(site, start_date, end_date)

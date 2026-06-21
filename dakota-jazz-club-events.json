@@ -1,0 +1,1259 @@
+{
+  "metadata": {
+    "site": "dakota_jazz_club",
+    "scraping_time": "2026-06-20T18:59:50.845756",
+    "start_date_range": "2026-06-20",
+    "end_date_range": "2026-10-18",
+    "total_shows_extracted": 104
+  },
+  "shows": [
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Dakota Jazz Club",
+      "title": "Kevin Kling &#038; Larry Long",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Kevin Kling &#038; Larry Long"
+      ],
+      "link": "https://www.dakotacooks.com/event/kevin-kling-larry-long-jun20-2026/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Dakota Jazz Club",
+      "title": "Church of Cash",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Church of Cash"
+      ],
+      "link": "https://www.dakotacooks.com/event/church-of-cash-jun21-2026/"
+    },
+    {
+      "date": "2026-06-22",
+      "end_date": "2026-06-22",
+      "venue": "Dakota Jazz Club",
+      "title": "John Pizzarelli Trio: Dear Mr. Bennett",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "John Pizzarelli Trio: Dear Mr. Bennett"
+      ],
+      "link": "https://www.dakotacooks.com/event/john-pizzarelli-trio-dear-mr-bennett-jun22-2026/2026-06-22/1/"
+    },
+    {
+      "date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "venue": "Dakota Jazz Club",
+      "title": "Acoustic Alchemy",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Acoustic Alchemy"
+      ],
+      "link": "https://www.dakotacooks.com/event/acoustic-alchemy-jun23-2026/2026-06-23/1/"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "Dakota Jazz Club",
+      "title": "John Pizzarelli Trio: Dear Mr. Bennett",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "John Pizzarelli Trio: Dear Mr. Bennett"
+      ],
+      "link": "https://www.dakotacooks.com/event/john-pizzarelli-trio-dear-mr-bennett-jun22-2026/2026-06-24/1/"
+    },
+    {
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "venue": "Dakota Jazz Club",
+      "title": "L.A. Buckner &#038; BiG HOMiE: Single Release Party",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "L.A. Buckner &#038; BiG HOMiE: Single Release Party"
+      ],
+      "link": "https://www.dakotacooks.com/event/l-a-buckner-big-homie-single-release-party-jun25-2026/"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "venue": "Dakota Jazz Club",
+      "title": "Stanley Jordan",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Stanley Jordan"
+      ],
+      "link": "https://www.dakotacooks.com/event/stanley-jordan-jun26-2026/"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "Dakota Jazz Club",
+      "title": "Andrew Walesch &#038; His Orchestra: Vegas 1960",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Andrew Walesch &#038; His Orchestra: Vegas 1960"
+      ],
+      "link": "https://www.dakotacooks.com/event/andrew-walesch-his-orchestra-vegas-1960-jun27-2026/"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Dakota Jazz Club",
+      "title": "Greg Koch w/ The Koch Marshall Trio",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Greg Koch w/ The Koch Marshall Trio"
+      ],
+      "link": "https://www.dakotacooks.com/event/greg-koch-w-the-koch-marshall-trio-jun28-2026/"
+    },
+    {
+      "date": "2026-06-29",
+      "end_date": "2026-06-29",
+      "venue": "Dakota Jazz Club",
+      "title": "Anders Osborne",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Anders Osborne"
+      ],
+      "link": "https://www.dakotacooks.com/event/anders-osborne-jun29-2026/"
+    },
+    {
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "venue": "Dakota Jazz Club",
+      "title": "VIP Event: Haley Reinhart",
+      "tour": "Live Music",
+      "support_raw": "4:30 PM",
+      "artists": [
+        "VIP Event: Haley Reinhart"
+      ],
+      "link": "https://www.dakotacooks.com/event/vip-event-haley-reinhart-jun30-2026/"
+    },
+    {
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "venue": "Dakota Jazz Club",
+      "title": "Haley Reinhart",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Haley Reinhart"
+      ],
+      "link": "https://www.dakotacooks.com/event/haley-reinhart-jun30-2026/2026-06-30/1/"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "venue": "Dakota Jazz Club",
+      "title": "VIP Event: Mindi Abair",
+      "tour": "Live Music",
+      "support_raw": "4:30 PM",
+      "artists": [
+        "VIP Event: Mindi Abair"
+      ],
+      "link": "https://www.dakotacooks.com/event/vip-event-mindi-abair-jul1-2026/"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "venue": "Dakota Jazz Club",
+      "title": "Mindi Abair",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Mindi Abair"
+      ],
+      "link": "https://www.dakotacooks.com/event/mindi-abair-jul1-2026/"
+    },
+    {
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "venue": "Dakota Jazz Club",
+      "title": "Eric Roberson",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Eric Roberson"
+      ],
+      "link": "https://www.dakotacooks.com/event/eric-roberson-jul2-2026/"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "venue": "Dakota Jazz Club",
+      "title": "Ladies of Soul, Vol. 4",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Ladies of Soul, Vol. 4"
+      ],
+      "link": "https://www.dakotacooks.com/event/ladies-of-soul-vol-4-jul3-2026/"
+    },
+    {
+      "date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "venue": "Dakota Jazz Club",
+      "title": "Davina and The Vagabonds",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Davina and The Vagabonds"
+      ],
+      "link": "https://www.dakotacooks.com/event/davina-and-the-vagabonds-jul4-2026/"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Dakota Jazz Club",
+      "title": "Greg Koch w/ The Koch Marshall Trio",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Greg Koch w/ The Koch Marshall Trio"
+      ],
+      "link": "https://www.dakotacooks.com/event/greg-koch-w-the-koch-marshall-trio-jun28-2026/"
+    },
+    {
+      "date": "2026-06-29",
+      "end_date": "2026-06-29",
+      "venue": "Dakota Jazz Club",
+      "title": "Anders Osborne",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Anders Osborne"
+      ],
+      "link": "https://www.dakotacooks.com/event/anders-osborne-jun29-2026/"
+    },
+    {
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "venue": "Dakota Jazz Club",
+      "title": "VIP Event: Haley Reinhart",
+      "tour": "Live Music",
+      "support_raw": "4:30 PM",
+      "artists": [
+        "VIP Event: Haley Reinhart"
+      ],
+      "link": "https://www.dakotacooks.com/event/vip-event-haley-reinhart-jun30-2026/"
+    },
+    {
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "venue": "Dakota Jazz Club",
+      "title": "Haley Reinhart",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Haley Reinhart"
+      ],
+      "link": "https://www.dakotacooks.com/event/haley-reinhart-jun30-2026/2026-06-30/1/"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "venue": "Dakota Jazz Club",
+      "title": "VIP Event: Mindi Abair",
+      "tour": "Live Music",
+      "support_raw": "4:30 PM",
+      "artists": [
+        "VIP Event: Mindi Abair"
+      ],
+      "link": "https://www.dakotacooks.com/event/vip-event-mindi-abair-jul1-2026/"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "venue": "Dakota Jazz Club",
+      "title": "Mindi Abair",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Mindi Abair"
+      ],
+      "link": "https://www.dakotacooks.com/event/mindi-abair-jul1-2026/"
+    },
+    {
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "venue": "Dakota Jazz Club",
+      "title": "Eric Roberson",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Eric Roberson"
+      ],
+      "link": "https://www.dakotacooks.com/event/eric-roberson-jul2-2026/"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "venue": "Dakota Jazz Club",
+      "title": "Ladies of Soul, Vol. 4",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Ladies of Soul, Vol. 4"
+      ],
+      "link": "https://www.dakotacooks.com/event/ladies-of-soul-vol-4-jul3-2026/"
+    },
+    {
+      "date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "venue": "Dakota Jazz Club",
+      "title": "Davina and The Vagabonds",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Davina and The Vagabonds"
+      ],
+      "link": "https://www.dakotacooks.com/event/davina-and-the-vagabonds-jul4-2026/"
+    },
+    {
+      "date": "2026-07-05",
+      "end_date": "2026-07-05",
+      "venue": "Dakota Jazz Club",
+      "title": "Natania &#038; Ticket to Brasil",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Natania &#038; Ticket to Brasil"
+      ],
+      "link": "https://www.dakotacooks.com/event/natania-ticket-to-brasil-july5-2025/"
+    },
+    {
+      "date": "2026-07-06",
+      "end_date": "2026-07-06",
+      "venue": "Dakota Jazz Club",
+      "title": "Sounds of Santana",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Sounds of Santana"
+      ],
+      "link": "https://www.dakotacooks.com/event/sounds-of-santana-jul6-2026/"
+    },
+    {
+      "date": "2026-07-07",
+      "end_date": "2026-07-07",
+      "venue": "Dakota Jazz Club",
+      "title": "Moore By Forty!",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Moore By Forty!"
+      ],
+      "link": "https://www.dakotacooks.com/event/moore-by-forty-jul7-2026/"
+    },
+    {
+      "date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "venue": "Dakota Jazz Club",
+      "title": "Suzy Bogguss",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Suzy Bogguss"
+      ],
+      "link": "https://www.dakotacooks.com/event/suzy-bogguss-jul8-2026/2026-07-08/1/"
+    },
+    {
+      "date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "venue": "Dakota Jazz Club",
+      "title": "BZ3 Organ Trio: Album Release Show",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "BZ3 Organ Trio: Album Release Show"
+      ],
+      "link": "https://www.dakotacooks.com/event/bz3-organ-trio-album-release-show-jul9-2026/"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "Dakota Jazz Club",
+      "title": "Nur-D",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Nur-D"
+      ],
+      "link": "https://www.dakotacooks.com/event/nur-d-jul10-2026/"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Dakota Jazz Club",
+      "title": "Sounds of Blackness feat. Jamecia Bennett",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Sounds of Blackness feat. Jamecia Bennett"
+      ],
+      "link": "https://www.dakotacooks.com/event/sounds-of-blackness-feat-jamecia-bennett-jul11-2026/"
+    },
+    {
+      "date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "venue": "Dakota Jazz Club",
+      "title": "Rebirth Brass Band",
+      "tour": "Live Music",
+      "support_raw": "5:30 PM",
+      "artists": [
+        "Rebirth Brass Band"
+      ],
+      "link": "https://www.dakotacooks.com/event/rebirth-brass-band-jul12-2026/2026-07-12/1/"
+    },
+    {
+      "date": "2026-07-13",
+      "end_date": "2026-07-13",
+      "venue": "Dakota Jazz Club",
+      "title": "Our House: Tribute to Crosby, Stills, Nash &#038; Young",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Our House: Tribute to Crosby, Stills, Nash &#038; Young"
+      ],
+      "link": "https://www.dakotacooks.com/event/our-house-tribute-to-crosby-stills-nash-young-jul13-2026/"
+    },
+    {
+      "date": "2026-07-14",
+      "end_date": "2026-07-14",
+      "venue": "Dakota Jazz Club",
+      "title": "James Hunter Six",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "James Hunter Six"
+      ],
+      "link": "https://www.dakotacooks.com/event/james-hunter-six-jul-2026/2026-07-14/"
+    },
+    {
+      "date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "venue": "Dakota Jazz Club",
+      "title": "James Hunter Six",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "James Hunter Six"
+      ],
+      "link": "https://www.dakotacooks.com/event/james-hunter-six-jul-2026/2026-07-15/"
+    },
+    {
+      "date": "2026-07-16",
+      "end_date": "2026-07-16",
+      "venue": "Dakota Jazz Club",
+      "title": "Southside Aces Album Release",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Southside Aces Album Release"
+      ],
+      "link": "https://www.dakotacooks.com/event/southside-aces-album-release-jul16-2026/"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "venue": "Dakota Jazz Club",
+      "title": "St. Paul Peterson: Funk Friday",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "St. Paul Peterson: Funk Friday"
+      ],
+      "link": "https://www.dakotacooks.com/event/st-paul-peterson-funk-friday-jul17-2026/"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Dakota Jazz Club",
+      "title": "Blood, Sweat &#038; Tears",
+      "tour": "Live Music",
+      "support_raw": "6:30 PM",
+      "artists": [
+        "Blood, Sweat &#038; Tears"
+      ],
+      "link": "https://www.dakotacooks.com/event/blood-sweat-tears-jul18-2026/2026-07-18/1/"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Dakota Jazz Club",
+      "title": "Blood, Sweat &#038; Tears",
+      "tour": "Live Music",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Blood, Sweat &#038; Tears"
+      ],
+      "link": "https://www.dakotacooks.com/event/blood-sweat-tears-jul19-2026/2026-07-19/1/"
+    },
+    {
+      "date": "2026-07-21",
+      "end_date": "2026-07-21",
+      "venue": "Dakota Jazz Club",
+      "title": "Liv Warfield: Honey &#038; Whiskey",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Liv Warfield: Honey &#038; Whiskey"
+      ],
+      "link": "https://www.dakotacooks.com/event/liv-warfield-honey-whiskey-jul21-2026/"
+    },
+    {
+      "date": "2026-07-22",
+      "end_date": "2026-07-22",
+      "venue": "Dakota Jazz Club",
+      "title": "Private Event",
+      "tour": "Live Music",
+      "support_raw": "12:00 AM",
+      "artists": [
+        "Private Event"
+      ],
+      "link": "https://www.dakotacooks.com/event/private-event-jul22-2026/"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "venue": "Dakota Jazz Club",
+      "title": "The Belfast Cowboys",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "The Belfast Cowboys"
+      ],
+      "link": "https://www.dakotacooks.com/event/the-belfast-cowboys-jul25-2026/"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "venue": "Dakota Jazz Club",
+      "title": "Keiko Matsui",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Keiko Matsui"
+      ],
+      "link": "https://www.dakotacooks.com/event/keiko-matsui-jul26-2026/"
+    },
+    {
+      "date": "2026-07-28",
+      "end_date": "2026-07-28",
+      "venue": "Dakota Jazz Club",
+      "title": "Allen Stone",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Allen Stone"
+      ],
+      "link": "https://www.dakotacooks.com/event/allen-stone-jul28-2026/"
+    },
+    {
+      "date": "2026-07-29",
+      "end_date": "2026-07-29",
+      "venue": "Dakota Jazz Club",
+      "title": "DakhaBrakha",
+      "tour": "Live Music",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "DakhaBrakha"
+      ],
+      "link": "https://www.dakotacooks.com/event/dakhabrakha-jul-2026/2026-07-29/"
+    },
+    {
+      "date": "2026-07-30",
+      "end_date": "2026-07-30",
+      "venue": "Dakota Jazz Club",
+      "title": "DakhaBrakha",
+      "tour": "Live Music",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "DakhaBrakha"
+      ],
+      "link": "https://www.dakotacooks.com/event/dakhabrakha-jul-2026/2026-07-30/"
+    },
+    {
+      "date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "venue": "Dakota Jazz Club",
+      "title": "Robert Earl Keen:",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Robert Earl Keen:"
+      ],
+      "link": "https://www.dakotacooks.com/event/robert-earl-keen/2026-07-31/"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Dakota Jazz Club",
+      "title": "Robert Earl Keen:",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Robert Earl Keen:"
+      ],
+      "link": "https://www.dakotacooks.com/event/robert-earl-keen/2026-08-01/"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "venue": "Dakota Jazz Club",
+      "title": "Keiko Matsui",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Keiko Matsui"
+      ],
+      "link": "https://www.dakotacooks.com/event/keiko-matsui-jul26-2026/"
+    },
+    {
+      "date": "2026-07-28",
+      "end_date": "2026-07-28",
+      "venue": "Dakota Jazz Club",
+      "title": "Allen Stone",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Allen Stone"
+      ],
+      "link": "https://www.dakotacooks.com/event/allen-stone-jul28-2026/"
+    },
+    {
+      "date": "2026-07-29",
+      "end_date": "2026-07-29",
+      "venue": "Dakota Jazz Club",
+      "title": "DakhaBrakha",
+      "tour": "Live Music",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "DakhaBrakha"
+      ],
+      "link": "https://www.dakotacooks.com/event/dakhabrakha-jul-2026/2026-07-29/"
+    },
+    {
+      "date": "2026-07-30",
+      "end_date": "2026-07-30",
+      "venue": "Dakota Jazz Club",
+      "title": "DakhaBrakha",
+      "tour": "Live Music",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "DakhaBrakha"
+      ],
+      "link": "https://www.dakotacooks.com/event/dakhabrakha-jul-2026/2026-07-30/"
+    },
+    {
+      "date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "venue": "Dakota Jazz Club",
+      "title": "Robert Earl Keen:",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Robert Earl Keen:"
+      ],
+      "link": "https://www.dakotacooks.com/event/robert-earl-keen/2026-07-31/"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Dakota Jazz Club",
+      "title": "Robert Earl Keen:",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Robert Earl Keen:"
+      ],
+      "link": "https://www.dakotacooks.com/event/robert-earl-keen/2026-08-01/"
+    },
+    {
+      "date": "2026-08-02",
+      "end_date": "2026-08-02",
+      "venue": "Dakota Jazz Club",
+      "title": "Robert Earl Keen:",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Robert Earl Keen:"
+      ],
+      "link": "https://www.dakotacooks.com/event/robert-earl-keen/2026-08-02/"
+    },
+    {
+      "date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "venue": "Dakota Jazz Club",
+      "title": "Soul Asylum (Acoustic) w/ Ivan Neville &#038; Laurels String Quartet",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Soul Asylum (Acoustic) w/ Ivan Neville &#038; Laurels String Quartet"
+      ],
+      "link": "https://www.dakotacooks.com/event/soul-asylum-aug5-2026/"
+    },
+    {
+      "date": "2026-08-06",
+      "end_date": "2026-08-06",
+      "venue": "Dakota Jazz Club",
+      "title": "I Am In Love: Jane Monheit Sings Cole Porter",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "I Am In Love: Jane Monheit Sings Cole Porter"
+      ],
+      "link": "https://www.dakotacooks.com/event/i-am-in-love-jane-monheit-sings-cole-porter-aug6-2026/"
+    },
+    {
+      "date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "venue": "Dakota Jazz Club",
+      "title": "Talib Kweli",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Talib Kweli"
+      ],
+      "link": "https://www.dakotacooks.com/event/talib-kweli-aug7-2026/2026-08-07/1/"
+    },
+    {
+      "date": "2026-08-10",
+      "end_date": "2026-08-10",
+      "venue": "Dakota Jazz Club",
+      "title": "Django Festival Allstars",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Django Festival Allstars"
+      ],
+      "link": "https://www.dakotacooks.com/event/django-festival-allstars-aug10-2026/"
+    },
+    {
+      "date": "2026-08-11",
+      "end_date": "2026-08-11",
+      "venue": "Dakota Jazz Club",
+      "title": "Stanley Clarke N•4EVER",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Stanley Clarke N•4EVER"
+      ],
+      "link": "https://www.dakotacooks.com/event/stanley-clarke-n4ever-aug11-2026/2026-08-11/1/"
+    },
+    {
+      "date": "2026-08-12",
+      "end_date": "2026-08-12",
+      "venue": "Dakota Jazz Club",
+      "title": "Braxton Cook",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Braxton Cook"
+      ],
+      "link": "https://www.dakotacooks.com/event/braxton-cook-aug12-2026/"
+    },
+    {
+      "date": "2026-08-17",
+      "end_date": "2026-08-17",
+      "venue": "Dakota Jazz Club",
+      "title": "Ben Sidran",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Ben Sidran"
+      ],
+      "link": "https://www.dakotacooks.com/event/ben-sidran-aug17-2026/"
+    },
+    {
+      "date": "2026-08-18",
+      "end_date": "2026-08-18",
+      "venue": "Dakota Jazz Club",
+      "title": "Grace Kelly",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Grace Kelly"
+      ],
+      "link": "https://www.dakotacooks.com/event/grace-kelly-aug18-2026/"
+    },
+    {
+      "date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "venue": "Dakota Jazz Club",
+      "title": "Spyro Gyra",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Spyro Gyra"
+      ],
+      "link": "https://www.dakotacooks.com/event/spyro-gyra-aug19-2026/2026-08-19/1/"
+    },
+    {
+      "date": "2026-08-20",
+      "end_date": "2026-08-20",
+      "venue": "Dakota Jazz Club",
+      "title": "Peter Himmelman",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Peter Himmelman"
+      ],
+      "link": "https://www.dakotacooks.com/event/peter-himmelman-aug20-2026/"
+    },
+    {
+      "date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "venue": "Dakota Jazz Club",
+      "title": "The Devon Allman Project:",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "The Devon Allman Project:"
+      ],
+      "link": "https://www.dakotacooks.com/event/the-devon-allman-project-aug23-2026/"
+    },
+    {
+      "date": "2026-08-27",
+      "end_date": "2026-08-27",
+      "venue": "Dakota Jazz Club",
+      "title": "Musiq Soulchild",
+      "tour": "Live Music",
+      "support_raw": "6:30 PM",
+      "artists": [
+        "Musiq Soulchild"
+      ],
+      "link": "https://www.dakotacooks.com/event/musiq-soulchild-aug-2026/2026-08-27/1/"
+    },
+    {
+      "date": "2026-08-28",
+      "end_date": "2026-08-28",
+      "venue": "Dakota Jazz Club",
+      "title": "Musiq Soulchild",
+      "tour": "Live Music",
+      "support_raw": "6:30 PM",
+      "artists": [
+        "Musiq Soulchild"
+      ],
+      "link": "https://www.dakotacooks.com/event/musiq-soulchild-aug-2026/2026-08-28/1/"
+    },
+    {
+      "date": "2026-08-29",
+      "end_date": "2026-08-29",
+      "venue": "Dakota Jazz Club",
+      "title": "Musiq Soulchild",
+      "tour": "Live Music",
+      "support_raw": "6:30 PM",
+      "artists": [
+        "Musiq Soulchild"
+      ],
+      "link": "https://www.dakotacooks.com/event/musiq-soulchild-aug-2026/2026-08-29/1/"
+    },
+    {
+      "date": "2026-09-02",
+      "end_date": "2026-09-02",
+      "venue": "Dakota Jazz Club",
+      "title": "Bob James",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Bob James"
+      ],
+      "link": "https://www.dakotacooks.com/event/bob-james-sep-2026/2026-09-02/"
+    },
+    {
+      "date": "2026-09-03",
+      "end_date": "2026-09-03",
+      "venue": "Dakota Jazz Club",
+      "title": "Bob James",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Bob James"
+      ],
+      "link": "https://www.dakotacooks.com/event/bob-james-sep-2026/2026-09-03/"
+    },
+    {
+      "date": "2026-09-04",
+      "end_date": "2026-09-04",
+      "venue": "Dakota Jazz Club",
+      "title": "Cécile McLorin Salvant",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cécile McLorin Salvant"
+      ],
+      "link": "https://www.dakotacooks.com/event/cecile-mclorin-salvant-sep4-2026/2026-09-04/1/"
+    },
+    {
+      "date": "2026-09-02",
+      "end_date": "2026-09-02",
+      "venue": "Dakota Jazz Club",
+      "title": "Bob James",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Bob James"
+      ],
+      "link": "https://www.dakotacooks.com/event/bob-james-sep-2026/2026-09-02/"
+    },
+    {
+      "date": "2026-09-03",
+      "end_date": "2026-09-03",
+      "venue": "Dakota Jazz Club",
+      "title": "Bob James",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Bob James"
+      ],
+      "link": "https://www.dakotacooks.com/event/bob-james-sep-2026/2026-09-03/"
+    },
+    {
+      "date": "2026-09-04",
+      "end_date": "2026-09-04",
+      "venue": "Dakota Jazz Club",
+      "title": "Cécile McLorin Salvant",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cécile McLorin Salvant"
+      ],
+      "link": "https://www.dakotacooks.com/event/cecile-mclorin-salvant-sep4-2026/2026-09-04/1/"
+    },
+    {
+      "date": "2026-09-09",
+      "end_date": "2026-09-09",
+      "venue": "Dakota Jazz Club",
+      "title": "Madeleine Peyroux",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Madeleine Peyroux"
+      ],
+      "link": "https://www.dakotacooks.com/event/madeleine-peyroux-sep-2026/2026-09-09/"
+    },
+    {
+      "date": "2026-09-10",
+      "end_date": "2026-09-10",
+      "venue": "Dakota Jazz Club",
+      "title": "Madeleine Peyroux",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Madeleine Peyroux"
+      ],
+      "link": "https://www.dakotacooks.com/event/madeleine-peyroux-sep-2026/2026-09-10/"
+    },
+    {
+      "date": "2026-09-11",
+      "end_date": "2026-09-11",
+      "venue": "Dakota Jazz Club",
+      "title": "Bettye LaVette Duo",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Bettye LaVette Duo"
+      ],
+      "link": "https://www.dakotacooks.com/event/bettye-lavette-duo-sep11-2026/"
+    },
+    {
+      "date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "venue": "Dakota Jazz Club",
+      "title": "Dominique Fils-Aimé",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Dominique Fils-Aimé"
+      ],
+      "link": "https://www.dakotacooks.com/event/dominique-fils-aime-sep13-2026/"
+    },
+    {
+      "date": "2026-09-14",
+      "end_date": "2026-09-14",
+      "venue": "Dakota Jazz Club",
+      "title": "Lucía",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Lucía"
+      ],
+      "link": "https://www.dakotacooks.com/event/lucia-sep14-2026/"
+    },
+    {
+      "date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "venue": "Dakota Jazz Club",
+      "title": "Mac McAnally",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Mac McAnally"
+      ],
+      "link": "https://www.dakotacooks.com/event/mac-mcanally-sep18-2026/"
+    },
+    {
+      "date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "venue": "Dakota Jazz Club",
+      "title": "Herb Alpert &#038; The Tijuana Brass &#038; Other Delights at Orchestra Hall",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Herb Alpert &#038; The Tijuana Brass &#038; Other Delights at Orchestra Hall"
+      ],
+      "link": "https://www.dakotacooks.com/event/herb-alpert-the-tijuana-brass-other-delights-sep20-2026/"
+    },
+    {
+      "date": "2026-09-21",
+      "end_date": "2026-09-21",
+      "venue": "Dakota Jazz Club",
+      "title": "Shoshana Bean",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Shoshana Bean"
+      ],
+      "link": "https://www.dakotacooks.com/event/shoshana-bean-sep21-2026/"
+    },
+    {
+      "date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "venue": "Dakota Jazz Club",
+      "title": "Pure Prairie League",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Pure Prairie League"
+      ],
+      "link": "https://www.dakotacooks.com/event/pure-prairie-league-sep23-2026/2026-09-23/1/"
+    },
+    {
+      "date": "2026-09-24",
+      "end_date": "2026-09-24",
+      "venue": "Dakota Jazz Club",
+      "title": "Jon B",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Jon B"
+      ],
+      "link": "https://www.dakotacooks.com/event/jon-b-sep24-2026/2026-09-24/1/"
+    },
+    {
+      "date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "venue": "Dakota Jazz Club",
+      "title": "Dakota Block Party 2026",
+      "tour": "Live Music",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Dakota Block Party 2026"
+      ],
+      "link": "https://www.dakotacooks.com/event/dakota-block-party-sep26-2026/"
+    },
+    {
+      "date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "venue": "Dakota Jazz Club",
+      "title": "VIP Event: Alicia Witt: Album Release",
+      "tour": "Live Music",
+      "support_raw": "4:30 PM",
+      "artists": [
+        "VIP Event: Alicia Witt: Album Release"
+      ],
+      "link": "https://www.dakotacooks.com/event/vip-event-alicia-witt-album-release-sep27-2026/"
+    },
+    {
+      "date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "venue": "Dakota Jazz Club",
+      "title": "Alicia Witt: Album Release",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Alicia Witt: Album Release"
+      ],
+      "link": "https://www.dakotacooks.com/event/alicia-witt-album-release-sep27-2026/"
+    },
+    {
+      "date": "2026-09-29",
+      "end_date": "2026-09-29",
+      "venue": "Dakota Jazz Club",
+      "title": "Private Event",
+      "tour": "Live Music",
+      "support_raw": "12:00 AM",
+      "artists": [
+        "Private Event"
+      ],
+      "link": "https://www.dakotacooks.com/event/private-event-sep29-2026/"
+    },
+    {
+      "date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "venue": "Dakota Jazz Club",
+      "title": "Vieux Farka Touré",
+      "tour": "Live Music",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "Vieux Farka Touré"
+      ],
+      "link": "https://www.dakotacooks.com/event/vieux-farka-toure-sep30-2026/"
+    },
+    {
+      "date": "2026-10-01",
+      "end_date": "2026-10-01",
+      "venue": "Dakota Jazz Club",
+      "title": "Alfredo Rodriguez &#038; Pedrito Martinez",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Alfredo Rodriguez &#038; Pedrito Martinez"
+      ],
+      "link": "https://www.dakotacooks.com/event/alfredo-rodriguez-pedrito-martinez-oct1-2026/"
+    },
+    {
+      "date": "2026-10-01",
+      "end_date": "2026-10-01",
+      "venue": "Dakota Jazz Club",
+      "title": "Tab Benoit: Soul of the Swamp Tour at Pantages Theatre",
+      "tour": "Live Music",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "Tab Benoit: Soul of the Swamp Tour at Pantages Theatre"
+      ],
+      "link": "https://www.dakotacooks.com/event/tab-benoit-soul-of-the-swamp-tour-oct1-2026/"
+    },
+    {
+      "date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "venue": "Dakota Jazz Club",
+      "title": "VIP Event: Alicia Witt: Album Release",
+      "tour": "Live Music",
+      "support_raw": "4:30 PM",
+      "artists": [
+        "VIP Event: Alicia Witt: Album Release"
+      ],
+      "link": "https://www.dakotacooks.com/event/vip-event-alicia-witt-album-release-sep27-2026/"
+    },
+    {
+      "date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "venue": "Dakota Jazz Club",
+      "title": "Alicia Witt: Album Release",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Alicia Witt: Album Release"
+      ],
+      "link": "https://www.dakotacooks.com/event/alicia-witt-album-release-sep27-2026/"
+    },
+    {
+      "date": "2026-09-29",
+      "end_date": "2026-09-29",
+      "venue": "Dakota Jazz Club",
+      "title": "Private Event",
+      "tour": "Live Music",
+      "support_raw": "12:00 AM",
+      "artists": [
+        "Private Event"
+      ],
+      "link": "https://www.dakotacooks.com/event/private-event-sep29-2026/"
+    },
+    {
+      "date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "venue": "Dakota Jazz Club",
+      "title": "Vieux Farka Touré",
+      "tour": "Live Music",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "Vieux Farka Touré"
+      ],
+      "link": "https://www.dakotacooks.com/event/vieux-farka-toure-sep30-2026/"
+    },
+    {
+      "date": "2026-10-01",
+      "end_date": "2026-10-01",
+      "venue": "Dakota Jazz Club",
+      "title": "Alfredo Rodriguez &#038; Pedrito Martinez",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Alfredo Rodriguez &#038; Pedrito Martinez"
+      ],
+      "link": "https://www.dakotacooks.com/event/alfredo-rodriguez-pedrito-martinez-oct1-2026/"
+    },
+    {
+      "date": "2026-10-01",
+      "end_date": "2026-10-01",
+      "venue": "Dakota Jazz Club",
+      "title": "Tab Benoit: Soul of the Swamp Tour at Pantages Theatre",
+      "tour": "Live Music",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "Tab Benoit: Soul of the Swamp Tour at Pantages Theatre"
+      ],
+      "link": "https://www.dakotacooks.com/event/tab-benoit-soul-of-the-swamp-tour-oct1-2026/"
+    },
+    {
+      "date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "venue": "Dakota Jazz Club",
+      "title": "VIP Event: Mike Dawes",
+      "tour": "Live Music",
+      "support_raw": "4:30 PM",
+      "artists": [
+        "VIP Event: Mike Dawes"
+      ],
+      "link": "https://www.dakotacooks.com/event/mike-dawes-oct11-2026-vip/"
+    },
+    {
+      "date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "venue": "Dakota Jazz Club",
+      "title": "Mike Dawes",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Mike Dawes"
+      ],
+      "link": "https://www.dakotacooks.com/event/mike-dawes-oct11-2026/"
+    },
+    {
+      "date": "2026-10-12",
+      "end_date": "2026-10-12",
+      "venue": "Dakota Jazz Club",
+      "title": "Hiromi: The Trio Project",
+      "tour": "Live Music",
+      "support_raw": "6:30 PM",
+      "artists": [
+        "Hiromi: The Trio Project"
+      ],
+      "link": "https://www.dakotacooks.com/event/hiromi-the-trio-project-oct12-2026/2026-10-12/1/"
+    },
+    {
+      "date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "venue": "Dakota Jazz Club",
+      "title": "Branford Marsalis &#038; Dianne Reeves celebrate John Coltrane At The Ordway",
+      "tour": "Live Music",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "Branford Marsalis &#038; Dianne Reeves celebrate John Coltrane At The Ordway"
+      ],
+      "link": "https://www.dakotacooks.com/event/branford-marsalis-dianne-reeves-celebrate-john-coltrane-at-the-ordway-oct17-2026/"
+    }
+  ]
+}

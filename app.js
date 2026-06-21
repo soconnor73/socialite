@@ -5,7 +5,7 @@ let appState = {
     selectedSources: new Set(),
     currentYear: 2026,
     currentMonth: 5, // 0-indexed (June is 5)
-    viewMode: 'grid', // 'grid' or 'list'
+    viewMode: 'list', // 'grid' or 'list'
     searchQuery: '',
     startDate: '2026-06-20',
     endDate: '2026-10-18',
@@ -26,7 +26,19 @@ const SOURCE_METADATA = {
     'hennepin_arts': { name: 'Hennepin Arts', color: 'var(--clr-hennepin-arts)' },
     'us_bank_stadium': { name: 'U.S. Bank Stadium', color: 'var(--clr-us-bank-stadium)' },
     'northrop_auditorium': { name: 'Northrop Auditorium', color: 'var(--clr-northrop-auditorium)' },
-    'ordway_theater': { name: 'Ordway Theater', color: 'var(--clr-ordway-theater)' }
+    'ordway_theater': { name: 'Ordway Theater', color: 'var(--clr-ordway-theater)' },
+    'visit_stpaul': { name: 'Visit Saint Paul', color: 'var(--clr-visit-stpaul)' },
+    'dakota_jazz_club': { name: 'Dakota Jazz Club', color: 'var(--clr-dakota-jazz-club)' },
+    'berlin_jazz_club': { name: 'Berlin Jazz Club', color: 'var(--clr-berlin-jazz-club)' },
+    'crooners': { name: 'Crooners Supper Club', color: 'var(--clr-crooners)' },
+    'visit_duluth': { name: 'Visit Duluth', color: 'var(--clr-visit-duluth)' },
+    'luminary_arts_center': { name: 'Luminary Arts Center', color: 'var(--clr-luminary-arts-center)' },
+    'utepils_brewery': { name: 'Utepils Brewery', color: 'var(--clr-utepils-brewery)' },
+    'pryes_brewing': { name: 'Pryes Brewing', color: 'var(--clr-pryes-brewing)' },
+    'mncba_workshops': { name: 'MNCBA Workshops', color: 'var(--clr-mncba-workshops)' },
+    'coch_cooking_classes': { name: 'CoCH Cooking Classes', color: 'var(--clr-coch-cooking-classes)' },
+    'dame_errant_clay': { name: 'Dame Errant Clay', color: 'var(--clr-dame-errant-clay)' },
+    'mpls_parks': { name: 'MPLS Parks & Rec', color: 'var(--clr-mpls-parks)' }
 };
 
 const DEFAULT_SOURCE_COLOR = 'var(--clr-minneapolis)';
@@ -135,8 +147,10 @@ function setupEventListeners() {
 
 // Populate Source Filters checklist
 function populateSourceFilters() {
-    // Use the keys of SOURCE_METADATA to guarantee order and inclusion of all 10 sources
-    const uniqueSources = Object.keys(SOURCE_METADATA);
+    // Sort sources alphabetically by display name
+    const uniqueSources = Object.keys(SOURCE_METADATA).sort((a, b) =>
+        SOURCE_METADATA[a].name.localeCompare(SOURCE_METADATA[b].name)
+    );
     dom.sourceFilterContainer.innerHTML = '';
     
     uniqueSources.forEach(source => {

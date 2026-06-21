@@ -1,0 +1,3539 @@
+{
+  "metadata": {
+    "site": "utepils_brewery",
+    "scraping_time": "2026-06-20T23:17:16.098703",
+    "start_date_range": "2026-06-20",
+    "end_date_range": "2026-10-18",
+    "total_shows_extracted": 294
+  },
+  "shows": [
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Utepils Brewery",
+      "title": "Cuchillo",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Cuchillo"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cuchillo/2026-06-20/"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party/2026-06-20/"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Utepils Brewery",
+      "title": "Beer Garden Grooves",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Beer Garden Grooves"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/beer-garden-grooves-3/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-06-21/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party/2026-06-21/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Utepils Brewery",
+      "title": "Red Rocket Pizza",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Red Rocket Pizza"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/red-rocket-pizza/2026-06-21/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Utepils Brewery",
+      "title": "Father's Day & World Music Day",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Father's Day & World Music Day"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-music-day/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Utepils Brewery",
+      "title": "International Café",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "International Café"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/international-cafe/2026-06-21/"
+    },
+    {
+      "date": "2026-06-22",
+      "end_date": "2026-06-22",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party/2026-06-22/"
+    },
+    {
+      "date": "2026-06-22",
+      "end_date": "2026-06-22",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-06-22/"
+    },
+    {
+      "date": "2026-06-22",
+      "end_date": "2026-06-22",
+      "venue": "Utepils Brewery",
+      "title": "La Choza",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "La Choza"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/la-choza/2026-06-22/"
+    },
+    {
+      "date": "2026-06-22",
+      "end_date": "2026-06-22",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-06-22/"
+    },
+    {
+      "date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party/2026-06-23/"
+    },
+    {
+      "date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "venue": "Utepils Brewery",
+      "title": "Young Man MSP",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Young Man MSP"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/young-man-msp/2026-06-23/"
+    },
+    {
+      "date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-06-23/"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party/2026-06-24/"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "Utepils Brewery",
+      "title": "La Cochinita",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "La Cochinita"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/la-cochinita/2026-06-24/"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-06-24/"
+    },
+    {
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party/2026-06-25/"
+    },
+    {
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "venue": "Utepils Brewery",
+      "title": "Brown Chicken Brown Cow",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Brown Chicken Brown Cow"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/brown-chicken-brown-cow/2026-06-25/"
+    },
+    {
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "venue": "Utepils Brewery",
+      "title": "Cribbage Tournament",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cribbage Tournament"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-06-25/"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "venue": "Utepils Brewery",
+      "title": "Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-06-26/"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party/2026-06-26/"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "venue": "Utepils Brewery",
+      "title": "Taste of Chile by Emconada",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Taste of Chile by Emconada"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/taste-of-chile-by-emconada/2026-06-26/"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "venue": "Utepils Brewery",
+      "title": "Friday Night Live - FNL",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Friday Night Live - FNL"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/friday-night-live-fnl/2026-06-26/"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "Utepils Brewery",
+      "title": "Cuchillo",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Cuchillo"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cuchillo/2026-06-27/"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party/2026-06-27/"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-06-28/"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Utepils Brewery",
+      "title": "Gerhard's Brats",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Gerhard's Brats"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/gerhards-brats/2026-06-28/"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party-2/2026-06-28/"
+    },
+    {
+      "date": "2026-06-29",
+      "end_date": "2026-06-29",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party-2/2026-06-29/"
+    },
+    {
+      "date": "2026-06-29",
+      "end_date": "2026-06-29",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-06-29/"
+    },
+    {
+      "date": "2026-06-29",
+      "end_date": "2026-06-29",
+      "venue": "Utepils Brewery",
+      "title": "La Choza",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "La Choza"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/la-choza/2026-06-29/"
+    },
+    {
+      "date": "2026-06-29",
+      "end_date": "2026-06-29",
+      "venue": "Utepils Brewery",
+      "title": "Sociable Circuit",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Sociable Circuit"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/sociable-circuit-2/2026-06-29/"
+    },
+    {
+      "date": "2026-06-29",
+      "end_date": "2026-06-29",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-06-29/"
+    },
+    {
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party-2/2026-06-30/"
+    },
+    {
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "venue": "Utepils Brewery",
+      "title": "Butcher & Bartender",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Butcher & Bartender"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/butcher-bartender/2026-06-30/"
+    },
+    {
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "venue": "Utepils Brewery",
+      "title": "Do What You Love To End Alz",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "5:30 PM",
+      "artists": [
+        "Do What You Love To End Alz"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/do-what-you-love-to-end-alz/"
+    },
+    {
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-06-30/"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party-2/2026-07-01/"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "venue": "Utepils Brewery",
+      "title": "Brown Chicken Brown Cow",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Brown Chicken Brown Cow"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/brown-chicken-brown-cow/2026-07-01/"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-07-01/"
+    },
+    {
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party-2/2026-07-02/"
+    },
+    {
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "venue": "Utepils Brewery",
+      "title": "Sweet Lou's Meats",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Sweet Lou's Meats"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/sweet-lous-meats/2026-07-02/"
+    },
+    {
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "venue": "Utepils Brewery",
+      "title": "Cribbage Tournament",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cribbage Tournament"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-07-02/"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "venue": "Utepils Brewery",
+      "title": "Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-07-03/"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "1:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party-2/2026-07-03/"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "venue": "Utepils Brewery",
+      "title": "Kham Fu Dee",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Kham Fu Dee"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/kham-fu-dee/2026-07-03/"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "venue": "Utepils Brewery",
+      "title": "Friday Night Live - FNL",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Friday Night Live - FNL"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/friday-night-live-fnl/2026-07-03/"
+    },
+    {
+      "date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "venue": "Utepils Brewery",
+      "title": "World Cup Street Fair",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "World Cup Street Fair"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-cup-street-fair/"
+    },
+    {
+      "date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "venue": "Utepils Brewery",
+      "title": "Cuchillo",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Cuchillo"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cuchillo/2026-07-04/"
+    },
+    {
+      "date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "venue": "Utepils Brewery",
+      "title": "Flamingo's Ice Cream",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Flamingo's Ice Cream"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/flamingos-ice-cream/"
+    },
+    {
+      "date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party-3/2026-07-04/"
+    },
+    {
+      "date": "2026-07-05",
+      "end_date": "2026-07-05",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-07-05/"
+    },
+    {
+      "date": "2026-07-05",
+      "end_date": "2026-07-05",
+      "venue": "Utepils Brewery",
+      "title": "Brick Oven Bus",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Brick Oven Bus"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/brick-oven-bus/2026-07-05/"
+    },
+    {
+      "date": "2026-07-05",
+      "end_date": "2026-07-05",
+      "venue": "Utepils Brewery",
+      "title": "International Café",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "International Café"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/international-cafe/2026-07-05/"
+    },
+    {
+      "date": "2026-07-05",
+      "end_date": "2026-07-05",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party-3/2026-07-05/"
+    },
+    {
+      "date": "2026-07-06",
+      "end_date": "2026-07-06",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party-3/2026-07-06/"
+    },
+    {
+      "date": "2026-07-06",
+      "end_date": "2026-07-06",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-07-06/"
+    },
+    {
+      "date": "2026-07-06",
+      "end_date": "2026-07-06",
+      "venue": "Utepils Brewery",
+      "title": "Roon's Savories",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Roon's Savories"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/roons-savories/2026-07-06/"
+    },
+    {
+      "date": "2026-07-06",
+      "end_date": "2026-07-06",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-07-06/"
+    },
+    {
+      "date": "2026-07-06",
+      "end_date": "2026-07-06",
+      "venue": "Utepils Brewery",
+      "title": "Backgammon & Brews",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Backgammon & Brews"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/backgammon-brews/2026-07-06/"
+    },
+    {
+      "date": "2026-07-07",
+      "end_date": "2026-07-07",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party-3/2026-07-07/"
+    },
+    {
+      "date": "2026-07-07",
+      "end_date": "2026-07-07",
+      "venue": "Utepils Brewery",
+      "title": "ParraLily",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "ParraLily"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/parralily/2026-07-07/"
+    },
+    {
+      "date": "2026-07-07",
+      "end_date": "2026-07-07",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-07-07/"
+    },
+    {
+      "date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "venue": "Utepils Brewery",
+      "title": "La Cochinita",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "La Cochinita"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/la-cochinita/2026-07-08/"
+    },
+    {
+      "date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-07-08/"
+    },
+    {
+      "date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party-4/2026-07-09/"
+    },
+    {
+      "date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "venue": "Utepils Brewery",
+      "title": "Purple People Feeder",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Purple People Feeder"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/purple-people-feeder/2026-07-09/"
+    },
+    {
+      "date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "venue": "Utepils Brewery",
+      "title": "Cribbage Tournament",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cribbage Tournament"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-07-09/"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "Utepils Brewery",
+      "title": "Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-07-10/"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party-4/2026-07-10/"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "Utepils Brewery",
+      "title": "Amazing Momo",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Amazing Momo"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/amazing-momo/2026-07-10/"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "Utepils Brewery",
+      "title": "Thai Thai",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Thai Thai"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/thai-thai/2026-07-10/"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "Utepils Brewery",
+      "title": "Artepils 2026",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Artepils 2026"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/artepils-2026/2026-07-10/"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Utepils Brewery",
+      "title": "Sizzling Wagon",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Sizzling Wagon"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/sizzling-wagon/2026-07-11/"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Utepils Brewery",
+      "title": "Roon's Savories",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Roon's Savories"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/roons-savories/2026-07-11/"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Utepils Brewery",
+      "title": "Artepils 2026",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Artepils 2026"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/artepils-2026/2026-07-11/"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party-4/2026-07-11/"
+    },
+    {
+      "date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-07-12/"
+    },
+    {
+      "date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "venue": "Utepils Brewery",
+      "title": "Taste of Chile by Emconada",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Taste of Chile by Emconada"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/taste-of-chile-by-emconada/2026-07-12/"
+    },
+    {
+      "date": "2026-07-13",
+      "end_date": "2026-07-13",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-07-13/"
+    },
+    {
+      "date": "2026-07-13",
+      "end_date": "2026-07-13",
+      "venue": "Utepils Brewery",
+      "title": "Roon's Savories",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Roon's Savories"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/roons-savories/2026-07-13/"
+    },
+    {
+      "date": "2026-07-13",
+      "end_date": "2026-07-13",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-07-13/"
+    },
+    {
+      "date": "2026-07-14",
+      "end_date": "2026-07-14",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party-5/2026-07-14/"
+    },
+    {
+      "date": "2026-07-14",
+      "end_date": "2026-07-14",
+      "venue": "Utepils Brewery",
+      "title": "Phillicious Philly's",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Phillicious Philly's"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/phillicious-phillys/2026-07-14/"
+    },
+    {
+      "date": "2026-07-14",
+      "end_date": "2026-07-14",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-07-14/"
+    },
+    {
+      "date": "2026-07-14",
+      "end_date": "2026-07-14",
+      "venue": "Utepils Brewery",
+      "title": "Merchant Leather - Leatherworking Class",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:30 PM",
+      "artists": [
+        "Merchant Leather - Leatherworking Class"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/merchant-leather-leatherworking-class-2/2026-07-14/"
+    },
+    {
+      "date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party-5/2026-07-15/"
+    },
+    {
+      "date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "venue": "Utepils Brewery",
+      "title": "612 Teppanyaki",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "612 Teppanyaki"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/612-teppanyaki/2026-07-15/"
+    },
+    {
+      "date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-07-15/"
+    },
+    {
+      "date": "2026-07-16",
+      "end_date": "2026-07-16",
+      "venue": "Utepils Brewery",
+      "title": "Sweet Lou's Meats",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Sweet Lou's Meats"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/sweet-lous-meats/2026-07-16/"
+    },
+    {
+      "date": "2026-07-16",
+      "end_date": "2026-07-16",
+      "venue": "Utepils Brewery",
+      "title": "Cribbage Tournament",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cribbage Tournament"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-07-16/"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "venue": "Utepils Brewery",
+      "title": "Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-07-17/"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "venue": "Utepils Brewery",
+      "title": "Gerhard's Brats",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Gerhard's Brats"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/gerhards-brats/2026-07-17/"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Utepils Brewery",
+      "title": "Cuchillo",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Cuchillo"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cuchillo/2026-07-18/"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party-6/"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Utepils Brewery",
+      "title": "Beer Garden Grooves",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Beer Garden Grooves"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/beer-garden-grooves-4/"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-07-19/"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Utepils Brewery",
+      "title": "Messy Jesse's",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Messy Jesse's"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/messy-jesses/2026-07-19/"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Utepils Brewery",
+      "title": "International Café",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "International Café"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/international-cafe/2026-07-19/"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/world-watch-party-7/"
+    },
+    {
+      "date": "2026-07-20",
+      "end_date": "2026-07-20",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-07-20/"
+    },
+    {
+      "date": "2026-07-20",
+      "end_date": "2026-07-20",
+      "venue": "Utepils Brewery",
+      "title": "Northeast Pretzels",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Northeast Pretzels"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/northeast-pretzels/2026-07-20/"
+    },
+    {
+      "date": "2026-07-20",
+      "end_date": "2026-07-20",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-07-20/"
+    },
+    {
+      "date": "2026-07-20",
+      "end_date": "2026-07-20",
+      "venue": "Utepils Brewery",
+      "title": "Dame Errant Clay Workshop - Berry Bowl Carve",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Dame Errant Clay Workshop - Berry Bowl Carve"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/dame-errant-clay-workshop-berry-bowl-carve/"
+    },
+    {
+      "date": "2026-07-21",
+      "end_date": "2026-07-21",
+      "venue": "Utepils Brewery",
+      "title": "Young Man MSP",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Young Man MSP"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/young-man-msp/2026-07-21/"
+    },
+    {
+      "date": "2026-07-21",
+      "end_date": "2026-07-21",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-07-21/"
+    },
+    {
+      "date": "2026-07-22",
+      "end_date": "2026-07-22",
+      "venue": "Utepils Brewery",
+      "title": "La Cochinita",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "La Cochinita"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/la-cochinita/2026-07-22/"
+    },
+    {
+      "date": "2026-07-22",
+      "end_date": "2026-07-22",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-07-22/"
+    },
+    {
+      "date": "2026-07-22",
+      "end_date": "2026-07-22",
+      "venue": "Utepils Brewery",
+      "title": "MNUFC Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "MNUFC Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/mnufc-watch-parties/2026-07-22/"
+    },
+    {
+      "date": "2026-07-23",
+      "end_date": "2026-07-23",
+      "venue": "Utepils Brewery",
+      "title": "Kham Fu Dee",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Kham Fu Dee"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/kham-fu-dee/2026-07-23/"
+    },
+    {
+      "date": "2026-07-23",
+      "end_date": "2026-07-23",
+      "venue": "Utepils Brewery",
+      "title": "Cribbage Tournament",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cribbage Tournament"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-07-23/"
+    },
+    {
+      "date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "venue": "Utepils Brewery",
+      "title": "Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-07-24/"
+    },
+    {
+      "date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "venue": "Utepils Brewery",
+      "title": "Taste of Chile by Emconada",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Taste of Chile by Emconada"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/taste-of-chile-by-emconada/2026-07-24/"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "venue": "Utepils Brewery",
+      "title": "Cuchillo",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Cuchillo"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cuchillo/2026-07-25/"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "venue": "Utepils Brewery",
+      "title": "Beer Garden Grooves",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Beer Garden Grooves"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/beer-garden-grooves-5/"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "venue": "Utepils Brewery",
+      "title": "MNUFC Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "MNUFC Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/mnufc-watch-parties/2026-07-25/"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-07-26/"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "venue": "Utepils Brewery",
+      "title": "Sizzling Wagon",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Sizzling Wagon"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/sizzling-wagon/2026-07-26/"
+    },
+    {
+      "date": "2026-07-27",
+      "end_date": "2026-07-27",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-07-27/"
+    },
+    {
+      "date": "2026-07-27",
+      "end_date": "2026-07-27",
+      "venue": "Utepils Brewery",
+      "title": "Northeast Pretzels",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Northeast Pretzels"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/northeast-pretzels/2026-07-27/"
+    },
+    {
+      "date": "2026-07-27",
+      "end_date": "2026-07-27",
+      "venue": "Utepils Brewery",
+      "title": "Sociable Circuit",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Sociable Circuit"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/sociable-circuit-2/2026-07-27/"
+    },
+    {
+      "date": "2026-07-27",
+      "end_date": "2026-07-27",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-07-27/"
+    },
+    {
+      "date": "2026-07-28",
+      "end_date": "2026-07-28",
+      "venue": "Utepils Brewery",
+      "title": "Red Rocket Pizza",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Red Rocket Pizza"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/red-rocket-pizza/2026-07-28/"
+    },
+    {
+      "date": "2026-07-28",
+      "end_date": "2026-07-28",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-07-28/"
+    },
+    {
+      "date": "2026-07-29",
+      "end_date": "2026-07-29",
+      "venue": "Utepils Brewery",
+      "title": "Brown Chicken Brown Cow",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Brown Chicken Brown Cow"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/brown-chicken-brown-cow/2026-07-29/"
+    },
+    {
+      "date": "2026-07-29",
+      "end_date": "2026-07-29",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-07-29/"
+    },
+    {
+      "date": "2026-07-30",
+      "end_date": "2026-07-30",
+      "venue": "Utepils Brewery",
+      "title": "Sweet Lou's Meats",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Sweet Lou's Meats"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/sweet-lous-meats/2026-07-30/"
+    },
+    {
+      "date": "2026-07-30",
+      "end_date": "2026-07-30",
+      "venue": "Utepils Brewery",
+      "title": "Cribbage Tournament",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cribbage Tournament"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-07-30/"
+    },
+    {
+      "date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "venue": "Utepils Brewery",
+      "title": "Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-07-31/"
+    },
+    {
+      "date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "venue": "Utepils Brewery",
+      "title": "Bad Rooster",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Bad Rooster"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/bad-rooster/2026-07-31/"
+    },
+    {
+      "date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "venue": "Utepils Brewery",
+      "title": "Bad Rooster",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Bad Rooster"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/bad-rooster-2/2026-07-31/"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Utepils Brewery",
+      "title": "Cuchillo",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Cuchillo"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cuchillo/2026-08-01/"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Utepils Brewery",
+      "title": "Beer Garden Grooves",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Beer Garden Grooves"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/beer-garden-grooves-6/"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Utepils Brewery",
+      "title": "MNUFC Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "MNUFC Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/mnufc-watch-parties/2026-08-01/"
+    },
+    {
+      "date": "2026-08-02",
+      "end_date": "2026-08-02",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-08-02/"
+    },
+    {
+      "date": "2026-08-02",
+      "end_date": "2026-08-02",
+      "venue": "Utepils Brewery",
+      "title": "Brown Chicken Brown Cow",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Brown Chicken Brown Cow"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/brown-chicken-brown-cow/2026-08-02/"
+    },
+    {
+      "date": "2026-08-02",
+      "end_date": "2026-08-02",
+      "venue": "Utepils Brewery",
+      "title": "International Café",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "International Café"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/international-cafe/2026-08-02/"
+    },
+    {
+      "date": "2026-08-03",
+      "end_date": "2026-08-03",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-08-03/"
+    },
+    {
+      "date": "2026-08-03",
+      "end_date": "2026-08-03",
+      "venue": "Utepils Brewery",
+      "title": "Roon's Savories",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Roon's Savories"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/roons-savories/2026-08-03/"
+    },
+    {
+      "date": "2026-08-03",
+      "end_date": "2026-08-03",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-08-03/"
+    },
+    {
+      "date": "2026-08-03",
+      "end_date": "2026-08-03",
+      "venue": "Utepils Brewery",
+      "title": "Backgammon & Brews",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Backgammon & Brews"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/backgammon-brews/2026-08-03/"
+    },
+    {
+      "date": "2026-08-04",
+      "end_date": "2026-08-04",
+      "venue": "Utepils Brewery",
+      "title": "Amazing Momo",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Amazing Momo"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/amazing-momo/2026-08-04/"
+    },
+    {
+      "date": "2026-08-04",
+      "end_date": "2026-08-04",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-08-04/"
+    },
+    {
+      "date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "venue": "Utepils Brewery",
+      "title": "La Cochinita",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "La Cochinita"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/la-cochinita/2026-08-05/"
+    },
+    {
+      "date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-08-05/"
+    },
+    {
+      "date": "2026-08-06",
+      "end_date": "2026-08-06",
+      "venue": "Utepils Brewery",
+      "title": "612 Teppanyaki",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "612 Teppanyaki"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/612-teppanyaki/2026-08-06/"
+    },
+    {
+      "date": "2026-08-06",
+      "end_date": "2026-08-06",
+      "venue": "Utepils Brewery",
+      "title": "Cribbage Tournament",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cribbage Tournament"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-08-06/"
+    },
+    {
+      "date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "venue": "Utepils Brewery",
+      "title": "Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-08-07/"
+    },
+    {
+      "date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "venue": "Utepils Brewery",
+      "title": "Brick Oven Bus",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Brick Oven Bus"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/brick-oven-bus/2026-08-07/"
+    },
+    {
+      "date": "2026-08-08",
+      "end_date": "2026-08-08",
+      "venue": "Utepils Brewery",
+      "title": "Cuchillo",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Cuchillo"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cuchillo/2026-08-08/"
+    },
+    {
+      "date": "2026-08-09",
+      "end_date": "2026-08-09",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-08-09/"
+    },
+    {
+      "date": "2026-08-09",
+      "end_date": "2026-08-09",
+      "venue": "Utepils Brewery",
+      "title": "Taste of Chile by Emconada",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Taste of Chile by Emconada"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/taste-of-chile-by-emconada/2026-08-09/"
+    },
+    {
+      "date": "2026-08-10",
+      "end_date": "2026-08-10",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-08-10/"
+    },
+    {
+      "date": "2026-08-10",
+      "end_date": "2026-08-10",
+      "venue": "Utepils Brewery",
+      "title": "Roon's Savories",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Roon's Savories"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/roons-savories/2026-08-10/"
+    },
+    {
+      "date": "2026-08-10",
+      "end_date": "2026-08-10",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-08-10/"
+    },
+    {
+      "date": "2026-08-11",
+      "end_date": "2026-08-11",
+      "venue": "Utepils Brewery",
+      "title": "Gerhard's Brats",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Gerhard's Brats"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/gerhards-brats/2026-08-11/"
+    },
+    {
+      "date": "2026-08-11",
+      "end_date": "2026-08-11",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-08-11/"
+    },
+    {
+      "date": "2026-08-12",
+      "end_date": "2026-08-12",
+      "venue": "Utepils Brewery",
+      "title": "Thai Thai",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Thai Thai"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/thai-thai/2026-08-12/"
+    },
+    {
+      "date": "2026-08-12",
+      "end_date": "2026-08-12",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-08-12/"
+    },
+    {
+      "date": "2026-08-13",
+      "end_date": "2026-08-13",
+      "venue": "Utepils Brewery",
+      "title": "Sweet Lou's Meats",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Sweet Lou's Meats"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/sweet-lous-meats/2026-08-13/"
+    },
+    {
+      "date": "2026-08-13",
+      "end_date": "2026-08-13",
+      "venue": "Utepils Brewery",
+      "title": "Cribbage Tournament",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cribbage Tournament"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-08-13/"
+    },
+    {
+      "date": "2026-08-14",
+      "end_date": "2026-08-14",
+      "venue": "Utepils Brewery",
+      "title": "Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-08-14/"
+    },
+    {
+      "date": "2026-08-14",
+      "end_date": "2026-08-14",
+      "venue": "Utepils Brewery",
+      "title": "Kielbasa Fest 2026",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Kielbasa Fest 2026"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/kielbasa-fest-2026/2026-08-14/"
+    },
+    {
+      "date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "venue": "Utepils Brewery",
+      "title": "Kielbasa Fest 2026",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Kielbasa Fest 2026"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/kielbasa-fest-2026/2026-08-15/"
+    },
+    {
+      "date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "venue": "Utepils Brewery",
+      "title": "MNUFC Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "8:30 PM",
+      "artists": [
+        "MNUFC Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/mnufc-watch-parties/2026-08-15/"
+    },
+    {
+      "date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-08-16/"
+    },
+    {
+      "date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "venue": "Utepils Brewery",
+      "title": "Kham Fu Dee",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Kham Fu Dee"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/kham-fu-dee/2026-08-16/"
+    },
+    {
+      "date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "venue": "Utepils Brewery",
+      "title": "International Café",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "International Café"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/international-cafe/2026-08-16/"
+    },
+    {
+      "date": "2026-08-17",
+      "end_date": "2026-08-17",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-08-17/"
+    },
+    {
+      "date": "2026-08-17",
+      "end_date": "2026-08-17",
+      "venue": "Utepils Brewery",
+      "title": "Northeast Pretzels",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Northeast Pretzels"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/northeast-pretzels/2026-08-17/"
+    },
+    {
+      "date": "2026-08-17",
+      "end_date": "2026-08-17",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-08-17/"
+    },
+    {
+      "date": "2026-08-17",
+      "end_date": "2026-08-17",
+      "venue": "Utepils Brewery",
+      "title": "Dame Errant Clay Workshop - Pinch Pot Mug",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Dame Errant Clay Workshop - Pinch Pot Mug"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/dame-errant-clay-workshop-pinch-pot-mug/"
+    },
+    {
+      "date": "2026-08-18",
+      "end_date": "2026-08-18",
+      "venue": "Utepils Brewery",
+      "title": "ParraLily",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "ParraLily"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/parralily/2026-08-18/"
+    },
+    {
+      "date": "2026-08-18",
+      "end_date": "2026-08-18",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-08-18/"
+    },
+    {
+      "date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "venue": "Utepils Brewery",
+      "title": "La Cochinita",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "La Cochinita"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/la-cochinita/2026-08-19/"
+    },
+    {
+      "date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-08-19/"
+    },
+    {
+      "date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "venue": "Utepils Brewery",
+      "title": "MNUFC Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "MNUFC Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/mnufc-watch-parties/2026-08-19/"
+    },
+    {
+      "date": "2026-08-20",
+      "end_date": "2026-08-20",
+      "venue": "Utepils Brewery",
+      "title": "Purple People Feeder",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Purple People Feeder"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/purple-people-feeder/2026-08-20/"
+    },
+    {
+      "date": "2026-08-20",
+      "end_date": "2026-08-20",
+      "venue": "Utepils Brewery",
+      "title": "Cribbage Tournament",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cribbage Tournament"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-08-20/"
+    },
+    {
+      "date": "2026-08-21",
+      "end_date": "2026-08-21",
+      "venue": "Utepils Brewery",
+      "title": "Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-08-21/"
+    },
+    {
+      "date": "2026-08-21",
+      "end_date": "2026-08-21",
+      "venue": "Utepils Brewery",
+      "title": "Brown Chicken Brown Cow",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Brown Chicken Brown Cow"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/brown-chicken-brown-cow/2026-08-21/"
+    },
+    {
+      "date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "venue": "Utepils Brewery",
+      "title": "Cuchillo",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Cuchillo"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cuchillo/2026-08-22/"
+    },
+    {
+      "date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-08-23/"
+    },
+    {
+      "date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "venue": "Utepils Brewery",
+      "title": "Gerhard's Brats",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Gerhard's Brats"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/gerhards-brats/2026-08-23/"
+    },
+    {
+      "date": "2026-08-24",
+      "end_date": "2026-08-24",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-08-24/"
+    },
+    {
+      "date": "2026-08-24",
+      "end_date": "2026-08-24",
+      "venue": "Utepils Brewery",
+      "title": "Northeast Pretzels",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Northeast Pretzels"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/northeast-pretzels/2026-08-24/"
+    },
+    {
+      "date": "2026-08-24",
+      "end_date": "2026-08-24",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-08-24/"
+    },
+    {
+      "date": "2026-08-25",
+      "end_date": "2026-08-25",
+      "venue": "Utepils Brewery",
+      "title": "Taste of Chile by Emconada",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Taste of Chile by Emconada"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/taste-of-chile-by-emconada/2026-08-25/"
+    },
+    {
+      "date": "2026-08-25",
+      "end_date": "2026-08-25",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-08-25/"
+    },
+    {
+      "date": "2026-08-26",
+      "end_date": "2026-08-26",
+      "venue": "Utepils Brewery",
+      "title": "Sizzling Wagon",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Sizzling Wagon"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/sizzling-wagon/2026-08-26/"
+    },
+    {
+      "date": "2026-08-26",
+      "end_date": "2026-08-26",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-08-26/"
+    },
+    {
+      "date": "2026-08-27",
+      "end_date": "2026-08-27",
+      "venue": "Utepils Brewery",
+      "title": "Sweet Lou's Meats",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Sweet Lou's Meats"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/sweet-lous-meats/2026-08-27/"
+    },
+    {
+      "date": "2026-08-27",
+      "end_date": "2026-08-27",
+      "venue": "Utepils Brewery",
+      "title": "Cribbage Tournament",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cribbage Tournament"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-08-27/"
+    },
+    {
+      "date": "2026-08-28",
+      "end_date": "2026-08-28",
+      "venue": "Utepils Brewery",
+      "title": "Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-08-28/"
+    },
+    {
+      "date": "2026-08-28",
+      "end_date": "2026-08-28",
+      "venue": "Utepils Brewery",
+      "title": "Kham Fu Dee",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Kham Fu Dee"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/kham-fu-dee/2026-08-28/"
+    },
+    {
+      "date": "2026-08-29",
+      "end_date": "2026-08-29",
+      "venue": "Utepils Brewery",
+      "title": "Brick Oven Bus",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Brick Oven Bus"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/brick-oven-bus/2026-08-29/"
+    },
+    {
+      "date": "2026-08-29",
+      "end_date": "2026-08-29",
+      "venue": "Utepils Brewery",
+      "title": "Beer Garden Grooves",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Beer Garden Grooves"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/beer-garden-grooves-7/"
+    },
+    {
+      "date": "2026-08-29",
+      "end_date": "2026-08-29",
+      "venue": "Utepils Brewery",
+      "title": "MNUFC Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "MNUFC Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/mnufc-watch-parties/2026-08-29/"
+    },
+    {
+      "date": "2026-08-30",
+      "end_date": "2026-08-30",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-08-30/"
+    },
+    {
+      "date": "2026-08-30",
+      "end_date": "2026-08-30",
+      "venue": "Utepils Brewery",
+      "title": "Red Rocket Pizza",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Red Rocket Pizza"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/red-rocket-pizza/2026-08-30/"
+    },
+    {
+      "date": "2026-08-31",
+      "end_date": "2026-08-31",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-08-31/"
+    },
+    {
+      "date": "2026-08-31",
+      "end_date": "2026-08-31",
+      "venue": "Utepils Brewery",
+      "title": "Roon's Savories",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Roon's Savories"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/roons-savories/2026-08-31/"
+    },
+    {
+      "date": "2026-08-31",
+      "end_date": "2026-08-31",
+      "venue": "Utepils Brewery",
+      "title": "Sociable Circuit",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Sociable Circuit"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/sociable-circuit-2/2026-08-31/"
+    },
+    {
+      "date": "2026-08-31",
+      "end_date": "2026-08-31",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-08-31/"
+    },
+    {
+      "date": "2026-09-01",
+      "end_date": "2026-09-01",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-09-01/"
+    },
+    {
+      "date": "2026-09-02",
+      "end_date": "2026-09-02",
+      "venue": "Utepils Brewery",
+      "title": "La Cochinita",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "La Cochinita"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/la-cochinita/2026-09-02/"
+    },
+    {
+      "date": "2026-09-02",
+      "end_date": "2026-09-02",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-09-02/"
+    },
+    {
+      "date": "2026-09-03",
+      "end_date": "2026-09-03",
+      "venue": "Utepils Brewery",
+      "title": "Cribbage Tournament",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cribbage Tournament"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-09-03/"
+    },
+    {
+      "date": "2026-09-04",
+      "end_date": "2026-09-04",
+      "venue": "Utepils Brewery",
+      "title": "Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-09-04/"
+    },
+    {
+      "date": "2026-09-06",
+      "end_date": "2026-09-06",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-09-06/"
+    },
+    {
+      "date": "2026-09-06",
+      "end_date": "2026-09-06",
+      "venue": "Utepils Brewery",
+      "title": "International Café",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "International Café"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/international-cafe/2026-09-06/"
+    },
+    {
+      "date": "2026-09-07",
+      "end_date": "2026-09-07",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-09-07/"
+    },
+    {
+      "date": "2026-09-07",
+      "end_date": "2026-09-07",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-09-07/"
+    },
+    {
+      "date": "2026-09-07",
+      "end_date": "2026-09-07",
+      "venue": "Utepils Brewery",
+      "title": "Backgammon & Brews",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Backgammon & Brews"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/backgammon-brews/2026-09-07/"
+    },
+    {
+      "date": "2026-09-08",
+      "end_date": "2026-09-08",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-09-08/"
+    },
+    {
+      "date": "2026-09-09",
+      "end_date": "2026-09-09",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-09-09/"
+    },
+    {
+      "date": "2026-09-09",
+      "end_date": "2026-09-09",
+      "venue": "Utepils Brewery",
+      "title": "MNUFC Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "MNUFC Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/mnufc-watch-parties/2026-09-09/"
+    },
+    {
+      "date": "2026-09-10",
+      "end_date": "2026-09-10",
+      "venue": "Utepils Brewery",
+      "title": "Sweet Lou's Meats",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Sweet Lou's Meats"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/sweet-lous-meats/2026-09-10/"
+    },
+    {
+      "date": "2026-09-10",
+      "end_date": "2026-09-10",
+      "venue": "Utepils Brewery",
+      "title": "Cribbage Tournament",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cribbage Tournament"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-09-10/"
+    },
+    {
+      "date": "2026-09-11",
+      "end_date": "2026-09-11",
+      "venue": "Utepils Brewery",
+      "title": "Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-09-11/"
+    },
+    {
+      "date": "2026-09-11",
+      "end_date": "2026-09-11",
+      "venue": "Utepils Brewery",
+      "title": "Oktoberfest 2026",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Oktoberfest 2026"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/oktoberfest-2026/2026-09-11/"
+    },
+    {
+      "date": "2026-09-12",
+      "end_date": "2026-09-12",
+      "venue": "Utepils Brewery",
+      "title": "Oktoberfest 2026",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Oktoberfest 2026"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/oktoberfest-2026/2026-09-12/"
+    },
+    {
+      "date": "2026-09-12",
+      "end_date": "2026-09-12",
+      "venue": "Utepils Brewery",
+      "title": "MNUFC Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "MNUFC Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/mnufc-watch-parties/2026-09-12/"
+    },
+    {
+      "date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-09-13/"
+    },
+    {
+      "date": "2026-09-14",
+      "end_date": "2026-09-14",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-09-14/"
+    },
+    {
+      "date": "2026-09-14",
+      "end_date": "2026-09-14",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-09-14/"
+    },
+    {
+      "date": "2026-09-15",
+      "end_date": "2026-09-15",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-09-15/"
+    },
+    {
+      "date": "2026-09-16",
+      "end_date": "2026-09-16",
+      "venue": "Utepils Brewery",
+      "title": "La Cochinita",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "La Cochinita"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/la-cochinita/2026-09-16/"
+    },
+    {
+      "date": "2026-09-16",
+      "end_date": "2026-09-16",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-09-16/"
+    },
+    {
+      "date": "2026-09-17",
+      "end_date": "2026-09-17",
+      "venue": "Utepils Brewery",
+      "title": "Cribbage Tournament",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cribbage Tournament"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-09-17/"
+    },
+    {
+      "date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "venue": "Utepils Brewery",
+      "title": "Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-09-18/"
+    },
+    {
+      "date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "venue": "Utepils Brewery",
+      "title": "Gerhard's Brats",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Gerhard's Brats"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/gerhards-brats/2026-09-18/"
+    },
+    {
+      "date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "venue": "Utepils Brewery",
+      "title": "Northeast Pretzels",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Northeast Pretzels"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/northeast-pretzels/2026-09-18/"
+    },
+    {
+      "date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "venue": "Utepils Brewery",
+      "title": "Oktoberfest 2026",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Oktoberfest 2026"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/oktoberfest-2026/2026-09-18/"
+    },
+    {
+      "date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "venue": "Utepils Brewery",
+      "title": "Gerhard's Brats",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Gerhard's Brats"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/gerhards-brats/2026-09-19/"
+    },
+    {
+      "date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "venue": "Utepils Brewery",
+      "title": "Cuchillo",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Cuchillo"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cuchillo/2026-09-19/"
+    },
+    {
+      "date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "venue": "Utepils Brewery",
+      "title": "Oktoberfest 2026",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Oktoberfest 2026"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/oktoberfest-2026/2026-09-19/"
+    },
+    {
+      "date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "venue": "Utepils Brewery",
+      "title": "Northeast Pretzels",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Northeast Pretzels"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/northeast-pretzels/2026-09-19/"
+    },
+    {
+      "date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "venue": "Utepils Brewery",
+      "title": "Sweet Lou's Meats",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Sweet Lou's Meats"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/sweet-lous-meats/2026-09-19/"
+    },
+    {
+      "date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "venue": "Utepils Brewery",
+      "title": "MNUFC Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "MNUFC Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/mnufc-watch-parties/2026-09-19/"
+    },
+    {
+      "date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-09-20/"
+    },
+    {
+      "date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "venue": "Utepils Brewery",
+      "title": "International Café",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "International Café"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/international-cafe/2026-09-20/"
+    },
+    {
+      "date": "2026-09-21",
+      "end_date": "2026-09-21",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-09-21/"
+    },
+    {
+      "date": "2026-09-21",
+      "end_date": "2026-09-21",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-09-21/"
+    },
+    {
+      "date": "2026-09-22",
+      "end_date": "2026-09-22",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-09-22/"
+    },
+    {
+      "date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-09-23/"
+    },
+    {
+      "date": "2026-09-24",
+      "end_date": "2026-09-24",
+      "venue": "Utepils Brewery",
+      "title": "Sweet Lou's Meats",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Sweet Lou's Meats"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/sweet-lous-meats/2026-09-24/"
+    },
+    {
+      "date": "2026-09-24",
+      "end_date": "2026-09-24",
+      "venue": "Utepils Brewery",
+      "title": "Cribbage Tournament",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cribbage Tournament"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-09-24/"
+    },
+    {
+      "date": "2026-09-25",
+      "end_date": "2026-09-25",
+      "venue": "Utepils Brewery",
+      "title": "Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-09-25/"
+    },
+    {
+      "date": "2026-09-25",
+      "end_date": "2026-09-25",
+      "venue": "Utepils Brewery",
+      "title": "Gerhard's Brats",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Gerhard's Brats"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/gerhards-brats/2026-09-25/"
+    },
+    {
+      "date": "2026-09-25",
+      "end_date": "2026-09-25",
+      "venue": "Utepils Brewery",
+      "title": "Northeast Pretzels",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Northeast Pretzels"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/northeast-pretzels/2026-09-25/"
+    },
+    {
+      "date": "2026-09-25",
+      "end_date": "2026-09-25",
+      "venue": "Utepils Brewery",
+      "title": "Oktoberfest 2026",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Oktoberfest 2026"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/oktoberfest-2026/2026-09-25/"
+    },
+    {
+      "date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "venue": "Utepils Brewery",
+      "title": "Bad Rooster",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Bad Rooster"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/bad-rooster/2026-09-26/"
+    },
+    {
+      "date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "venue": "Utepils Brewery",
+      "title": "Bad Rooster",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Bad Rooster"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/bad-rooster-2/2026-09-26/"
+    },
+    {
+      "date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "venue": "Utepils Brewery",
+      "title": "Gerhard's Brats",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Gerhard's Brats"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/gerhards-brats/2026-09-26/"
+    },
+    {
+      "date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "venue": "Utepils Brewery",
+      "title": "Cuchillo",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Cuchillo"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cuchillo/2026-09-26/"
+    },
+    {
+      "date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "venue": "Utepils Brewery",
+      "title": "Oktoberfest 2026",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Oktoberfest 2026"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/oktoberfest-2026/2026-09-26/"
+    },
+    {
+      "date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "venue": "Utepils Brewery",
+      "title": "Northeast Pretzels",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Northeast Pretzels"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/northeast-pretzels/2026-09-26/"
+    },
+    {
+      "date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "venue": "Utepils Brewery",
+      "title": "MNUFC Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "MNUFC Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/mnufc-watch-parties/2026-09-26/"
+    },
+    {
+      "date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-09-27/"
+    },
+    {
+      "date": "2026-09-28",
+      "end_date": "2026-09-28",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-09-28/"
+    },
+    {
+      "date": "2026-09-28",
+      "end_date": "2026-09-28",
+      "venue": "Utepils Brewery",
+      "title": "Sociable Circuit",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Sociable Circuit"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/sociable-circuit-2/2026-09-28/"
+    },
+    {
+      "date": "2026-09-28",
+      "end_date": "2026-09-28",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-09-28/"
+    },
+    {
+      "date": "2026-09-29",
+      "end_date": "2026-09-29",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-09-29/"
+    },
+    {
+      "date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "venue": "Utepils Brewery",
+      "title": "La Cochinita",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "La Cochinita"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/la-cochinita/2026-09-30/"
+    },
+    {
+      "date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-09-30/"
+    },
+    {
+      "date": "2026-10-01",
+      "end_date": "2026-10-01",
+      "venue": "Utepils Brewery",
+      "title": "Cribbage Tournament",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cribbage Tournament"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-10-01/"
+    },
+    {
+      "date": "2026-10-02",
+      "end_date": "2026-10-02",
+      "venue": "Utepils Brewery",
+      "title": "Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-10-02/"
+    },
+    {
+      "date": "2026-10-03",
+      "end_date": "2026-10-03",
+      "venue": "Utepils Brewery",
+      "title": "Cuchillo",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Cuchillo"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cuchillo/2026-10-03/"
+    },
+    {
+      "date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-10-04/"
+    },
+    {
+      "date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "venue": "Utepils Brewery",
+      "title": "International Café",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "International Café"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/international-cafe/2026-10-04/"
+    },
+    {
+      "date": "2026-10-05",
+      "end_date": "2026-10-05",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-10-05/"
+    },
+    {
+      "date": "2026-10-05",
+      "end_date": "2026-10-05",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-10-05/"
+    },
+    {
+      "date": "2026-10-05",
+      "end_date": "2026-10-05",
+      "venue": "Utepils Brewery",
+      "title": "Backgammon & Brews",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Backgammon & Brews"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/backgammon-brews/2026-10-05/"
+    },
+    {
+      "date": "2026-10-06",
+      "end_date": "2026-10-06",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-10-06/"
+    },
+    {
+      "date": "2026-10-07",
+      "end_date": "2026-10-07",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-10-07/"
+    },
+    {
+      "date": "2026-10-08",
+      "end_date": "2026-10-08",
+      "venue": "Utepils Brewery",
+      "title": "Cribbage Tournament",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cribbage Tournament"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-10-08/"
+    },
+    {
+      "date": "2026-10-09",
+      "end_date": "2026-10-09",
+      "venue": "Utepils Brewery",
+      "title": "Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-10-09/"
+    },
+    {
+      "date": "2026-10-10",
+      "end_date": "2026-10-10",
+      "venue": "Utepils Brewery",
+      "title": "MNUFC Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "MNUFC Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/mnufc-watch-parties/2026-10-10/"
+    },
+    {
+      "date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-10-11/"
+    },
+    {
+      "date": "2026-10-12",
+      "end_date": "2026-10-12",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-10-12/"
+    },
+    {
+      "date": "2026-10-12",
+      "end_date": "2026-10-12",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-10-12/"
+    },
+    {
+      "date": "2026-10-13",
+      "end_date": "2026-10-13",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-10-13/"
+    },
+    {
+      "date": "2026-10-14",
+      "end_date": "2026-10-14",
+      "venue": "Utepils Brewery",
+      "title": "La Cochinita",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "La Cochinita"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/la-cochinita/2026-10-14/"
+    },
+    {
+      "date": "2026-10-14",
+      "end_date": "2026-10-14",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-10-14/"
+    },
+    {
+      "date": "2026-10-14",
+      "end_date": "2026-10-14",
+      "venue": "Utepils Brewery",
+      "title": "MNUFC Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "8:30 PM",
+      "artists": [
+        "MNUFC Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/mnufc-watch-parties/2026-10-14/"
+    },
+    {
+      "date": "2026-10-15",
+      "end_date": "2026-10-15",
+      "venue": "Utepils Brewery",
+      "title": "Cribbage Tournament",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Cribbage Tournament"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-10-15/"
+    },
+    {
+      "date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "venue": "Utepils Brewery",
+      "title": "Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Happy Hour"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-10-16/"
+    },
+    {
+      "date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "venue": "Utepils Brewery",
+      "title": "Cuchillo",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Cuchillo"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/cuchillo/2026-10-17/"
+    },
+    {
+      "date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "venue": "Utepils Brewery",
+      "title": "MNUFC Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:30 PM",
+      "artists": [
+        "MNUFC Watch Party"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/mnufc-watch-parties/2026-10-17/"
+    },
+    {
+      "date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "venue": "Utepils Brewery",
+      "title": "Yoga Flow with Annie Hayes",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Yoga Flow with Annie Hayes"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-10-18/"
+    },
+    {
+      "date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "venue": "Utepils Brewery",
+      "title": "International Café",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "International Café"
+      ],
+      "link": "https://www.utepilsbrewing.com/events/international-cafe/2026-10-18/"
+    }
+  ]
+}

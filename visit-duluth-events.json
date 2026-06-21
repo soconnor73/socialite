@@ -1,0 +1,3503 @@
+{
+  "metadata": {
+    "site": "visit_duluth",
+    "scraping_time": "2026-06-20T19:18:00.596394",
+    "start_date_range": "2026-06-20",
+    "end_date_range": "2026-10-18",
+    "total_shows_extracted": 291
+  },
+  "shows": [
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "North Shore Scenic Railroad",
+      "title": "Grandmas Marathon First Class Viewing Train",
+      "tour": "Duluth Event",
+      "support_raw": "5:45 AM  $127.20",
+      "artists": [
+        "Grandmas Marathon First Class Viewing Train"
+      ],
+      "link": "https://visitduluth.com/event/grandmas-marathon-first-class-viewing-train/"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Duluth Entertainment Convention Center (DECC)",
+      "title": "Bacon & Bloodies: Grandma's Marathon Race Viewing Bar",
+      "tour": "Duluth Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Bacon & Bloodies: Grandma's Marathon Race Viewing Bar"
+      ],
+      "link": "https://visitduluth.com/event/bacon-bloodies-grandmas-marathon-race-viewing-bar/"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Bayfront Festival Park",
+      "title": "Rock the Bayfront Festival",
+      "tour": "Duluth Event",
+      "support_raw": "9:00 AM",
+      "artists": [
+        "Rock the Bayfront Festival"
+      ],
+      "link": "https://visitduluth.com/event/rock-the-bayfront-festival/2026-06-20/"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Split Rock Lighthouse",
+      "title": "Photography & Art at the Rock: Voyageur Artists",
+      "tour": "Duluth Event",
+      "support_raw": "10:00 AM  Free",
+      "artists": [
+        "Photography & Art at the Rock: Voyageur Artists"
+      ],
+      "link": "https://visitduluth.com/event/photography-art-at-the-rock-voyageur-artists/2026-06-20/"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-06-20/"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Artist Alleyway",
+      "title": "Saturday Artist Alleyway Art Market",
+      "tour": "Duluth Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Saturday Artist Alleyway Art Market"
+      ],
+      "link": "https://visitduluth.com/event/saturday-artist-alleyway-art-market/2026-06-20/"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Bent Paddle Brewing",
+      "title": "Flamingo Fest",
+      "tour": "Duluth Event",
+      "support_raw": "3:00 PM  Free",
+      "artists": [
+        "Flamingo Fest"
+      ],
+      "link": "https://visitduluth.com/event/flamingo-fest/"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "North Shore Scenic Railroad",
+      "title": "Famous Dave's Summer BBQ Train",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  $70",
+      "artists": [
+        "Famous Dave's Summer BBQ Train"
+      ],
+      "link": "https://visitduluth.com/event/famous-daves-summer-bbq-train-2/2026-06-20/"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Zeitgeist Center for Arts & Community",
+      "title": "Science Riot: Scientists Doing Standup?!",
+      "tour": "Duluth Event",
+      "support_raw": "7:00 PM  $26",
+      "artists": [
+        "Science Riot: Scientists Doing Standup?!"
+      ],
+      "link": "https://visitduluth.com/event/science-riot-scientists-doing-standup/"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-06-20/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Split Rock Lighthouse",
+      "title": "Photography & Art at the Rock: Voyageur Artists",
+      "tour": "Duluth Event",
+      "support_raw": "10:00 AM  Free",
+      "artists": [
+        "Photography & Art at the Rock: Voyageur Artists"
+      ],
+      "link": "https://visitduluth.com/event/photography-art-at-the-rock-voyageur-artists/2026-06-21/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-06-21/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "North Shore Scenic Railroad",
+      "title": "Father's Day BBQ Lunch Train",
+      "tour": "Duluth Event",
+      "support_raw": "11:00 AM  $60 – $75",
+      "artists": [
+        "Father's Day BBQ Lunch Train"
+      ],
+      "link": "https://visitduluth.com/event/fathers-day-bbq-lunch-train/2026-06-21/1/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Ritual Marketplace",
+      "title": "Summer Solstice High Tea",
+      "tour": "Duluth Event",
+      "support_raw": "12:30 PM  $65",
+      "artists": [
+        "Summer Solstice High Tea"
+      ],
+      "link": "https://visitduluth.com/event/summer-solstice-high-tea/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "North Shore Scenic Railroad",
+      "title": "Father's Day BBQ Lunch Train",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  $60 – $75",
+      "artists": [
+        "Father's Day BBQ Lunch Train"
+      ],
+      "link": "https://visitduluth.com/event/fathers-day-bbq-lunch-train/2026-06-21/2/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-06-21/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-06-21/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Proctor KME Speedway",
+      "title": "Sunday Night at the Races",
+      "tour": "Duluth Event",
+      "support_raw": "4:30 PM  Free – $30",
+      "artists": [
+        "Sunday Night at the Races"
+      ],
+      "link": "https://visitduluth.com/event/sunday-night-at-the-races/2026-06-21/"
+    },
+    {
+      "date": "2026-06-22",
+      "end_date": "2026-06-22",
+      "venue": "Duluth",
+      "title": "Minnesota Monsters vs Michigan Arsenal",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM",
+      "artists": [
+        "Minnesota Monsters vs Michigan Arsenal"
+      ],
+      "link": "https://visitduluth.com/event/minnesota-monsters-vs-michigan-arsenal/"
+    },
+    {
+      "date": "2026-06-22",
+      "end_date": "2026-06-22",
+      "venue": "Lake Superior Zoo",
+      "title": "Forest Bathing at the Lake Superior Zoo",
+      "tour": "Duluth Event",
+      "support_raw": "9:30 AM  $40",
+      "artists": [
+        "Forest Bathing at the Lake Superior Zoo"
+      ],
+      "link": "https://visitduluth.com/event/forest-bathing-at-the-lake-superior-zoo/"
+    },
+    {
+      "date": "2026-06-22",
+      "end_date": "2026-06-22",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "RSTRNT 301: Chum Rhubarb Treats Kickoff",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "RSTRNT 301: Chum Rhubarb Treats Kickoff"
+      ],
+      "link": "https://visitduluth.com/event/rstrnt-301-chum-rhubarb-treats-kickoff/"
+    },
+    {
+      "date": "2026-06-22",
+      "end_date": "2026-06-22",
+      "venue": "Bent Paddle Brewing",
+      "title": "High Key Mondays & Industry Nights",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "High Key Mondays & Industry Nights"
+      ],
+      "link": "https://visitduluth.com/event/high-key-mondays-industry-nights/2026-06-22/"
+    },
+    {
+      "date": "2026-06-22",
+      "end_date": "2026-06-22",
+      "venue": "Bent Paddle Brewing",
+      "title": "The Roadside Lupines",
+      "tour": "Duluth Event",
+      "support_raw": "7:00 PM  Free",
+      "artists": [
+        "The Roadside Lupines"
+      ],
+      "link": "https://visitduluth.com/event/the-roadside-lupines/"
+    },
+    {
+      "date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "$10 Tuesday on the Vista Fleet",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM  $10",
+      "artists": [
+        "$10 Tuesday on the Vista Fleet"
+      ],
+      "link": "https://visitduluth.com/event/10-tuesday-on-the-vista-fleet/2026-06-23/"
+    },
+    {
+      "date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "venue": "Duluth Art Institute (Lincoln Park Building)",
+      "title": "Teen Open Studio (Spring Sessions)",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  $26 – $50",
+      "artists": [
+        "Teen Open Studio (Spring Sessions)"
+      ],
+      "link": "https://visitduluth.com/event/teen-open-studio-spring-sessions/2026-06-23/"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "Duluth Entertainment Convention Center (DECC)",
+      "title": "Leadership Duluth",
+      "tour": "Duluth Event",
+      "support_raw": "9:00 AM  Free",
+      "artists": [
+        "Leadership Duluth"
+      ],
+      "link": "https://visitduluth.com/event/leadership-duluth/2026-06-24/"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "William A. Irvin Museum",
+      "title": "Storytime on the Irvin",
+      "tour": "Duluth Event",
+      "support_raw": "9:30 AM  Free",
+      "artists": [
+        "Storytime on the Irvin"
+      ],
+      "link": "https://visitduluth.com/event/storytime-on-the-irvin/"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "Glensheen Mansion",
+      "title": "Beer Garden at Glensheen",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Beer Garden at Glensheen"
+      ],
+      "link": "https://visitduluth.com/event/beer-garden-at-glensheen/2026-06-24/"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "Weekly Wine Gatherings",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Weekly Wine Gatherings"
+      ],
+      "link": "https://visitduluth.com/event/weekly-wine-gatherings-2/2026-06-24/"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "Bent Paddle Brewing",
+      "title": "TNT HiFi Taproom Paddle Splash Reggae Party",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "TNT HiFi Taproom Paddle Splash Reggae Party"
+      ],
+      "link": "https://visitduluth.com/event/tnt-hifi-taproom-paddle-splash-reggae-party/2026-06-24/"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Lake Superior Live Cruise ft. Abe Curran",
+      "tour": "Duluth Event",
+      "support_raw": "6:30 PM  $2 – $51",
+      "artists": [
+        "Lake Superior Live Cruise ft. Abe Curran"
+      ],
+      "link": "https://visitduluth.com/event/lake-superior-live-cruise-ft-abe-curran/2026-06-24/"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "Pier B Resort Hotel",
+      "title": "Pier B Courtside Concerts",
+      "tour": "Duluth Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Pier B Courtside Concerts"
+      ],
+      "link": "https://visitduluth.com/event/pier-b-courtside-concerts/2026-06-24/"
+    },
+    {
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "venue": "Duluth Art Institute (Lincoln Park Building)",
+      "title": "Teen Open Studio (Spring Sessions)",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  $26 – $50",
+      "artists": [
+        "Teen Open Studio (Spring Sessions)"
+      ],
+      "link": "https://visitduluth.com/event/teen-open-studio-spring-sessions/2026-06-25/"
+    },
+    {
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "venue": "Clyde Iron Works",
+      "title": "Cookies on Tap",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  $40",
+      "artists": [
+        "Cookies on Tap"
+      ],
+      "link": "https://visitduluth.com/event/cookies-on-tap-2/"
+    },
+    {
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "venue": "Bent Paddle Brewing",
+      "title": "Prime Time at the Paddle: Meat Raffle & More",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "Prime Time at the Paddle: Meat Raffle & More"
+      ],
+      "link": "https://visitduluth.com/event/prime-time-at-the-paddle-meat-raffle-more/2026-06-25/"
+    },
+    {
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "venue": "Bent Paddle Brewing",
+      "title": "Vinyl Sighting Presents: Northern Wax Crew",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "Vinyl Sighting Presents: Northern Wax Crew"
+      ],
+      "link": "https://visitduluth.com/event/vinyl-sighting-presents-northern-wax-crew/2026-06-25/"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "venue": "Pier B Resort Hotel",
+      "title": "Science on Deck",
+      "tour": "Duluth Event",
+      "support_raw": "11:00 AM  Free",
+      "artists": [
+        "Science on Deck"
+      ],
+      "link": "https://visitduluth.com/event/science-on-deck-5/"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "venue": "North Shore Scenic Railroad",
+      "title": "Famous Dave's Summer BBQ Train",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  $70",
+      "artists": [
+        "Famous Dave's Summer BBQ Train"
+      ],
+      "link": "https://visitduluth.com/event/famous-daves-summer-bbq-train-2/2026-06-26/"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-06-26/"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "venue": "Bent Paddle Brewing",
+      "title": "D-Town Driftway: Mario Kart Live Band",
+      "tour": "Duluth Event",
+      "support_raw": "8:00 PM  Free",
+      "artists": [
+        "D-Town Driftway: Mario Kart Live Band"
+      ],
+      "link": "https://visitduluth.com/event/d-town-driftway-mario-kart-live-band/2026-06-26/"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "venue": "AMSOIL Arena",
+      "title": "\"Weird Al\" Yankovic: Bigger & Weirder 2026 Tour",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM",
+      "artists": [
+        "\"Weird Al\" Yankovic: Bigger & Weirder 2026 Tour"
+      ],
+      "link": "https://visitduluth.com/event/weird-al-yankovic-bigger-weirder-2026-tour/"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "Park Point",
+      "title": "Park Point Art Fair",
+      "tour": "Duluth Event",
+      "support_raw": "10:00 AM  Free",
+      "artists": [
+        "Park Point Art Fair"
+      ],
+      "link": "https://visitduluth.com/event/park-point-art-fair/2026-06-27/"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "Split Rock Lighthouse",
+      "title": "Photography & Art at the Rock: Voyageur Artists",
+      "tour": "Duluth Event",
+      "support_raw": "10:00 AM  Free",
+      "artists": [
+        "Photography & Art at the Rock: Voyageur Artists"
+      ],
+      "link": "https://visitduluth.com/event/photography-art-at-the-rock-voyageur-artists/2026-06-27/"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-06-27/"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "Split Rock Lighthouse",
+      "title": "Book Signing: Pearl's Garden by Carolyn Olson",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM",
+      "artists": [
+        "Book Signing: Pearl's Garden by Carolyn Olson"
+      ],
+      "link": "https://visitduluth.com/event/book-signing-pearls-garden-by-carolyn-olson/"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "Artist Alleyway",
+      "title": "Saturday Artist Alleyway Art Market",
+      "tour": "Duluth Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Saturday Artist Alleyway Art Market"
+      ],
+      "link": "https://visitduluth.com/event/saturday-artist-alleyway-art-market/2026-06-27/"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "North Shore Scenic Railroad",
+      "title": "Famous Dave's Summer BBQ Train",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  $70",
+      "artists": [
+        "Famous Dave's Summer BBQ Train"
+      ],
+      "link": "https://visitduluth.com/event/famous-daves-summer-bbq-train-2/2026-06-27/"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-06-27/"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Park Point",
+      "title": "Park Point Art Fair",
+      "tour": "Duluth Event",
+      "support_raw": "10:00 AM  Free",
+      "artists": [
+        "Park Point Art Fair"
+      ],
+      "link": "https://visitduluth.com/event/park-point-art-fair/2026-06-28/"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-06-28/"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-06-28/"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-06-28/"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Proctor KME Speedway",
+      "title": "Sunday Night at the Races",
+      "tour": "Duluth Event",
+      "support_raw": "4:30 PM  Free – $30",
+      "artists": [
+        "Sunday Night at the Races"
+      ],
+      "link": "https://visitduluth.com/event/sunday-night-at-the-races/2026-06-28/"
+    },
+    {
+      "date": "2026-06-29",
+      "end_date": "2026-06-29",
+      "venue": "Bent Paddle Brewing",
+      "title": "High Key Mondays & Industry Nights",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "High Key Mondays & Industry Nights"
+      ],
+      "link": "https://visitduluth.com/event/high-key-mondays-industry-nights/2026-06-29/"
+    },
+    {
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "$10 Tuesday on the Vista Fleet",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM  $10",
+      "artists": [
+        "$10 Tuesday on the Vista Fleet"
+      ],
+      "link": "https://visitduluth.com/event/10-tuesday-on-the-vista-fleet/2026-06-30/"
+    },
+    {
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "venue": "Various Locations",
+      "title": "Carlton County Animal Rescue Adoption Event",
+      "tour": "Duluth Event",
+      "support_raw": "4:30 PM",
+      "artists": [
+        "Carlton County Animal Rescue Adoption Event"
+      ],
+      "link": "https://visitduluth.com/event/carlton-county-animal-rescue-adoption-event/2026-06-30/"
+    },
+    {
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "venue": "Duluth Art Institute (Lincoln Park Building)",
+      "title": "Teen Open Studio (Spring Sessions)",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  $26 – $50",
+      "artists": [
+        "Teen Open Studio (Spring Sessions)"
+      ],
+      "link": "https://visitduluth.com/event/teen-open-studio-spring-sessions/2026-06-30/"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "Weekly Wine Gatherings",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Weekly Wine Gatherings"
+      ],
+      "link": "https://visitduluth.com/event/weekly-wine-gatherings-2/2026-07-01/"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "venue": "Glensheen Mansion",
+      "title": "Concerts on the Pier",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  Free",
+      "artists": [
+        "Concerts on the Pier"
+      ],
+      "link": "https://visitduluth.com/event/concerts-on-the-pier/2026-07-01/"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Lake Superior Live Cruise ft. Abe Curran",
+      "tour": "Duluth Event",
+      "support_raw": "6:30 PM  $2 – $51",
+      "artists": [
+        "Lake Superior Live Cruise ft. Abe Curran"
+      ],
+      "link": "https://visitduluth.com/event/lake-superior-live-cruise-ft-abe-curran/2026-07-01/"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "venue": "Pier B Resort Hotel",
+      "title": "Pier B Courtside Concerts",
+      "tour": "Duluth Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Pier B Courtside Concerts"
+      ],
+      "link": "https://visitduluth.com/event/pier-b-courtside-concerts/2026-07-01/"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "venue": "Duluth",
+      "title": "HAIRBALL – Balls to the Walls Tour 2026",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM",
+      "artists": [
+        "HAIRBALL – Balls to the Walls Tour 2026"
+      ],
+      "link": "https://visitduluth.com/event/hairball-balls-to-the-walls-tour-2026/"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "venue": "North Shore Scenic Railroad",
+      "title": "Famous Dave's Summer BBQ Train",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  $70",
+      "artists": [
+        "Famous Dave's Summer BBQ Train"
+      ],
+      "link": "https://visitduluth.com/event/famous-daves-summer-bbq-train-2/2026-07-03/"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-07-03/"
+    },
+    {
+      "date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-07-04/"
+    },
+    {
+      "date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "venue": "Bayfront Festival Park",
+      "title": "City of Duluth Fourth Fest",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 PM  Free",
+      "artists": [
+        "City of Duluth Fourth Fest"
+      ],
+      "link": "https://visitduluth.com/event/duluth-fourth-fest/"
+    },
+    {
+      "date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "venue": "North Shore Scenic Railroad",
+      "title": "Famous Dave's Summer BBQ Train",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  $70",
+      "artists": [
+        "Famous Dave's Summer BBQ Train"
+      ],
+      "link": "https://visitduluth.com/event/famous-daves-summer-bbq-train-2/2026-07-04/"
+    },
+    {
+      "date": "2026-07-05",
+      "end_date": "2026-07-05",
+      "venue": "Duluth",
+      "title": "Minnesota Monsters vs Kentucky Barrels",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM",
+      "artists": [
+        "Minnesota Monsters vs Kentucky Barrels"
+      ],
+      "link": "https://visitduluth.com/event/minnesota-monsters-vs-kentucky-barrels-2/"
+    },
+    {
+      "date": "2026-07-05",
+      "end_date": "2026-07-05",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-07-05/"
+    },
+    {
+      "date": "2026-07-05",
+      "end_date": "2026-07-05",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-07-05/"
+    },
+    {
+      "date": "2026-07-05",
+      "end_date": "2026-07-05",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-07-05/"
+    },
+    {
+      "date": "2026-07-05",
+      "end_date": "2026-07-05",
+      "venue": "Proctor KME Speedway",
+      "title": "Sunday Night at the Races",
+      "tour": "Duluth Event",
+      "support_raw": "4:30 PM  Free – $30",
+      "artists": [
+        "Sunday Night at the Races"
+      ],
+      "link": "https://visitduluth.com/event/sunday-night-at-the-races/2026-07-05/"
+    },
+    {
+      "date": "2026-07-05",
+      "end_date": "2026-07-05",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-07-05/"
+    },
+    {
+      "date": "2026-07-06",
+      "end_date": "2026-07-06",
+      "venue": "Bent Paddle Brewing",
+      "title": "High Key Mondays & Industry Nights",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "High Key Mondays & Industry Nights"
+      ],
+      "link": "https://visitduluth.com/event/high-key-mondays-industry-nights/2026-07-06/"
+    },
+    {
+      "date": "2026-07-07",
+      "end_date": "2026-07-07",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "$10 Tuesday on the Vista Fleet",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM  $10",
+      "artists": [
+        "$10 Tuesday on the Vista Fleet"
+      ],
+      "link": "https://visitduluth.com/event/10-tuesday-on-the-vista-fleet/2026-07-07/"
+    },
+    {
+      "date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "Weekly Wine Gatherings",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Weekly Wine Gatherings"
+      ],
+      "link": "https://visitduluth.com/event/weekly-wine-gatherings-2/2026-07-08/"
+    },
+    {
+      "date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "venue": "Glensheen Mansion",
+      "title": "Concerts on the Pier",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  Free",
+      "artists": [
+        "Concerts on the Pier"
+      ],
+      "link": "https://visitduluth.com/event/concerts-on-the-pier/2026-07-08/"
+    },
+    {
+      "date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "venue": "Lake Superior Zoo",
+      "title": "Trivia Night at Lake Superior Zoo",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "Trivia Night at Lake Superior Zoo"
+      ],
+      "link": "https://visitduluth.com/event/trivia-night-at-lake-superior-zoo/2026-07-08/"
+    },
+    {
+      "date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "venue": "Bent Paddle Brewing",
+      "title": "TNT HiFi Taproom Paddle Splash Reggae Party",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "TNT HiFi Taproom Paddle Splash Reggae Party"
+      ],
+      "link": "https://visitduluth.com/event/tnt-hifi-taproom-paddle-splash-reggae-party/2026-07-08/"
+    },
+    {
+      "date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "venue": "Bent Paddle Brewing",
+      "title": "Vinyl Sighting Presents: Northern Wax Crew",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "Vinyl Sighting Presents: Northern Wax Crew"
+      ],
+      "link": "https://visitduluth.com/event/vinyl-sighting-presents-northern-wax-crew/2026-07-09/"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "North Shore Scenic Railroad",
+      "title": "Famous Dave's Summer BBQ Train",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  $70",
+      "artists": [
+        "Famous Dave's Summer BBQ Train"
+      ],
+      "link": "https://visitduluth.com/event/famous-daves-summer-bbq-train-2/2026-07-10/"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-07-10/"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "Bent Paddle Brewing",
+      "title": "D-Town Driftway: Mario Kart Live Band",
+      "tour": "Duluth Event",
+      "support_raw": "8:00 PM  Free",
+      "artists": [
+        "D-Town Driftway: Mario Kart Live Band"
+      ],
+      "link": "https://visitduluth.com/event/d-town-driftway-mario-kart-live-band/2026-07-10/"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "Leif Erikson Park",
+      "title": "Movies in the Park",
+      "tour": "Duluth Event",
+      "support_raw": "8:30 PM",
+      "artists": [
+        "Movies in the Park"
+      ],
+      "link": "https://visitduluth.com/event/movies-in-the-park/2026-07-10/"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-12",
+      "venue": "Duluth",
+      "title": "Duluth Air and Aviation Expo",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM",
+      "artists": [
+        "Duluth Air and Aviation Expo"
+      ],
+      "link": "https://visitduluth.com/event/duluth-air-and-aviation-expo/"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Duluth",
+      "title": "Minnesota Monsters vs Washington Wolfpack",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM",
+      "artists": [
+        "Minnesota Monsters vs Washington Wolfpack"
+      ],
+      "link": "https://visitduluth.com/event/minnesota-monsters-vs-washington-wolfpack/"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-07-11/"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Split Rock Lighthouse",
+      "title": "Book Signing: \"Following the Fish\" by Michael Risku",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Book Signing: \"Following the Fish\" by Michael Risku"
+      ],
+      "link": "https://visitduluth.com/event/book-signing-following-the-fish-by-michael-risku/"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Artist Alleyway",
+      "title": "Saturday Artist Alleyway Art Market",
+      "tour": "Duluth Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Saturday Artist Alleyway Art Market"
+      ],
+      "link": "https://visitduluth.com/event/saturday-artist-alleyway-art-market/2026-07-11/"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "North Shore Scenic Railroad",
+      "title": "Famous Dave's Summer BBQ Train",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  $70",
+      "artists": [
+        "Famous Dave's Summer BBQ Train"
+      ],
+      "link": "https://visitduluth.com/event/famous-daves-summer-bbq-train-2/2026-07-11/"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-07-11/"
+    },
+    {
+      "date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-07-12/"
+    },
+    {
+      "date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-07-12/"
+    },
+    {
+      "date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-07-12/"
+    },
+    {
+      "date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "venue": "Proctor KME Speedway",
+      "title": "Sunday Night at the Races",
+      "tour": "Duluth Event",
+      "support_raw": "4:30 PM  Free – $30",
+      "artists": [
+        "Sunday Night at the Races"
+      ],
+      "link": "https://visitduluth.com/event/sunday-night-at-the-races/2026-07-12/"
+    },
+    {
+      "date": "2026-07-13",
+      "end_date": "2026-07-13",
+      "venue": "Bent Paddle Brewing",
+      "title": "High Key Mondays & Industry Nights",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "High Key Mondays & Industry Nights"
+      ],
+      "link": "https://visitduluth.com/event/high-key-mondays-industry-nights/2026-07-13/"
+    },
+    {
+      "date": "2026-07-14",
+      "end_date": "2026-07-14",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "$10 Tuesday on the Vista Fleet",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM  $10",
+      "artists": [
+        "$10 Tuesday on the Vista Fleet"
+      ],
+      "link": "https://visitduluth.com/event/10-tuesday-on-the-vista-fleet/2026-07-14/"
+    },
+    {
+      "date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "venue": "St. Louis County Depot",
+      "title": "Antique Appraisal",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 PM  Free",
+      "artists": [
+        "Antique Appraisal"
+      ],
+      "link": "https://visitduluth.com/event/antique-appraisal/2026-07-15/"
+    },
+    {
+      "date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "Weekly Wine Gatherings",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Weekly Wine Gatherings"
+      ],
+      "link": "https://visitduluth.com/event/weekly-wine-gatherings-2/2026-07-15/"
+    },
+    {
+      "date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "venue": "Glensheen Mansion",
+      "title": "Concerts on the Pier",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  Free",
+      "artists": [
+        "Concerts on the Pier"
+      ],
+      "link": "https://visitduluth.com/event/concerts-on-the-pier/2026-07-15/"
+    },
+    {
+      "date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "venue": "Bent Paddle Brewing",
+      "title": "TNT HiFi Taproom Paddle Splash Presents Salsa!",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "TNT HiFi Taproom Paddle Splash Presents Salsa!"
+      ],
+      "link": "https://visitduluth.com/event/tnt-hifi-taproom-paddle-splash-presents-salsa/2026-07-15/"
+    },
+    {
+      "date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "venue": "Pier B Resort Hotel",
+      "title": "Pier B Courtside Concerts",
+      "tour": "Duluth Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Pier B Courtside Concerts"
+      ],
+      "link": "https://visitduluth.com/event/pier-b-courtside-concerts/2026-07-15/"
+    },
+    {
+      "date": "2026-07-16",
+      "end_date": "2026-07-16",
+      "venue": "Hartley Nature Center",
+      "title": "Hartley Sustainability Workshop Series",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Hartley Sustainability Workshop Series"
+      ],
+      "link": "https://visitduluth.com/event/hartley-sustainability-workshop-series/2026-07-16/"
+    },
+    {
+      "date": "2026-07-16",
+      "end_date": "2026-07-16",
+      "venue": "Park Point Beach House",
+      "title": "Park Point 5-Miler & 2-Mile Walk",
+      "tour": "Duluth Event",
+      "support_raw": "6:30 PM  $20 – $40",
+      "artists": [
+        "Park Point 5-Miler & 2-Mile Walk"
+      ],
+      "link": "https://visitduluth.com/event/park-point-5-miler-2-mile-walk/"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "venue": "Duluth Entertainment Convention Center (DECC)",
+      "title": "Science on Deck",
+      "tour": "Duluth Event",
+      "support_raw": "11:00 AM  Free",
+      "artists": [
+        "Science on Deck"
+      ],
+      "link": "https://visitduluth.com/event/science-on-deck-4/"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "venue": "North Shore Scenic Railroad",
+      "title": "Famous Dave's Summer BBQ Train",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  $70",
+      "artists": [
+        "Famous Dave's Summer BBQ Train"
+      ],
+      "link": "https://visitduluth.com/event/famous-daves-summer-bbq-train-2/2026-07-17/"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-07-17/"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "venue": "Leif Erikson Park",
+      "title": "Movies in the Park",
+      "tour": "Duluth Event",
+      "support_raw": "8:30 PM",
+      "artists": [
+        "Movies in the Park"
+      ],
+      "link": "https://visitduluth.com/event/movies-in-the-park/2026-07-17/"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Duluth",
+      "title": "Minnesota Monsters vs Beaumont Renegades",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM",
+      "artists": [
+        "Minnesota Monsters vs Beaumont Renegades"
+      ],
+      "link": "https://visitduluth.com/event/minnesota-monsters-vs-beaumont-renegades/"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-07-18/"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Artist Alleyway",
+      "title": "Saturday Artist Alleyway Art Market",
+      "tour": "Duluth Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Saturday Artist Alleyway Art Market"
+      ],
+      "link": "https://visitduluth.com/event/saturday-artist-alleyway-art-market/2026-07-18/"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Bayfront Festival Park",
+      "title": "Bayfront Reggae & World Music Festival",
+      "tour": "Duluth Event",
+      "support_raw": "3:00 PM  $42 – $100",
+      "artists": [
+        "Bayfront Reggae & World Music Festival"
+      ],
+      "link": "https://visitduluth.com/event/bayfront-reggae-world-music-festival/2026-07-18/"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "North Shore Scenic Railroad",
+      "title": "Famous Dave's Summer BBQ Train",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  $70",
+      "artists": [
+        "Famous Dave's Summer BBQ Train"
+      ],
+      "link": "https://visitduluth.com/event/famous-daves-summer-bbq-train-2/2026-07-18/"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-07-18/"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-07-19/"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-07-19/"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-07-19/"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Proctor KME Speedway",
+      "title": "Sunday Night at the Races",
+      "tour": "Duluth Event",
+      "support_raw": "4:30 PM  Free – $30",
+      "artists": [
+        "Sunday Night at the Races"
+      ],
+      "link": "https://visitduluth.com/event/sunday-night-at-the-races/2026-07-19/"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-07-19/"
+    },
+    {
+      "date": "2026-07-20",
+      "end_date": "2026-07-20",
+      "venue": "Bent Paddle Brewing",
+      "title": "High Key Mondays & Industry Nights",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "High Key Mondays & Industry Nights"
+      ],
+      "link": "https://visitduluth.com/event/high-key-mondays-industry-nights/2026-07-20/"
+    },
+    {
+      "date": "2026-07-21",
+      "end_date": "2026-07-21",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "$10 Tuesday on the Vista Fleet",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM  $10",
+      "artists": [
+        "$10 Tuesday on the Vista Fleet"
+      ],
+      "link": "https://visitduluth.com/event/10-tuesday-on-the-vista-fleet/2026-07-21/"
+    },
+    {
+      "date": "2026-07-22",
+      "end_date": "2026-07-22",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "Weekly Wine Gatherings",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Weekly Wine Gatherings"
+      ],
+      "link": "https://visitduluth.com/event/weekly-wine-gatherings-2/2026-07-22/"
+    },
+    {
+      "date": "2026-07-22",
+      "end_date": "2026-07-22",
+      "venue": "Glensheen Mansion",
+      "title": "Concerts on the Pier",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  Free",
+      "artists": [
+        "Concerts on the Pier"
+      ],
+      "link": "https://visitduluth.com/event/concerts-on-the-pier/2026-07-22/"
+    },
+    {
+      "date": "2026-07-22",
+      "end_date": "2026-07-22",
+      "venue": "Bent Paddle Brewing",
+      "title": "TNT HiFi Taproom Paddle Splash Reggae Party",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "TNT HiFi Taproom Paddle Splash Reggae Party"
+      ],
+      "link": "https://visitduluth.com/event/tnt-hifi-taproom-paddle-splash-reggae-party/2026-07-22/"
+    },
+    {
+      "date": "2026-07-22",
+      "end_date": "2026-07-22",
+      "venue": "Pier B Resort Hotel",
+      "title": "Pier B Courtside Concerts",
+      "tour": "Duluth Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Pier B Courtside Concerts"
+      ],
+      "link": "https://visitduluth.com/event/pier-b-courtside-concerts/2026-07-22/"
+    },
+    {
+      "date": "2026-07-23",
+      "end_date": "2026-07-23",
+      "venue": "Bent Paddle Brewing",
+      "title": "Prime Time at the Paddle: Meat Raffle & More",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "Prime Time at the Paddle: Meat Raffle & More"
+      ],
+      "link": "https://visitduluth.com/event/prime-time-at-the-paddle-meat-raffle-more/2026-07-23/"
+    },
+    {
+      "date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "venue": "North Shore Scenic Railroad",
+      "title": "Famous Dave's Summer BBQ Train",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  $70",
+      "artists": [
+        "Famous Dave's Summer BBQ Train"
+      ],
+      "link": "https://visitduluth.com/event/famous-daves-summer-bbq-train-2/2026-07-24/"
+    },
+    {
+      "date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-07-24/"
+    },
+    {
+      "date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "venue": "Leif Erikson Park",
+      "title": "Movies in the Park",
+      "tour": "Duluth Event",
+      "support_raw": "8:30 PM",
+      "artists": [
+        "Movies in the Park"
+      ],
+      "link": "https://visitduluth.com/event/movies-in-the-park/2026-07-24/"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-07-25/"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "venue": "Artist Alleyway",
+      "title": "Saturday Artist Alleyway Art Market",
+      "tour": "Duluth Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Saturday Artist Alleyway Art Market"
+      ],
+      "link": "https://visitduluth.com/event/saturday-artist-alleyway-art-market/2026-07-25/"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "venue": "North Shore Scenic Railroad",
+      "title": "Famous Dave's Summer BBQ Train",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  $70",
+      "artists": [
+        "Famous Dave's Summer BBQ Train"
+      ],
+      "link": "https://visitduluth.com/event/famous-daves-summer-bbq-train-2/2026-07-25/"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-07-26/"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-07-26/"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-07-26/"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "venue": "Proctor KME Speedway",
+      "title": "Sunday Night at the Races",
+      "tour": "Duluth Event",
+      "support_raw": "4:30 PM  Free – $30",
+      "artists": [
+        "Sunday Night at the Races"
+      ],
+      "link": "https://visitduluth.com/event/sunday-night-at-the-races/2026-07-26/"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-07-26/"
+    },
+    {
+      "date": "2026-07-27",
+      "end_date": "2026-07-27",
+      "venue": "Bent Paddle Brewing",
+      "title": "High Key Mondays & Industry Nights",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "High Key Mondays & Industry Nights"
+      ],
+      "link": "https://visitduluth.com/event/high-key-mondays-industry-nights/2026-07-27/"
+    },
+    {
+      "date": "2026-07-28",
+      "end_date": "2026-07-28",
+      "venue": "Duluth",
+      "title": "TOAST – The Best of Bread",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM",
+      "artists": [
+        "TOAST – The Best of Bread"
+      ],
+      "link": "https://visitduluth.com/event/toast-the-best-of-bread/"
+    },
+    {
+      "date": "2026-07-28",
+      "end_date": "2026-07-28",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "$10 Tuesday on the Vista Fleet",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM  $10",
+      "artists": [
+        "$10 Tuesday on the Vista Fleet"
+      ],
+      "link": "https://visitduluth.com/event/10-tuesday-on-the-vista-fleet/2026-07-28/"
+    },
+    {
+      "date": "2026-07-29",
+      "end_date": "2026-07-29",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "Weekly Wine Gatherings",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Weekly Wine Gatherings"
+      ],
+      "link": "https://visitduluth.com/event/weekly-wine-gatherings-2/2026-07-29/"
+    },
+    {
+      "date": "2026-07-29",
+      "end_date": "2026-07-29",
+      "venue": "Glensheen Mansion",
+      "title": "Concerts on the Pier",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  Free",
+      "artists": [
+        "Concerts on the Pier"
+      ],
+      "link": "https://visitduluth.com/event/concerts-on-the-pier/2026-07-29/"
+    },
+    {
+      "date": "2026-07-29",
+      "end_date": "2026-07-29",
+      "venue": "Bent Paddle Brewing",
+      "title": "TNT HiFi Taproom Paddle Splash Reggae Party",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "TNT HiFi Taproom Paddle Splash Reggae Party"
+      ],
+      "link": "https://visitduluth.com/event/tnt-hifi-taproom-paddle-splash-reggae-party/2026-07-29/"
+    },
+    {
+      "date": "2026-07-29",
+      "end_date": "2026-07-29",
+      "venue": "Pier B Resort Hotel",
+      "title": "Pier B Courtside Concerts",
+      "tour": "Duluth Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Pier B Courtside Concerts"
+      ],
+      "link": "https://visitduluth.com/event/pier-b-courtside-concerts/2026-07-29/"
+    },
+    {
+      "date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "venue": "Duluth",
+      "title": "Killers of Kill Tony",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM",
+      "artists": [
+        "Killers of Kill Tony"
+      ],
+      "link": "https://visitduluth.com/event/killers-of-kill-tony/"
+    },
+    {
+      "date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "venue": "North Shore Scenic Railroad",
+      "title": "Famous Dave's Summer BBQ Train",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  $70",
+      "artists": [
+        "Famous Dave's Summer BBQ Train"
+      ],
+      "link": "https://visitduluth.com/event/famous-daves-summer-bbq-train-2/2026-07-31/"
+    },
+    {
+      "date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "venue": "Leif Erikson Park",
+      "title": "Movies in the Park",
+      "tour": "Duluth Event",
+      "support_raw": "8:30 PM",
+      "artists": [
+        "Movies in the Park"
+      ],
+      "link": "https://visitduluth.com/event/movies-in-the-park/2026-07-31/"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-08-01/"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Split Rock Lighthouse",
+      "title": "Book Signing: \"Remember the Main\" by Meg Gorzycki",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM",
+      "artists": [
+        "Book Signing: \"Remember the Main\" by Meg Gorzycki"
+      ],
+      "link": "https://visitduluth.com/event/book-signing-remember-the-main-by-meg-gorzycki/"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Artist Alleyway",
+      "title": "Saturday Artist Alleyway Art Market",
+      "tour": "Duluth Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Saturday Artist Alleyway Art Market"
+      ],
+      "link": "https://visitduluth.com/event/saturday-artist-alleyway-art-market/2026-08-01/"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Bayfront Festival Park",
+      "title": "All Pints North",
+      "tour": "Duluth Event",
+      "support_raw": "3:30 PM",
+      "artists": [
+        "All Pints North"
+      ],
+      "link": "https://visitduluth.com/event/all-pints-north/"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Proctor KME Speedway",
+      "title": "Sunday Night at the Races",
+      "tour": "Duluth Event",
+      "support_raw": "4:30 PM  Free – $30",
+      "artists": [
+        "Sunday Night at the Races"
+      ],
+      "link": "https://visitduluth.com/event/sunday-night-at-the-races/2026-08-01/"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-08-01/"
+    },
+    {
+      "date": "2026-08-02",
+      "end_date": "2026-08-02",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-08-02/"
+    },
+    {
+      "date": "2026-08-02",
+      "end_date": "2026-08-02",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-08-02/"
+    },
+    {
+      "date": "2026-08-02",
+      "end_date": "2026-08-02",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-08-02/"
+    },
+    {
+      "date": "2026-08-02",
+      "end_date": "2026-08-02",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-08-02/"
+    },
+    {
+      "date": "2026-08-03",
+      "end_date": "2026-08-03",
+      "venue": "Bent Paddle Brewing",
+      "title": "High Key Mondays & Industry Nights",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "High Key Mondays & Industry Nights"
+      ],
+      "link": "https://visitduluth.com/event/high-key-mondays-industry-nights/2026-08-03/"
+    },
+    {
+      "date": "2026-08-04",
+      "end_date": "2026-08-04",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "$10 Tuesday on the Vista Fleet",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM  $10",
+      "artists": [
+        "$10 Tuesday on the Vista Fleet"
+      ],
+      "link": "https://visitduluth.com/event/10-tuesday-on-the-vista-fleet/2026-08-04/"
+    },
+    {
+      "date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "Weekly Wine Gatherings",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Weekly Wine Gatherings"
+      ],
+      "link": "https://visitduluth.com/event/weekly-wine-gatherings-2/2026-08-05/"
+    },
+    {
+      "date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "venue": "Glensheen Mansion",
+      "title": "Concerts on the Pier",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  Free",
+      "artists": [
+        "Concerts on the Pier"
+      ],
+      "link": "https://visitduluth.com/event/concerts-on-the-pier/2026-08-05/"
+    },
+    {
+      "date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "venue": "Bent Paddle Brewing",
+      "title": "TNT HiFi Taproom Paddle Splash Reggae Party",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "TNT HiFi Taproom Paddle Splash Reggae Party"
+      ],
+      "link": "https://visitduluth.com/event/tnt-hifi-taproom-paddle-splash-reggae-party/2026-08-05/"
+    },
+    {
+      "date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "venue": "Pier B Resort Hotel",
+      "title": "Pier B Courtside Concerts",
+      "tour": "Duluth Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Pier B Courtside Concerts"
+      ],
+      "link": "https://visitduluth.com/event/pier-b-courtside-concerts/2026-08-05/"
+    },
+    {
+      "date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "venue": "Bayfront Festival Park",
+      "title": "City on the Hill Music Festival",
+      "tour": "Duluth Event",
+      "support_raw": "2:30 PM",
+      "artists": [
+        "City on the Hill Music Festival"
+      ],
+      "link": "https://visitduluth.com/event/city-on-the-hill-music-festival/2026-08-07/"
+    },
+    {
+      "date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "venue": "Leif Erikson Park",
+      "title": "Movies in the Park",
+      "tour": "Duluth Event",
+      "support_raw": "8:30 PM",
+      "artists": [
+        "Movies in the Park"
+      ],
+      "link": "https://visitduluth.com/event/movies-in-the-park/2026-08-07/"
+    },
+    {
+      "date": "2026-08-08",
+      "end_date": "2026-08-08",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-08-08/"
+    },
+    {
+      "date": "2026-08-08",
+      "end_date": "2026-08-08",
+      "venue": "Bayfront Festival Park",
+      "title": "City on the Hill Music Festival",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM",
+      "artists": [
+        "City on the Hill Music Festival"
+      ],
+      "link": "https://visitduluth.com/event/city-on-the-hill-music-festival/2026-08-08/"
+    },
+    {
+      "date": "2026-08-08",
+      "end_date": "2026-08-08",
+      "venue": "Artist Alleyway",
+      "title": "Saturday Artist Alleyway Art Market",
+      "tour": "Duluth Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Saturday Artist Alleyway Art Market"
+      ],
+      "link": "https://visitduluth.com/event/saturday-artist-alleyway-art-market/2026-08-08/"
+    },
+    {
+      "date": "2026-08-09",
+      "end_date": "2026-08-09",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-08-09/"
+    },
+    {
+      "date": "2026-08-09",
+      "end_date": "2026-08-09",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-08-09/"
+    },
+    {
+      "date": "2026-08-09",
+      "end_date": "2026-08-09",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-08-09/"
+    },
+    {
+      "date": "2026-08-09",
+      "end_date": "2026-08-09",
+      "venue": "Proctor KME Speedway",
+      "title": "Sunday Night at the Races",
+      "tour": "Duluth Event",
+      "support_raw": "4:30 PM  Free – $30",
+      "artists": [
+        "Sunday Night at the Races"
+      ],
+      "link": "https://visitduluth.com/event/sunday-night-at-the-races/2026-08-09/"
+    },
+    {
+      "date": "2026-08-09",
+      "end_date": "2026-08-09",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-08-09/"
+    },
+    {
+      "date": "2026-08-10",
+      "end_date": "2026-08-10",
+      "venue": "Bent Paddle Brewing",
+      "title": "High Key Mondays & Industry Nights",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "High Key Mondays & Industry Nights"
+      ],
+      "link": "https://visitduluth.com/event/high-key-mondays-industry-nights/2026-08-10/"
+    },
+    {
+      "date": "2026-08-11",
+      "end_date": "2026-08-11",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "$10 Tuesday on the Vista Fleet",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM  $10",
+      "artists": [
+        "$10 Tuesday on the Vista Fleet"
+      ],
+      "link": "https://visitduluth.com/event/10-tuesday-on-the-vista-fleet/2026-08-11/"
+    },
+    {
+      "date": "2026-08-12",
+      "end_date": "2026-08-12",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "Weekly Wine Gatherings",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Weekly Wine Gatherings"
+      ],
+      "link": "https://visitduluth.com/event/weekly-wine-gatherings-2/2026-08-12/"
+    },
+    {
+      "date": "2026-08-12",
+      "end_date": "2026-08-12",
+      "venue": "Glensheen Mansion",
+      "title": "Concerts on the Pier",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  Free",
+      "artists": [
+        "Concerts on the Pier"
+      ],
+      "link": "https://visitduluth.com/event/concerts-on-the-pier/2026-08-12/"
+    },
+    {
+      "date": "2026-08-12",
+      "end_date": "2026-08-12",
+      "venue": "Lake Superior Zoo",
+      "title": "Trivia Night at Lake Superior Zoo",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "Trivia Night at Lake Superior Zoo"
+      ],
+      "link": "https://visitduluth.com/event/trivia-night-at-lake-superior-zoo/2026-08-12/"
+    },
+    {
+      "date": "2026-08-12",
+      "end_date": "2026-08-12",
+      "venue": "Bent Paddle Brewing",
+      "title": "TNT HiFi Taproom Paddle Splash Reggae Party",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "TNT HiFi Taproom Paddle Splash Reggae Party"
+      ],
+      "link": "https://visitduluth.com/event/tnt-hifi-taproom-paddle-splash-reggae-party/2026-08-12/"
+    },
+    {
+      "date": "2026-08-14",
+      "end_date": "2026-08-14",
+      "venue": "Bayfront Festival Park",
+      "title": "Bayfront Blues Festival",
+      "tour": "Duluth Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Bayfront Blues Festival"
+      ],
+      "link": "https://visitduluth.com/event/bayfront-blues-festival/2026-08-14/"
+    },
+    {
+      "date": "2026-08-14",
+      "end_date": "2026-08-14",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-08-14/"
+    },
+    {
+      "date": "2026-08-14",
+      "end_date": "2026-08-14",
+      "venue": "Bent Paddle Brewing",
+      "title": "D-Town Driftway: Mario Kart Live Band",
+      "tour": "Duluth Event",
+      "support_raw": "8:00 PM  Free",
+      "artists": [
+        "D-Town Driftway: Mario Kart Live Band"
+      ],
+      "link": "https://visitduluth.com/event/d-town-driftway-mario-kart-live-band/2026-08-14/"
+    },
+    {
+      "date": "2026-08-14",
+      "end_date": "2026-08-14",
+      "venue": "Leif Erikson Park",
+      "title": "Movies in the Park",
+      "tour": "Duluth Event",
+      "support_raw": "8:30 PM",
+      "artists": [
+        "Movies in the Park"
+      ],
+      "link": "https://visitduluth.com/event/movies-in-the-park/2026-08-14/"
+    },
+    {
+      "date": "2026-08-15",
+      "end_date": "2026-08-16",
+      "venue": "Duluth",
+      "title": "Excalibur Con",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM",
+      "artists": [
+        "Excalibur Con"
+      ],
+      "link": "https://visitduluth.com/event/excalibur-con-2/"
+    },
+    {
+      "date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-08-15/"
+    },
+    {
+      "date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "venue": "Bayfront Festival Park",
+      "title": "Bayfront Blues Festival",
+      "tour": "Duluth Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Bayfront Blues Festival"
+      ],
+      "link": "https://visitduluth.com/event/bayfront-blues-festival/2026-08-15/"
+    },
+    {
+      "date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "venue": "Artist Alleyway",
+      "title": "Saturday Artist Alleyway Art Market",
+      "tour": "Duluth Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Saturday Artist Alleyway Art Market"
+      ],
+      "link": "https://visitduluth.com/event/saturday-artist-alleyway-art-market/2026-08-15/"
+    },
+    {
+      "date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-08-16/"
+    },
+    {
+      "date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "venue": "Bayfront Festival Park",
+      "title": "Bayfront Blues Festival",
+      "tour": "Duluth Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Bayfront Blues Festival"
+      ],
+      "link": "https://visitduluth.com/event/bayfront-blues-festival/2026-08-16/"
+    },
+    {
+      "date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-08-16/"
+    },
+    {
+      "date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-08-16/"
+    },
+    {
+      "date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "venue": "Proctor KME Speedway",
+      "title": "Sunday Night at the Races",
+      "tour": "Duluth Event",
+      "support_raw": "4:30 PM  Free – $30",
+      "artists": [
+        "Sunday Night at the Races"
+      ],
+      "link": "https://visitduluth.com/event/sunday-night-at-the-races/2026-08-16/"
+    },
+    {
+      "date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-08-16/"
+    },
+    {
+      "date": "2026-08-17",
+      "end_date": "2026-08-17",
+      "venue": "Bent Paddle Brewing",
+      "title": "High Key Mondays & Industry Nights",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "High Key Mondays & Industry Nights"
+      ],
+      "link": "https://visitduluth.com/event/high-key-mondays-industry-nights/2026-08-17/"
+    },
+    {
+      "date": "2026-08-18",
+      "end_date": "2026-08-18",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "$10 Tuesday on the Vista Fleet",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM  $10",
+      "artists": [
+        "$10 Tuesday on the Vista Fleet"
+      ],
+      "link": "https://visitduluth.com/event/10-tuesday-on-the-vista-fleet/2026-08-18/"
+    },
+    {
+      "date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "venue": "St. Louis County Depot",
+      "title": "Antique Appraisal",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 PM  Free",
+      "artists": [
+        "Antique Appraisal"
+      ],
+      "link": "https://visitduluth.com/event/antique-appraisal/2026-08-19/"
+    },
+    {
+      "date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "Weekly Wine Gatherings",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Weekly Wine Gatherings"
+      ],
+      "link": "https://visitduluth.com/event/weekly-wine-gatherings-2/2026-08-19/"
+    },
+    {
+      "date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "venue": "Glensheen Mansion",
+      "title": "Concerts on the Pier",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  Free",
+      "artists": [
+        "Concerts on the Pier"
+      ],
+      "link": "https://visitduluth.com/event/concerts-on-the-pier/2026-08-19/"
+    },
+    {
+      "date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "venue": "Bent Paddle Brewing",
+      "title": "TNT HiFi Taproom Paddle Splash Presents Salsa!",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "TNT HiFi Taproom Paddle Splash Presents Salsa!"
+      ],
+      "link": "https://visitduluth.com/event/tnt-hifi-taproom-paddle-splash-presents-salsa/2026-08-19/"
+    },
+    {
+      "date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "venue": "Pier B Resort Hotel",
+      "title": "Pier B Courtside Concerts",
+      "tour": "Duluth Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Pier B Courtside Concerts"
+      ],
+      "link": "https://visitduluth.com/event/pier-b-courtside-concerts/2026-08-19/"
+    },
+    {
+      "date": "2026-08-21",
+      "end_date": "2026-08-21",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-08-21/"
+    },
+    {
+      "date": "2026-08-21",
+      "end_date": "2026-08-21",
+      "venue": "Leif Erikson Park",
+      "title": "Movies in the Park",
+      "tour": "Duluth Event",
+      "support_raw": "8:30 PM",
+      "artists": [
+        "Movies in the Park"
+      ],
+      "link": "https://visitduluth.com/event/movies-in-the-park/2026-08-21/"
+    },
+    {
+      "date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-08-22/"
+    },
+    {
+      "date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "venue": "Artist Alleyway",
+      "title": "Saturday Artist Alleyway Art Market",
+      "tour": "Duluth Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Saturday Artist Alleyway Art Market"
+      ],
+      "link": "https://visitduluth.com/event/saturday-artist-alleyway-art-market/2026-08-22/"
+    },
+    {
+      "date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-08-23/"
+    },
+    {
+      "date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-08-23/"
+    },
+    {
+      "date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-08-23/"
+    },
+    {
+      "date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "venue": "Proctor KME Speedway",
+      "title": "Sunday Night at the Races",
+      "tour": "Duluth Event",
+      "support_raw": "4:30 PM  Free – $30",
+      "artists": [
+        "Sunday Night at the Races"
+      ],
+      "link": "https://visitduluth.com/event/sunday-night-at-the-races/2026-08-23/"
+    },
+    {
+      "date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-08-23/"
+    },
+    {
+      "date": "2026-08-24",
+      "end_date": "2026-08-24",
+      "venue": "Bent Paddle Brewing",
+      "title": "High Key Mondays & Industry Nights",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "High Key Mondays & Industry Nights"
+      ],
+      "link": "https://visitduluth.com/event/high-key-mondays-industry-nights/2026-08-24/"
+    },
+    {
+      "date": "2026-08-25",
+      "end_date": "2026-08-25",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "$10 Tuesday on the Vista Fleet",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM  $10",
+      "artists": [
+        "$10 Tuesday on the Vista Fleet"
+      ],
+      "link": "https://visitduluth.com/event/10-tuesday-on-the-vista-fleet/2026-08-25/"
+    },
+    {
+      "date": "2026-08-26",
+      "end_date": "2026-08-26",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "Weekly Wine Gatherings",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Weekly Wine Gatherings"
+      ],
+      "link": "https://visitduluth.com/event/weekly-wine-gatherings-2/2026-08-26/"
+    },
+    {
+      "date": "2026-08-26",
+      "end_date": "2026-08-26",
+      "venue": "Glensheen Mansion",
+      "title": "Concerts on the Pier",
+      "tour": "Duluth Event",
+      "support_raw": "5:30 PM  Free",
+      "artists": [
+        "Concerts on the Pier"
+      ],
+      "link": "https://visitduluth.com/event/concerts-on-the-pier/2026-08-26/"
+    },
+    {
+      "date": "2026-08-26",
+      "end_date": "2026-08-26",
+      "venue": "Bent Paddle Brewing",
+      "title": "TNT HiFi Taproom Paddle Splash Reggae Party",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "TNT HiFi Taproom Paddle Splash Reggae Party"
+      ],
+      "link": "https://visitduluth.com/event/tnt-hifi-taproom-paddle-splash-reggae-party/2026-08-26/"
+    },
+    {
+      "date": "2026-08-27",
+      "end_date": "2026-08-27",
+      "venue": "Bent Paddle Brewing",
+      "title": "Prime Time at the Paddle: Meat Raffle & More",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "Prime Time at the Paddle: Meat Raffle & More"
+      ],
+      "link": "https://visitduluth.com/event/prime-time-at-the-paddle-meat-raffle-more/2026-08-27/"
+    },
+    {
+      "date": "2026-08-28",
+      "end_date": "2026-08-28",
+      "venue": "Leif Erikson Park",
+      "title": "Movies in the Park",
+      "tour": "Duluth Event",
+      "support_raw": "8:30 PM",
+      "artists": [
+        "Movies in the Park"
+      ],
+      "link": "https://visitduluth.com/event/movies-in-the-park/2026-08-28/"
+    },
+    {
+      "date": "2026-08-29",
+      "end_date": "2026-08-29",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-08-29/"
+    },
+    {
+      "date": "2026-08-29",
+      "end_date": "2026-08-29",
+      "venue": "Artist Alleyway",
+      "title": "Saturday Artist Alleyway Art Market",
+      "tour": "Duluth Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Saturday Artist Alleyway Art Market"
+      ],
+      "link": "https://visitduluth.com/event/saturday-artist-alleyway-art-market/2026-08-29/"
+    },
+    {
+      "date": "2026-08-29",
+      "end_date": "2026-08-29",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-08-29/"
+    },
+    {
+      "date": "2026-08-30",
+      "end_date": "2026-08-30",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-08-30/"
+    },
+    {
+      "date": "2026-08-30",
+      "end_date": "2026-08-30",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-08-30/"
+    },
+    {
+      "date": "2026-08-30",
+      "end_date": "2026-08-30",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-08-30/"
+    },
+    {
+      "date": "2026-08-30",
+      "end_date": "2026-08-30",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-08-30/"
+    },
+    {
+      "date": "2026-08-31",
+      "end_date": "2026-08-31",
+      "venue": "Bent Paddle Brewing",
+      "title": "High Key Mondays & Industry Nights",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "High Key Mondays & Industry Nights"
+      ],
+      "link": "https://visitduluth.com/event/high-key-mondays-industry-nights/2026-08-31/"
+    },
+    {
+      "date": "2026-09-01",
+      "end_date": "2026-09-01",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "$10 Tuesday on the Vista Fleet",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM  $10",
+      "artists": [
+        "$10 Tuesday on the Vista Fleet"
+      ],
+      "link": "https://visitduluth.com/event/10-tuesday-on-the-vista-fleet/2026-09-01/"
+    },
+    {
+      "date": "2026-09-02",
+      "end_date": "2026-09-02",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "Weekly Wine Gatherings",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Weekly Wine Gatherings"
+      ],
+      "link": "https://visitduluth.com/event/weekly-wine-gatherings-2/2026-09-02/"
+    },
+    {
+      "date": "2026-09-03",
+      "end_date": "2026-09-03",
+      "venue": "Proctor KME Speedway",
+      "title": "Sunday Night at the Races",
+      "tour": "Duluth Event",
+      "support_raw": "4:30 PM  Free – $30",
+      "artists": [
+        "Sunday Night at the Races"
+      ],
+      "link": "https://visitduluth.com/event/sunday-night-at-the-races/2026-09-03/"
+    },
+    {
+      "date": "2026-09-03",
+      "end_date": "2026-09-03",
+      "venue": "Bent Paddle Brewing",
+      "title": "TNT HiFi Taproom Paddle Splash Reggae Party",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "TNT HiFi Taproom Paddle Splash Reggae Party"
+      ],
+      "link": "https://visitduluth.com/event/tnt-hifi-taproom-paddle-splash-reggae-party/2026-09-03/"
+    },
+    {
+      "date": "2026-09-04",
+      "end_date": "2026-09-04",
+      "venue": "Duluth",
+      "title": "The Rock Orchestra by Candlelight",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM",
+      "artists": [
+        "The Rock Orchestra by Candlelight"
+      ],
+      "link": "https://visitduluth.com/event/the-rock-orchestra-by-candlelight/"
+    },
+    {
+      "date": "2026-09-05",
+      "end_date": "2026-09-05",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-09-05/"
+    },
+    {
+      "date": "2026-09-05",
+      "end_date": "2026-09-05",
+      "venue": "Artist Alleyway",
+      "title": "Saturday Artist Alleyway Art Market",
+      "tour": "Duluth Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Saturday Artist Alleyway Art Market"
+      ],
+      "link": "https://visitduluth.com/event/saturday-artist-alleyway-art-market/2026-09-05/"
+    },
+    {
+      "date": "2026-09-05",
+      "end_date": "2026-09-05",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-09-05/"
+    },
+    {
+      "date": "2026-09-06",
+      "end_date": "2026-09-06",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-09-06/"
+    },
+    {
+      "date": "2026-09-06",
+      "end_date": "2026-09-06",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-09-06/"
+    },
+    {
+      "date": "2026-09-06",
+      "end_date": "2026-09-06",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-09-06/"
+    },
+    {
+      "date": "2026-09-06",
+      "end_date": "2026-09-06",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Sunset Dinner Cruise on Lake Superior",
+      "tour": "Duluth Event",
+      "support_raw": "7:30 PM  $30 – $85",
+      "artists": [
+        "Sunset Dinner Cruise on Lake Superior"
+      ],
+      "link": "https://visitduluth.com/event/sunset-dinner-cruise-on-lake-superior/2026-09-06/"
+    },
+    {
+      "date": "2026-09-07",
+      "end_date": "2026-09-07",
+      "venue": "Bent Paddle Brewing",
+      "title": "High Key Mondays & Industry Nights",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "High Key Mondays & Industry Nights"
+      ],
+      "link": "https://visitduluth.com/event/high-key-mondays-industry-nights/2026-09-07/"
+    },
+    {
+      "date": "2026-09-09",
+      "end_date": "2026-09-09",
+      "venue": "Proctor KME Speedway",
+      "title": "Sunday Night at the Races",
+      "tour": "Duluth Event",
+      "support_raw": "4:30 PM  Free – $30",
+      "artists": [
+        "Sunday Night at the Races"
+      ],
+      "link": "https://visitduluth.com/event/sunday-night-at-the-races/2026-09-09/"
+    },
+    {
+      "date": "2026-09-09",
+      "end_date": "2026-09-09",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "Weekly Wine Gatherings",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Weekly Wine Gatherings"
+      ],
+      "link": "https://visitduluth.com/event/weekly-wine-gatherings-2/2026-09-09/"
+    },
+    {
+      "date": "2026-09-09",
+      "end_date": "2026-09-09",
+      "venue": "Lake Superior Zoo",
+      "title": "Trivia Night at Lake Superior Zoo",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "Trivia Night at Lake Superior Zoo"
+      ],
+      "link": "https://visitduluth.com/event/trivia-night-at-lake-superior-zoo/2026-09-09/"
+    },
+    {
+      "date": "2026-09-09",
+      "end_date": "2026-09-09",
+      "venue": "Bent Paddle Brewing",
+      "title": "TNT HiFi Taproom Paddle Splash Reggae Party",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "TNT HiFi Taproom Paddle Splash Reggae Party"
+      ],
+      "link": "https://visitduluth.com/event/tnt-hifi-taproom-paddle-splash-reggae-party/2026-09-09/"
+    },
+    {
+      "date": "2026-09-10",
+      "end_date": "2026-09-10",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Lake Superior Live Cruise ft. Abe Curran",
+      "tour": "Duluth Event",
+      "support_raw": "6:30 PM  $2 – $51",
+      "artists": [
+        "Lake Superior Live Cruise ft. Abe Curran"
+      ],
+      "link": "https://visitduluth.com/event/lake-superior-live-cruise-ft-abe-curran/2026-09-10/"
+    },
+    {
+      "date": "2026-09-12",
+      "end_date": "2026-09-12",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-09-12/"
+    },
+    {
+      "date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-09-13/"
+    },
+    {
+      "date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-09-13/"
+    },
+    {
+      "date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-09-13/"
+    },
+    {
+      "date": "2026-09-14",
+      "end_date": "2026-09-14",
+      "venue": "Bent Paddle Brewing",
+      "title": "High Key Mondays & Industry Nights",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "High Key Mondays & Industry Nights"
+      ],
+      "link": "https://visitduluth.com/event/high-key-mondays-industry-nights/2026-09-14/"
+    },
+    {
+      "date": "2026-09-16",
+      "end_date": "2026-09-16",
+      "venue": "St. Louis County Depot",
+      "title": "Antique Appraisal",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 PM  Free",
+      "artists": [
+        "Antique Appraisal"
+      ],
+      "link": "https://visitduluth.com/event/antique-appraisal/2026-09-16/"
+    },
+    {
+      "date": "2026-09-16",
+      "end_date": "2026-09-16",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "Weekly Wine Gatherings",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Weekly Wine Gatherings"
+      ],
+      "link": "https://visitduluth.com/event/weekly-wine-gatherings-2/2026-09-16/"
+    },
+    {
+      "date": "2026-09-16",
+      "end_date": "2026-09-16",
+      "venue": "Bent Paddle Brewing",
+      "title": "TNT HiFi Taproom Paddle Splash Presents Salsa!",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "TNT HiFi Taproom Paddle Splash Presents Salsa!"
+      ],
+      "link": "https://visitduluth.com/event/tnt-hifi-taproom-paddle-splash-presents-salsa/2026-09-16/"
+    },
+    {
+      "date": "2026-09-17",
+      "end_date": "2026-09-17",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Lake Superior Live Cruise ft. Abe Curran",
+      "tour": "Duluth Event",
+      "support_raw": "6:30 PM  $2 – $51",
+      "artists": [
+        "Lake Superior Live Cruise ft. Abe Curran"
+      ],
+      "link": "https://visitduluth.com/event/lake-superior-live-cruise-ft-abe-curran/2026-09-17/"
+    },
+    {
+      "date": "2026-09-18",
+      "end_date": "2026-09-19",
+      "venue": "Two Harbors to Duluth",
+      "title": "NorthShore Inline Marathon",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM",
+      "artists": [
+        "NorthShore Inline Marathon"
+      ],
+      "link": "https://visitduluth.com/event/northshore-inline-marathon/"
+    },
+    {
+      "date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "venue": "Duluth Entertainment Convention Center (DECC)",
+      "title": "Science on Deck",
+      "tour": "Duluth Event",
+      "support_raw": "11:00 AM  Free",
+      "artists": [
+        "Science on Deck"
+      ],
+      "link": "https://visitduluth.com/event/science-on-deck-2/"
+    },
+    {
+      "date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "venue": "Bayfront Festival Park",
+      "title": "Duluth Oktoberfestival",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Duluth Oktoberfestival"
+      ],
+      "link": "https://visitduluth.com/event/duluth-oktoberfestival/2026-09-18/"
+    },
+    {
+      "date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "venue": "Chester Bowl",
+      "title": "Chester Bowl Fall Fest",
+      "tour": "Duluth Event",
+      "support_raw": "9:30 AM  Free",
+      "artists": [
+        "Chester Bowl Fall Fest"
+      ],
+      "link": "https://visitduluth.com/event/chester-bowl-fall-fest/"
+    },
+    {
+      "date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-09-19/"
+    },
+    {
+      "date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "venue": "Bayfront Festival Park",
+      "title": "Duluth Oktoberfestival",
+      "tour": "Duluth Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Duluth Oktoberfestival"
+      ],
+      "link": "https://visitduluth.com/event/duluth-oktoberfestival/2026-09-19/"
+    },
+    {
+      "date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-09-20/"
+    },
+    {
+      "date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "venue": "Bayfront Festival Park",
+      "title": "Duluth Oktoberfestival",
+      "tour": "Duluth Event",
+      "support_raw": "11:00 AM",
+      "artists": [
+        "Duluth Oktoberfestival"
+      ],
+      "link": "https://visitduluth.com/event/duluth-oktoberfestival/2026-09-20/"
+    },
+    {
+      "date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-09-20/"
+    },
+    {
+      "date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-09-20/"
+    },
+    {
+      "date": "2026-09-21",
+      "end_date": "2026-09-21",
+      "venue": "Bent Paddle Brewing",
+      "title": "High Key Mondays & Industry Nights",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "High Key Mondays & Industry Nights"
+      ],
+      "link": "https://visitduluth.com/event/high-key-mondays-industry-nights/2026-09-21/"
+    },
+    {
+      "date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "Weekly Wine Gatherings",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Weekly Wine Gatherings"
+      ],
+      "link": "https://visitduluth.com/event/weekly-wine-gatherings-2/2026-09-23/"
+    },
+    {
+      "date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "venue": "Bent Paddle Brewing",
+      "title": "TNT HiFi Taproom Paddle Splash Reggae Party",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "TNT HiFi Taproom Paddle Splash Reggae Party"
+      ],
+      "link": "https://visitduluth.com/event/tnt-hifi-taproom-paddle-splash-reggae-party/2026-09-23/"
+    },
+    {
+      "date": "2026-09-24",
+      "end_date": "2026-09-24",
+      "venue": "Bent Paddle Brewing",
+      "title": "Prime Time at the Paddle: Meat Raffle & More",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "Prime Time at the Paddle: Meat Raffle & More"
+      ],
+      "link": "https://visitduluth.com/event/prime-time-at-the-paddle-meat-raffle-more/2026-09-24/"
+    },
+    {
+      "date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-09-26/"
+    },
+    {
+      "date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-09-27/"
+    },
+    {
+      "date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-09-27/"
+    },
+    {
+      "date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-09-27/"
+    },
+    {
+      "date": "2026-09-28",
+      "end_date": "2026-09-28",
+      "venue": "Bent Paddle Brewing",
+      "title": "High Key Mondays & Industry Nights",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "High Key Mondays & Industry Nights"
+      ],
+      "link": "https://visitduluth.com/event/high-key-mondays-industry-nights/2026-09-28/"
+    },
+    {
+      "date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "Weekly Wine Gatherings",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Weekly Wine Gatherings"
+      ],
+      "link": "https://visitduluth.com/event/weekly-wine-gatherings-2/2026-09-30/"
+    },
+    {
+      "date": "2026-10-03",
+      "end_date": "2026-10-03",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-10-03/"
+    },
+    {
+      "date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-10-04/"
+    },
+    {
+      "date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-10-04/"
+    },
+    {
+      "date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-10-04/"
+    },
+    {
+      "date": "2026-10-05",
+      "end_date": "2026-10-05",
+      "venue": "Bent Paddle Brewing",
+      "title": "High Key Mondays & Industry Nights",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "High Key Mondays & Industry Nights"
+      ],
+      "link": "https://visitduluth.com/event/high-key-mondays-industry-nights/2026-10-05/"
+    },
+    {
+      "date": "2026-10-07",
+      "end_date": "2026-10-07",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "Weekly Wine Gatherings",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Weekly Wine Gatherings"
+      ],
+      "link": "https://visitduluth.com/event/weekly-wine-gatherings-2/2026-10-07/"
+    },
+    {
+      "date": "2026-10-08",
+      "end_date": "2026-10-08",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Lake Superior Live Cruise ft. Abe Curran",
+      "tour": "Duluth Event",
+      "support_raw": "6:30 PM  $2 – $51",
+      "artists": [
+        "Lake Superior Live Cruise ft. Abe Curran"
+      ],
+      "link": "https://visitduluth.com/event/lake-superior-live-cruise-ft-abe-curran/2026-10-08/"
+    },
+    {
+      "date": "2026-10-10",
+      "end_date": "2026-10-10",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-10-10/"
+    },
+    {
+      "date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-10-11/"
+    },
+    {
+      "date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-10-11/"
+    },
+    {
+      "date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-10-11/"
+    },
+    {
+      "date": "2026-10-12",
+      "end_date": "2026-10-12",
+      "venue": "Bent Paddle Brewing",
+      "title": "High Key Mondays & Industry Nights",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "High Key Mondays & Industry Nights"
+      ],
+      "link": "https://visitduluth.com/event/high-key-mondays-industry-nights/2026-10-12/"
+    },
+    {
+      "date": "2026-10-14",
+      "end_date": "2026-10-14",
+      "venue": "Sheraton Duluth Hotel",
+      "title": "Weekly Wine Gatherings",
+      "tour": "Duluth Event",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Weekly Wine Gatherings"
+      ],
+      "link": "https://visitduluth.com/event/weekly-wine-gatherings-2/2026-10-14/"
+    },
+    {
+      "date": "2026-10-14",
+      "end_date": "2026-10-14",
+      "venue": "Lake Superior Zoo",
+      "title": "Trivia Night at Lake Superior Zoo",
+      "tour": "Duluth Event",
+      "support_raw": "6:00 PM  Free",
+      "artists": [
+        "Trivia Night at Lake Superior Zoo"
+      ],
+      "link": "https://visitduluth.com/event/trivia-night-at-lake-superior-zoo/2026-10-14/"
+    },
+    {
+      "date": "2026-10-15",
+      "end_date": "2026-10-15",
+      "venue": "Vista Fleet Sightseeing & Dining Cruises",
+      "title": "Lake Superior Live Cruise ft. Abe Curran",
+      "tour": "Duluth Event",
+      "support_raw": "6:30 PM  $2 – $51",
+      "artists": [
+        "Lake Superior Live Cruise ft. Abe Curran"
+      ],
+      "link": "https://visitduluth.com/event/lake-superior-live-cruise-ft-abe-curran/2026-10-15/"
+    },
+    {
+      "date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "venue": "Duluth",
+      "title": "World Ballet Company: Swan Lake",
+      "tour": "Duluth Event",
+      "support_raw": "12:00 AM",
+      "artists": [
+        "World Ballet Company: Swan Lake"
+      ],
+      "link": "https://visitduluth.com/event/world-ballet-company-swan-lake-2/"
+    },
+    {
+      "date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-10-17/"
+    },
+    {
+      "date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "venue": "Duluth River Train",
+      "title": "Duluth River Train Excursion",
+      "tour": "Duluth Event",
+      "support_raw": "10:30 AM",
+      "artists": [
+        "Duluth River Train Excursion"
+      ],
+      "link": "https://visitduluth.com/event/duluth-river-train-excursion/2026-10-18/"
+    },
+    {
+      "date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "venue": "Ritual Marketplace",
+      "title": "Similar Dogs at Ritual Marketplace",
+      "tour": "Duluth Event",
+      "support_raw": "1:00 PM  Free",
+      "artists": [
+        "Similar Dogs at Ritual Marketplace"
+      ],
+      "link": "https://visitduluth.com/event/similar-dogs-at-ritual-marketplace/2026-10-18/"
+    },
+    {
+      "date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "venue": "Bent Paddle Brewing",
+      "title": "Going Solar in the Northland",
+      "tour": "Duluth Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Going Solar in the Northland"
+      ],
+      "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-10-18/"
+    }
+  ]
+}

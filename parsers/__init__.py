@@ -12,6 +12,18 @@ from .hennepin_arts import HennepinArtsParser
 from .us_bank_stadium import USBankStadiumParser
 from .northrop_auditorium import NorthropAuditoriumParser
 from .ordway import OrdwayParser
+from .visit_stpaul import VisitStPaulParser
+from .dakota_jazz_club import DakotaJazzClubParser
+from .berlin_jazz_club import BerlinJazzClubParser
+from .crooners import CroonersSupperClubParser
+from .visit_duluth import VisitDuluthParser
+from .luminary_arts_center import LuminaryArtsCenterParser
+from .utepils_brewery import UtepilsBreweryParser
+from .pryes_brewing import PryesBrewingParser
+from .mncba_workshops import MNCBAWorkshopsParser
+from .coch_cooking_classes import CoCHCookingClassesParser
+from .dame_errant_clay import DameErrantClayParser
+from .mpls_parks import MplsParksParser
 
 PARSER_REGISTRY = {
     'first_avenue': FirstAvenueParser,
@@ -26,7 +38,19 @@ PARSER_REGISTRY = {
     'hennepin_arts': HennepinArtsParser,
     'us_bank_stadium': USBankStadiumParser,
     'northrop_auditorium': NorthropAuditoriumParser,
-    'ordway_theater': OrdwayParser
+    'ordway_theater': OrdwayParser,
+    'visit_stpaul': VisitStPaulParser,
+    'dakota_jazz_club': DakotaJazzClubParser,
+    'berlin_jazz_club': BerlinJazzClubParser,
+    'crooners': CroonersSupperClubParser,
+    'visit_duluth': VisitDuluthParser,
+    'luminary_arts_center': LuminaryArtsCenterParser,
+    'utepils_brewery': UtepilsBreweryParser,
+    'pryes_brewing': PryesBrewingParser,
+    'mncba_workshops': MNCBAWorkshopsParser,
+    'coch_cooking_classes': CoCHCookingClassesParser,
+    'dame_errant_clay': DameErrantClayParser,
+    'mpls_parks': MplsParksParser
 }
 
 def get_parser(site_name: str) -> BaseParser:

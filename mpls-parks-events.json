@@ -1,0 +1,2747 @@
+{
+  "metadata": {
+    "site": "mpls_parks",
+    "scraping_time": "2026-06-20T23:39:00.352341",
+    "start_date_range": "2026-06-20",
+    "end_date_range": "2026-10-18",
+    "total_shows_extracted": 228
+  },
+  "shows": [
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – May-August",
+      "tour": "Park Event",
+      "support_raw": "7:30 AM",
+      "artists": [
+        "Early Birders – May-August"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-may-august/2026-06-20/"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "East River Flats",
+      "title": "Minneapolis Sprints",
+      "tour": "Park Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Minneapolis Sprints"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/minneapolis-sprints-3/"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Minneapolis Parks",
+      "title": "Stone Arch Bridge Festival",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Stone Arch Bridge Festival"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/stone-arch-bridge-festival-9/2026-06-20/"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Nicollet Island Park",
+      "title": "BRKFST Dance Installation",
+      "tour": "Park Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "BRKFST Dance Installation"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/brkfst-dance-installation/"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-06-20/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Minneapolis Parks",
+      "title": "Stone Arch Bridge Festival",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Stone Arch Bridge Festival"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/stone-arch-bridge-festival-9/2026-06-21/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-06-21/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Tree Treks",
+      "tour": "Park Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Tree Treks"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/tree-treks/2026-06-21/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Elliot Park",
+      "title": "Go Skateboarding Day at Elliot",
+      "tour": "Park Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "Go Skateboarding Day at Elliot"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/go-skateboarding-day-at-elliot/"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-06-21/"
+    },
+    {
+      "date": "2026-06-22",
+      "end_date": "2026-06-22",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-06-22/"
+    },
+    {
+      "date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "venue": "Minneapolis Parks",
+      "title": "Afternoon Birding Stroll",
+      "tour": "Park Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Afternoon Birding Stroll"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/afternoon-birding-stroll-2/2026-06-23/"
+    },
+    {
+      "date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "venue": "Logan Recreation Center",
+      "title": "Juneteenth Celebration: Movie \"Harriet\"",
+      "tour": "Park Event",
+      "support_raw": "5:30 PM",
+      "artists": [
+        "Juneteenth Celebration: Movie \"Harriet\""
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/juneteenth-celebration-movie-harriet/"
+    },
+    {
+      "date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-06-23/"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "Minneapolis Parks",
+      "title": "Downtown Parks & Netflix Present: KPop Demon Hunters Sing-Along at The Commons",
+      "tour": "Park Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Downtown Parks & Netflix Present: KPop Demon Hunters Sing-Along at The Commons"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/downtown-parks-netflix-present-kpop-demon-hunters-sing-along-at-the-commons/"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Meadow Makers",
+      "tour": "Park Event",
+      "support_raw": "9:30 AM",
+      "artists": [
+        "Meadow Makers"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/meadow-makers/2026-06-24/"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Invertebrate Discovery Walks",
+      "tour": "Park Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Invertebrate Discovery Walks"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/invertebrate-discovery-walks/2026-06-24/"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "Folwell Park",
+      "title": "Folwell Park Ribbon Cutting Celebration",
+      "tour": "Park Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Folwell Park Ribbon Cutting Celebration"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/folwell-park-ribbon-cutting-celebration/"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-06-24/"
+    },
+    {
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-06-25/"
+    },
+    {
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "venue": "Minneapolis Parks",
+      "title": "Flower Hour",
+      "tour": "Park Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Flower Hour"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/flower-hour/2026-06-25/"
+    },
+    {
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Knitting in Nature",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Knitting in Nature"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/knitting-in-nature-3/2026-06-25/"
+    },
+    {
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-06-25/"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "venue": "Minneapolis Parks",
+      "title": "Cuentos Infantiles en el Jardín – Spanish Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Cuentos Infantiles en el Jardín – Spanish Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/cuentos-infantiles-en-el-jardin-spanish-storytime/2026-06-26/"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "venue": "Lynnhurst Park",
+      "title": "Ribbon Cutting at Lynnhurst Park",
+      "tour": "Park Event",
+      "support_raw": "3:30 PM",
+      "artists": [
+        "Ribbon Cutting at Lynnhurst Park"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/ribbon-cutting-at-lynnhurst-park/"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "venue": "Parade Park",
+      "title": "Pride Beer Dabbler",
+      "tour": "Park Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Pride Beer Dabbler"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/pride-beer-dabbler-6/"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "venue": "Loring Park",
+      "title": "Pride Festival Youth Night",
+      "tour": "Park Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Pride Festival Youth Night"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/pride-festival-youth-night-2/"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-06-26/"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – May-August",
+      "tour": "Park Event",
+      "support_raw": "7:30 AM",
+      "artists": [
+        "Early Birders – May-August"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-may-august/2026-06-27/"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "Loring Park",
+      "title": "Pride Festival",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Pride Festival"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/pride-festival-5/2026-06-27/"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Bumblebee Participatory Science program",
+      "tour": "Park Event",
+      "support_raw": "1:00 PM",
+      "artists": [
+        "Bumblebee Participatory Science program"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/bumblebee-participatory-science-program/2026-06-27/"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-06-27/"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "B.F. Nelson Park",
+      "title": "TC Pride Rainbow Run",
+      "tour": "Park Event",
+      "support_raw": "9:00 AM",
+      "artists": [
+        "TC Pride Rainbow Run"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/tc-pride-rainbow-run-9/"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-06-28/"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Loring Park",
+      "title": "Pride Festival",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Pride Festival"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/pride-festival-5/2026-06-28/"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Lake Harriet",
+      "title": "Bike Help Days",
+      "tour": "Park Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Bike Help Days"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/bike-help-days-3/"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Making Space for Native Plants in Greater Eloise Stewardship Area",
+      "tour": "Park Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Making Space for Native Plants in Greater Eloise Stewardship Area"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/making-space-for-native-plants-in-greater-eloise-stewardship-area/2026-06-28/"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-06-28/"
+    },
+    {
+      "date": "2026-06-29",
+      "end_date": "2026-06-29",
+      "venue": "Hiawatha School Park",
+      "title": "Drop-in Series: National Hydration Day",
+      "tour": "Park Event",
+      "support_raw": "1:00 PM",
+      "artists": [
+        "Drop-in Series: National Hydration Day"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/drop-in-series-national-hydration-day/"
+    },
+    {
+      "date": "2026-06-29",
+      "end_date": "2026-06-29",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-06-29/"
+    },
+    {
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "venue": "Hiawatha School Park",
+      "title": "Drop-in Series: National Patch Day",
+      "tour": "Park Event",
+      "support_raw": "1:00 PM",
+      "artists": [
+        "Drop-in Series: National Patch Day"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/drop-in-series-national-patch-day/"
+    },
+    {
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "venue": "Minneapolis Parks",
+      "title": "Afternoon Birding Stroll",
+      "tour": "Park Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Afternoon Birding Stroll"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/afternoon-birding-stroll-2/2026-06-30/"
+    },
+    {
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-06-30/"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Meadow Makers",
+      "tour": "Park Event",
+      "support_raw": "9:30 AM",
+      "artists": [
+        "Meadow Makers"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/meadow-makers/2026-07-01/"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "venue": "The Commons",
+      "title": "Trivia Night",
+      "tour": "Park Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Trivia Night"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/trivia-night/2026-07-01/"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "venue": "Minnehaha Bandstand",
+      "title": "DanceCo Summer Showcase",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "DanceCo Summer Showcase"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/danceco-summer-showcase/"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-01/"
+    },
+    {
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-07-02/"
+    },
+    {
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "venue": "Minneapolis Parks",
+      "title": "Flower Hour",
+      "tour": "Park Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Flower Hour"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/flower-hour/2026-07-02/"
+    },
+    {
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-02/"
+    },
+    {
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Firefly Nights",
+      "tour": "Park Event",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "Firefly Nights"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/firefly-nights/2026-07-02/"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "venue": "Minneapolis Parks",
+      "title": "Cuentos Infantiles en el Jardín – Spanish Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Cuentos Infantiles en el Jardín – Spanish Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/cuentos-infantiles-en-el-jardin-spanish-storytime/2026-07-03/"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-03/"
+    },
+    {
+      "date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – May-August",
+      "tour": "Park Event",
+      "support_raw": "7:30 AM",
+      "artists": [
+        "Early Birders – May-August"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-may-august/2026-07-04/"
+    },
+    {
+      "date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "venue": "Lake Harriet",
+      "title": "Stars and Strides Race",
+      "tour": "Park Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Stars and Strides Race"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/stars-and-strides-race/"
+    },
+    {
+      "date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "venue": "West River Parkway",
+      "title": "Red, White & Boom",
+      "tour": "Park Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Red, White & Boom"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/red-white-boom/"
+    },
+    {
+      "date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Tree Treks",
+      "tour": "Park Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Tree Treks"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/tree-treks/2026-07-04/"
+    },
+    {
+      "date": "2026-07-05",
+      "end_date": "2026-07-05",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-07-05/"
+    },
+    {
+      "date": "2026-07-05",
+      "end_date": "2026-07-05",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-05/"
+    },
+    {
+      "date": "2026-07-06",
+      "end_date": "2026-07-06",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-06/"
+    },
+    {
+      "date": "2026-07-07",
+      "end_date": "2026-07-07",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-07/"
+    },
+    {
+      "date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Meadow Makers",
+      "tour": "Park Event",
+      "support_raw": "9:30 AM",
+      "artists": [
+        "Meadow Makers"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/meadow-makers/2026-07-08/"
+    },
+    {
+      "date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "venue": "The Commons",
+      "title": "Trivia Night",
+      "tour": "Park Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Trivia Night"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/trivia-night/2026-07-08/"
+    },
+    {
+      "date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-08/"
+    },
+    {
+      "date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-07-09/"
+    },
+    {
+      "date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "venue": "Minneapolis Parks",
+      "title": "Flower Hour",
+      "tour": "Park Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Flower Hour"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/flower-hour/2026-07-09/"
+    },
+    {
+      "date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "venue": "Minneapolis Parks",
+      "title": "Knitting in Nature",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Knitting in Nature"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/knitting-in-nature-2/2026-07-09/"
+    },
+    {
+      "date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-09/"
+    },
+    {
+      "date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Firefly Nights",
+      "tour": "Park Event",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "Firefly Nights"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/firefly-nights/2026-07-09/"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "Minneapolis Parks",
+      "title": "Cuentos Infantiles en el Jardín – Spanish Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Cuentos Infantiles en el Jardín – Spanish Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/cuentos-infantiles-en-el-jardin-spanish-storytime/2026-07-10/"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-10/"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – May-August",
+      "tour": "Park Event",
+      "support_raw": "7:30 AM",
+      "artists": [
+        "Early Birders – May-August"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-may-august/2026-07-11/"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-11/"
+    },
+    {
+      "date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-07-12/"
+    },
+    {
+      "date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Making Space for Native Plants in Greater Eloise Stewardship Area",
+      "tour": "Park Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Making Space for Native Plants in Greater Eloise Stewardship Area"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/making-space-for-native-plants-in-greater-eloise-stewardship-area/2026-07-12/"
+    },
+    {
+      "date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-12/"
+    },
+    {
+      "date": "2026-07-13",
+      "end_date": "2026-07-13",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-13/"
+    },
+    {
+      "date": "2026-07-14",
+      "end_date": "2026-07-14",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-14/"
+    },
+    {
+      "date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Meadow Makers",
+      "tour": "Park Event",
+      "support_raw": "9:30 AM",
+      "artists": [
+        "Meadow Makers"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/meadow-makers/2026-07-15/"
+    },
+    {
+      "date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-15/"
+    },
+    {
+      "date": "2026-07-16",
+      "end_date": "2026-07-16",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-07-16/"
+    },
+    {
+      "date": "2026-07-16",
+      "end_date": "2026-07-16",
+      "venue": "Minneapolis Parks",
+      "title": "Flower Hour",
+      "tour": "Park Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Flower Hour"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/flower-hour/2026-07-16/"
+    },
+    {
+      "date": "2026-07-16",
+      "end_date": "2026-07-16",
+      "venue": "Victory Memorial Drive",
+      "title": "Bike Help Days",
+      "tour": "Park Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Bike Help Days"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/bike-help-days-4/"
+    },
+    {
+      "date": "2026-07-16",
+      "end_date": "2026-07-16",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-16/"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "venue": "Bde Maka Ska",
+      "title": "TCYS City of Lakes Regatta",
+      "tour": "Park Event",
+      "support_raw": "9:00 AM",
+      "artists": [
+        "TCYS City of Lakes Regatta"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/tcys-city-of-lakes-regatta/"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "venue": "Minneapolis Parks",
+      "title": "Cuentos Infantiles en el Jardín – Spanish Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Cuentos Infantiles en el Jardín – Spanish Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/cuentos-infantiles-en-el-jardin-spanish-storytime/2026-07-17/"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "venue": "Minnehaha Park",
+      "title": "Minnehaha Falls Art Fair",
+      "tour": "Park Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "Minnehaha Falls Art Fair"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/minnehaha-falls-art-fair-6/2026-07-17/"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "venue": "Minnehaha Falls",
+      "title": "Bike Help Days",
+      "tour": "Park Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Bike Help Days"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/bike-help-days-5/"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "venue": "Bde Maka Ska",
+      "title": "Twin Cities Twilight Relays",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Twin Cities Twilight Relays"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/twin-cities-twilight-relays/"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-17/"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "venue": "Lyndale Park",
+      "title": "Dances at the Lake Festival",
+      "tour": "Park Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Dances at the Lake Festival"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/dances-at-the-lake-festival-4/2026-07-17/"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – May-August",
+      "tour": "Park Event",
+      "support_raw": "7:30 AM",
+      "artists": [
+        "Early Birders – May-August"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-may-august/2026-07-18/"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Lake of the Isles",
+      "title": "Floating Lanterns & Night Market",
+      "tour": "Park Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Floating Lanterns & Night Market"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/floating-lanterns-night-market/"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Lake of the Isles",
+      "title": "Doggie Walk",
+      "tour": "Park Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Doggie Walk"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/doggie-walk-8/"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Minnehaha Park",
+      "title": "Minnehaha Falls Art Fair",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Minnehaha Falls Art Fair"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/minnehaha-falls-art-fair-6/2026-07-18/"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Bumblebee Participatory Science program",
+      "tour": "Park Event",
+      "support_raw": "1:00 PM",
+      "artists": [
+        "Bumblebee Participatory Science program"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/bumblebee-participatory-science-program/2026-07-18/"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-18/"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "Lyndale Park",
+      "title": "Dances at the Lake Festival",
+      "tour": "Park Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Dances at the Lake Festival"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/dances-at-the-lake-festival-4/2026-07-18/"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-07-19/"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Minnehaha Park",
+      "title": "Minnehaha Falls Art Fair",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Minnehaha Falls Art Fair"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/minnehaha-falls-art-fair-6/2026-07-19/"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Bde Maka Ska Thomas Beach",
+      "title": "Beach Blast Milk Carton Boat Races",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Beach Blast Milk Carton Boat Races"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/beach-blast-milk-carton-boat-races-2/"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Lake Harriet",
+      "title": "Bike Help Days",
+      "tour": "Park Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Bike Help Days"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/bike-help-days-6/"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Tree Treks",
+      "tour": "Park Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "Tree Treks"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/tree-treks/2026-07-19/"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-19/"
+    },
+    {
+      "date": "2026-07-20",
+      "end_date": "2026-07-20",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-20/"
+    },
+    {
+      "date": "2026-07-21",
+      "end_date": "2026-07-21",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-21/"
+    },
+    {
+      "date": "2026-07-22",
+      "end_date": "2026-07-22",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Meadow Makers",
+      "tour": "Park Event",
+      "support_raw": "9:30 AM",
+      "artists": [
+        "Meadow Makers"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/meadow-makers/2026-07-22/"
+    },
+    {
+      "date": "2026-07-22",
+      "end_date": "2026-07-22",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-22/"
+    },
+    {
+      "date": "2026-07-23",
+      "end_date": "2026-07-23",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-07-23/"
+    },
+    {
+      "date": "2026-07-23",
+      "end_date": "2026-07-23",
+      "venue": "Minneapolis Parks",
+      "title": "Flower Hour",
+      "tour": "Park Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Flower Hour"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/flower-hour/2026-07-23/"
+    },
+    {
+      "date": "2026-07-23",
+      "end_date": "2026-07-23",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Knitting in Nature",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Knitting in Nature"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/knitting-in-nature-3/2026-07-23/"
+    },
+    {
+      "date": "2026-07-23",
+      "end_date": "2026-07-23",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-23/"
+    },
+    {
+      "date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "venue": "Minneapolis Parks",
+      "title": "Cuentos Infantiles en el Jardín – Spanish Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Cuentos Infantiles en el Jardín – Spanish Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/cuentos-infantiles-en-el-jardin-spanish-storytime/2026-07-24/"
+    },
+    {
+      "date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-24/"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – May-August",
+      "tour": "Park Event",
+      "support_raw": "7:30 AM",
+      "artists": [
+        "Early Birders – May-August"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-may-august/2026-07-25/"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "venue": "Loring Park",
+      "title": "Loring Park Art Festival",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Loring Park Art Festival"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/loring-park-art-festival-12/2026-07-25/"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "venue": "West River Road",
+      "title": "Carifest",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Carifest"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/carifest-8/"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-25/"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-07-26/"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "venue": "Loring Park",
+      "title": "Loring Park Art Festival",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Loring Park Art Festival"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/loring-park-art-festival-12/2026-07-26/"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Making Space for Native Plants in Greater Eloise Stewardship Area",
+      "tour": "Park Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Making Space for Native Plants in Greater Eloise Stewardship Area"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/making-space-for-native-plants-in-greater-eloise-stewardship-area/2026-07-26/"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-26/"
+    },
+    {
+      "date": "2026-07-27",
+      "end_date": "2026-07-27",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-27/"
+    },
+    {
+      "date": "2026-07-28",
+      "end_date": "2026-07-28",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-28/"
+    },
+    {
+      "date": "2026-07-28",
+      "end_date": "2026-07-28",
+      "venue": "Minnehaha Bandstand",
+      "title": "Revival Nights",
+      "tour": "Park Event",
+      "support_raw": "6:30 PM",
+      "artists": [
+        "Revival Nights"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/revival-nights-5/2026-07-28/"
+    },
+    {
+      "date": "2026-07-29",
+      "end_date": "2026-07-29",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Meadow Makers",
+      "tour": "Park Event",
+      "support_raw": "9:30 AM",
+      "artists": [
+        "Meadow Makers"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/meadow-makers/2026-07-29/"
+    },
+    {
+      "date": "2026-07-29",
+      "end_date": "2026-07-29",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-29/"
+    },
+    {
+      "date": "2026-07-30",
+      "end_date": "2026-07-30",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-07-30/"
+    },
+    {
+      "date": "2026-07-30",
+      "end_date": "2026-07-30",
+      "venue": "Minneapolis Parks",
+      "title": "Flower Hour",
+      "tour": "Park Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Flower Hour"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/flower-hour/2026-07-30/"
+    },
+    {
+      "date": "2026-07-30",
+      "end_date": "2026-07-30",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-30/"
+    },
+    {
+      "date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "venue": "Minneapolis Parks",
+      "title": "Cuentos Infantiles en el Jardín – Spanish Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Cuentos Infantiles en el Jardín – Spanish Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/cuentos-infantiles-en-el-jardin-spanish-storytime/2026-07-31/"
+    },
+    {
+      "date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-31/"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – May-August",
+      "tour": "Park Event",
+      "support_raw": "7:30 AM",
+      "artists": [
+        "Early Birders – May-August"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-may-august/2026-08-01/"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Lake Harriet",
+      "title": "Stride To Save Lives",
+      "tour": "Park Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Stride To Save Lives"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/stride-to-save-lives-3/"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Father Hennepin",
+      "title": "MN Food Truck Festival",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "MN Food Truck Festival"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/mn-food-truck-festival-2/"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Tree Treks",
+      "tour": "Park Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Tree Treks"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/tree-treks/2026-08-01/"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-01/"
+    },
+    {
+      "date": "2026-08-02",
+      "end_date": "2026-08-02",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-08-02/"
+    },
+    {
+      "date": "2026-08-02",
+      "end_date": "2026-08-02",
+      "venue": "Lake Harriet",
+      "title": "Bike Help Days",
+      "tour": "Park Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Bike Help Days"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/bike-help-days-7/"
+    },
+    {
+      "date": "2026-08-02",
+      "end_date": "2026-08-02",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-02/"
+    },
+    {
+      "date": "2026-08-03",
+      "end_date": "2026-08-03",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-03/"
+    },
+    {
+      "date": "2026-08-04",
+      "end_date": "2026-08-04",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-04/"
+    },
+    {
+      "date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Meadow Makers",
+      "tour": "Park Event",
+      "support_raw": "9:30 AM",
+      "artists": [
+        "Meadow Makers"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/meadow-makers/2026-08-05/"
+    },
+    {
+      "date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "venue": "The Commons",
+      "title": "Trivia Night",
+      "tour": "Park Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Trivia Night"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/trivia-night/2026-08-05/"
+    },
+    {
+      "date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-05/"
+    },
+    {
+      "date": "2026-08-06",
+      "end_date": "2026-08-06",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-08-06/"
+    },
+    {
+      "date": "2026-08-06",
+      "end_date": "2026-08-06",
+      "venue": "Minneapolis Parks",
+      "title": "Flower Hour",
+      "tour": "Park Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Flower Hour"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/flower-hour/2026-08-06/"
+    },
+    {
+      "date": "2026-08-06",
+      "end_date": "2026-08-06",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-06/"
+    },
+    {
+      "date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "venue": "Minneapolis Parks",
+      "title": "Cuentos Infantiles en el Jardín – Spanish Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Cuentos Infantiles en el Jardín – Spanish Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/cuentos-infantiles-en-el-jardin-spanish-storytime/2026-08-07/"
+    },
+    {
+      "date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "venue": "Minnehaha Falls",
+      "title": "Bike Help Days",
+      "tour": "Park Event",
+      "support_raw": "4:00 PM",
+      "artists": [
+        "Bike Help Days"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/bike-help-days-8/"
+    },
+    {
+      "date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-07/"
+    },
+    {
+      "date": "2026-08-08",
+      "end_date": "2026-08-08",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – May-August",
+      "tour": "Park Event",
+      "support_raw": "7:30 AM",
+      "artists": [
+        "Early Birders – May-August"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-may-august/2026-08-08/"
+    },
+    {
+      "date": "2026-08-08",
+      "end_date": "2026-08-08",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-08/"
+    },
+    {
+      "date": "2026-08-09",
+      "end_date": "2026-08-09",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-08-09/"
+    },
+    {
+      "date": "2026-08-09",
+      "end_date": "2026-08-09",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Making Space for Native Plants in Greater Eloise Stewardship Area",
+      "tour": "Park Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Making Space for Native Plants in Greater Eloise Stewardship Area"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/making-space-for-native-plants-in-greater-eloise-stewardship-area/2026-08-09/"
+    },
+    {
+      "date": "2026-08-09",
+      "end_date": "2026-08-09",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-09/"
+    },
+    {
+      "date": "2026-08-10",
+      "end_date": "2026-08-10",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-10/"
+    },
+    {
+      "date": "2026-08-11",
+      "end_date": "2026-08-11",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-11/"
+    },
+    {
+      "date": "2026-08-12",
+      "end_date": "2026-08-12",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Meadow Makers",
+      "tour": "Park Event",
+      "support_raw": "9:30 AM",
+      "artists": [
+        "Meadow Makers"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/meadow-makers/2026-08-12/"
+    },
+    {
+      "date": "2026-08-12",
+      "end_date": "2026-08-12",
+      "venue": "The Commons",
+      "title": "Trivia Night",
+      "tour": "Park Event",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Trivia Night"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/trivia-night/2026-08-12/"
+    },
+    {
+      "date": "2026-08-12",
+      "end_date": "2026-08-12",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-12/"
+    },
+    {
+      "date": "2026-08-13",
+      "end_date": "2026-08-13",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-08-13/"
+    },
+    {
+      "date": "2026-08-13",
+      "end_date": "2026-08-13",
+      "venue": "Minneapolis Parks",
+      "title": "Flower Hour",
+      "tour": "Park Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Flower Hour"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/flower-hour/2026-08-13/"
+    },
+    {
+      "date": "2026-08-13",
+      "end_date": "2026-08-13",
+      "venue": "Minneapolis Parks",
+      "title": "Knitting in Nature",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Knitting in Nature"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/knitting-in-nature-2/2026-08-13/"
+    },
+    {
+      "date": "2026-08-13",
+      "end_date": "2026-08-13",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-13/"
+    },
+    {
+      "date": "2026-08-14",
+      "end_date": "2026-08-14",
+      "venue": "Minneapolis Parks",
+      "title": "Cuentos Infantiles en el Jardín – Spanish Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Cuentos Infantiles en el Jardín – Spanish Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/cuentos-infantiles-en-el-jardin-spanish-storytime/2026-08-14/"
+    },
+    {
+      "date": "2026-08-14",
+      "end_date": "2026-08-14",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-14/"
+    },
+    {
+      "date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – May-August",
+      "tour": "Park Event",
+      "support_raw": "7:30 AM",
+      "artists": [
+        "Early Birders – May-August"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-may-august/2026-08-15/"
+    },
+    {
+      "date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Bumblebee Participatory Science program",
+      "tour": "Park Event",
+      "support_raw": "1:00 PM",
+      "artists": [
+        "Bumblebee Participatory Science program"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/bumblebee-participatory-science-program/2026-08-15/"
+    },
+    {
+      "date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-15/"
+    },
+    {
+      "date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-08-16/"
+    },
+    {
+      "date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Tree Treks",
+      "tour": "Park Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "Tree Treks"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/tree-treks/2026-08-16/"
+    },
+    {
+      "date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-16/"
+    },
+    {
+      "date": "2026-08-17",
+      "end_date": "2026-08-17",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-17/"
+    },
+    {
+      "date": "2026-08-18",
+      "end_date": "2026-08-18",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-18/"
+    },
+    {
+      "date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Meadow Makers",
+      "tour": "Park Event",
+      "support_raw": "9:30 AM",
+      "artists": [
+        "Meadow Makers"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/meadow-makers/2026-08-19/"
+    },
+    {
+      "date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-19/"
+    },
+    {
+      "date": "2026-08-20",
+      "end_date": "2026-08-20",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-08-20/"
+    },
+    {
+      "date": "2026-08-20",
+      "end_date": "2026-08-20",
+      "venue": "Minneapolis Parks",
+      "title": "Flower Hour",
+      "tour": "Park Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Flower Hour"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/flower-hour/2026-08-20/"
+    },
+    {
+      "date": "2026-08-20",
+      "end_date": "2026-08-20",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-20/"
+    },
+    {
+      "date": "2026-08-21",
+      "end_date": "2026-08-21",
+      "venue": "Minneapolis Parks",
+      "title": "Cuentos Infantiles en el Jardín – Spanish Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Cuentos Infantiles en el Jardín – Spanish Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/cuentos-infantiles-en-el-jardin-spanish-storytime/2026-08-21/"
+    },
+    {
+      "date": "2026-08-21",
+      "end_date": "2026-08-21",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-21/"
+    },
+    {
+      "date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "venue": "Minnehaha Regional Park",
+      "title": "Minnesota Had Enough",
+      "tour": "Park Event",
+      "support_raw": "7:00 AM",
+      "artists": [
+        "Minnesota Had Enough"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/minnesota-had-enough/"
+    },
+    {
+      "date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – May-August",
+      "tour": "Park Event",
+      "support_raw": "7:30 AM",
+      "artists": [
+        "Early Birders – May-August"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-may-august/2026-08-22/"
+    },
+    {
+      "date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-22/"
+    },
+    {
+      "date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-08-23/"
+    },
+    {
+      "date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Making Space for Native Plants in Greater Eloise Stewardship Area",
+      "tour": "Park Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Making Space for Native Plants in Greater Eloise Stewardship Area"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/making-space-for-native-plants-in-greater-eloise-stewardship-area/2026-08-23/"
+    },
+    {
+      "date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-23/"
+    },
+    {
+      "date": "2026-08-24",
+      "end_date": "2026-08-24",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-24/"
+    },
+    {
+      "date": "2026-08-25",
+      "end_date": "2026-08-25",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-25/"
+    },
+    {
+      "date": "2026-08-26",
+      "end_date": "2026-08-26",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Meadow Makers",
+      "tour": "Park Event",
+      "support_raw": "9:30 AM",
+      "artists": [
+        "Meadow Makers"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/meadow-makers/2026-08-26/"
+    },
+    {
+      "date": "2026-08-26",
+      "end_date": "2026-08-26",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-26/"
+    },
+    {
+      "date": "2026-08-27",
+      "end_date": "2026-08-27",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-08-27/"
+    },
+    {
+      "date": "2026-08-27",
+      "end_date": "2026-08-27",
+      "venue": "Minneapolis Parks",
+      "title": "Flower Hour",
+      "tour": "Park Event",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Flower Hour"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/flower-hour/2026-08-27/"
+    },
+    {
+      "date": "2026-08-27",
+      "end_date": "2026-08-27",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Knitting in Nature",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Knitting in Nature"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/knitting-in-nature-3/2026-08-27/"
+    },
+    {
+      "date": "2026-08-27",
+      "end_date": "2026-08-27",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-27/"
+    },
+    {
+      "date": "2026-08-28",
+      "end_date": "2026-08-28",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-28/"
+    },
+    {
+      "date": "2026-08-29",
+      "end_date": "2026-08-29",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – May-August",
+      "tour": "Park Event",
+      "support_raw": "7:30 AM",
+      "artists": [
+        "Early Birders – May-August"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-may-august/2026-08-29/"
+    },
+    {
+      "date": "2026-08-29",
+      "end_date": "2026-08-29",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-29/"
+    },
+    {
+      "date": "2026-08-30",
+      "end_date": "2026-08-30",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-08-30/"
+    },
+    {
+      "date": "2026-08-30",
+      "end_date": "2026-08-30",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-30/"
+    },
+    {
+      "date": "2026-08-31",
+      "end_date": "2026-08-31",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-31/"
+    },
+    {
+      "date": "2026-09-01",
+      "end_date": "2026-09-01",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-09-01/"
+    },
+    {
+      "date": "2026-09-02",
+      "end_date": "2026-09-02",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Meadow Makers",
+      "tour": "Park Event",
+      "support_raw": "9:30 AM",
+      "artists": [
+        "Meadow Makers"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/meadow-makers/2026-09-02/"
+    },
+    {
+      "date": "2026-09-02",
+      "end_date": "2026-09-02",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-09-02/"
+    },
+    {
+      "date": "2026-09-03",
+      "end_date": "2026-09-03",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-09-03/"
+    },
+    {
+      "date": "2026-09-03",
+      "end_date": "2026-09-03",
+      "venue": "Minneapolis Parks",
+      "title": "Rock the Block",
+      "tour": "Park Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Rock the Block"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-09-03/"
+    },
+    {
+      "date": "2026-09-05",
+      "end_date": "2026-09-05",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – September",
+      "tour": "Park Event",
+      "support_raw": "8:30 AM",
+      "artists": [
+        "Early Birders – September"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-september/2026-09-05/"
+    },
+    {
+      "date": "2026-09-06",
+      "end_date": "2026-09-06",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-09-06/"
+    },
+    {
+      "date": "2026-09-10",
+      "end_date": "2026-09-10",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-09-10/"
+    },
+    {
+      "date": "2026-09-12",
+      "end_date": "2026-09-12",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – September",
+      "tour": "Park Event",
+      "support_raw": "8:30 AM",
+      "artists": [
+        "Early Birders – September"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-september/2026-09-12/"
+    },
+    {
+      "date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-09-13/"
+    },
+    {
+      "date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Making Space for Native Plants in Greater Eloise Stewardship Area",
+      "tour": "Park Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Making Space for Native Plants in Greater Eloise Stewardship Area"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/making-space-for-native-plants-in-greater-eloise-stewardship-area/2026-09-13/"
+    },
+    {
+      "date": "2026-09-17",
+      "end_date": "2026-09-17",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-09-17/"
+    },
+    {
+      "date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – September",
+      "tour": "Park Event",
+      "support_raw": "8:30 AM",
+      "artists": [
+        "Early Birders – September"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-september/2026-09-19/"
+    },
+    {
+      "date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-09-20/"
+    },
+    {
+      "date": "2026-09-24",
+      "end_date": "2026-09-24",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-09-24/"
+    },
+    {
+      "date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – September",
+      "tour": "Park Event",
+      "support_raw": "8:30 AM",
+      "artists": [
+        "Early Birders – September"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-september/2026-09-26/"
+    },
+    {
+      "date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-09-27/"
+    },
+    {
+      "date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Making Space for Native Plants in Greater Eloise Stewardship Area",
+      "tour": "Park Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Making Space for Native Plants in Greater Eloise Stewardship Area"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/making-space-for-native-plants-in-greater-eloise-stewardship-area/2026-09-27/"
+    },
+    {
+      "date": "2026-10-01",
+      "end_date": "2026-10-01",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-10-01/"
+    },
+    {
+      "date": "2026-10-03",
+      "end_date": "2026-10-03",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – October",
+      "tour": "Park Event",
+      "support_raw": "9:30 AM",
+      "artists": [
+        "Early Birders – October"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-october/2026-10-03/"
+    },
+    {
+      "date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-10-04/"
+    },
+    {
+      "date": "2026-10-08",
+      "end_date": "2026-10-08",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-10-08/"
+    },
+    {
+      "date": "2026-10-10",
+      "end_date": "2026-10-10",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – October",
+      "tour": "Park Event",
+      "support_raw": "9:30 AM",
+      "artists": [
+        "Early Birders – October"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-october/2026-10-10/"
+    },
+    {
+      "date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Garden Storytime",
+      "tour": "Park Event",
+      "support_raw": "10:00 AM",
+      "artists": [
+        "Garden Storytime"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-10-11/"
+    },
+    {
+      "date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "venue": "Eloise Butler Wildflower Garden",
+      "title": "Making Space for Native Plants in Greater Eloise Stewardship Area",
+      "tour": "Park Event",
+      "support_raw": "2:00 PM",
+      "artists": [
+        "Making Space for Native Plants in Greater Eloise Stewardship Area"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/making-space-for-native-plants-in-greater-eloise-stewardship-area/2026-10-11/"
+    },
+    {
+      "date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "venue": "Minneapolis Parks",
+      "title": "Early Birders – October",
+      "tour": "Park Event",
+      "support_raw": "9:30 AM",
+      "artists": [
+        "Early Birders – October"
+      ],
+      "link": "https://www.minneapolisparks.org/event-calendar/early-birders-october/2026-10-17/"
+    }
+  ]
+}

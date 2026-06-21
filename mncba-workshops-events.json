@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "site": "mncba_workshops",
+    "scraping_time": "2026-06-20T23:29:41.291759",
+    "start_date_range": "2026-06-20",
+    "end_date_range": "2026-10-18",
+    "total_shows_extracted": 8
+  },
+  "shows": [
+    {
+      "date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "venue": "MNCBA",
+      "title": "Papermaking Intensive: Surface Treatment Study",
+      "tour": "MNCBA Workshop",
+      "support_raw": "Workshop, In-Person, Papermaking and Marbling, Beginner, Binding and Box Making, Design and Content, Printing, Virtual, Intermediate",
+      "artists": [
+        "Papermaking Intensive: Surface Treatment Study"
+      ],
+      "link": "https://mnbookarts.org/events/papermaking-intensive-surface-treatment-study-june-2026"
+    },
+    {
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "venue": "MNCBA",
+      "title": "Digital & Analog Zines",
+      "tour": "MNCBA Workshop",
+      "support_raw": "Workshop, In-Person, Binding and Box Making, Beginner, Design and Content",
+      "artists": [
+        "Digital & Analog Zines"
+      ],
+      "link": "https://mnbookarts.org/events/digital-analog-zines-june-2026"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "MNCBA",
+      "title": "And your very flesh shall be a great poem",
+      "tour": "MNCBA Workshop",
+      "support_raw": "Workshop, In-Person, Beginner, Design and Content, Printing",
+      "artists": [
+        "And your very flesh shall be a great poem"
+      ],
+      "link": "https://mnbookarts.org/events/and-your-very-flesh-shall-be-a-great-poem-june-2026"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "MNCBA",
+      "title": "Digital Resources: Geometry and Illusion for Visual Artists",
+      "tour": "MNCBA Workshop",
+      "support_raw": "Workshop, Virtual, Design and Content, Intermediate",
+      "artists": [
+        "Digital Resources: Geometry and Illusion for Visual Artists"
+      ],
+      "link": "https://mnbookarts.org/events/digital-resources-geometry-and-illusion-for-visual-artists-june-2026"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "MNCBA",
+      "title": "Polygonal Book Forms",
+      "tour": "MNCBA Workshop",
+      "support_raw": "Workshop, In-Person, Binding and Box Making, Beginner",
+      "artists": [
+        "Polygonal Book Forms"
+      ],
+      "link": "https://mnbookarts.org/events/polygonal-book-forms"
+    },
+    {
+      "date": "2026-07-07",
+      "end_date": "2026-07-07",
+      "venue": "MNCBA",
+      "title": "Box Building: Drawers & Dividers (Virtual)",
+      "tour": "MNCBA Workshop",
+      "support_raw": "Workshop, Virtual, Intermediate, Binding and Box Making",
+      "artists": [
+        "Box Building: Drawers & Dividers (Virtual)"
+      ],
+      "link": "https://mnbookarts.org/events/box-building-drawers-dividers-virtual-jul-7-2026"
+    },
+    {
+      "date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "venue": "MNCBA",
+      "title": "Binding Fan Fiction & Novels: Morning",
+      "tour": "MNCBA Workshop",
+      "support_raw": "Workshop, In-Person, Beginner, Binding and Box Making, Design and Content",
+      "artists": [
+        "Binding Fan Fiction & Novels: Morning"
+      ],
+      "link": "https://mnbookarts.org/events/binding-fan-fiction-and-novels-morning-july-2026"
+    },
+    {
+      "date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "venue": "MNCBA",
+      "title": "Sculptural Books with Handmade Paper",
+      "tour": "MNCBA Workshop",
+      "support_raw": "Workshop, In-Person, Beginner, Papermaking and Marbling, Design and Content",
+      "artists": [
+        "Sculptural Books with Handmade Paper"
+      ],
+      "link": "https://mnbookarts.org/events/sculptural-books-with-handmade-paper-july-2026"
+    }
+  ]
+}

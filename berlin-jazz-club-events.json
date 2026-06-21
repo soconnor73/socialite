@@ -1,0 +1,587 @@
+{
+  "metadata": {
+    "site": "berlin_jazz_club",
+    "scraping_time": "2026-06-20T19:04:23.146478",
+    "start_date_range": "2026-06-20",
+    "end_date_range": "2026-10-18",
+    "total_shows_extracted": 48
+  },
+  "shows": [
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Berlin Jazz Club",
+      "title": "Early Evening Jazz: Vasich, Granowski, & Hepola Play \"Money Jungle\"",
+      "tour": "Live Music",
+      "support_raw": "4:30 PM  NO COVER4:30pm Show",
+      "artists": [
+        "Early Evening Jazz: Vasich, Granowski, & Hepola Play \"Money Jungle\""
+      ],
+      "link": "https://www.berlinmpls.com/calendar/early-evening-jazz-money-jungle-june-2026"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "venue": "Berlin Jazz Club",
+      "title": "Christopher Hoffman: REX",
+      "tour": "Live Music",
+      "support_raw": "8:00 PM  $20 ADV / $25 DOSGET TICKETS8:00pm Show",
+      "artists": [
+        "Christopher Hoffman: REX"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/christopher-hoffman-june-2026"
+    },
+    {
+      "date": "2026-06-20",
+      "end_date": "2026-06-21",
+      "venue": "Berlin Jazz Club",
+      "title": "Late Night Lounge: AKKO",
+      "tour": "Live Music",
+      "support_raw": "$5 at the Door9:30pm DJ Set",
+      "artists": [
+        "Late Night Lounge: AKKO"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/akko-june-2026"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "Berlin Jazz Club",
+      "title": "TGNP Sundays: Shane Parish Performs \"Autechre Guitar\"",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $20 GET TICKETS7:00pm Show",
+      "artists": [
+        "TGNP Sundays: Shane Parish Performs \"Autechre Guitar\""
+      ],
+      "link": "https://www.berlinmpls.com/calendar/totally-gross-national-product-residency-week-3-shane-parish"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "venue": "Berlin Jazz Club",
+      "title": "Lasse Corson and His Friends From Kansas City",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $10 GET TICKETS7:00pm Show",
+      "artists": [
+        "Lasse Corson and His Friends From Kansas City"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/lasse-corson-friends-kansas-city-june-2026"
+    },
+    {
+      "date": "2026-06-24",
+      "end_date": "2026-06-25",
+      "venue": "Berlin Jazz Club",
+      "title": "The Cherry Pit Open Jam",
+      "tour": "Live Music",
+      "support_raw": "NO COVER10:00pm Open Jam",
+      "artists": [
+        "The Cherry Pit Open Jam"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/the-cherry-pit-open-jam-minneapolis-june-24-2026"
+    },
+    {
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "venue": "Berlin Jazz Club",
+      "title": "Majmin w/ Shehrzad (DJ Set)",
+      "tour": "Live Music",
+      "support_raw": "7:30 PM  $18 ADV / $20 DOSGET TICKETS7:30pm Show",
+      "artists": [
+        "Majmin w/ Shehrzad (DJ Set)"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/majmin-zak-khan"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "venue": "Berlin Jazz Club",
+      "title": "Early Evening Jazz: Henry Scamurra's Pathways Trio",
+      "tour": "Live Music",
+      "support_raw": "4:30 PM  NO COVER4:30pm Show",
+      "artists": [
+        "Early Evening Jazz: Henry Scamurra's Pathways Trio"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/early-evening-jazz-henry-scamurra-pathways-trio"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "venue": "Berlin Jazz Club",
+      "title": "Bokani Dyer Trio",
+      "tour": "Live Music",
+      "support_raw": "7:30 PM  $20 GET TICKETS7:30pm Show",
+      "artists": [
+        "Bokani Dyer Trio"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/bokani-dyer-trio-june-2026"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-27",
+      "venue": "Berlin Jazz Club",
+      "title": "Late Night Lounge: Effygasm",
+      "tour": "Live Music",
+      "support_raw": "$5 at the Door10:30pm DJ Set",
+      "artists": [
+        "Late Night Lounge: Effygasm"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/late-night-lounge-effygasm-june-2026"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "Berlin Jazz Club",
+      "title": "Early Evening Jazz: Mary Petrich OpenHand Trio",
+      "tour": "Live Music",
+      "support_raw": "4:30 PM  NO COVER4:30pm Show",
+      "artists": [
+        "Early Evening Jazz: Mary Petrich OpenHand Trio"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/mary-petrich-openhand-trio-june-2026"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "Berlin Jazz Club",
+      "title": "Chresten Hyde Quintet",
+      "tour": "Live Music",
+      "support_raw": "7:30 PM  $15 at the Door7:30pm Show",
+      "artists": [
+        "Chresten Hyde Quintet"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/chresten-hyde-quintet"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-28",
+      "venue": "Berlin Jazz Club",
+      "title": "Late Night Lounge: Ms. Ada J",
+      "tour": "Live Music",
+      "support_raw": "$5 at the Door10:30pm DJ Set",
+      "artists": [
+        "Late Night Lounge: Ms. Ada J"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/late-night-lounge-ms-ada-j-june-2026"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "Berlin Jazz Club",
+      "title": "TGNP Sundays: The Clee-Shays / DJ Haley Fohr",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $20 GET TICKETS7:00pm Show",
+      "artists": [
+        "TGNP Sundays: The Clee-Shays / DJ Haley Fohr"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/totally-gross-national-product-residency-week-4"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "venue": "Berlin Jazz Club",
+      "title": "Effy + Kwey Present: Off Wax (feat. Tailor Briann)",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $15 ADV / $20 DOSGET TICKETS7:00pm Show",
+      "artists": [
+        "Effy + Kwey Present: Off Wax (feat. Tailor Briann)"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/effygasm-kwey-off-wax-july-2026-tailor-briann"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-02",
+      "venue": "Berlin Jazz Club",
+      "title": "The Cherry Pit Open Jam",
+      "tour": "Live Music",
+      "support_raw": "NO COVER10:00pm Open Jam",
+      "artists": [
+        "The Cherry Pit Open Jam"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/the-cherry-pit-open-jam-minneapolis-july-1-2026"
+    },
+    {
+      "date": "2026-07-02",
+      "end_date": "2026-07-03",
+      "venue": "Berlin Jazz Club",
+      "title": "Abinnet Berhanu's Ahndenet አንድነት feat. Genet Abate w/ Amanuel Tsegaye of Tizita Sounds",
+      "tour": "Live Music",
+      "support_raw": "$30 ADV / $35 DOSGET TICKETS8:00pm Show",
+      "artists": [
+        "Abinnet Berhanu's Ahndenet አንድነት feat. Genet Abate w/ Amanuel Tsegaye of Tizita Sounds"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/abinnet-berhanu-genet-abate-ahndenet-tizita-sounds-july-2026"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "venue": "Berlin Jazz Club",
+      "title": "Early Evening Jazz: Bryan Nichols Trio",
+      "tour": "Live Music",
+      "support_raw": "5:00 PM  NO COVER5:00pm Show",
+      "artists": [
+        "Early Evening Jazz: Bryan Nichols Trio"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/early-evening-jazz-bryan-nichols-trio-july-2026"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "venue": "Berlin Jazz Club",
+      "title": "Feleke Hailu with his Daughter Rediet",
+      "tour": "Live Music",
+      "support_raw": "8:00 PM  $30 ADV / $35 DOSGET TICKETS8:00pm and 10:00pm Shows",
+      "artists": [
+        "Feleke Hailu with his Daughter Rediet"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/feleke-hailu-rediet-hailu-esfna-tournament-minneapolis"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-04",
+      "venue": "Berlin Jazz Club",
+      "title": "Late Night Lounge: Obi Original",
+      "tour": "Live Music",
+      "support_raw": "$5 at the Door11:30pm DJ Set",
+      "artists": [
+        "Late Night Lounge: Obi Original"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/late-night-lounge-obi-original-july-2026"
+    },
+    {
+      "date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "venue": "Berlin Jazz Club",
+      "title": "corto.alto w/ cool nel d",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $28 ADV / $32 DOSGET TICKETS7:00pm Show",
+      "artists": [
+        "corto.alto w/ cool nel d"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/corto-alto-minneapolis-nelson-devereaux"
+    },
+    {
+      "date": "2026-07-08",
+      "end_date": "2026-07-09",
+      "venue": "Berlin Jazz Club",
+      "title": "The Cherry Pit Open Jam",
+      "tour": "Live Music",
+      "support_raw": "NO COVER10:00pm Open Jam",
+      "artists": [
+        "The Cherry Pit Open Jam"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/the-cherry-pit-open-jam-minneapolis-july-8-2026"
+    },
+    {
+      "date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "venue": "Berlin Jazz Club",
+      "title": "Dream Crease / NTHNL / Sunpearl & Starflower",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $20 ADV / $22 DOS GET TICKETS7:00pm Show",
+      "artists": [
+        "Dream Crease / NTHNL / Sunpearl & Starflower"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/nthnl-dream-crease-starflower-sunpearl"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "Berlin Jazz Club",
+      "title": "Early Evening Jazz: Jordan Christianson",
+      "tour": "Live Music",
+      "support_raw": "4:30 PM  NO COVER4:30pm Show",
+      "artists": [
+        "Early Evening Jazz: Jordan Christianson"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/jordan-christianson-solo-piano-july-2026"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "Berlin Jazz Club",
+      "title": "Room3",
+      "tour": "Live Music",
+      "support_raw": "6:30 PM  $20 GET TICKETS6:30pm and 8:30pm Shows",
+      "artists": [
+        "Room3"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/room3-july-2026"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-11",
+      "venue": "Berlin Jazz Club",
+      "title": "Late Night Lounge: Tarik Thornton",
+      "tour": "Live Music",
+      "support_raw": "$5 at the Door10:30pm DJ Set",
+      "artists": [
+        "Late Night Lounge: Tarik Thornton"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/late-night-lounge-tarik-thornton-july-2026"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Berlin Jazz Club",
+      "title": "One Time Out",
+      "tour": "Live Music",
+      "support_raw": "7:30 PM  $15 GET TICKETS7:30pm Show",
+      "artists": [
+        "One Time Out"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/one-time-out-july-2026"
+    },
+    {
+      "date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "venue": "Berlin Jazz Club",
+      "title": "Curated by Aida Shahghasemi (feat. Christopher Rochester & Kavyesh Kaviraj)",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $15 GET TICKETS7:00pm Show",
+      "artists": [
+        "Curated by Aida Shahghasemi (feat. Christopher Rochester & Kavyesh Kaviraj)"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/aida-shahghasemi-residency-week-1"
+    },
+    {
+      "date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "venue": "Berlin Jazz Club",
+      "title": "Ben Cosgrove w/ Liz Draper / Crystal Myslajek / Chris Hepola (Rainfields)",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $15 GET TICKETS7:00pm Show",
+      "artists": [
+        "Ben Cosgrove w/ Liz Draper / Crystal Myslajek / Chris Hepola (Rainfields)"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/ben-cosgrove-liz-draper-chris-hepola-crystal-myslajek"
+    },
+    {
+      "date": "2026-07-15",
+      "end_date": "2026-07-16",
+      "venue": "Berlin Jazz Club",
+      "title": "The Cherry Pit Open Jam",
+      "tour": "Live Music",
+      "support_raw": "NO COVER10:00pm Open Jam",
+      "artists": [
+        "The Cherry Pit Open Jam"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/the-cherry-pit-open-jam-minneapolis-july-15-2026"
+    },
+    {
+      "date": "2026-07-16",
+      "end_date": "2026-07-16",
+      "venue": "Berlin Jazz Club",
+      "title": "Hired Goons w/ Sean McPherson (DJ Set)",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $15 GET TICKETS7:00pm Show",
+      "artists": [
+        "Hired Goons w/ Sean McPherson (DJ Set)"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/hired-goons-sean-mcpherson-dj-set"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "venue": "Berlin Jazz Club",
+      "title": "Green is Beautiful: A Tribute to the '70s Jazz Funk of Grant Green",
+      "tour": "Live Music",
+      "support_raw": "7:30 PM  $20 GET TICKETS7:30pm Show",
+      "artists": [
+        "Green is Beautiful: A Tribute to the '70s Jazz Funk of Grant Green"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/grant-green-tribute-ross-clowser-mitch-towne"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-18",
+      "venue": "Berlin Jazz Club",
+      "title": "Late Night Lounge: DJ Buster Baxter / DJ Greenery",
+      "tour": "Live Music",
+      "support_raw": "$5 at the Door10:30pm DJ Set",
+      "artists": [
+        "Late Night Lounge: DJ Buster Baxter / DJ Greenery"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/late-night-lounge-dj-buster-baxter-dj-greenery-july-2026"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-19",
+      "venue": "Berlin Jazz Club",
+      "title": "Late Night Lounge: Grady (Not Grady)",
+      "tour": "Live Music",
+      "support_raw": "$5 at the Door10:30pm DJ Set",
+      "artists": [
+        "Late Night Lounge: Grady (Not Grady)"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/late-night-lounge-grady-not-grady-july-2026"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "Berlin Jazz Club",
+      "title": "Curated by Aida Shahghasemi (feat. Niloofar Sohi, Niyayesh Shababi, & Niloufar Shiri)",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $15 GET TICKETS7:00pm Show",
+      "artists": [
+        "Curated by Aida Shahghasemi (feat. Niloofar Sohi, Niyayesh Shababi, & Niloufar Shiri)"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/aida-shahghasemi-residency-week-2"
+    },
+    {
+      "date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "venue": "Berlin Jazz Club",
+      "title": "Calvin Caron's American West Quintet",
+      "tour": "Live Music",
+      "support_raw": "7:30 PM  $15 GET TICKETS7:30pm Show",
+      "artists": [
+        "Calvin Caron's American West Quintet"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/calvin-caron-american-west-quintet-july-2026"
+    },
+    {
+      "date": "2026-07-24",
+      "end_date": "2026-07-25",
+      "venue": "Berlin Jazz Club",
+      "title": "Late Night Lounge: Radio Pocho",
+      "tour": "Live Music",
+      "support_raw": "$5 at the Door10:30pm DJ Set",
+      "artists": [
+        "Late Night Lounge: Radio Pocho"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/radio-pocho-july-2026"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "venue": "Berlin Jazz Club",
+      "title": "Kelly Doyle (feat. Nelson Devereaux)",
+      "tour": "Live Music",
+      "support_raw": "7:30 PM  $15 GET TICKETS7:30pm Show",
+      "artists": [
+        "Kelly Doyle (feat. Nelson Devereaux)"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/kelly-doyle-feat-nelson-devereaux-july-2026"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-26",
+      "venue": "Berlin Jazz Club",
+      "title": "Late Night Lounge: Justis Brokenrope",
+      "tour": "Live Music",
+      "support_raw": "$5 at the Door10:30pm DJ Set",
+      "artists": [
+        "Late Night Lounge: Justis Brokenrope"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/late-night-lounge-justis-brokenrope-july-2026"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "venue": "Berlin Jazz Club",
+      "title": "Curated by Aida Shahghasemi (feat. Jeremy Ylvisaker, Max Ylvisaker, & Joey Hays)",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $15 GET TICKETS7:00pm Show",
+      "artists": [
+        "Curated by Aida Shahghasemi (feat. Jeremy Ylvisaker, Max Ylvisaker, & Joey Hays)"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/aida-shahghasemi-residency-week-3"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "Berlin Jazz Club",
+      "title": "Michael Cain Trio with Terrell X",
+      "tour": "Live Music",
+      "support_raw": "7:30 PM  $20 at the Door7:30pm Show",
+      "artists": [
+        "Michael Cain Trio with Terrell X"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/michael-cain-trio-terrell-x-august-2026"
+    },
+    {
+      "date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "venue": "Berlin Jazz Club",
+      "title": "Eyvind Kang & Jessika Kenney w/ Kyle Motl & Niloufar Shiri",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $20 ADV / $25 DOS GET TICKETS7:00pm Show",
+      "artists": [
+        "Eyvind Kang & Jessika Kenney w/ Kyle Motl & Niloufar Shiri"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/eyvind-kang-jessika-kenney-kyle-motl-niloufar-shiri"
+    },
+    {
+      "date": "2026-08-08",
+      "end_date": "2026-08-09",
+      "venue": "Berlin Jazz Club",
+      "title": "Late Night Lounge: Sami Knox",
+      "tour": "Live Music",
+      "support_raw": "$5 at the Door10:30pm Show",
+      "artists": [
+        "Late Night Lounge: Sami Knox"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/sami-knox-august-2026"
+    },
+    {
+      "date": "2026-08-14",
+      "end_date": "2026-08-15",
+      "venue": "Berlin Jazz Club",
+      "title": "Late Night Lounge: TaliaKnight",
+      "tour": "Live Music",
+      "support_raw": "$5 at the Door10:30pm DJ Set",
+      "artists": [
+        "Late Night Lounge: TaliaKnight"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/taliaknight-august-2026"
+    },
+    {
+      "date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "venue": "Berlin Jazz Club",
+      "title": "Miki Yamanaka Trio with Nicole Glover",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $30 Seated & $20 Bar/StandingGET TICKETS7:00pm and 9:00pm Shows",
+      "artists": [
+        "Miki Yamanaka Trio with Nicole Glover"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/miki-yamanaka-trio-nicole-glover-august-2026"
+    },
+    {
+      "date": "2026-09-01",
+      "end_date": "2026-09-01",
+      "venue": "Berlin Jazz Club",
+      "title": "Kassa Overall w/ Melvin Gibbs",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $22 ADV / $25 DOSGET TICKETS7:00pm Show",
+      "artists": [
+        "Kassa Overall w/ Melvin Gibbs"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/kassa-overall-night-1"
+    },
+    {
+      "date": "2026-09-02",
+      "end_date": "2026-09-02",
+      "venue": "Berlin Jazz Club",
+      "title": "Kassa Overall w/ dzWünder",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $22 ADV / $25 DOSGET TICKETS7:00pm Show",
+      "artists": [
+        "Kassa Overall w/ dzWünder"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/kassa-overall-night-2"
+    },
+    {
+      "date": "2026-09-08",
+      "end_date": "2026-09-08",
+      "venue": "Berlin Jazz Club",
+      "title": "Lara Somogyi: a [time] patterned (Minneapolis Premiere) w/ Jacob Pavek",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $20 ADV / $22 DOSGET TICKETS7:00pm Show",
+      "artists": [
+        "Lara Somogyi: a [time] patterned (Minneapolis Premiere) w/ Jacob Pavek"
+      ],
+      "link": "https://www.berlinmpls.com/calendar/lara-somogyi-a-time-patterned-minneapolis-harp"
+    }
+  ]
+}
