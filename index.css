@@ -783,6 +783,7 @@ body {
         max-width: 100%;
         height: 100vh;
         z-index: 1001;
+        background: #0d111c; /* Solid dark background to prevent overlay text overlapping */
         transform: translateX(-100%);
         transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         box-shadow: 25px 0 50px -12px rgba(0, 0, 0, 0.8);
