@@ -34,6 +34,9 @@
     --clr-coch-cooking-classes: #9a3412;
     --clr-dame-errant-clay: #a21caf;
     --clr-mpls-parks: #059669;
+    --clr-trylon-cinema: #64748b;
+    --clr-parkway-theater: #f43f5e;
+    --clr-fillmore-minneapolis: #eab308;
 }
 
 * {
@@ -107,6 +110,17 @@ body {
     background: var(--accent-gradient);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+
+.app-version {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+    background: rgba(255, 255, 255, 0.08);
+    padding: 0.15rem 0.5rem;
+    border-radius: 99px;
+    border: 1px solid var(--panel-border);
+    margin-left: auto;
 }
 
 .stat-card {

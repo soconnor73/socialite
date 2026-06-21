@@ -24,6 +24,9 @@ from .mncba_workshops import MNCBAWorkshopsParser
 from .coch_cooking_classes import CoCHCookingClassesParser
 from .dame_errant_clay import DameErrantClayParser
 from .mpls_parks import MplsParksParser
+from .trylon_cinema import TrylonCinemaParser
+from .parkway_theater import ParkwayTheaterParser
+from .fillmore_minneapolis import FillmoreMinneapolisParser
 
 PARSER_REGISTRY = {
     'first_avenue': FirstAvenueParser,
@@ -50,7 +53,10 @@ PARSER_REGISTRY = {
     'mncba_workshops': MNCBAWorkshopsParser,
     'coch_cooking_classes': CoCHCookingClassesParser,
     'dame_errant_clay': DameErrantClayParser,
-    'mpls_parks': MplsParksParser
+    'mpls_parks': MplsParksParser,
+    'trylon_cinema': TrylonCinemaParser,
+    'parkway_theater': ParkwayTheaterParser,
+    'fillmore_minneapolis': FillmoreMinneapolisParser
 }
 
 def get_parser(site_name: str) -> BaseParser:

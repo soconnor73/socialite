@@ -708,6 +708,66 @@ def scrape_site(site_name, start_date, end_date):
                     break
                 page += 1
 
+    elif site_name == 'trylon_cinema':
+        filepath = "raw_html/trylon_cinema.ics"
+        html = None
+        if os.path.exists(filepath):
+            print(f"Using cached file: {filepath}")
+            with open(filepath, 'rb') as f:
+                html = f.read()
+        else:
+            url = "https://calendar.google.com/calendar/ical/htl8o9ddvffma2gqn5m0e5clis%40group.calendar.google.com/public/basic.ics"
+            html = get_page_content(url)
+            if html:
+                os.makedirs("raw_html", exist_ok=True)
+                with open(filepath, "wb") as f:
+                    f.write(html)
+                time.sleep(1)
+        if html:
+            shows = parser.parse(html)
+            print(f"Parsed {len(shows)} shows from trylon.org (via Google Calendar ICS)")
+            all_shows.extend(shows)
+
+    elif site_name == 'parkway_theater':
+        filepath = "raw_html/parkway_theater.json"
+        html = None
+        if os.path.exists(filepath):
+            print(f"Using cached file: {filepath}")
+            with open(filepath, 'rb') as f:
+                html = f.read()
+        else:
+            url = "https://theparkwaytheater.com/all-events?format=json"
+            html = get_page_content(url)
+            if html:
+                os.makedirs("raw_html", exist_ok=True)
+                with open(filepath, "wb") as f:
+                    f.write(html)
+                time.sleep(1)
+        if html:
+            shows = parser.parse(html)
+            print(f"Parsed {len(shows)} shows from theparkwaytheater.com (Squarespace API)")
+            all_shows.extend(shows)
+
+    elif site_name == 'fillmore_minneapolis':
+        filepath = "raw_html/fillmore_minneapolis.html"
+        html = None
+        if os.path.exists(filepath):
+            print(f"Using cached file: {filepath}")
+            with open(filepath, 'rb') as f:
+                html = f.read()
+        else:
+            url = "https://www.fillmoreminneapolis.com/shows"
+            html = get_page_content(url)
+            if html:
+                os.makedirs("raw_html", exist_ok=True)
+                with open(filepath, "wb") as f:
+                    f.write(html)
+                time.sleep(1)
+        if html:
+            shows = parser.parse(html)
+            print(f"Parsed {len(shows)} shows from fillmoreminneapolis.com (JSON-LD)")
+            all_shows.extend(shows)
+
     # Filter shows to target 60-day window
     # Supports both single dates and date range checks
     filtered_shows = []
@@ -746,7 +806,7 @@ def main():
     end_date = start_date + datetime.timedelta(days=120)
     
     # List of sites to scrape
-    sites_to_scrape = ['first_avenue', 'grand_casino_arena', 'acme_comedy_club', 'guthrie_theater', 'minneapolis', 'mn_united_fc', 'minnesota_twins', 'target_center', 'minnesota_orchestra', 'hennepin_arts', 'us_bank_stadium', 'northrop_auditorium', 'ordway_theater', 'visit_stpaul', 'dakota_jazz_club', 'berlin_jazz_club', 'crooners', 'visit_duluth', 'luminary_arts_center', 'utepils_brewery', 'pryes_brewing', 'mncba_workshops', 'coch_cooking_classes', 'dame_errant_clay', 'mpls_parks']
+    sites_to_scrape = ['first_avenue', 'grand_casino_arena', 'acme_comedy_club', 'guthrie_theater', 'minneapolis', 'mn_united_fc', 'minnesota_twins', 'target_center', 'minnesota_orchestra', 'hennepin_arts', 'us_bank_stadium', 'northrop_auditorium', 'ordway_theater', 'visit_stpaul', 'dakota_jazz_club', 'berlin_jazz_club', 'crooners', 'visit_duluth', 'luminary_arts_center', 'utepils_brewery', 'pryes_brewing', 'mncba_workshops', 'coch_cooking_classes', 'dame_errant_clay', 'mpls_parks', 'trylon_cinema', 'parkway_theater', 'fillmore_minneapolis']
     
     for site in sites_to_scrape:
         scrape_site(site, start_date, end_date)

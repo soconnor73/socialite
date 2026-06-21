@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_aggregated": 2127,
-    "aggregated_at": "2026-06-20T23:39:00.418850",
+    "total_aggregated": 2263,
+    "aggregated_at": "2026-06-21T14:47:38.807635",
     "venues_included": [
       "100 22nd St E",
       "1009 W Franklin Ave",
@@ -214,12 +214,15 @@
       "The Cedar Cultural Center",
       "The Commons",
       "The Dunsmore Jazz Room",
+      "The Fillmore Minneapolis",
       "The Fitzgerald Theater",
       "The Market at Malcolm Yards",
       "The Minnesota Museum of American Art",
+      "The Parkway Theater",
       "The People's Park (Carty Park)",
       "Theater Latte Da",
       "Theatre in the Round",
+      "Trylon Cinema",
       "Turf Club",
       "Twin City Model Railroad Museum",
       "Two Harbors to Duluth",
@@ -292,6 +295,32 @@
       ],
       "link": "https://www.pryesbrewing.com/events/block-party-2026",
       "source": "pryes_brewing"
+    },
+    {
+      "date": "2026-06-19",
+      "end_date": "2026-06-21",
+      "venue": "Trylon Cinema",
+      "title": "LADIES AND GENTLEMEN\\, THE FABULOUS STAINS",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "LADIES AND GENTLEMEN\\, THE FABULOUS STAINS"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-06-19",
+      "end_date": "2026-06-21",
+      "venue": "Trylon Cinema",
+      "title": "LINDA LINDA LINDA",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "LINDA LINDA LINDA"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-06-20",
@@ -2181,6 +2210,19 @@
     },
     {
       "date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "venue": "The Parkway Theater",
+      "title": "Co-MingL Presents: The Kings of Soul",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Co-MingL Presents: The Kings of Soul"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/kings-of-soul",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-06-21",
       "venue": "Target Center",
       "title": "Minnesota Lynx vs Washington Mystics",
       "tour": "5:00 PM",
@@ -2191,6 +2233,19 @@
       ],
       "link": "https://www.targetcenter.com/events/detail/minnesota-lynx-vs-washington-mystics-1",
       "source": "target_center"
+    },
+    {
+      "date": "2026-06-21",
+      "end_date": "2026-06-23",
+      "venue": "Trylon Cinema",
+      "title": "THE WORLD'S END",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "THE WORLD'S END"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-06-21",
@@ -2663,6 +2718,32 @@
     },
     {
       "date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Connor Price \\u0026 Nic D \\",
+      "tour": "Concert",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Connor Price \\u0026 Nic D \\"
+      ],
+      "link": "https://www.ticketmaster.com/connor-price-nic-d-iconic-tour-minneapolis-minnesota-06-23-2026/event/06006451DACC64E3",
+      "source": "fillmore_minneapolis"
+    },
+    {
+      "date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Connor Price & Nic D",
+      "tour": "Concert",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Connor Price & Nic D"
+      ],
+      "link": "https://www.ticketmaster.com/connor-price-nic-d-iconic-tour-minneapolis-minnesota-06-23-2026/event/06006451DACC64E3",
+      "source": "fillmore_minneapolis"
+    },
+    {
+      "date": "2026-06-23",
       "venue": "7th St Entry",
       "title": "The Melismatics and Che Arthur",
       "tour": "★ Local Show ★",
@@ -2816,6 +2897,19 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-06-23/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "venue": "The Parkway Theater",
+      "title": "Jesca Hoop // Long Wave Home Tour with special guest Faun Fables",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "Jesca Hoop // Long Wave Home Tour with special guest Faun Fables"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/jesca-hoop",
+      "source": "parkway_theater"
     },
     {
       "date": "2026-06-23",
@@ -3688,6 +3782,19 @@
     {
       "date": "2026-06-25",
       "end_date": "2026-06-25",
+      "venue": "The Parkway Theater",
+      "title": "Kinky Boots (2005) w/ pre-movie burlesque hosted by Queenie Von Curves",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "Kinky Boots (2005) w/ pre-movie burlesque hosted by Queenie Von Curves"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/kinky-boots-26",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
       "venue": "Utepils Brewery",
       "title": "World Watch Party",
       "tour": "Utepils Brewery Event",
@@ -4221,6 +4328,32 @@
     {
       "date": "2026-06-26",
       "end_date": "2026-06-26",
+      "venue": "The Parkway Theater",
+      "title": "The Secret Sisters with special guest Liz Longley",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "The Secret Sisters with special guest Liz Longley"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/secret-sisters-2026",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-30",
+      "venue": "Trylon Cinema",
+      "title": "GONE FISHIN'",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "GONE FISHIN'"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
       "venue": "Utepils Brewery",
       "title": "Happy Hour",
       "tour": "Utepils Brewery Event",
@@ -4489,6 +4622,19 @@
       ],
       "link": "https://www.dameerrant.com/workshopsandevents/pinchpotmug2-ckm94-gc7nr-pmsmb-atba9-j36gf-8nbwx-nszdt-6hhtc-72xt7-dz6mw-hdajh-lab4z-45yjy-slahb-9yezm-xrnx9",
       "source": "dame_errant_clay"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Dayshift",
+      "tour": "Concert",
+      "support_raw": "5:00 PM",
+      "artists": [
+        "Dayshift"
+      ],
+      "link": "https://www.ticketmaster.com/dayshift-minneapolis-minnesota-06-27-2026/event/0600649EBB2C29AC",
+      "source": "fillmore_minneapolis"
     },
     {
       "date": "2026-06-27",
@@ -4932,6 +5078,32 @@
       ],
       "link": "https://ordway.org/events/ovmc-royalty/",
       "source": "ordway_theater"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "venue": "The Parkway Theater",
+      "title": "The Secret Sisters with special guest Liz Longley",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "The Secret Sisters with special guest Liz Longley"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/2026-secret-sisters",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-06-27",
+      "end_date": "2026-06-28",
+      "venue": "The Parkway Theater",
+      "title": "The Rocky Horror Picture Show (1975)",
+      "tour": "Event/Movie",
+      "support_raw": "11:30 PM",
+      "artists": [
+        "The Rocky Horror Picture Show (1975)"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/rocky-horror-transvestite-soup-june-2026",
+      "source": "parkway_theater"
     },
     {
       "date": "2026-06-27",
@@ -5481,6 +5653,32 @@
     {
       "date": "2026-06-28",
       "end_date": "2026-06-28",
+      "venue": "The Parkway Theater",
+      "title": "Jules! Mini Summer Tour",
+      "tour": "Event/Movie",
+      "support_raw": "12:00 PM",
+      "artists": [
+        "Jules! Mini Summer Tour"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/jules",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "venue": "The Parkway Theater",
+      "title": "Kristy Lee // An Evening of Songs & Stories",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Kristy Lee // An Evening of Songs & Stories"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/kristy-lee",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-06-28",
+      "end_date": "2026-06-28",
       "venue": "Utepils Brewery",
       "title": "Yoga Flow with Annie Hayes",
       "tour": "Utepils Brewery Event",
@@ -5924,6 +6122,19 @@
     {
       "date": "2026-06-30",
       "end_date": "2026-06-30",
+      "venue": "The Parkway Theater",
+      "title": "River Shook with special guest Andrew Sa",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "River Shook with special guest Andrew Sa"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/river-shook",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
       "venue": "U.S. Bank Stadium",
       "title": "Chris Brown & Usher",
       "tour": "7:00 PM",
@@ -6288,6 +6499,32 @@
     {
       "date": "2026-07-01",
       "end_date": "2026-07-01",
+      "venue": "The Parkway Theater",
+      "title": "Larry McDonough Quintet Jazz Music + Movie Series presents Blue Moon (2025) and the Music of Rodgers and Hart",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Larry McDonough Quintet Jazz Music + Movie Series presents Blue Moon (2025) and the Music of Rodgers and Hart"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/blue-moon-rodgers-hart",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "venue": "Trylon Cinema",
+      "title": "TAPE FREAKS",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "TAPE FREAKS"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
       "venue": "Utepils Brewery",
       "title": "World Watch Party",
       "tour": "Utepils Brewery Event",
@@ -6439,6 +6676,32 @@
       ],
       "link": "https://www.dakotacooks.com/event/eric-roberson-jul2-2026/",
       "source": "dakota_jazz_club"
+    },
+    {
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Wale \\u0026 Smino - Everything Is A Lot... The Tour",
+      "tour": "Concert",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Wale \\u0026 Smino - Everything Is A Lot... The Tour"
+      ],
+      "link": "https://www.ticketmaster.com/wale-smino-everything-is-a-lot-minneapolis-minnesota-07-02-2026/event/06006449AEB8946B",
+      "source": "fillmore_minneapolis"
+    },
+    {
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Wale & Smino - Everything Is A Lot... The Tour",
+      "tour": "Concert",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Wale & Smino - Everything Is A Lot... The Tour"
+      ],
+      "link": "https://www.ticketmaster.com/wale-smino-everything-is-a-lot-minneapolis-minnesota-07-02-2026/event/06006449AEB8946B",
+      "source": "fillmore_minneapolis"
     },
     {
       "date": "2026-07-02",
@@ -6598,6 +6861,32 @@
     {
       "date": "2026-07-02",
       "end_date": "2026-07-02",
+      "venue": "The Parkway Theater",
+      "title": "Brooklyn! at The Parkway // All Movie Pass",
+      "tour": "Event/Movie",
+      "support_raw": "9:00 AM",
+      "artists": [
+        "Brooklyn! at The Parkway // All Movie Pass"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/brooklyn-26",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "venue": "The Parkway Theater",
+      "title": "The Warriors (1979) 35mm presentation w/ pre-movie costume contest hosted by Jeff Pariseau",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "The Warriors (1979) 35mm presentation w/ pre-movie costume contest hosted by Jeff Pariseau"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/warriors-26",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
       "venue": "Utepils Brewery",
       "title": "World Watch Party",
       "tour": "Utepils Brewery Event",
@@ -6710,6 +6999,32 @@
       ],
       "link": "https://www.dakotacooks.com/event/ladies-of-soul-vol-4-jul3-2026/",
       "source": "dakota_jazz_club"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "venue": "The Fillmore Minneapolis",
+      "title": "CA7RIEL & Paco Amoroso: FREE SPIRITS WORLD TOUR",
+      "tour": "Concert",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "CA7RIEL & Paco Amoroso: FREE SPIRITS WORLD TOUR"
+      ],
+      "link": "https://www.ticketmaster.com/ca7riel-paco-amoroso-free-spirits-world-minneapolis-minnesota-07-03-2026/event/06006474CC642BF3",
+      "source": "fillmore_minneapolis"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "venue": "The Fillmore Minneapolis",
+      "title": "CA7RIEL \\u0026 Paco Amoroso: FREE SPIRITS WORLD TOUR",
+      "tour": "Concert",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "CA7RIEL \\u0026 Paco Amoroso: FREE SPIRITS WORLD TOUR"
+      ],
+      "link": "https://www.ticketmaster.com/ca7riel-paco-amoroso-free-spirits-world-minneapolis-minnesota-07-03-2026/event/06006474CC642BF3",
+      "source": "fillmore_minneapolis"
     },
     {
       "date": "2026-07-03",
@@ -6867,6 +7182,32 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-03/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "venue": "The Parkway Theater",
+      "title": "SCREAM it off SCREEN // Short Film Competition",
+      "tour": "Event/Movie",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "SCREAM it off SCREEN // Short Film Competition"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/sios-july-2026",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-07-05",
+      "venue": "Trylon Cinema",
+      "title": "THE THING IN 4K",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "THE THING IN 4K"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-07-03",
@@ -7348,6 +7689,19 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-05/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-07-05",
+      "end_date": "2026-07-07",
+      "venue": "Trylon Cinema",
+      "title": "VANISHING POINT",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "VANISHING POINT"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-07-05",
@@ -7897,6 +8251,19 @@
     },
     {
       "date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Ziggy Marley with special guest J Boog: Brightside Tour 2026",
+      "tour": "Concert",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Ziggy Marley with special guest J Boog: Brightside Tour 2026"
+      ],
+      "link": "https://www.ticketmaster.com/ziggy-marley-with-special-guest-j-minneapolis-minnesota-07-08-2026/event/06006453C6766BFC",
+      "source": "fillmore_minneapolis"
+    },
+    {
+      "date": "2026-07-08",
       "venue": "The Fitzgerald Theater",
       "title": "The Church",
       "tour": "The Singles: 1980-2025",
@@ -8075,6 +8442,19 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-08/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "venue": "The Parkway Theater",
+      "title": "Chuck Tingle presents Fabulous Bodies",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Chuck Tingle presents Fabulous Bodies"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/fabulous-bodies",
+      "source": "parkway_theater"
     },
     {
       "date": "2026-07-08",
@@ -8452,6 +8832,32 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/firefly-nights/2026-07-09/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "venue": "The Parkway Theater",
+      "title": "Goodfellas (1990) w/ pre-movie trivia hosted by Josh Carson",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "Goodfellas (1990) w/ pre-movie trivia hosted by Josh Carson"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/goodfellas-26",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "venue": "Trylon Cinema",
+      "title": "DOMINO",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "DOMINO"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-07-09",
@@ -8904,6 +9310,32 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-10/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "venue": "The Parkway Theater",
+      "title": "The Silverteens TV On Fire EP Release with special guests Faith Boblett and d'Lakes",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "The Silverteens TV On Fire EP Release with special guests Faith Boblett and d'Lakes"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/silverteens-july-26",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-10",
+      "end_date": "2026-07-12",
+      "venue": "Trylon Cinema",
+      "title": "THE RED SPECTACLES IN 4K",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "THE RED SPECTACLES IN 4K"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-07-10",
@@ -9482,6 +9914,19 @@
     },
     {
       "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "The Parkway Theater",
+      "title": "SOLD OUT: Steve Hofstetter",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "SOLD OUT: Steve Hofstetter"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/steve-hofstetter-2026",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-11",
       "venue": "Target Center",
       "title": "Minnesota Lynx vs New York Liberty",
       "tour": "12:00 PM",
@@ -9950,6 +10395,32 @@
     {
       "date": "2026-07-12",
       "end_date": "2026-07-12",
+      "venue": "The Parkway Theater",
+      "title": "Tight & Nerdy (2025) // Minnesota Premiere Screening + Q&A and 'Weird' Al' Burlesque Performance",
+      "tour": "Event/Movie",
+      "support_raw": "1:00 PM",
+      "artists": [
+        "Tight & Nerdy (2025) // Minnesota Premiere Screening + Q&A and 'Weird' Al' Burlesque Performance"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/tight-and-nerdy",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-12",
+      "end_date": "2026-07-14",
+      "venue": "Trylon Cinema",
+      "title": "WILD STRAWBERRIES",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "WILD STRAWBERRIES"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-07-12",
+      "end_date": "2026-07-12",
       "venue": "Utepils Brewery",
       "title": "Yoga Flow with Annie Hayes",
       "tour": "Utepils Brewery Event",
@@ -10127,6 +10598,19 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-13/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-07-13",
+      "end_date": "2026-07-13",
+      "venue": "The Parkway Theater",
+      "title": "Shirlene Obuobi: Die For Me",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Shirlene Obuobi: Die For Me"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/shirlene-obuobi",
+      "source": "parkway_theater"
     },
     {
       "date": "2026-07-13",
@@ -10948,6 +11432,32 @@
     {
       "date": "2026-07-16",
       "end_date": "2026-07-16",
+      "venue": "The Parkway Theater",
+      "title": "Do The Right Thing (1989) w/ pre-movie music by Terrell X (AKA Carnage The Executioner)",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Do The Right Thing (1989) w/ pre-movie music by Terrell X (AKA Carnage The Executioner)"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/do-the-right-thing-26",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-16",
+      "end_date": "2026-07-16",
+      "venue": "Trylon Cinema",
+      "title": "SLAP THE MONSTER ON PAGE ONE",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "SLAP THE MONSTER ON PAGE ONE"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-07-16",
+      "end_date": "2026-07-16",
       "venue": "Utepils Brewery",
       "title": "Sweet Lou's Meats",
       "tour": "Utepils Brewery Event",
@@ -11417,6 +11927,45 @@
     {
       "date": "2026-07-17",
       "end_date": "2026-07-17",
+      "venue": "The Parkway Theater",
+      "title": "Sarah Hester Ross // Serving Tour",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Sarah Hester Ross // Serving Tour"
+      ],
+      "link": "https://theparkwaytheater.com/all-events//sarah-hester-ross",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-19",
+      "venue": "Trylon Cinema",
+      "title": "MIDNIGHT IN 4K",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "MIDNIGHT IN 4K"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-19",
+      "venue": "Trylon Cinema",
+      "title": "THE PALM BEACH STORY",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "THE PALM BEACH STORY"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
       "venue": "Utepils Brewery",
       "title": "Happy Hour",
       "tour": "Utepils Brewery Event",
@@ -11568,6 +12117,19 @@
       ],
       "link": "https://www.dameerrant.com/workshopsandevents/microgreensplanter",
       "source": "dame_errant_clay"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Kail Lowry: Fatherless Behavior Tour",
+      "tour": "Concert",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Kail Lowry: Fatherless Behavior Tour"
+      ],
+      "link": "https://www.ticketmaster.com/kail-lowry-fatherless-behavior-tour-minneapolis-minnesota-07-18-2026/event/06006473E22E3FDD",
+      "source": "fillmore_minneapolis"
     },
     {
       "date": "2026-07-18",
@@ -11921,6 +12483,19 @@
     {
       "date": "2026-07-18",
       "end_date": "2026-07-18",
+      "venue": "The Parkway Theater",
+      "title": "Kevin James Thornton // BIG BABY",
+      "tour": "Event/Movie",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "Kevin James Thornton // BIG BABY"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/big-baby",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
       "venue": "Utepils Brewery",
       "title": "Cuchillo",
       "tour": "Utepils Brewery Event",
@@ -12099,6 +12674,19 @@
       ],
       "link": "https://www.dameerrant.com/workshopsandevents/fairy-house-04/24-lk9h7-g2lpf-mytc8-hcnk2-ftn8m-xwnpf-2fyrn-bhbwh-gpprc-9cmb8-wb4cs-l3btt-fetct-xjbhp-ls8gx-t8tap-88469",
       "source": "dame_errant_clay"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Flyleaf with Lacey Sturm - 20th Anniversary Tour",
+      "tour": "Concert",
+      "support_raw": "6:30 PM",
+      "artists": [
+        "Flyleaf with Lacey Sturm - 20th Anniversary Tour"
+      ],
+      "link": "https://www.ticketmaster.com/flyleaf-with-lacey-sturm-20th-anniversary-minneapolis-minnesota-07-19-2026/event/06006452E6C2B484",
+      "source": "fillmore_minneapolis"
     },
     {
       "date": "2026-07-19",
@@ -12305,6 +12893,32 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-19/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "venue": "The Parkway Theater",
+      "title": "Carla Thomas with Take Me To The River All-Stars Memphis Soul Revue",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Carla Thomas with Take Me To The River All-Stars Memphis Soul Revue"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/memphis-soul-carla-thomas",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-19",
+      "end_date": "2026-07-21",
+      "venue": "Trylon Cinema",
+      "title": "Y TU MAMA TAMBIEN",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "Y TU MAMA TAMBIEN"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-07-19",
@@ -12775,6 +13389,19 @@
     },
     {
       "date": "2026-07-22",
+      "end_date": "2026-07-22",
+      "venue": "The Fillmore Minneapolis",
+      "title": "93X Presents Poppy - Constantly Nowhere Tour",
+      "tour": "Concert",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "93X Presents Poppy - Constantly Nowhere Tour"
+      ],
+      "link": "https://www.ticketmaster.com/93x-presents-poppy-constantly-nowhere-tour-minneapolis-minnesota-07-22-2026/event/0600644CAF21E04E",
+      "source": "fillmore_minneapolis"
+    },
+    {
+      "date": "2026-07-22",
       "venue": "First Avenue",
       "title": "Lucero",
       "tour": "",
@@ -12914,6 +13541,19 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-22/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-07-22",
+      "end_date": "2026-07-22",
+      "venue": "The Parkway Theater",
+      "title": "Jennifer Lyn & The Groove Revival // Electric Eden",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "Jennifer Lyn & The Groove Revival // Electric Eden"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/electric-eden",
+      "source": "parkway_theater"
     },
     {
       "date": "2026-07-22",
@@ -13237,6 +13877,19 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-23/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-07-23",
+      "end_date": "2026-07-23",
+      "venue": "The Parkway Theater",
+      "title": "Saturday Night Fever (1977) 35mm presentation w/ pre-movie set by DJ Shane Kramer",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Saturday Night Fever (1977) 35mm presentation w/ pre-movie set by DJ Shane Kramer"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/saturday-night-fever-26",
+      "source": "parkway_theater"
     },
     {
       "date": "2026-07-23",
@@ -13638,6 +14291,45 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-24/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "venue": "The Parkway Theater",
+      "title": "ZEPPO // Stairway to Eleven",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "ZEPPO // Stairway to Eleven"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/zeppo-rocks-2026",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-24",
+      "end_date": "2026-07-26",
+      "venue": "Trylon Cinema",
+      "title": "F FOR FAKE IN 35MM",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "F FOR FAKE IN 35MM"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-07-24",
+      "end_date": "2026-07-26",
+      "venue": "Trylon Cinema",
+      "title": "ME AND MY BROTHER",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "ME AND MY BROTHER"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-07-24",
@@ -14068,6 +14760,19 @@
     {
       "date": "2026-07-25",
       "end_date": "2026-07-25",
+      "venue": "The Parkway Theater",
+      "title": "Larry McCray Band",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "Larry McCray Band"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/larry-mccray-band",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-25",
+      "end_date": "2026-07-25",
       "venue": "Utepils Brewery",
       "title": "Cuchillo",
       "tour": "Utepils Brewery Event",
@@ -14445,6 +15150,32 @@
     {
       "date": "2026-07-26",
       "end_date": "2026-07-26",
+      "venue": "The Parkway Theater",
+      "title": "Legacy of Lilith Fair: A Celebration of Women in Music",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Legacy of Lilith Fair: A Celebration of Women in Music"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/lilith-fair",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-28",
+      "venue": "Trylon Cinema",
+      "title": "WANDA",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "WANDA"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-26",
       "venue": "Utepils Brewery",
       "title": "Yoga Flow with Annie Hayes",
       "tour": "Utepils Brewery Event",
@@ -14795,6 +15526,19 @@
     {
       "date": "2026-07-28",
       "end_date": "2026-07-28",
+      "venue": "The Parkway Theater",
+      "title": "SOLD OUT: Stewart Copeland: Have I Said Too Much? // The Police, Hollywood and Other Adventures",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "SOLD OUT: Stewart Copeland: Have I Said Too Much? // The Police, Hollywood and Other Adventures"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/stewart-copeland",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-28",
+      "end_date": "2026-07-28",
       "venue": "Utepils Brewery",
       "title": "Red Rocket Pizza",
       "tour": "Utepils Brewery Event",
@@ -15013,6 +15757,19 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-07-29/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-07-29",
+      "end_date": "2026-07-29",
+      "venue": "Trylon Cinema",
+      "title": "POWWOW HIGHWAY",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "POWWOW HIGHWAY"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-07-29",
@@ -15340,6 +16097,19 @@
     {
       "date": "2026-07-30",
       "end_date": "2026-07-30",
+      "venue": "The Parkway Theater",
+      "title": "Joanne Shaw Taylor LIVE!",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "Joanne Shaw Taylor LIVE!"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/joanne-shaw-taylor-26",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-30",
+      "end_date": "2026-07-30",
       "venue": "Utepils Brewery",
       "title": "Sweet Lou's Meats",
       "tour": "Utepils Brewery Event",
@@ -15612,6 +16382,45 @@
     {
       "date": "2026-07-31",
       "end_date": "2026-07-31",
+      "venue": "The Parkway Theater",
+      "title": "Mason Jennings",
+      "tour": "Event/Movie",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "Mason Jennings"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/mason-jennings-2026",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-07-31",
+      "end_date": "2026-08-02",
+      "venue": "Trylon Cinema",
+      "title": "COOLEY HIGH",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "COOLEY HIGH"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-07-31",
+      "end_date": "2026-08-02",
+      "venue": "Trylon Cinema",
+      "title": "YOUNGBLOOD",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "YOUNGBLOOD"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-07-31",
+      "end_date": "2026-07-31",
       "venue": "Utepils Brewery",
       "title": "Happy Hour",
       "tour": "Utepils Brewery Event",
@@ -15711,6 +16520,19 @@
       ],
       "link": "https://www.dakotacooks.com/event/robert-earl-keen/2026-08-01/",
       "source": "dakota_jazz_club"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Loathe",
+      "tour": "Concert",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Loathe"
+      ],
+      "link": "https://www.ticketmaster.com/loathe-minneapolis-minnesota-08-01-2026/event/060064B6D603F963",
+      "source": "fillmore_minneapolis"
     },
     {
       "date": "2026-08-01",
@@ -16012,6 +16834,19 @@
     {
       "date": "2026-08-01",
       "end_date": "2026-08-01",
+      "venue": "The Parkway Theater",
+      "title": "Scottie Miller: Hello Pain – Album Release with Orchestra",
+      "tour": "Event/Movie",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "Scottie Miller: Hello Pain – Album Release with Orchestra"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/scottie-miller",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
       "venue": "Utepils Brewery",
       "title": "Cuchillo",
       "tour": "Utepils Brewery Event",
@@ -16279,6 +17114,32 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-02/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-08-02",
+      "end_date": "2026-08-02",
+      "venue": "The Parkway Theater",
+      "title": "Chuck Prophet",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Chuck Prophet"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/chuck-prophet-26",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-08-02",
+      "end_date": "2026-08-04",
+      "venue": "Trylon Cinema",
+      "title": "THE MUPPET MOVIE IN 4K",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "THE MUPPET MOVIE IN 4K"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-08-02",
@@ -16827,6 +17688,19 @@
     {
       "date": "2026-08-05",
       "end_date": "2026-08-05",
+      "venue": "The Parkway Theater",
+      "title": "SOLD OUT! See How We Are: John Doe & Exene Cervenka in an acoustic performance",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "SOLD OUT! See How We Are: John Doe & Exene Cervenka in an acoustic performance"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/see-how-we-are",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-08-05",
+      "end_date": "2026-08-05",
       "venue": "Utepils Brewery",
       "title": "La Cochinita",
       "tour": "Utepils Brewery Event",
@@ -16939,6 +17813,19 @@
       ],
       "link": "https://www.dakotacooks.com/event/i-am-in-love-jane-monheit-sings-cole-porter-aug6-2026/",
       "source": "dakota_jazz_club"
+    },
+    {
+      "date": "2026-08-06",
+      "end_date": "2026-08-06",
+      "venue": "The Fillmore Minneapolis",
+      "title": "BossMan Dlow",
+      "tour": "Concert",
+      "support_raw": "6:30 PM",
+      "artists": [
+        "BossMan Dlow"
+      ],
+      "link": "https://www.ticketmaster.com/bossman-dlow-minneapolis-minnesota-08-06-2026/event/060064B53496C9DF",
+      "source": "fillmore_minneapolis"
     },
     {
       "date": "2026-08-06",
@@ -17124,6 +18011,32 @@
     {
       "date": "2026-08-06",
       "end_date": "2026-08-06",
+      "venue": "The Parkway Theater",
+      "title": "See How We Are: John Doe & Exene Cervenka in an acoustic performance with DJ Jake Rudh",
+      "tour": "Event/Movie",
+      "support_raw": "6:30 PM",
+      "artists": [
+        "See How We Are: John Doe & Exene Cervenka in an acoustic performance with DJ Jake Rudh"
+      ],
+      "link": "https://theparkwaytheater.com/all-events//john-doe-exene",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-08-06",
+      "end_date": "2026-08-06",
+      "venue": "Trylon Cinema",
+      "title": "BIG NIGHT",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "BIG NIGHT"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-08-06",
+      "end_date": "2026-08-06",
       "venue": "Utepils Brewery",
       "title": "612 Teppanyaki",
       "tour": "Utepils Brewery Event",
@@ -17210,6 +18123,19 @@
       ],
       "link": "https://www.dakotacooks.com/event/talib-kweli-aug7-2026/2026-08-07/1/",
       "source": "dakota_jazz_club"
+    },
+    {
+      "date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Jack Harlow - Monica Tour",
+      "tour": "Concert",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Jack Harlow - Monica Tour"
+      ],
+      "link": "https://www.ticketmaster.com/jack-harlow-monica-tour-minneapolis-minnesota-08-07-2026/event/060064AED6AA46C0",
+      "source": "fillmore_minneapolis"
     },
     {
       "date": "2026-08-07",
@@ -17397,6 +18323,32 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-07/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-08-07",
+      "end_date": "2026-08-09",
+      "venue": "Trylon Cinema",
+      "title": "STREETWISE",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "STREETWISE"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-08-07",
+      "end_date": "2026-08-09",
+      "venue": "Trylon Cinema",
+      "title": "DARK DAYS IN 35MM",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "DARK DAYS IN 35MM"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-08-07",
@@ -17699,6 +18651,19 @@
     {
       "date": "2026-08-08",
       "end_date": "2026-08-08",
+      "venue": "The Parkway Theater",
+      "title": "Kirsten Vangsness // Outdated",
+      "tour": "Event/Movie",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "Kirsten Vangsness // Outdated"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/kirsten-vangsness",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-08-08",
+      "end_date": "2026-08-08",
       "venue": "Utepils Brewery",
       "title": "Cuchillo",
       "tour": "Utepils Brewery Event",
@@ -17903,6 +18868,32 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-09/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-08-09",
+      "end_date": "2026-08-09",
+      "venue": "The Parkway Theater",
+      "title": "Tracy Bonham // The Burdens of Being Upright 30th Anniversary Tour",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Tracy Bonham // The Burdens of Being Upright 30th Anniversary Tour"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/tracy-bonham-30",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-08-09",
+      "end_date": "2026-08-11",
+      "venue": "Trylon Cinema",
+      "title": "RAFFERTY AND THE GOLD DUST TWINXS",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "RAFFERTY AND THE GOLD DUST TWINXS"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-08-09",
@@ -18441,6 +19432,19 @@
     {
       "date": "2026-08-12",
       "end_date": "2026-08-12",
+      "venue": "The Parkway Theater",
+      "title": "The Watson Twins // Seeing Double Tour",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "The Watson Twins // Seeing Double Tour"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/watson-twins",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-08-12",
+      "end_date": "2026-08-12",
       "venue": "Utepils Brewery",
       "title": "Thai Thai",
       "tour": "Utepils Brewery Event",
@@ -18540,6 +19544,19 @@
       ],
       "link": "https://www.croonersmn.com/event/shane-cox-the-funky-spuds-a-multi-brasstrumentalist-showcase/",
       "source": "crooners"
+    },
+    {
+      "date": "2026-08-13",
+      "end_date": "2026-08-13",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Eslabon Armado - Amor Nocturno",
+      "tour": "Concert",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Eslabon Armado - Amor Nocturno"
+      ],
+      "link": "https://www.ticketmaster.com/eslabon-armado-amor-nocturno-minneapolis-minnesota-08-13-2026/event/060064C4D54AE1E6",
+      "source": "fillmore_minneapolis"
     },
     {
       "date": "2026-08-13",
@@ -18684,6 +19701,19 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-13/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-08-13",
+      "end_date": "2026-08-13",
+      "venue": "The Parkway Theater",
+      "title": "The Room 21st Anniversary with Greg Sestero Live!",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "The Room 21st Anniversary with Greg Sestero Live!"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/the-room-2026",
+      "source": "parkway_theater"
     },
     {
       "date": "2026-08-13",
@@ -18905,6 +19935,32 @@
     {
       "date": "2026-08-14",
       "end_date": "2026-08-14",
+      "venue": "The Parkway Theater",
+      "title": "Dulcé Sloan",
+      "tour": "Event/Movie",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "Dulcé Sloan"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/dulce-sloan-2026",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-08-14",
+      "end_date": "2026-08-16",
+      "venue": "Trylon Cinema",
+      "title": "THE HOLE IN 35MM",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "THE HOLE IN 35MM"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-08-14",
+      "end_date": "2026-08-14",
       "venue": "Utepils Brewery",
       "title": "Happy Hour",
       "tour": "Utepils Brewery Event",
@@ -19030,6 +20086,19 @@
       ],
       "link": "https://www.croonersmn.com/event/the-bruce-henry-experience/",
       "source": "crooners"
+    },
+    {
+      "date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Dimmu Borgir: Grand Serpent Rising Tour US 2026",
+      "tour": "Concert",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Dimmu Borgir: Grand Serpent Rising Tour US 2026"
+      ],
+      "link": "https://www.ticketmaster.com/dimmu-borgir-grand-serpent-rising-tour-minneapolis-minnesota-08-15-2026/event/06006489F4F6C7D5",
+      "source": "fillmore_minneapolis"
     },
     {
       "date": "2026-08-15",
@@ -19518,6 +20587,32 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-16/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "venue": "The Parkway Theater",
+      "title": "An Evening with The Buckinghams",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "An Evening with The Buckinghams"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/buckinghams-live",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-08-16",
+      "end_date": "2026-08-18",
+      "venue": "Trylon Cinema",
+      "title": "THE COLOR OF MONEY",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "THE COLOR OF MONEY"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-08-16",
@@ -20095,6 +21190,19 @@
     {
       "date": "2026-08-19",
       "end_date": "2026-08-19",
+      "venue": "The Parkway Theater",
+      "title": "FunkyFrogBait Presents: Internet Kid (The Comedy Tour)",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "FunkyFrogBait Presents: Internet Kid (The Comedy Tour)"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/funky-frog-bait",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-08-19",
+      "end_date": "2026-08-19",
       "venue": "Utepils Brewery",
       "title": "La Cochinita",
       "tour": "Utepils Brewery Event",
@@ -20366,6 +21474,19 @@
     {
       "date": "2026-08-20",
       "end_date": "2026-08-20",
+      "venue": "The Parkway Theater",
+      "title": "The Bitchuation Room LIVE",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "The Bitchuation Room LIVE"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/bitchuation-room",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-08-20",
+      "end_date": "2026-08-20",
       "venue": "Utepils Brewery",
       "title": "Purple People Feeder",
       "tour": "Utepils Brewery Event",
@@ -20496,6 +21617,32 @@
     },
     {
       "date": "2026-08-21",
+      "end_date": "2026-08-22",
+      "venue": "The Parkway Theater",
+      "title": "Steely Dane // The Ultimate Steely Dan Tribute Band // Two Nights!",
+      "tour": "Event/Movie",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "Steely Dane // The Ultimate Steely Dan Tribute Band // Two Nights!"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/steely-dane-2026",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-08-21",
+      "end_date": "2026-08-23",
+      "venue": "Trylon Cinema",
+      "title": "EL NORTE IN 4K",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "EL NORTE IN 4K"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-08-21",
       "end_date": "2026-08-21",
       "venue": "Utepils Brewery",
       "title": "Happy Hour",
@@ -20570,6 +21717,19 @@
       ],
       "link": "https://www.croonersmn.com/event/country-night-with-cole-diamond-and-twang-time/",
       "source": "crooners"
+    },
+    {
+      "date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Bop To The Top",
+      "tour": "Concert",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "Bop To The Top"
+      ],
+      "link": "https://www.ticketmaster.com/bop-to-the-top-minneapolis-minnesota-08-22-2026/event/06006498B41D6889",
+      "source": "fillmore_minneapolis"
     },
     {
       "date": "2026-08-22",
@@ -20913,6 +22073,32 @@
     {
       "date": "2026-08-23",
       "end_date": "2026-08-23",
+      "venue": "The Parkway Theater",
+      "title": "Jason Carter Band",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Jason Carter Band"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/jason-carter",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-08-23",
+      "end_date": "2026-08-25",
+      "venue": "Trylon Cinema",
+      "title": "MY OWN PRIVATE IDAHO IN 35MM",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "MY OWN PRIVATE IDAHO IN 35MM"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-08-23",
+      "end_date": "2026-08-23",
       "venue": "Utepils Brewery",
       "title": "Yoga Flow with Annie Hayes",
       "tour": "Utepils Brewery Event",
@@ -21237,6 +22423,19 @@
     {
       "date": "2026-08-26",
       "end_date": "2026-08-26",
+      "venue": "The Fillmore Minneapolis",
+      "title": "LUCKI",
+      "tour": "Concert",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "LUCKI"
+      ],
+      "link": "https://www.ticketmaster.com/lucki-minneapolis-minnesota-08-26-2026/event/060064AEAF82DA05",
+      "source": "fillmore_minneapolis"
+    },
+    {
+      "date": "2026-08-26",
+      "end_date": "2026-08-26",
       "venue": "Luminary Arts Center",
       "title": "Candlelight Concerts",
       "tour": "Luminary Arts Center Event",
@@ -21497,6 +22696,19 @@
     {
       "date": "2026-08-27",
       "end_date": "2026-08-27",
+      "venue": "The Parkway Theater",
+      "title": "Dave Hill Returns!",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "Dave Hill Returns!"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/dave-hill-2026",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-08-27",
+      "end_date": "2026-08-27",
       "venue": "Utepils Brewery",
       "title": "Sweet Lou's Meats",
       "tour": "Utepils Brewery Event",
@@ -21649,6 +22861,32 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-28/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-08-28",
+      "end_date": "2026-08-30",
+      "venue": "Trylon Cinema",
+      "title": "EL FANTASMA DEL CONVENTO",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "EL FANTASMA DEL CONVENTO"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-08-28",
+      "end_date": "2026-08-30",
+      "venue": "Trylon Cinema",
+      "title": "LAS MUJERAS PANTERAS",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "LAS MUJERAS PANTERAS"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-08-28",
@@ -21841,6 +23079,19 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-29/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-08-29",
+      "end_date": "2026-08-29",
+      "venue": "The Parkway Theater",
+      "title": "Michael Yo",
+      "tour": "Event/Movie",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "Michael Yo"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/michael-yo-2026",
+      "source": "parkway_theater"
     },
     {
       "date": "2026-08-29",
@@ -22062,6 +23313,19 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/rock-the-block-2/2026-08-30/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-08-30",
+      "end_date": "2026-09-01",
+      "venue": "Trylon Cinema",
+      "title": "IDA IN 35MM",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "IDA IN 35MM"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-08-30",
@@ -22558,6 +23822,19 @@
     {
       "date": "2026-09-03",
       "end_date": "2026-09-03",
+      "venue": "Trylon Cinema",
+      "title": "PSYCHO III",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "PSYCHO III"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-09-03",
+      "end_date": "2026-09-03",
       "venue": "Utepils Brewery",
       "title": "Cribbage Tournament",
       "tour": "Utepils Brewery Event",
@@ -22622,6 +23899,19 @@
     {
       "date": "2026-09-04",
       "end_date": "2026-09-04",
+      "venue": "The Fillmore Minneapolis",
+      "title": "ISAIAH RASHAD: Lil Sunny's Awful Road Trip",
+      "tour": "Concert",
+      "support_raw": "6:30 PM",
+      "artists": [
+        "ISAIAH RASHAD: Lil Sunny's Awful Road Trip"
+      ],
+      "link": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-minneapolis-minnesota-09-04-2026/event/060064CCA3ABE619",
+      "source": "fillmore_minneapolis"
+    },
+    {
+      "date": "2026-09-04",
+      "end_date": "2026-09-04",
       "venue": "Luminary Arts Center",
       "title": "Candlelight Concerts",
       "tour": "Luminary Arts Center Event",
@@ -22631,6 +23921,32 @@
       ],
       "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-09-04/",
       "source": "luminary_arts_center"
+    },
+    {
+      "date": "2026-09-04",
+      "end_date": "2026-09-06",
+      "venue": "Trylon Cinema",
+      "title": "THE MATTEI AFFAIR",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "THE MATTEI AFFAIR"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-09-04",
+      "end_date": "2026-09-06",
+      "venue": "Trylon Cinema",
+      "title": "ILLUSTRIOUS CORPSES IN 4K",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "ILLUSTRIOUS CORPSES IN 4K"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-09-04",
@@ -22686,6 +24002,19 @@
     {
       "date": "2026-09-05",
       "end_date": "2026-09-05",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Masego: Fix Your Face Tour",
+      "tour": "Concert",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Masego: Fix Your Face Tour"
+      ],
+      "link": "https://www.ticketmaster.com/masego-fix-your-face-tour-minneapolis-minnesota-09-05-2026/event/060064C2FD3EFA62",
+      "source": "fillmore_minneapolis"
+    },
+    {
+      "date": "2026-09-05",
+      "end_date": "2026-09-05",
       "venue": "Luminary Arts Center",
       "title": "Candlelight Concerts",
       "tour": "Luminary Arts Center Event",
@@ -22734,6 +24063,19 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/early-birders-september/2026-09-05/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-09-05",
+      "end_date": "2026-09-05",
+      "venue": "The Parkway Theater",
+      "title": "A Twink and a Redhead // A Musical Comedy by Grant & Ash",
+      "tour": "Event/Movie",
+      "support_raw": "8:00 PM",
+      "artists": [
+        "A Twink and a Redhead // A Musical Comedy by Grant & Ash"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/twink-redhead",
+      "source": "parkway_theater"
     },
     {
       "date": "2026-09-05",
@@ -22838,6 +24180,32 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-09-06/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-09-06",
+      "end_date": "2026-09-06",
+      "venue": "The Parkway Theater",
+      "title": "Honest 2 Betsy // Live and Uncensored",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Honest 2 Betsy // Live and Uncensored"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/honest2betsy",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-09-06",
+      "end_date": "2026-09-08",
+      "venue": "Trylon Cinema",
+      "title": "TWO-LANE BLACKTOP IN 35MM",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "TWO-LANE BLACKTOP IN 35MM"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-09-06",
@@ -23020,6 +24388,19 @@
       ],
       "link": "https://www.minneapolis.org/calendar/st-paul-saints-syracuse-mets/",
       "source": "minneapolis"
+    },
+    {
+      "date": "2026-09-08",
+      "end_date": "2026-09-08",
+      "venue": "The Parkway Theater",
+      "title": "Rainbow Girls with special guest Jordan Smart",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "Rainbow Girls with special guest Jordan Smart"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/the-rainbow-girls",
+      "source": "parkway_theater"
     },
     {
       "date": "2026-09-08",
@@ -23373,6 +24754,19 @@
     {
       "date": "2026-09-11",
       "end_date": "2026-09-11",
+      "venue": "The Fillmore Minneapolis",
+      "title": "LP - All Is Not Lost Tour",
+      "tour": "Concert",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "LP - All Is Not Lost Tour"
+      ],
+      "link": "https://www.ticketmaster.com/lp-all-is-not-lost-tour-minneapolis-minnesota-09-11-2026/event/0600649BE96AADF6",
+      "source": "fillmore_minneapolis"
+    },
+    {
+      "date": "2026-09-11",
+      "end_date": "2026-09-11",
       "venue": "Luminary Arts Center",
       "title": "Candlelight Concerts",
       "tour": "Luminary Arts Center Event",
@@ -23421,6 +24815,32 @@
       ],
       "link": "https://www.minneapolis.org/calendar/bettye-lavette-duo/",
       "source": "minneapolis"
+    },
+    {
+      "date": "2026-09-11",
+      "end_date": "2026-09-11",
+      "venue": "The Parkway Theater",
+      "title": "Ben Palmer",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Ben Palmer"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/ben-palrmer",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-09-11",
+      "end_date": "2026-09-13",
+      "venue": "Trylon Cinema",
+      "title": "CHRIST STOPPED AT EBOLI",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "CHRIST STOPPED AT EBOLI"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-09-11",
@@ -23589,6 +25009,32 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/early-birders-september/2026-09-12/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-09-12",
+      "end_date": "2026-09-12",
+      "venue": "The Parkway Theater",
+      "title": "6th Annual Do Re #MeToo // Sexist Songs Reclaimed by Righteous Feminists",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "6th Annual Do Re #MeToo // Sexist Songs Reclaimed by Righteous Feminists"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/doremetoo-2026",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "venue": "Trylon Cinema",
+      "title": "MINNANIMATE 2026",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "MINNANIMATE 2026"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-09-12",
@@ -23802,6 +25248,32 @@
     {
       "date": "2026-09-13",
       "end_date": "2026-09-13",
+      "venue": "The Parkway Theater",
+      "title": "Johnny Pemberton",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "Johnny Pemberton"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/johnny-2026",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-09-13",
+      "end_date": "2026-09-15",
+      "venue": "Trylon Cinema",
+      "title": "IT HAPPENED ONE NIGHT IN 35MM",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "IT HAPPENED ONE NIGHT IN 35MM"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-09-13",
+      "end_date": "2026-09-13",
       "venue": "U.S. Bank Stadium",
       "title": "Vikings v. Green Bay Packers",
       "tour": "3:25 PM",
@@ -23945,6 +25417,19 @@
     },
     {
       "date": "2026-09-15",
+      "end_date": "2026-09-15",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Jane Remover: Live Exhibit",
+      "tour": "Concert",
+      "support_raw": "6:30 PM",
+      "artists": [
+        "Jane Remover: Live Exhibit"
+      ],
+      "link": "https://www.ticketmaster.com/jane-remover-live-exhibit-minneapolis-minnesota-09-15-2026/event/06006497A941F18C",
+      "source": "fillmore_minneapolis"
+    },
+    {
+      "date": "2026-09-15",
       "venue": "Grand Casino Arena",
       "title": "Eric Clapton",
       "tour": "Starts at 7:30 PM",
@@ -24075,6 +25560,19 @@
     {
       "date": "2026-09-16",
       "end_date": "2026-09-16",
+      "venue": "The Parkway Theater",
+      "title": "SECOND NIGHT ADDED: Booker T. Jones",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "SECOND NIGHT ADDED: Booker T. Jones"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/stax-revue-night2",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-09-16",
+      "end_date": "2026-09-16",
       "venue": "Utepils Brewery",
       "title": "La Cochinita",
       "tour": "Utepils Brewery Event",
@@ -24200,6 +25698,19 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-09-17/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-09-17",
+      "end_date": "2026-09-17",
+      "venue": "The Parkway Theater",
+      "title": "SOLD OUT: Booker T. Jones",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "SOLD OUT: Booker T. Jones"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/booker-t-jones",
+      "source": "parkway_theater"
     },
     {
       "date": "2026-09-17",
@@ -24343,6 +25854,45 @@
       ],
       "link": "https://www.minneapolis.org/calendar/mac-mcanally/",
       "source": "minneapolis"
+    },
+    {
+      "date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "venue": "The Parkway Theater",
+      "title": "ALOK // Eat Pray Leave Tour",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "ALOK // Eat Pray Leave Tour"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/alok",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-09-18",
+      "end_date": "2026-09-20",
+      "venue": "Trylon Cinema",
+      "title": "THE LONG DAY CLOSES",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "THE LONG DAY CLOSES"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-09-18",
+      "end_date": "2026-09-20",
+      "venue": "Trylon Cinema",
+      "title": "DISTANT VOICES\\, STILL LIVES",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "DISTANT VOICES\\, STILL LIVES"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-09-18",
@@ -24525,6 +26075,19 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/early-birders-september/2026-09-19/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "venue": "The Parkway Theater",
+      "title": "Des Bishop",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Des Bishop"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/des-bishop",
+      "source": "parkway_theater"
     },
     {
       "date": "2026-09-19",
@@ -24784,6 +26347,19 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-09-20/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-09-20",
+      "end_date": "2026-09-22",
+      "venue": "Trylon Cinema",
+      "title": "PARIS\\, TEXAS IN 4K",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "PARIS\\, TEXAS IN 4K"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
     },
     {
       "date": "2026-09-20",
@@ -25346,6 +26922,32 @@
     {
       "date": "2026-09-25",
       "end_date": "2026-09-25",
+      "venue": "The Parkway Theater",
+      "title": "Hassan Phills // Genuinely Legendary Tour",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Hassan Phills // Genuinely Legendary Tour"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/hassan-phills2-2026",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-09-25",
+      "end_date": "2026-09-27",
+      "venue": "Trylon Cinema",
+      "title": "MISERY",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "MISERY"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-09-25",
+      "end_date": "2026-09-25",
       "venue": "Utepils Brewery",
       "title": "Happy Hour",
       "tour": "Utepils Brewery Event",
@@ -25561,6 +27163,19 @@
       ],
       "link": "https://tickets.umn.edu/northrop/online/article/NRP2627SEASON",
       "source": "northrop_auditorium"
+    },
+    {
+      "date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "venue": "The Parkway Theater",
+      "title": "Beth Orton // The Ground Above Tour '26",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "Beth Orton // The Ground Above Tour '26"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/the-ground-above",
+      "source": "parkway_theater"
     },
     {
       "date": "2026-09-26",
@@ -25785,6 +27400,32 @@
     {
       "date": "2026-09-27",
       "end_date": "2026-09-27",
+      "venue": "The Parkway Theater",
+      "title": "5th Annual Harvest at The Parkway // A Tribute to Neil Young",
+      "tour": "Event/Movie",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "5th Annual Harvest at The Parkway // A Tribute to Neil Young"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/simplegifts-harvest-2026",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-09-27",
+      "end_date": "2026-09-29",
+      "venue": "Trylon Cinema",
+      "title": "JE TU ELLE",
+      "tour": "Film Screening",
+      "support_raw": "Showtime details on Trylon site",
+      "artists": [
+        "JE TU ELLE"
+      ],
+      "link": "https://www.trylon.org/calendar/",
+      "source": "trylon_cinema"
+    },
+    {
+      "date": "2026-09-27",
+      "end_date": "2026-09-27",
       "venue": "Utepils Brewery",
       "title": "Yoga Flow with Annie Hayes",
       "tour": "Utepils Brewery Event",
@@ -25833,6 +27474,19 @@
       ],
       "link": "https://visitduluth.com/event/going-solar-in-the-northland-2/2026-09-27/",
       "source": "visit_duluth"
+    },
+    {
+      "date": "2026-09-28",
+      "end_date": "2026-09-28",
+      "venue": "The Fillmore Minneapolis",
+      "title": "The Garden",
+      "tour": "Concert",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "The Garden"
+      ],
+      "link": "https://www.ticketmaster.com/the-garden-minneapolis-minnesota-09-28-2026/event/060064CA9AF8A83F",
+      "source": "fillmore_minneapolis"
     },
     {
       "date": "2026-09-28",
@@ -25924,6 +27578,19 @@
       ],
       "link": "https://www.dakotacooks.com/event/private-event-sep29-2026/",
       "source": "dakota_jazz_club"
+    },
+    {
+      "date": "2026-09-29",
+      "end_date": "2026-09-29",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Artemas - LOVERCORE / GETTING UP TO NO GOOD Tour",
+      "tour": "Concert",
+      "support_raw": "6:30 PM",
+      "artists": [
+        "Artemas - LOVERCORE / GETTING UP TO NO GOOD Tour"
+      ],
+      "link": "https://www.ticketmaster.com/artemas-lovercore-getting-up-to-no-minneapolis-minnesota-09-29-2026/event/0600647ECCF5BAC1",
+      "source": "fillmore_minneapolis"
     },
     {
       "date": "2026-09-29",
@@ -26185,6 +27852,19 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-10-01/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-10-01",
+      "end_date": "2026-10-01",
+      "venue": "The Parkway Theater",
+      "title": "Live from Laurel Canyon: Songs and Stories of American Folk Rock",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "Live from Laurel Canyon: Songs and Stories of American Folk Rock"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/laurel-canyon-live",
+      "source": "parkway_theater"
     },
     {
       "date": "2026-10-01",
@@ -26566,6 +28246,19 @@
     {
       "date": "2026-10-06",
       "end_date": "2026-10-06",
+      "venue": "The Fillmore Minneapolis",
+      "title": "SEX PISTOLS (Steve Jones, Paul Cook, Glen Matlock) feat. Frank Carter",
+      "tour": "Concert",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "SEX PISTOLS (Steve Jones, Paul Cook, Glen Matlock) feat. Frank Carter"
+      ],
+      "link": "https://www.ticketmaster.com/sex-pistols-steve-jones-paul-cook-minneapolis-minnesota-10-06-2026/event/0600627A09987A9D",
+      "source": "fillmore_minneapolis"
+    },
+    {
+      "date": "2026-10-06",
+      "end_date": "2026-10-06",
       "venue": "Luminary Arts Center",
       "title": "Candlelight Concerts",
       "tour": "Luminary Arts Center Event",
@@ -26697,6 +28390,19 @@
     {
       "date": "2026-10-08",
       "end_date": "2026-10-08",
+      "venue": "The Fillmore Minneapolis",
+      "title": "JPEGMAFIA: the Experimental Rap Tour",
+      "tour": "Concert",
+      "support_raw": "6:30 PM",
+      "artists": [
+        "JPEGMAFIA: the Experimental Rap Tour"
+      ],
+      "link": "https://www.ticketmaster.com/jpegmafia-the-experimental-rap-tour-minneapolis-minnesota-10-08-2026/event/0600648AACD02598",
+      "source": "fillmore_minneapolis"
+    },
+    {
+      "date": "2026-10-08",
+      "end_date": "2026-10-08",
       "venue": "Hennepin Arts",
       "title": "Buddy Guy",
       "tour": "7:30 PM",
@@ -26772,6 +28478,19 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/garden-storytime-2/2026-10-08/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-10-08",
+      "end_date": "2026-10-08",
+      "venue": "The Parkway Theater",
+      "title": "David Nail // Down To The Studs Tour",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "David Nail // Down To The Studs Tour"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/david-nail",
+      "source": "parkway_theater"
     },
     {
       "date": "2026-10-08",
@@ -27389,6 +29108,19 @@
     {
       "date": "2026-10-14",
       "end_date": "2026-10-14",
+      "venue": "The Parkway Theater",
+      "title": "Conor Janda",
+      "tour": "Event/Movie",
+      "support_raw": "7:30 PM",
+      "artists": [
+        "Conor Janda"
+      ],
+      "link": "https://theparkwaytheater.com/all-events/conor-janda",
+      "source": "parkway_theater"
+    },
+    {
+      "date": "2026-10-14",
+      "end_date": "2026-10-14",
       "venue": "Utepils Brewery",
       "title": "La Cochinita",
       "tour": "Utepils Brewery Event",
@@ -27506,6 +29238,19 @@
     {
       "date": "2026-10-16",
       "end_date": "2026-10-16",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Toad The Wet Sprocket - Rings: The Acoustic Tour",
+      "tour": "Concert",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Toad The Wet Sprocket - Rings: The Acoustic Tour"
+      ],
+      "link": "https://www.ticketmaster.com/toad-the-wet-sprocket-rings-the-minneapolis-minnesota-10-16-2026/event/060064BCCC53B7A4",
+      "source": "fillmore_minneapolis"
+    },
+    {
+      "date": "2026-10-16",
+      "end_date": "2026-10-16",
       "venue": "Luminary Arts Center",
       "title": "Candlelight Concerts",
       "tour": "Luminary Arts Center Event",
@@ -27567,6 +29312,19 @@
       ],
       "link": "https://www.dakotacooks.com/event/branford-marsalis-dianne-reeves-celebrate-john-coltrane-at-the-ordway-oct17-2026/",
       "source": "dakota_jazz_club"
+    },
+    {
+      "date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Digable Planets - Celebrating 30 years of Blow Out Comb",
+      "tour": "Concert",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Digable Planets - Celebrating 30 years of Blow Out Comb"
+      ],
+      "link": "https://www.ticketmaster.com/digable-planets-celebrating-30-years-of-minneapolis-minnesota-10-17-2026/event/060064BCA4367591",
+      "source": "fillmore_minneapolis"
     },
     {
       "date": "2026-10-17",
@@ -27724,6 +29482,19 @@
       ],
       "link": "https://www.croonersmn.com/event/celebration-of-john-coltrane-by-red-planet/",
       "source": "crooners"
+    },
+    {
+      "date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "venue": "The Fillmore Minneapolis",
+      "title": "Catch Your Breath - Not Broken Enough Tour",
+      "tour": "Concert",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Catch Your Breath - Not Broken Enough Tour"
+      ],
+      "link": "https://www.ticketmaster.com/catch-your-breath-not-broken-enough-minneapolis-minnesota-10-18-2026/event/060064B4D6512689",
+      "source": "fillmore_minneapolis"
     },
     {
       "date": "2026-10-18",

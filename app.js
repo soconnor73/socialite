@@ -38,7 +38,10 @@ const SOURCE_METADATA = {
     'mncba_workshops': { name: 'MNCBA Workshops', color: 'var(--clr-mncba-workshops)' },
     'coch_cooking_classes': { name: 'CoCH Cooking Classes', color: 'var(--clr-coch-cooking-classes)' },
     'dame_errant_clay': { name: 'Dame Errant Clay', color: 'var(--clr-dame-errant-clay)' },
-    'mpls_parks': { name: 'MPLS Parks & Rec', color: 'var(--clr-mpls-parks)' }
+    'mpls_parks': { name: 'MPLS Parks & Rec', color: 'var(--clr-mpls-parks)' },
+    'trylon_cinema': { name: 'Trylon Cinema', color: 'var(--clr-trylon-cinema)' },
+    'parkway_theater': { name: 'Parkway Theater', color: 'var(--clr-parkway-theater)' },
+    'fillmore_minneapolis': { name: 'Fillmore Minneapolis', color: 'var(--clr-fillmore-minneapolis)' }
 };
 
 const DEFAULT_SOURCE_COLOR = 'var(--clr-minneapolis)';
