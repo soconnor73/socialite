@@ -71,11 +71,20 @@ const dom = {
     modalSupport: document.getElementById('modal-support'),
     modalSupportContainer: document.getElementById('modal-support-container'),
     modalArtistsContainer: document.getElementById('modal-artists-container'),
-    modalTicketsLink: document.getElementById('modal-tickets-link')
+    modalTicketsLink: document.getElementById('modal-tickets-link'),
+    sidebarPanel: document.getElementById('sidebar-panel'),
+    sidebarBackdrop: document.getElementById('sidebar-backdrop'),
+    mobileFilterBtn: document.getElementById('mobile-filter-btn'),
+    sidebarMobileClose: document.getElementById('sidebar-mobile-close')
 };
 
 // Start Application
 async function init() {
+    // If mobile screen on load, force list mode
+    if (window.innerWidth <= 768) {
+        appState.viewMode = 'list';
+    }
+    
     setupEventListeners();
     await fetchEvents();
     populateSourceFilters();
@@ -142,6 +151,37 @@ function setupEventListeners() {
     });
     document.addEventListener('keydown', (e) => {
         if (e.key === 'Escape') closeModal();
+    });
+
+    // Mobile Sidebar Drawer Toggles
+    const openSidebar = () => {
+        dom.sidebarPanel.classList.add('open');
+        dom.sidebarBackdrop.classList.remove('hidden');
+        setTimeout(() => dom.sidebarBackdrop.classList.add('active'), 10);
+    };
+
+    const closeSidebar = () => {
+        dom.sidebarPanel.classList.remove('open');
+        dom.sidebarBackdrop.classList.remove('active');
+        setTimeout(() => dom.sidebarBackdrop.classList.add('hidden'), 300);
+    };
+
+    dom.mobileFilterBtn.addEventListener('click', openSidebar);
+    dom.sidebarMobileClose.addEventListener('click', closeSidebar);
+    dom.sidebarBackdrop.addEventListener('click', closeSidebar);
+
+    // Keep mobile state in sync on resize
+    window.addEventListener('resize', () => {
+        if (window.innerWidth <= 768) {
+            if (appState.viewMode !== 'list') {
+                toggleView('list');
+            }
+        } else {
+            // Close mobile sidebar if returning to desktop sizes
+            dom.sidebarPanel.classList.remove('open');
+            dom.sidebarBackdrop.classList.add('hidden');
+            dom.sidebarBackdrop.classList.remove('active');
+        }
     });
 }
 
@@ -421,9 +461,14 @@ function renderList() {
 
     // Group shows by date
     const grouped = {};
+    const startMonthStr = appState.selectedDate ? null : `${appState.currentYear}-${String(appState.currentMonth + 1).padStart(2, '0')}-01`;
+
     monthEvents.forEach(show => {
-        if (!grouped[show.date]) grouped[show.date] = [];
-        grouped[show.date].push(show);
+        // If the event starts before the current month, clamp it to the first of the month
+        // so it groups under the current month instead of appearing in the previous month's header.
+        const displayDate = (!appState.selectedDate && show.date < startMonthStr) ? startMonthStr : show.date;
+        if (!grouped[displayDate]) grouped[displayDate] = [];
+        grouped[displayDate].push(show);
     });
 
     // Render grouped dates chronologically
@@ -443,6 +488,13 @@ function renderList() {
             const meta = getSourceMeta(show.source);
             const card = document.createElement('div');
             card.className = 'feed-event-card';
+            
+            // If the event started in a previous month, label it as Ongoing with the start date
+            const isOngoing = show.date < dateStr;
+            const subtitleText = isOngoing 
+                ? `Ongoing (Started ${new Date(show.date + 'T00:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric' })})`
+                : (show.tour || 'Live Event');
+
             card.innerHTML = `
                 <div class="card-date-col">
                     <div class="card-day-num">${dateObj.getDate()}</div>
@@ -454,7 +506,7 @@ function renderList() {
                         ${show.venue}
                     </span>
                     <h3 class="card-title">${show.title}</h3>
-                    <p class="card-subtitle">${show.tour || 'Live Event'}</p>
+                    <p class="card-subtitle">${subtitleText}</p>
                 </div>
                 <div class="card-action-col">
                     <span class="material-symbols-outlined">chevron_right</span>

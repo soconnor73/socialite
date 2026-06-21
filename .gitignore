@@ -1,0 +1,8 @@
+node_modules/
+package.json
+package-lock.json
+*.tar
+raw_html/
+*-events.json
+!events.json
+scratch/

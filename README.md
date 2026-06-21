@@ -86,3 +86,30 @@ All parsers inherit from `BaseParser` in `parsers/base.py` and are registered in
 | `coch_cooking_classes` | CoCH Cooking Classes | `#9a3412` | Terracotta |
 | `dame_errant_clay` | Dame Errant Clay | `#a21caf` | Fuchsia Clay |
 | `mpls_parks` | MPLS Parks & Rec | `#059669` | Emerald Green |
+
+---
+
+## 🐳 Docker Deployment
+
+You can package and run Socialite in a lightweight Linux Docker container with automated weekly scraping.
+
+### 1. Build the Docker Image
+Navigate to the root directory and build the image:
+```bash
+docker build -t socialite-app .
+```
+
+### 2. Run the Container
+Run the container, mapping port 80 of the container to port 8080 (or any preferred port) on your host:
+```bash
+docker run -d -p 8080:80 --name socialite socialite-app
+```
+Access the application at `http://localhost:8080`.
+
+### 3. Verification & Cron Jobs
+- **Automatic Scrapes**: Inside the container, a cron daemon automatically runs the crawler and aggregator every Sunday at `00:00`.
+- **Logs**: To monitor crawler activity and check the cron output, you can view the container logs:
+  ```bash
+  docker logs socialite
+  ```
+

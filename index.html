@@ -9,14 +9,18 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet" />
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="index.css?v=2">
 </head>
 <body>
     <div class="glow-bg"></div>
+    <div class="sidebar-backdrop hidden" id="sidebar-backdrop"></div>
     
     <div class="app-container">
         <!-- Sidebar / Filter controls -->
-        <aside class="sidebar">
+        <aside class="sidebar" id="sidebar-panel">
+            <button class="sidebar-mobile-close" id="sidebar-mobile-close">
+                <span class="material-symbols-outlined">close</span>
+            </button>
             <div class="brand">
                 <span class="material-symbols-outlined logo-icon">calendar_month</span>
                 <h1>Socialite</h1>
@@ -64,6 +68,9 @@
         <!-- Main Content Area -->
         <main class="main-content">
             <header class="content-header">
+                <button class="nav-btn mobile-filter-btn" id="mobile-filter-btn">
+                    <span class="material-symbols-outlined">tune</span>
+                </button>
                 <div class="current-period">
                     <button class="nav-btn" id="prev-period-btn">
                         <span class="material-symbols-outlined">chevron_left</span>
@@ -163,6 +170,6 @@
         </div>
     </div>
 
-    <script src="app.js"></script>
+    <script src="app.js?v=2"></script>
 </body>
 </html>

@@ -1,0 +1,12 @@
+.git
+.gitignore
+scratch
+node_modules
+package-lock.json
+package.json
+*.js
+!app.js
+*.tar
+raw_html
+*-events.json
+!events.json
