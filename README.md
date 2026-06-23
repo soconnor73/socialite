@@ -107,9 +107,28 @@ docker run -d -p 8080:80 --name socialite socialite-app
 Access the application at `http://localhost:8080`.
 
 ### 3. Verification & Cron Jobs
-- **Automatic Scrapes**: Inside the container, a cron daemon automatically runs the crawler and aggregator every Sunday at `00:00`.
-- **Logs**: To monitor crawler activity and check the cron output, you can view the container logs:
+- **Automatic Scrapes**: Inside the container, a cron daemon automatically runs the scraper and aggregator scripts every **Sunday at midnight (00:00)**.
+- **Log Routing**: The cron task redirects stdout and stderr output to `/proc/1/fd/1`. This maps the script logs directly to Docker container output logs.
+- **Viewing Logs**: To monitor crawler activity and check the cron output in real-time, view the container logs:
   ```bash
   docker logs socialite
+  ```
+
+### 4. How the Scraper Schedule Works Internally
+- **Cron Definition**: The scheduling is managed by the `/etc/cron.d/socialite-cron` file inside the container, containing:
+  ```cron
+  0 0 * * 0 cd /app && /usr/local/bin/python scrape_shows.py && /usr/local/bin/python aggregate_events.py > /proc/1/fd/1 2>&1
+  ```
+- **Dockerfile Setup**: The `Dockerfile` copies `cronjob` to the system cron directory, sets proper permissions, and registers it:
+  ```dockerfile
+  RUN cp /app/cronjob /etc/cron.d/socialite-cron \
+      && chmod 0644 /etc/cron.d/socialite-cron \
+      && crontab /etc/cron.d/socialite-cron
+  ```
+- **Entrypoint execution**: When the container spins up, `entrypoint.sh` starts the background `cron` daemon before launching `nginx` in the foreground:
+  ```bash
+  #!/bin/sh
+  cron
+  nginx -g "daemon off;"
   ```
 
