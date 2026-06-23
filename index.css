@@ -37,6 +37,8 @@
     --clr-trylon-cinema: #64748b;
     --clr-parkway-theater: #f43f5e;
     --clr-fillmore-minneapolis: #eab308;
+    --clr-litt-pinball: #e11d48;
+    --clr-castle-danger: #ea580c;
 }
 
 * {
@@ -778,7 +780,8 @@ body {
 
 /* Mobile layout helper classes (hidden by default on desktop) */
 .mobile-filter-btn,
-.sidebar-mobile-close {
+.sidebar-mobile-close,
+.sidebar-collapse-btn {
     display: none;
 }
 
@@ -883,6 +886,31 @@ body {
     .sidebar-mobile-close:hover {
         background: rgba(255, 255, 255, 0.15);
         color: #fff;
+    }
+
+    /* Sidebar Collapse Button at Bottom */
+    .sidebar-collapse-btn {
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        gap: 0.5rem;
+        width: 100%;
+        padding: 0.875rem;
+        background: rgba(255, 255, 255, 0.05);
+        border: 1px solid rgba(255, 255, 255, 0.15);
+        border-radius: 12px;
+        color: #ffffff;
+        font-family: 'Outfit', sans-serif;
+        font-size: 1rem;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all 0.2s ease;
+        margin-top: 2rem;
+    }
+
+    .sidebar-collapse-btn:hover {
+        background: rgba(255, 255, 255, 0.1);
+        border-color: rgba(255, 255, 255, 0.25);
     }
 
     /* Sidebar Backdrop */

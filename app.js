@@ -41,7 +41,9 @@ const SOURCE_METADATA = {
     'mpls_parks': { name: 'MPLS Parks & Rec', color: 'var(--clr-mpls-parks)' },
     'trylon_cinema': { name: 'Trylon Cinema', color: 'var(--clr-trylon-cinema)' },
     'parkway_theater': { name: 'Parkway Theater', color: 'var(--clr-parkway-theater)' },
-    'fillmore_minneapolis': { name: 'Fillmore Minneapolis', color: 'var(--clr-fillmore-minneapolis)' }
+    'fillmore_minneapolis': { name: 'Fillmore Minneapolis', color: 'var(--clr-fillmore-minneapolis)' },
+    'litt_pinball_bar': { name: 'LITT Pinball Bar', color: 'var(--clr-litt-pinball)' },
+    'castle_danger_brewery': { name: 'Castle Danger Brewery', color: 'var(--clr-castle-danger)' }
 };
 
 const DEFAULT_SOURCE_COLOR = 'var(--clr-minneapolis)';
@@ -78,7 +80,8 @@ const dom = {
     sidebarPanel: document.getElementById('sidebar-panel'),
     sidebarBackdrop: document.getElementById('sidebar-backdrop'),
     mobileFilterBtn: document.getElementById('mobile-filter-btn'),
-    sidebarMobileClose: document.getElementById('sidebar-mobile-close')
+    sidebarMobileClose: document.getElementById('sidebar-mobile-close'),
+    sidebarCollapseBtn: document.getElementById('sidebar-collapse-btn')
 };
 
 // Start Application
@@ -97,7 +100,7 @@ async function init() {
 // Fetch compiled events
 async function fetchEvents() {
     try {
-        const response = await fetch('events.json');
+        const response = await fetch(`events.json?t=${new Date().getTime()}`);
         if (!response.ok) throw new Error('Failed to load events.json');
         const data = await response.json();
         
@@ -140,10 +143,17 @@ function setupEventListeners() {
     dom.prevPeriodBtn.addEventListener('click', () => navigatePeriod(-1));
     dom.nextPeriodBtn.addEventListener('click', () => navigatePeriod(1));
 
-    // Clear Sources Filter
+    // Clear/Add Sources Filter Toggle
     dom.clearSourcesBtn.addEventListener('click', () => {
-        appState.selectedSources.clear();
-        document.querySelectorAll('.source-item').forEach(el => el.classList.remove('active'));
+        if (dom.clearSourcesBtn.innerText === 'Clear All') {
+            appState.selectedSources.clear();
+            document.querySelectorAll('.source-item').forEach(el => el.classList.remove('active'));
+            dom.clearSourcesBtn.innerText = 'Add All';
+        } else {
+            Object.keys(SOURCE_METADATA).forEach(source => appState.selectedSources.add(source));
+            document.querySelectorAll('.source-item').forEach(el => el.classList.add('active'));
+            dom.clearSourcesBtn.innerText = 'Clear All';
+        }
         applyFilters();
     });
 
@@ -171,6 +181,7 @@ function setupEventListeners() {
 
     dom.mobileFilterBtn.addEventListener('click', openSidebar);
     dom.sidebarMobileClose.addEventListener('click', closeSidebar);
+    dom.sidebarCollapseBtn.addEventListener('click', closeSidebar);
     dom.sidebarBackdrop.addEventListener('click', closeSidebar);
 
     // Keep mobile state in sync on resize
@@ -213,6 +224,12 @@ function populateSourceFilters() {
             } else {
                 appState.selectedSources.add(source);
                 item.classList.add('active');
+            }
+            // Update Clear/Add button text based on selection size
+            if (appState.selectedSources.size === 0) {
+                dom.clearSourcesBtn.innerText = 'Add All';
+            } else {
+                dom.clearSourcesBtn.innerText = 'Clear All';
             }
             applyFilters();
         });
@@ -452,6 +469,15 @@ function renderList() {
         });
     }
     
+    const today = new Date();
+    const todayStr = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
+    
+    // Filter events to only keep those from the current day onward
+    monthEvents = monthEvents.filter(show => {
+        const eDate = show.end_date || show.date;
+        return eDate >= todayStr;
+    });
+    
     if (monthEvents.length === 0) {
         dom.listFeedContainer.innerHTML = `
             <div class="stat-card" style="text-align: center; padding: 3rem;">
@@ -465,11 +491,10 @@ function renderList() {
     // Group shows by date
     const grouped = {};
     const startMonthStr = appState.selectedDate ? null : `${appState.currentYear}-${String(appState.currentMonth + 1).padStart(2, '0')}-01`;
+    const clampDate = appState.selectedDate ? appState.selectedDate : (startMonthStr > todayStr ? startMonthStr : todayStr);
 
     monthEvents.forEach(show => {
-        // If the event starts before the current month, clamp it to the first of the month
-        // so it groups under the current month instead of appearing in the previous month's header.
-        const displayDate = (!appState.selectedDate && show.date < startMonthStr) ? startMonthStr : show.date;
+        const displayDate = show.date < clampDate ? clampDate : show.date;
         if (!grouped[displayDate]) grouped[displayDate] = [];
         grouped[displayDate].push(show);
     });

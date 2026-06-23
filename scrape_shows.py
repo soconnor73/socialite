@@ -507,6 +507,46 @@ def scrape_site(site_name, start_date, end_date):
                     break
                 page += 1
 
+    elif site_name == 'castle_danger_brewery':
+        # Castle Danger Brewery uses Tribe REST API
+        api_base = 'https://castledangerbrewery.com/wp-json/tribe/events/v1/events'
+        month_windows = get_month_windows(start_date, end_date)
+        for (w_start, w_end) in month_windows:
+            page = 1
+            while True:
+                cache_key = f"{w_start}_{w_end}_p{page}"
+                filepath = f"raw_html/castle_danger_brewery_{cache_key}.json"
+                raw = None
+                if os.path.exists(filepath):
+                    print(f"Using cached file: {filepath}")
+                    with open(filepath, 'rb') as f:
+                        raw = f.read()
+                else:
+                    url = (f"{api_base}?start_date={w_start}&end_date={w_end}"
+                           f"&per_page=50&page={page}")
+                    raw = get_page_content(url)
+                    if raw:
+                        os.makedirs("raw_html", exist_ok=True)
+                        with open(filepath, 'wb') as f:
+                            f.write(raw)
+                        time.sleep(0.5)
+                if not raw:
+                    break
+                shows = parser.parse(raw)
+                print(f"Parsed {len(shows)} shows from castledangerbrewery.com ({w_start} p{page})")
+                all_shows.extend(shows)
+                # Check if more pages exist
+                try:
+                    import json as _json
+                    data = _json.loads(raw)
+                    total = int(data.get('total', 0))
+                    fetched_so_far = (page - 1) * 50 + len(shows)
+                    if fetched_so_far >= total:
+                        break
+                except Exception:
+                    break
+                page += 1
+
     elif site_name == 'luminary_arts_center':
         # Luminary Arts Center uses Tribe REST API
         api_base = 'https://luminaryartscenter.com/wp-json/tribe/events/v1/events'
@@ -768,6 +808,26 @@ def scrape_site(site_name, start_date, end_date):
             print(f"Parsed {len(shows)} shows from fillmoreminneapolis.com (JSON-LD)")
             all_shows.extend(shows)
 
+    elif site_name == 'litt_pinball_bar':
+        filepath = "raw_html/litt_pinball.json"
+        html = None
+        if os.path.exists(filepath):
+            print(f"Using cached file: {filepath}")
+            with open(filepath, 'rb') as f:
+                html = f.read()
+        else:
+            url = "https://littpinballbar.com/events-2?format=json"
+            html = get_page_content(url)
+            if html:
+                os.makedirs("raw_html", exist_ok=True)
+                with open(filepath, "wb") as f:
+                    f.write(html)
+                time.sleep(1)
+        if html:
+            shows = parser.parse(html)
+            print(f"Parsed {len(shows)} shows from littpinballbar.com (events-2)")
+            all_shows.extend(shows)
+
     # Filter shows to target 60-day window
     # Supports both single dates and date range checks
     filtered_shows = []
@@ -806,7 +866,7 @@ def main():
     end_date = start_date + datetime.timedelta(days=120)
     
     # List of sites to scrape
-    sites_to_scrape = ['first_avenue', 'grand_casino_arena', 'acme_comedy_club', 'guthrie_theater', 'minneapolis', 'mn_united_fc', 'minnesota_twins', 'target_center', 'minnesota_orchestra', 'hennepin_arts', 'us_bank_stadium', 'northrop_auditorium', 'ordway_theater', 'visit_stpaul', 'dakota_jazz_club', 'berlin_jazz_club', 'crooners', 'visit_duluth', 'luminary_arts_center', 'utepils_brewery', 'pryes_brewing', 'mncba_workshops', 'coch_cooking_classes', 'dame_errant_clay', 'mpls_parks', 'trylon_cinema', 'parkway_theater', 'fillmore_minneapolis']
+    sites_to_scrape = ['first_avenue', 'grand_casino_arena', 'acme_comedy_club', 'guthrie_theater', 'minneapolis', 'mn_united_fc', 'minnesota_twins', 'target_center', 'minnesota_orchestra', 'hennepin_arts', 'us_bank_stadium', 'northrop_auditorium', 'ordway_theater', 'visit_stpaul', 'dakota_jazz_club', 'berlin_jazz_club', 'crooners', 'visit_duluth', 'luminary_arts_center', 'utepils_brewery', 'pryes_brewing', 'mncba_workshops', 'coch_cooking_classes', 'dame_errant_clay', 'mpls_parks', 'trylon_cinema', 'parkway_theater', 'fillmore_minneapolis', 'litt_pinball_bar', 'castle_danger_brewery']
     
     for site in sites_to_scrape:
         scrape_site(site, start_date, end_date)

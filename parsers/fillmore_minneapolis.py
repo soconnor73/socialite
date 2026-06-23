@@ -30,7 +30,27 @@ class FillmoreMinneapolisParser(BaseParser):
         seen_keys = set()
 
         for name, start_raw, url in matches:
-            name = name.strip()
+            # First, strip trailing/leading backslashes, quotes, and whitespace so unicode_escape doesn't fail
+            name = re.sub(r'[\s\\"]+$', '', name)
+            name = re.sub(r'^[\s\\"]+', '', name)
+
+            # Unescape unicode escapes (e.g. \u0026 or \\u0026)
+            for _ in range(3):
+                if '\\u' not in name:
+                    break
+                try:
+                    name = name.encode('utf-8').decode('unicode_escape')
+                except Exception:
+                    break
+
+            # Strip again in case unescaping introduced any leading/trailing garbage
+            name = re.sub(r'[\s\\"]+$', '', name)
+            name = re.sub(r'^[\s\\"]+', '', name)
+
+            # HTML unescape and final strip
+            import html
+            name = html.unescape(name).strip()
+
             if not name or not start_raw:
                 continue
 
