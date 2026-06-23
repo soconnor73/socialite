@@ -10,7 +10,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet" />
-    <link rel="stylesheet" href="index.css?v=11">
+    <link rel="stylesheet" href="index.css?v=12">
 </head>
 <body>
     <div class="glow-bg"></div>
@@ -57,21 +57,11 @@
 
             <div class="filter-section">
                 <div class="section-header">
-                    <h2>Filter by Category</h2>
-                    <button class="text-btn" id="clear-categories-btn">Clear All</button>
-                </div>
-                <div class="source-pills-list" id="category-filter-container">
-                    <!-- Category checkboxes injected here dynamically -->
-                </div>
-            </div>
-
-            <div class="filter-section">
-                <div class="section-header">
-                    <h2>Filter by Source</h2>
+                    <h2>Filter Events</h2>
                     <button class="text-btn" id="clear-sources-btn">Clear All</button>
                 </div>
-                <div class="source-pills-list" id="source-filter-container">
-                    <!-- Source checkboxes injected here dynamically -->
+                <div class="category-tree-container" id="category-tree-container">
+                    <!-- Dynamic Category/Source tree injected here -->
                 </div>
             </div>
             <button class="sidebar-collapse-btn" id="sidebar-collapse-btn">
@@ -185,6 +175,6 @@
         </div>
     </div>
 
-    <script src="app.js?v=11"></script>
+    <script src="app.js?v=12"></script>
 </body>
 </html>

@@ -2,7 +2,6 @@
 let appState = {
     allEvents: [],
     filteredEvents: [],
-    selectedCategories: new Set(),
     selectedSources: new Set(),
     currentYear: 2026,
     currentMonth: 5, // 0-indexed (June is 5)
@@ -100,10 +99,8 @@ const dom = {
     searchInput: document.getElementById('search-input'),
     startDateFilter: document.getElementById('start-date-filter'),
     endDateFilter: document.getElementById('end-date-filter'),
-    sourceFilterContainer: document.getElementById('source-filter-container'),
+    categoryTreeContainer: document.getElementById('category-tree-container'),
     clearSourcesBtn: document.getElementById('clear-sources-btn'),
-    categoryFilterContainer: document.getElementById('category-filter-container'),
-    clearCategoriesBtn: document.getElementById('clear-categories-btn'),
     periodLabel: document.getElementById('period-display-label'),
     prevPeriodBtn: document.getElementById('prev-period-btn'),
     nextPeriodBtn: document.getElementById('next-period-btn'),
@@ -141,8 +138,7 @@ async function init() {
     
     setupEventListeners();
     await fetchEvents();
-    populateCategoryFilters();
-    populateSourceFilters();
+    populateCategoryTree();
     applyFilters();
 }
 
@@ -156,11 +152,12 @@ async function fetchEvents() {
         appState.allEvents = data.shows || [];
         appState.filteredEvents = [...appState.allEvents];
         
-        // Populate all categories into the selected set initially
-        appState.selectedCategories = new Set(Object.keys(CATEGORY_MAP));
-        
         // Populate all sources into the selected set initially
         const sources = new Set(appState.allEvents.map(s => s.source));
+        // Ensure all configured sources in CATEGORY_MAP are selected as well
+        Object.values(CATEGORY_MAP).forEach(cat => {
+            cat.sources.forEach(src => sources.add(src));
+        });
         appState.selectedSources = sources;
         
         dom.statsTotal.innerText = appState.allEvents.length;
@@ -195,31 +192,16 @@ function setupEventListeners() {
     dom.prevPeriodBtn.addEventListener('click', () => navigatePeriod(-1));
     dom.nextPeriodBtn.addEventListener('click', () => navigatePeriod(1));
 
-    // Clear/Add Categories Filter Toggle
-    dom.clearCategoriesBtn.addEventListener('click', () => {
-        if (dom.clearCategoriesBtn.innerText === 'Clear All') {
-            appState.selectedCategories.clear();
-            dom.categoryFilterContainer.querySelectorAll('.source-item').forEach(el => el.classList.remove('active'));
-            dom.clearCategoriesBtn.innerText = 'Add All';
-        } else {
-            Object.keys(CATEGORY_MAP).forEach(cat => appState.selectedCategories.add(cat));
-            dom.categoryFilterContainer.querySelectorAll('.source-item').forEach(el => el.classList.add('active'));
-            dom.clearCategoriesBtn.innerText = 'Clear All';
-        }
-        applyFilters();
-    });
-
     // Clear/Add Sources Filter Toggle
     dom.clearSourcesBtn.addEventListener('click', () => {
         if (dom.clearSourcesBtn.innerText === 'Clear All') {
             appState.selectedSources.clear();
-            dom.sourceFilterContainer.querySelectorAll('.source-item').forEach(el => el.classList.remove('active'));
             dom.clearSourcesBtn.innerText = 'Add All';
         } else {
             Object.keys(SOURCE_METADATA).forEach(src => appState.selectedSources.add(src));
-            dom.sourceFilterContainer.querySelectorAll('.source-item').forEach(el => el.classList.add('active'));
             dom.clearSourcesBtn.innerText = 'Clear All';
         }
+        updateCategoryTreeUI();
         applyFilters();
     });
 
@@ -265,77 +247,116 @@ function setupEventListeners() {
     });
 }
 
-// Populate Category Filters checklist
-function populateCategoryFilters() {
-    dom.categoryFilterContainer.innerHTML = '';
+// Populate Category Tree Accordion checklist
+function populateCategoryTree() {
+    dom.categoryTreeContainer.innerHTML = '';
     
     Object.entries(CATEGORY_MAP).forEach(([catKey, catMeta]) => {
-        const item = document.createElement('div');
-        item.className = 'source-item active';
-        item.dataset.category = catKey;
-        item.innerHTML = `
-            <div class="source-color-dot" style="background-color: ${catMeta.color}"></div>
-            <div class="source-name">${catMeta.name}</div>
+        const node = document.createElement('div');
+        node.className = 'category-node';
+        node.dataset.category = catKey;
+        
+        node.innerHTML = `
+            <div class="category-header-row">
+                <span class="material-symbols-outlined category-expand-icon">keyboard_arrow_right</span>
+                <div class="category-toggle-dot" style="color: ${catMeta.color}"></div>
+                <div class="category-label-text">${catMeta.name}</div>
+            </div>
+            <div class="category-sources-container"></div>
         `;
         
-        item.addEventListener('click', () => {
-            if (appState.selectedCategories.has(catKey)) {
-                appState.selectedCategories.delete(catKey);
-                item.classList.remove('active');
+        const headerRow = node.querySelector('.category-header-row');
+        const expandIcon = node.querySelector('.category-expand-icon');
+        const sourcesContainer = node.querySelector('.category-sources-container');
+        
+        // Chevron toggle logic
+        expandIcon.addEventListener('click', (e) => {
+            e.stopPropagation(); // prevent header click triggering toggle
+            node.classList.toggle('expanded');
+        });
+        
+        // Header click logic (toggles all sources in category)
+        headerRow.addEventListener('click', () => {
+            const allSelected = catMeta.sources.every(src => appState.selectedSources.has(src));
+            if (allSelected) {
+                catMeta.sources.forEach(src => appState.selectedSources.delete(src));
             } else {
-                appState.selectedCategories.add(catKey);
-                item.classList.add('active');
+                catMeta.sources.forEach(src => appState.selectedSources.add(src));
             }
-            // Update Clear/Add button text based on selection size
-            if (appState.selectedCategories.size === 0) {
-                dom.clearCategoriesBtn.innerText = 'Add All';
-            } else {
-                dom.clearCategoriesBtn.innerText = 'Clear All';
-            }
+            updateCategoryTreeUI();
             applyFilters();
         });
         
-        dom.categoryFilterContainer.appendChild(item);
+        // Add sources inside this category
+        // Sort sources alphabetically by display name
+        const sortedSources = [...catMeta.sources].sort((a, b) =>
+            (SOURCE_METADATA[a]?.name || a).localeCompare(SOURCE_METADATA[b]?.name || b)
+        );
+        
+        sortedSources.forEach(source => {
+            const meta = getSourceMeta(source);
+            const srcItem = document.createElement('div');
+            srcItem.className = 'category-source-item';
+            srcItem.dataset.source = source;
+            srcItem.innerHTML = `
+                <div class="category-source-item-checkbox"></div>
+                <div class="category-source-item-dot" style="background-color: ${meta.color}"></div>
+                <div class="category-source-item-name">${meta.name}</div>
+            `;
+            
+            srcItem.addEventListener('click', () => {
+                if (appState.selectedSources.has(source)) {
+                    appState.selectedSources.delete(source);
+                } else {
+                    appState.selectedSources.add(source);
+                }
+                updateCategoryTreeUI();
+                applyFilters();
+            });
+            
+            sourcesContainer.appendChild(srcItem);
+        });
+        
+        dom.categoryTreeContainer.appendChild(node);
     });
+    
+    updateCategoryTreeUI();
 }
 
-// Populate Source Filters checklist
-function populateSourceFilters() {
-    // Sort sources alphabetically by display name
-    const uniqueSources = Object.keys(SOURCE_METADATA).sort((a, b) =>
-        SOURCE_METADATA[a].name.localeCompare(SOURCE_METADATA[b].name)
-    );
-    dom.sourceFilterContainer.innerHTML = '';
-    
-    uniqueSources.forEach(source => {
-        const meta = getSourceMeta(source);
-        const item = document.createElement('div');
-        item.className = 'source-item active';
-        item.dataset.source = source;
-        item.innerHTML = `
-            <div class="source-color-dot" style="background-color: ${meta.color}"></div>
-            <div class="source-name">${meta.name}</div>
-        `;
+// Update UI styling for Category Tree based on state
+function updateCategoryTreeUI() {
+    // 1. Update Category nodes active status
+    document.querySelectorAll('.category-node').forEach(node => {
+        const catKey = node.dataset.category;
+        const catMeta = CATEGORY_MAP[catKey];
+        if (!catMeta) return;
         
-        item.addEventListener('click', () => {
+        const selectedCount = catMeta.sources.filter(src => appState.selectedSources.has(src)).length;
+        
+        node.classList.remove('active-all', 'active-some');
+        if (selectedCount === catMeta.sources.length) {
+            node.classList.add('active-all');
+        } else if (selectedCount > 0) {
+            node.classList.add('active-some');
+        }
+        
+        // 2. Update child source item active states
+        node.querySelectorAll('.category-source-item').forEach(srcItem => {
+            const source = srcItem.dataset.source;
             if (appState.selectedSources.has(source)) {
-                appState.selectedSources.delete(source);
-                item.classList.remove('active');
+                srcItem.classList.add('active');
             } else {
-                appState.selectedSources.add(source);
-                item.classList.add('active');
+                srcItem.classList.remove('active');
             }
-            // Update Clear/Add button text based on selection size
-            if (appState.selectedSources.size === 0) {
-                dom.clearSourcesBtn.innerText = 'Add All';
-            } else {
-                dom.clearSourcesBtn.innerText = 'Clear All';
-            }
-            applyFilters();
         });
-        
-        dom.sourceFilterContainer.appendChild(item);
     });
+    
+    // 3. Update Clear All / Add All global button text
+    if (appState.selectedSources.size === 0) {
+        dom.clearSourcesBtn.innerText = 'Add All';
+    } else {
+        dom.clearSourcesBtn.innerText = 'Clear All';
+    }
 }
 
 // View toggle helper
@@ -385,11 +406,7 @@ function applyFilters() {
         const sDate = new Date(show.date);
         const eDate = show.end_date ? new Date(show.end_date) : sDate;
         
-        // 1. Category Filter
-        const cat = SOURCE_TO_CATEGORY[show.source] || 'outdoors';
-        if (!appState.selectedCategories.has(cat)) return false;
-        
-        // 1b. Source Filter
+        // 1. Source Filter
         if (!appState.selectedSources.has(show.source)) return false;
         
         // 2. Date Overlap Check
