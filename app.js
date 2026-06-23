@@ -3,6 +3,7 @@ let appState = {
     allEvents: [],
     filteredEvents: [],
     selectedCategories: new Set(),
+    selectedSources: new Set(),
     currentYear: 2026,
     currentMonth: 5, // 0-indexed (June is 5)
     viewMode: 'list', // 'grid' or 'list'
@@ -101,6 +102,8 @@ const dom = {
     endDateFilter: document.getElementById('end-date-filter'),
     sourceFilterContainer: document.getElementById('source-filter-container'),
     clearSourcesBtn: document.getElementById('clear-sources-btn'),
+    categoryFilterContainer: document.getElementById('category-filter-container'),
+    clearCategoriesBtn: document.getElementById('clear-categories-btn'),
     periodLabel: document.getElementById('period-display-label'),
     prevPeriodBtn: document.getElementById('prev-period-btn'),
     nextPeriodBtn: document.getElementById('next-period-btn'),
@@ -139,6 +142,7 @@ async function init() {
     setupEventListeners();
     await fetchEvents();
     populateCategoryFilters();
+    populateSourceFilters();
     applyFilters();
 }
 
@@ -154,6 +158,10 @@ async function fetchEvents() {
         
         // Populate all categories into the selected set initially
         appState.selectedCategories = new Set(Object.keys(CATEGORY_MAP));
+        
+        // Populate all sources into the selected set initially
+        const sources = new Set(appState.allEvents.map(s => s.source));
+        appState.selectedSources = sources;
         
         dom.statsTotal.innerText = appState.allEvents.length;
     } catch (error) {
@@ -188,14 +196,28 @@ function setupEventListeners() {
     dom.nextPeriodBtn.addEventListener('click', () => navigatePeriod(1));
 
     // Clear/Add Categories Filter Toggle
-    dom.clearSourcesBtn.addEventListener('click', () => {
-        if (dom.clearSourcesBtn.innerText === 'Clear All') {
+    dom.clearCategoriesBtn.addEventListener('click', () => {
+        if (dom.clearCategoriesBtn.innerText === 'Clear All') {
             appState.selectedCategories.clear();
-            document.querySelectorAll('.source-item').forEach(el => el.classList.remove('active'));
-            dom.clearSourcesBtn.innerText = 'Add All';
+            dom.categoryFilterContainer.querySelectorAll('.source-item').forEach(el => el.classList.remove('active'));
+            dom.clearCategoriesBtn.innerText = 'Add All';
         } else {
             Object.keys(CATEGORY_MAP).forEach(cat => appState.selectedCategories.add(cat));
-            document.querySelectorAll('.source-item').forEach(el => el.classList.add('active'));
+            dom.categoryFilterContainer.querySelectorAll('.source-item').forEach(el => el.classList.add('active'));
+            dom.clearCategoriesBtn.innerText = 'Clear All';
+        }
+        applyFilters();
+    });
+
+    // Clear/Add Sources Filter Toggle
+    dom.clearSourcesBtn.addEventListener('click', () => {
+        if (dom.clearSourcesBtn.innerText === 'Clear All') {
+            appState.selectedSources.clear();
+            dom.sourceFilterContainer.querySelectorAll('.source-item').forEach(el => el.classList.remove('active'));
+            dom.clearSourcesBtn.innerText = 'Add All';
+        } else {
+            Object.keys(SOURCE_METADATA).forEach(src => appState.selectedSources.add(src));
+            dom.sourceFilterContainer.querySelectorAll('.source-item').forEach(el => el.classList.add('active'));
             dom.clearSourcesBtn.innerText = 'Clear All';
         }
         applyFilters();
@@ -245,7 +267,7 @@ function setupEventListeners() {
 
 // Populate Category Filters checklist
 function populateCategoryFilters() {
-    dom.sourceFilterContainer.innerHTML = '';
+    dom.categoryFilterContainer.innerHTML = '';
     
     Object.entries(CATEGORY_MAP).forEach(([catKey, catMeta]) => {
         const item = document.createElement('div');
@@ -266,6 +288,45 @@ function populateCategoryFilters() {
             }
             // Update Clear/Add button text based on selection size
             if (appState.selectedCategories.size === 0) {
+                dom.clearCategoriesBtn.innerText = 'Add All';
+            } else {
+                dom.clearCategoriesBtn.innerText = 'Clear All';
+            }
+            applyFilters();
+        });
+        
+        dom.categoryFilterContainer.appendChild(item);
+    });
+}
+
+// Populate Source Filters checklist
+function populateSourceFilters() {
+    // Sort sources alphabetically by display name
+    const uniqueSources = Object.keys(SOURCE_METADATA).sort((a, b) =>
+        SOURCE_METADATA[a].name.localeCompare(SOURCE_METADATA[b].name)
+    );
+    dom.sourceFilterContainer.innerHTML = '';
+    
+    uniqueSources.forEach(source => {
+        const meta = getSourceMeta(source);
+        const item = document.createElement('div');
+        item.className = 'source-item active';
+        item.dataset.source = source;
+        item.innerHTML = `
+            <div class="source-color-dot" style="background-color: ${meta.color}"></div>
+            <div class="source-name">${meta.name}</div>
+        `;
+        
+        item.addEventListener('click', () => {
+            if (appState.selectedSources.has(source)) {
+                appState.selectedSources.delete(source);
+                item.classList.remove('active');
+            } else {
+                appState.selectedSources.add(source);
+                item.classList.add('active');
+            }
+            // Update Clear/Add button text based on selection size
+            if (appState.selectedSources.size === 0) {
                 dom.clearSourcesBtn.innerText = 'Add All';
             } else {
                 dom.clearSourcesBtn.innerText = 'Clear All';
@@ -327,6 +388,9 @@ function applyFilters() {
         // 1. Category Filter
         const cat = SOURCE_TO_CATEGORY[show.source] || 'outdoors';
         if (!appState.selectedCategories.has(cat)) return false;
+        
+        // 1b. Source Filter
+        if (!appState.selectedSources.has(show.source)) return false;
         
         // 2. Date Overlap Check
         if (sDate > end || eDate < start) return false;
