@@ -2,7 +2,7 @@
 let appState = {
     allEvents: [],
     filteredEvents: [],
-    selectedSources: new Set(),
+    selectedCategories: new Set(),
     currentYear: 2026,
     currentMonth: 5, // 0-indexed (June is 5)
     viewMode: 'list', // 'grid' or 'list'
@@ -45,6 +45,51 @@ const SOURCE_METADATA = {
     'litt_pinball_bar': { name: 'LITT Pinball Bar', color: 'var(--clr-litt-pinball)' },
     'castle_danger_brewery': { name: 'Castle Danger Brewery', color: 'var(--clr-castle-danger)' }
 };
+
+const CATEGORY_MAP = {
+    'music': {
+        name: 'Music & Concerts',
+        color: '#6366f1', // indigo
+        sources: ['berlin_jazz_club', 'crooners', 'dakota_jazz_club', 'fillmore_minneapolis', 'first_avenue', 'grand_casino_arena', 'minnesota_orchestra', 'us_bank_stadium']
+    },
+    'performing_arts': {
+        name: 'Performing Arts & Comedy',
+        color: '#ec4899', // pink
+        sources: ['acme_comedy_club', 'guthrie_theater', 'hennepin_arts', 'luminary_arts_center', 'northrop_auditorium', 'ordway_theater']
+    },
+    'socials': {
+        name: 'Food, Drink & Socials',
+        color: '#f59e0b', // amber
+        sources: ['castle_danger_brewery', 'coch_cooking_classes', 'litt_pinball_bar', 'utepils_brewery', 'pryes_brewing']
+    },
+    'sports': {
+        name: 'Sports & Athletics',
+        color: '#10b981', // emerald
+        sources: ['minnesota_twins', 'mn_united_fc', 'target_center']
+    },
+    'crafts': {
+        name: 'Creative & Crafting',
+        color: '#8b5cf6', // purple
+        sources: ['dame_errant_clay', 'mncba_workshops']
+    },
+    'cinema': {
+        name: 'Cinema & Film',
+        color: '#3b82f6', // blue
+        sources: ['parkway_theater', 'trylon_cinema']
+    },
+    'outdoors': {
+        name: 'Festivals, Tourism & Outdoors',
+        color: '#06b6d4', // cyan
+        sources: ['minneapolis', 'mpls_parks', 'visit_duluth', 'visit_stpaul']
+    }
+};
+
+const SOURCE_TO_CATEGORY = {};
+Object.entries(CATEGORY_MAP).forEach(([catKey, catVal]) => {
+    catVal.sources.forEach(src => {
+        SOURCE_TO_CATEGORY[src] = catKey;
+    });
+});
 
 const DEFAULT_SOURCE_COLOR = 'var(--clr-minneapolis)';
 
@@ -93,7 +138,7 @@ async function init() {
     
     setupEventListeners();
     await fetchEvents();
-    populateSourceFilters();
+    populateCategoryFilters();
     applyFilters();
 }
 
@@ -107,9 +152,8 @@ async function fetchEvents() {
         appState.allEvents = data.shows || [];
         appState.filteredEvents = [...appState.allEvents];
         
-        // Populate all sources into the selected set initially
-        const sources = new Set(appState.allEvents.map(s => s.source));
-        appState.selectedSources = sources;
+        // Populate all categories into the selected set initially
+        appState.selectedCategories = new Set(Object.keys(CATEGORY_MAP));
         
         dom.statsTotal.innerText = appState.allEvents.length;
     } catch (error) {
@@ -143,14 +187,14 @@ function setupEventListeners() {
     dom.prevPeriodBtn.addEventListener('click', () => navigatePeriod(-1));
     dom.nextPeriodBtn.addEventListener('click', () => navigatePeriod(1));
 
-    // Clear/Add Sources Filter Toggle
+    // Clear/Add Categories Filter Toggle
     dom.clearSourcesBtn.addEventListener('click', () => {
         if (dom.clearSourcesBtn.innerText === 'Clear All') {
-            appState.selectedSources.clear();
+            appState.selectedCategories.clear();
             document.querySelectorAll('.source-item').forEach(el => el.classList.remove('active'));
             dom.clearSourcesBtn.innerText = 'Add All';
         } else {
-            Object.keys(SOURCE_METADATA).forEach(source => appState.selectedSources.add(source));
+            Object.keys(CATEGORY_MAP).forEach(cat => appState.selectedCategories.add(cat));
             document.querySelectorAll('.source-item').forEach(el => el.classList.add('active'));
             dom.clearSourcesBtn.innerText = 'Clear All';
         }
@@ -199,34 +243,29 @@ function setupEventListeners() {
     });
 }
 
-// Populate Source Filters checklist
-function populateSourceFilters() {
-    // Sort sources alphabetically by display name
-    const uniqueSources = Object.keys(SOURCE_METADATA).sort((a, b) =>
-        SOURCE_METADATA[a].name.localeCompare(SOURCE_METADATA[b].name)
-    );
+// Populate Category Filters checklist
+function populateCategoryFilters() {
     dom.sourceFilterContainer.innerHTML = '';
     
-    uniqueSources.forEach(source => {
-        const meta = getSourceMeta(source);
+    Object.entries(CATEGORY_MAP).forEach(([catKey, catMeta]) => {
         const item = document.createElement('div');
         item.className = 'source-item active';
-        item.dataset.source = source;
+        item.dataset.category = catKey;
         item.innerHTML = `
-            <div class="source-color-dot" style="background-color: ${meta.color}"></div>
-            <div class="source-name">${meta.name}</div>
+            <div class="source-color-dot" style="background-color: ${catMeta.color}"></div>
+            <div class="source-name">${catMeta.name}</div>
         `;
         
         item.addEventListener('click', () => {
-            if (appState.selectedSources.has(source)) {
-                appState.selectedSources.delete(source);
+            if (appState.selectedCategories.has(catKey)) {
+                appState.selectedCategories.delete(catKey);
                 item.classList.remove('active');
             } else {
-                appState.selectedSources.add(source);
+                appState.selectedCategories.add(catKey);
                 item.classList.add('active');
             }
             // Update Clear/Add button text based on selection size
-            if (appState.selectedSources.size === 0) {
+            if (appState.selectedCategories.size === 0) {
                 dom.clearSourcesBtn.innerText = 'Add All';
             } else {
                 dom.clearSourcesBtn.innerText = 'Clear All';
@@ -285,8 +324,9 @@ function applyFilters() {
         const sDate = new Date(show.date);
         const eDate = show.end_date ? new Date(show.end_date) : sDate;
         
-        // 1. Source Filter
-        if (!appState.selectedSources.has(show.source)) return false;
+        // 1. Category Filter
+        const cat = SOURCE_TO_CATEGORY[show.source] || 'outdoors';
+        if (!appState.selectedCategories.has(cat)) return false;
         
         // 2. Date Overlap Check
         if (sDate > end || eDate < start) return false;
