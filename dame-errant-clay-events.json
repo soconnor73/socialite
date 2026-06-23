@@ -1,60 +1,12 @@
 {
   "metadata": {
     "site": "dame_errant_clay",
-    "scraping_time": "2026-06-20T23:35:34.435702",
-    "start_date_range": "2026-06-20",
-    "end_date_range": "2026-10-18",
-    "total_shows_extracted": 44
+    "scraping_time": "2026-06-23T15:12:38.653317",
+    "start_date_range": "2026-06-23",
+    "end_date_range": "2026-10-21",
+    "total_shows_extracted": 41
   },
   "shows": [
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Dame Errant Clay",
-      "title": "Fairy House",
-      "tour": "Clay Workshop",
-      "support_raw": "12:00 PM - 2:00 PM",
-      "artists": [
-        "Fairy House"
-      ],
-      "link": "https://www.dameerrant.com/workshopsandevents/fairy-house-04/24-lk9h7-g2lpf-mytc8-hcnk2-ftn8m-xwnpf-2fyrn-bhbwh-gpprc-9cmb8-wb4cs-l3btt-fetct-xjbhp-ls8gx-t8tap"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Dame Errant Clay",
-      "title": "Throwing Taster",
-      "tour": "Clay Workshop",
-      "support_raw": "12:00 PM - 2:00 PM",
-      "artists": [
-        "Throwing Taster"
-      ],
-      "link": "https://www.dameerrant.com/workshopsandevents/a2z5ln83lgzynzw-a2gsz-ah6hl-43syf-5myme-dlxts-2jbhl-4cj7x-dzpc5-bftjz-xykdp-b8dwp-676h9-mfpl9-a4ntg-n7mkd-mhesr-66rch-4k769-bwmjf-ksywf-5mhez-7s6mb-ntct6-y2m24-l2f2h-ck4pj-3xfdy-3rxj7"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Dame Errant Clay",
-      "title": "\"Girl Dinner\" Plate",
-      "tour": "Clay Workshop",
-      "support_raw": "12:00 PM - 1:30 PM",
-      "artists": [
-        "\"Girl Dinner\" Plate"
-      ],
-      "link": "https://www.dameerrant.com/workshopsandevents/girldinnerplate-bj8xg-9y57b-gxldh-pjz8s-h7mlw-7xbsl"
-    },
-    {
-      "date": "2026-06-22",
-      "end_date": "2026-06-22",
-      "venue": "Dame Errant Clay",
-      "title": "Masked Event: Sponge Holder",
-      "tour": "Clay Workshop",
-      "support_raw": "6:00 PM - 7:30 PM",
-      "artists": [
-        "Masked Event: Sponge Holder"
-      ],
-      "link": "https://www.dameerrant.com/workshopsandevents/spongeholder-a37sj-gfb92-f4lkw"
-    },
     {
       "date": "2026-06-23",
       "end_date": "2026-06-23",
@@ -534,6 +486,18 @@
         "Tarot and Clay Series Part 3: The Fool's Journey"
       ],
       "link": "https://www.dameerrant.com/workshopsandevents/tarotandclaypartthree-5nbzz-54wfy"
+    },
+    {
+      "date": "2026-10-21",
+      "end_date": "2026-10-21",
+      "venue": "Dame Errant Clay",
+      "title": "Tarot and Clay Series Part 4: Elevate",
+      "tour": "Clay Workshop",
+      "support_raw": "6:00 PM - 8:00 PM",
+      "artists": [
+        "Tarot and Clay Series Part 4: Elevate"
+      ],
+      "link": "https://www.dameerrant.com/workshopsandevents/tarotandclaypartfour-6yhzb-5x26j"
     }
   ]
 }

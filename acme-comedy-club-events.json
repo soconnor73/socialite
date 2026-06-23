@@ -1,34 +1,12 @@
 {
   "metadata": {
     "site": "acme_comedy_club",
-    "scraping_time": "2026-06-20T17:26:24.913373",
-    "start_date_range": "2026-06-20",
-    "end_date_range": "2026-10-18",
-    "total_shows_extracted": 70
+    "scraping_time": "2026-06-23T15:12:34.018247",
+    "start_date_range": "2026-06-23",
+    "end_date_range": "2026-10-21",
+    "total_shows_extracted": 69
   },
   "shows": [
-    {
-      "date": "2026-06-20",
-      "venue": "ACME Comedy Club",
-      "title": "David Cross",
-      "tour": "Show at 7:00pm",
-      "support_raw": "",
-      "artists": [
-        "David Cross"
-      ],
-      "link": "https://acmecomedycompany.com/shows/06-19-2026-david-cross"
-    },
-    {
-      "date": "2026-06-20",
-      "venue": "ACME Comedy Club",
-      "title": "David Cross",
-      "tour": "Show at 9:30pm",
-      "support_raw": "",
-      "artists": [
-        "David Cross"
-      ],
-      "link": "https://acmecomedycompany.com/shows/06-19-2026-david-cross"
-    },
     {
       "date": "2026-06-24",
       "venue": "ACME Comedy Club",
@@ -776,6 +754,17 @@
         "Mark Normand"
       ],
       "link": "https://acmecomedycompany.com/shows/09-24-2026-mark-normand"
+    },
+    {
+      "date": "2026-10-21",
+      "venue": "ACME Comedy Club",
+      "title": "Red Richardson",
+      "tour": "Show at 8:00pm",
+      "support_raw": "",
+      "artists": [
+        "Red Richardson"
+      ],
+      "link": "https://acmecomedycompany.com/shows/10-21-2026"
     }
   ]
 }

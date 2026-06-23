@@ -1,24 +1,12 @@
 {
   "metadata": {
     "site": "hennepin_arts",
-    "scraping_time": "2026-06-20T17:26:29.443200",
-    "start_date_range": "2026-06-20",
-    "end_date_range": "2026-10-18",
+    "scraping_time": "2026-06-23T15:12:37.706703",
+    "start_date_range": "2026-06-23",
+    "end_date_range": "2026-10-21",
     "total_shows_extracted": 112
   },
   "shows": [
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Hennepin Arts",
-      "title": "Second Chance Prom 2026",
-      "tour": "7:00 PM",
-      "support_raw": "",
-      "artists": [
-        "Second Chance Prom 2026"
-      ],
-      "link": "https://www.ticketmaster.com/event/06006496CEB748CC"
-    },
     {
       "date": "2026-09-24",
       "end_date": "2026-09-24",
@@ -474,18 +462,6 @@
         "Beck"
       ],
       "link": "https://www.ticketmaster.com/event/06006489F2BBC2A3"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Hennepin Arts",
-      "title": "Battle of the Improv All-Stars",
-      "tour": "7:30 PM",
-      "support_raw": "",
-      "artists": [
-        "Battle of the Improv All-Stars"
-      ],
-      "link": "https://hennepinarts.org/events/battle-of-the-improv-all-stars-2025"
     },
     {
       "date": "2026-07-10",
@@ -1243,6 +1219,30 @@
         "Alicia Villarreal"
       ],
       "link": "https://www.ticketmaster.com/event/0600626DD74C908A"
+    },
+    {
+      "date": "2026-10-20",
+      "end_date": "2026-10-20",
+      "venue": "Hennepin Arts",
+      "title": "The Sound of Music",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "The Sound of Music"
+      ],
+      "link": "https://hennepinarts.org/events/the-sound-of-music-2026"
+    },
+    {
+      "date": "2026-10-21",
+      "end_date": "2026-10-21",
+      "venue": "Hennepin Arts",
+      "title": "The Sound of Music",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "The Sound of Music"
+      ],
+      "link": "https://hennepinarts.org/events/the-sound-of-music-2026"
     },
     {
       "date": "2026-10-09",

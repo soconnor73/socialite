@@ -1,10 +1,10 @@
 {
   "metadata": {
     "site": "visit_stpaul",
-    "scraping_time": "2026-06-20T18:55:25.721687",
-    "start_date_range": "2026-06-20",
-    "end_date_range": "2026-10-18",
-    "total_shows_extracted": 24
+    "scraping_time": "2026-06-23T15:12:37.789718",
+    "start_date_range": "2026-06-23",
+    "end_date_range": "2026-10-21",
+    "total_shows_extracted": 12
   },
   "shows": [
     {
@@ -57,42 +57,6 @@
     },
     {
       "date": "2026-06-20",
-      "end_date": "2026-06-21",
-      "venue": "Minnesota State Fair Grounds",
-      "title": "Minnesota Street Rod Association's Back to the Fifties Weekend",
-      "tour": "Community Events",
-      "support_raw": "",
-      "artists": [
-        "Minnesota Street Rod Association's Back to the Fifties Weekend"
-      ],
-      "link": "https://msrabacktothe50s.com/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Mears Park",
-      "title": "Twin Cities Jazz Festival",
-      "tour": "Arts & Culture",
-      "support_raw": "",
-      "artists": [
-        "Twin Cities Jazz Festival"
-      ],
-      "link": "https://www.twincitiesjazzfestival.com"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Laugh Camp Comedy Club",
-      "title": "Comedian Ben Katzner",
-      "tour": "Arts & Culture",
-      "support_raw": "",
-      "artists": [
-        "Comedian Ben Katzner"
-      ],
-      "link": "https://camp-bar.net/events/134965?utm_source=visitsaintpaul&utm_medium=calendar&utm_campaign=ben-ka"
-    },
-    {
-      "date": "2026-06-20",
       "end_date": "2026-09-13",
       "venue": "CHS Field",
       "title": "St. Paul Saints Home Games",
@@ -105,30 +69,6 @@
     },
     {
       "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Saint Paul RiverCentre",
-      "title": "Minnesota TCG Card Show",
-      "tour": "Arts & Culture",
-      "support_raw": "",
-      "artists": [
-        "Minnesota TCG Card Show"
-      ],
-      "link": "https://www.rivercentre.org/events/detail/minnesota-tcg-card-show"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Amsterdam Bar and Hall",
-      "title": "Enter Shikari — Saint Paul",
-      "tour": "LIVE Music",
-      "support_raw": "",
-      "artists": [
-        "Enter Shikari — Saint Paul"
-      ],
-      "link": "https://www.visitsaintpaul.com/events-calendar/enter-shikari-saint-paul/"
-    },
-    {
-      "date": "2026-06-20",
       "end_date": "2026-10-31",
       "venue": "Infor Commons",
       "title": "Gangsterland Downtown Walking Tour",
@@ -138,42 +78,6 @@
         "Gangsterland Downtown Walking Tour"
       ],
       "link": "https://cyncitytours.com"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Union Depot",
-      "title": "International Yoga Day",
-      "tour": "Community Events",
-      "support_raw": "",
-      "artists": [
-        "International Yoga Day"
-      ],
-      "link": "https://www.uniondepot.org/event/international-yoga-day-2/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Cooks of Crocus Hill",
-      "title": "Gluten-Free Bakery Morning",
-      "tour": "Food & Drink",
-      "support_raw": "",
-      "artists": [
-        "Gluten-Free Bakery Morning"
-      ],
-      "link": "https://cooksofcrocushill.com/gluten-free-bakery-mornings-june-20-st-paul-10-am/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Bell Museum",
-      "title": "Spotlight Science: SciPride",
-      "tour": "Community Events",
-      "support_raw": "",
-      "artists": [
-        "Spotlight Science: SciPride"
-      ],
-      "link": "https://www.bellmuseum.umn.edu/event/spotlight-science-scipride-6-20-26/"
     },
     {
       "date": "2026-06-20",
@@ -213,18 +117,6 @@
     },
     {
       "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "175 W. Kellogg Blvd. Saint Paul, MN 55102",
-      "title": "K-Pop Summer Bash Kickoff",
-      "tour": "Community Events",
-      "support_raw": "",
-      "artists": [
-        "K-Pop Summer Bash Kickoff"
-      ],
-      "link": "https://www.rivercentre.org/events/detail/k-pop-summer-bash-kickoff"
-    },
-    {
-      "date": "2026-06-20",
       "end_date": "2026-12-20",
       "venue": "Saint Paul Brewing",
       "title": "Historic Brewery Tours",
@@ -234,18 +126,6 @@
         "Historic Brewery Tours"
       ],
       "link": "https://www.eventbrite.com/e/brewery-history-tours-tickets-1360792851049"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "The People's Park (Carty Park)",
-      "title": "The 30th Annual Community Peace Celebration",
-      "tour": "Arts & Culture",
-      "support_raw": "",
-      "artists": [
-        "The 30th Annual Community Peace Celebration"
-      ],
-      "link": "https://www.communitypeacecelebration.org/"
     },
     {
       "date": "2026-06-20",
@@ -260,18 +140,6 @@
       "link": "https://tcmrm.org"
     },
     {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Overlook Park",
-      "title": "Ghosts & Gables Haunted Summit Walking Tour",
-      "tour": "Historic",
-      "support_raw": "",
-      "artists": [
-        "Ghosts & Gables Haunted Summit Walking Tour"
-      ],
-      "link": "https://cyncitytours.com"
-    },
-    {
       "date": "2026-06-21",
       "end_date": "2026-09-13",
       "venue": "CHS Field",
@@ -282,18 +150,6 @@
         "St. Paul Saints Home Games"
       ],
       "link": "https://www.milb.com/st-paul"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Cooks of Crocus Hill",
-      "title": "Brunch & Bubbles",
-      "tour": "Food & Drink",
-      "support_raw": "",
-      "artists": [
-        "Brunch & Bubbles"
-      ],
-      "link": "https://cooksofcrocushill.com/brunch-bubbles-june-21-st-paul-10-am/"
     }
   ]
 }

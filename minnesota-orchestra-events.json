@@ -1,10 +1,10 @@
 {
   "metadata": {
     "site": "minnesota_orchestra",
-    "scraping_time": "2026-06-20T17:26:29.411281",
-    "start_date_range": "2026-06-20",
-    "end_date_range": "2026-10-18",
-    "total_shows_extracted": 13
+    "scraping_time": "2026-06-23T15:12:37.675246",
+    "start_date_range": "2026-06-23",
+    "end_date_range": "2026-10-21",
+    "total_shows_extracted": 12
   },
   "shows": [
     {
@@ -134,20 +134,6 @@
         "Wynton Marsalis"
       ],
       "link": "https://www.minnesotaorchestra.org/tickets/calendar/live/jazz-at-lincoln-center-orchestra-2026"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-21",
-      "venue": "Orchestra Hall",
-      "title": "Disney Pride in Concert with the Minnesota Orchestra and Twin Cities Gay Men's Chorus",
-      "tour": "Minnesota Orchestra Event",
-      "support_raw": "with the Minnesota Orchestra and Twin Cities Gay Men's Chorus",
-      "artists": [
-        "Disney Pride in Concert",
-        "the Minnesota Orchestra",
-        "Twin Cities Gay Men's Chorus"
-      ],
-      "link": "https://www.minnesotaorchestra.org/tickets/calendar/movies-music/disney-pride-in-concert"
     },
     {
       "date": "2026-10-08",

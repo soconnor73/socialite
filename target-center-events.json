@@ -1,35 +1,12 @@
 {
   "metadata": {
     "site": "target_center",
-    "scraping_time": "2026-06-20T17:26:29.359315",
-    "start_date_range": "2026-06-20",
-    "end_date_range": "2026-10-18",
-    "total_shows_extracted": 6
+    "scraping_time": "2026-06-23T15:12:37.626045",
+    "start_date_range": "2026-06-23",
+    "end_date_range": "2026-10-21",
+    "total_shows_extracted": 4
   },
   "shows": [
-    {
-      "date": "2026-06-20",
-      "venue": "Target Center",
-      "title": "Don Toliver",
-      "tour": "7:30 PM",
-      "support_raw": "with special guests SahBabii, SoFaygo, and DJ CHASE B",
-      "artists": [
-        "Don Toliver"
-      ],
-      "link": "https://www.targetcenter.com/events/detail/don-toliver"
-    },
-    {
-      "date": "2026-06-21",
-      "venue": "Target Center",
-      "title": "Minnesota Lynx vs Washington Mystics",
-      "tour": "5:00 PM",
-      "support_raw": "",
-      "artists": [
-        "Minnesota Lynx",
-        "Washington Mystics"
-      ],
-      "link": "https://www.targetcenter.com/events/detail/minnesota-lynx-vs-washington-mystics-1"
-    },
     {
       "date": "2026-07-06",
       "venue": "Target Center",

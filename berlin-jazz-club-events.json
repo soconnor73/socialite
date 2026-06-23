@@ -1,60 +1,12 @@
 {
   "metadata": {
     "site": "berlin_jazz_club",
-    "scraping_time": "2026-06-20T19:04:23.146478",
-    "start_date_range": "2026-06-20",
-    "end_date_range": "2026-10-18",
-    "total_shows_extracted": 48
+    "scraping_time": "2026-06-23T15:12:38.134272",
+    "start_date_range": "2026-06-23",
+    "end_date_range": "2026-10-21",
+    "total_shows_extracted": 44
   },
   "shows": [
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Berlin Jazz Club",
-      "title": "Early Evening Jazz: Vasich, Granowski, & Hepola Play \"Money Jungle\"",
-      "tour": "Live Music",
-      "support_raw": "4:30 PM  NO COVER4:30pm Show",
-      "artists": [
-        "Early Evening Jazz: Vasich, Granowski, & Hepola Play \"Money Jungle\""
-      ],
-      "link": "https://www.berlinmpls.com/calendar/early-evening-jazz-money-jungle-june-2026"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Berlin Jazz Club",
-      "title": "Christopher Hoffman: REX",
-      "tour": "Live Music",
-      "support_raw": "8:00 PM  $20 ADV / $25 DOSGET TICKETS8:00pm Show",
-      "artists": [
-        "Christopher Hoffman: REX"
-      ],
-      "link": "https://www.berlinmpls.com/calendar/christopher-hoffman-june-2026"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-21",
-      "venue": "Berlin Jazz Club",
-      "title": "Late Night Lounge: AKKO",
-      "tour": "Live Music",
-      "support_raw": "$5 at the Door9:30pm DJ Set",
-      "artists": [
-        "Late Night Lounge: AKKO"
-      ],
-      "link": "https://www.berlinmpls.com/calendar/akko-june-2026"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Berlin Jazz Club",
-      "title": "TGNP Sundays: Shane Parish Performs \"Autechre Guitar\"",
-      "tour": "Live Music",
-      "support_raw": "7:00 PM  $20 GET TICKETS7:00pm Show",
-      "artists": [
-        "TGNP Sundays: Shane Parish Performs \"Autechre Guitar\""
-      ],
-      "link": "https://www.berlinmpls.com/calendar/totally-gross-national-product-residency-week-3-shane-parish"
-    },
     {
       "date": "2026-06-24",
       "end_date": "2026-06-24",

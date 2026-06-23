@@ -1,24 +1,12 @@
 {
   "metadata": {
     "site": "minnesota_twins",
-    "scraping_time": "2026-06-20T17:26:29.341805",
-    "start_date_range": "2026-06-20",
-    "end_date_range": "2026-10-18",
-    "total_shows_extracted": 31
+    "scraping_time": "2026-06-23T15:12:37.606190",
+    "start_date_range": "2026-06-23",
+    "end_date_range": "2026-10-21",
+    "total_shows_extracted": 41
   },
   "shows": [
-    {
-      "date": "2026-06-22",
-      "venue": "Target Field",
-      "title": "Minnesota Twins vs. Los Angeles Dodgers",
-      "tour": "MLB Regular Season",
-      "support_raw": "",
-      "artists": [
-        "Minnesota Twins",
-        "Los Angeles Dodgers"
-      ],
-      "link": "https://www.mlb.com/gameday/823692"
-    },
     {
       "date": "2026-06-23",
       "venue": "Target Field",
@@ -378,6 +366,138 @@
         "Detroit Tigers"
       ],
       "link": "https://www.mlb.com/gameday/823663"
+    },
+    {
+      "date": "2026-09-01",
+      "venue": "Target Field",
+      "title": "Minnesota Twins vs. Detroit Tigers",
+      "tour": "MLB Regular Season",
+      "support_raw": "",
+      "artists": [
+        "Minnesota Twins",
+        "Detroit Tigers"
+      ],
+      "link": "https://www.mlb.com/gameday/823661"
+    },
+    {
+      "date": "2026-09-02",
+      "venue": "Target Field",
+      "title": "Minnesota Twins vs. Detroit Tigers",
+      "tour": "MLB Regular Season",
+      "support_raw": "",
+      "artists": [
+        "Minnesota Twins",
+        "Detroit Tigers"
+      ],
+      "link": "https://www.mlb.com/gameday/823660"
+    },
+    {
+      "date": "2026-09-11",
+      "venue": "Target Field",
+      "title": "Minnesota Twins vs. Cleveland Guardians",
+      "tour": "MLB Regular Season",
+      "support_raw": "",
+      "artists": [
+        "Minnesota Twins",
+        "Cleveland Guardians"
+      ],
+      "link": "https://www.mlb.com/gameday/823659"
+    },
+    {
+      "date": "2026-09-12",
+      "venue": "Target Field",
+      "title": "Minnesota Twins vs. Cleveland Guardians",
+      "tour": "MLB Regular Season",
+      "support_raw": "",
+      "artists": [
+        "Minnesota Twins",
+        "Cleveland Guardians"
+      ],
+      "link": "https://www.mlb.com/gameday/823657"
+    },
+    {
+      "date": "2026-09-13",
+      "venue": "Target Field",
+      "title": "Minnesota Twins vs. Cleveland Guardians",
+      "tour": "MLB Regular Season",
+      "support_raw": "",
+      "artists": [
+        "Minnesota Twins",
+        "Cleveland Guardians"
+      ],
+      "link": "https://www.mlb.com/gameday/823658"
+    },
+    {
+      "date": "2026-09-14",
+      "venue": "Target Field",
+      "title": "Minnesota Twins vs. New York Yankees",
+      "tour": "MLB Regular Season",
+      "support_raw": "",
+      "artists": [
+        "Minnesota Twins",
+        "New York Yankees"
+      ],
+      "link": "https://www.mlb.com/gameday/823656"
+    },
+    {
+      "date": "2026-09-15",
+      "venue": "Target Field",
+      "title": "Minnesota Twins vs. New York Yankees",
+      "tour": "MLB Regular Season",
+      "support_raw": "",
+      "artists": [
+        "Minnesota Twins",
+        "New York Yankees"
+      ],
+      "link": "https://www.mlb.com/gameday/823654"
+    },
+    {
+      "date": "2026-09-16",
+      "venue": "Target Field",
+      "title": "Minnesota Twins vs. New York Yankees",
+      "tour": "MLB Regular Season",
+      "support_raw": "",
+      "artists": [
+        "Minnesota Twins",
+        "New York Yankees"
+      ],
+      "link": "https://www.mlb.com/gameday/823655"
+    },
+    {
+      "date": "2026-09-25",
+      "venue": "Target Field",
+      "title": "Minnesota Twins vs. Texas Rangers",
+      "tour": "MLB Regular Season",
+      "support_raw": "",
+      "artists": [
+        "Minnesota Twins",
+        "Texas Rangers"
+      ],
+      "link": "https://www.mlb.com/gameday/823652"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Target Field",
+      "title": "Minnesota Twins vs. Texas Rangers",
+      "tour": "MLB Regular Season",
+      "support_raw": "",
+      "artists": [
+        "Minnesota Twins",
+        "Texas Rangers"
+      ],
+      "link": "https://www.mlb.com/gameday/823653"
+    },
+    {
+      "date": "2026-09-27",
+      "venue": "Target Field",
+      "title": "Minnesota Twins vs. Texas Rangers",
+      "tour": "MLB Regular Season",
+      "support_raw": "",
+      "artists": [
+        "Minnesota Twins",
+        "Texas Rangers"
+      ],
+      "link": "https://www.mlb.com/gameday/823650"
     }
   ]
 }

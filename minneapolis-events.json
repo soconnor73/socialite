@@ -1,24 +1,12 @@
 {
   "metadata": {
     "site": "minneapolis",
-    "scraping_time": "2026-06-20T17:26:26.023642",
-    "start_date_range": "2026-06-20",
-    "end_date_range": "2026-10-18",
-    "total_shows_extracted": 477
+    "scraping_time": "2026-06-23T15:12:35.087218",
+    "start_date_range": "2026-06-23",
+    "end_date_range": "2026-10-21",
+    "total_shows_extracted": 440
   },
   "shows": [
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-21",
-      "venue": "Guthrie Theater",
-      "title": "Louisa May Alcott's Little Women",
-      "tour": "Arts & Theater",
-      "support_raw": "Guthrie Theater, 818 S 2nd Street, Minneapolis, MN 55415",
-      "artists": [
-        "Louisa May Alcott's Little Women"
-      ],
-      "link": "https://www.minneapolis.org/calendar/little-women/"
-    },
     {
       "date": "2026-06-20",
       "end_date": "2026-08-23",
@@ -54,18 +42,6 @@
         "Exhibition: Kilnforming in the Upper Midwest"
       ],
       "link": "https://www.minneapolis.org/calendar/exhibition-kilnforming-in-the-upper-midwest/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-21",
-      "venue": "2303 Kennedy St NE",
-      "title": "Perfect Arrangement",
-      "tour": "Arts & Theater, LGBTQ",
-      "support_raw": "2303 Kennedy St NE, Minneapolis, Minnesota 55413",
-      "artists": [
-        "Perfect Arrangement"
-      ],
-      "link": "https://www.minneapolis.org/calendar/perfect-arrangement/"
     },
     {
       "date": "2026-06-20",
@@ -188,18 +164,6 @@
       "link": "https://www.minneapolis.org/calendar/six-2/"
     },
     {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "3700 Monterey Dr",
-      "title": "St. Louis Park Parktacular",
-      "tour": "Community, Fairs & Festivals, Family Fun, Free",
-      "support_raw": "3700 Monterey Dr, St. Louis Park, Minnesota 55416",
-      "artists": [
-        "St. Louis Park Parktacular"
-      ],
-      "link": "https://www.minneapolis.org/calendar/st-louis-park-parktacular/"
-    },
-    {
       "date": "2026-06-26",
       "end_date": "2026-07-10",
       "venue": "Theatre in the Round",
@@ -213,90 +177,6 @@
     },
     {
       "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Pryes Brewing Company",
-      "title": "Pryes Block Party",
-      "tour": "Food & Drink, Live Music, Big Events",
-      "support_raw": "Pryes Brewing Company, 1401 W River Rd N, Minneapolis, MN 55411",
-      "artists": [
-        "Pryes Block Party"
-      ],
-      "link": "https://www.minneapolis.org/calendar/pryes-block-party/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Acme Comedy Co",
-      "title": "David Cross at Acme Comedy Co",
-      "tour": "Comedy",
-      "support_raw": "Acme Comedy Co, 708 N 1st St, Minneapolis, MN 55401",
-      "artists": [
-        "David Cross at Acme Comedy Co"
-      ],
-      "link": "https://www.minneapolis.org/calendar/david-cross/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "501 West 78th Street",
-      "title": "Who's Bad — A Tribute to Michael, Janet & the Jackson 5",
-      "tour": "Food & Drink, Free, Live Music",
-      "support_raw": "501 West 78th Street, Chanhassen, Minnesota 55317",
-      "artists": [
-        "Who's Bad — A Tribute to Michael, Janet & the Jackson 5"
-      ],
-      "link": "https://www.minneapolis.org/calendar/whos-bad-a-tribute-to-michael-janet-the-jackson-5/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-21",
-      "venue": "Minneapolis",
-      "title": "Stone Arch Bridge Festival",
-      "tour": "Arts & Theater, Community, Fairs & Festivals, Family Fun, Food & Drink, Free, Shopping, Big Events",
-      "support_raw": "",
-      "artists": [
-        "Stone Arch Bridge Festival"
-      ],
-      "link": "https://www.minneapolis.org/calendar/stone-arch-bridge-festival/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "900 Hennepin Ave.",
-      "title": "Second Chance Prom: PROMAGEDDON!",
-      "tour": "Live Music, Hennepin Arts",
-      "support_raw": "900 Hennepin Ave., Minneapolis, Minnesota 55403",
-      "artists": [
-        "Second Chance Prom: PROMAGEDDON!"
-      ],
-      "link": "https://www.minneapolis.org/calendar/second-chance-prom-promageddon/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "American Swedish Institute",
-      "title": "Midsommar Celebration",
-      "tour": "Arts & Theater, Community, Fairs & Festivals, Family Fun, Big Events",
-      "support_raw": "American Swedish Institute, 2600 Park Ave, Minneapolis, MN 55407",
-      "artists": [
-        "Midsommar Celebration"
-      ],
-      "link": "https://www.minneapolis.org/calendar/midsommar-celebration/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Huntington Bank Stadium",
-      "title": "Special Olympics Opening Ceremony",
-      "tour": "Live Music, Sports Events",
-      "support_raw": "Huntington Bank Stadium, 420 23rd Ave SE, Minneapolis, MN 55455",
-      "artists": [
-        "Special Olympics Opening Ceremony"
-      ],
-      "link": "https://www.minneapolis.org/calendar/special-olympics-opening-ceremony/"
-    },
-    {
-      "date": "2026-06-20",
       "end_date": "2026-06-26",
       "venue": "University of Minnesota",
       "title": "Special Olympics USA Games",
@@ -306,18 +186,6 @@
         "Special Olympics USA Games"
       ],
       "link": "https://www.minneapolis.org/calendar/special-olympics-usa-games/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-21",
-      "venue": "Orchestra Hall",
-      "title": "Disney Pride in Concert",
-      "tour": "Arts & Theater, Family Fun, LGBTQ, Live Music",
-      "support_raw": "Orchestra Hall, 1111 Nicollet Mall, Minneapolis, MN 55403",
-      "artists": [
-        "Disney Pride in Concert"
-      ],
-      "link": "https://www.minneapolis.org/calendar/disney-pride-in-concert/"
     },
     {
       "date": "2026-06-20",
@@ -369,42 +237,6 @@
     },
     {
       "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "2088 Larpenteur Ave W",
-      "title": "Spotlight Science: SciPride",
-      "tour": "Community",
-      "support_raw": "2088 Larpenteur Ave W, St. Paul, Minnesota 55113",
-      "artists": [
-        "Spotlight Science: SciPride"
-      ],
-      "link": "https://www.minneapolis.org/calendar/spotlight-science-scipride/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "80 S 9th St.",
-      "title": "Mark Joseph",
-      "tour": "Live Music",
-      "support_raw": "80 S 9th St., Minneapolis, MN, Minnesota 55402",
-      "artists": [
-        "Mark Joseph"
-      ],
-      "link": "https://www.minneapolis.org/calendar/mark-joseph/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "2400 Third Avenue South",
-      "title": "Guest Talk: John Cameron Mitchell",
-      "tour": "Community",
-      "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
-      "artists": [
-        "Guest Talk: John Cameron Mitchell"
-      ],
-      "link": "https://www.minneapolis.org/calendar/guest-talk-john-cameron-mitchell/"
-    },
-    {
-      "date": "2026-06-20",
       "end_date": "2026-12-19",
       "venue": "900 N Washington Ave 55401",
       "title": "Experience the Twin Cities' Saturday North Loop Food Tour",
@@ -414,114 +246,6 @@
         "Experience the Twin Cities' Saturday North Loop Food Tour"
       ],
       "link": "https://www.minneapolis.org/calendar/experience-the-twin-cities-saturday-north-loop-food-tour/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "TCO Stadium",
-      "title": "Minnesota Aurora vs. River Light",
-      "tour": "Family Fun, Sports Events",
-      "support_raw": "TCO Stadium, 2685 Vikings Cir, Eagan, MN 55121",
-      "artists": [
-        "Minnesota Aurora vs. River Light"
-      ],
-      "link": "https://www.minneapolis.org/calendar/aurora-vs-river-light/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "520 N. 4th St.",
-      "title": "Bedazzle Bar | Half a million rhinestones, endless possibilities!",
-      "tour": "Arts & Theater, Community, Family Fun, Food & Drink, LGBTQ",
-      "support_raw": "520 N. 4th St., Minneapolis, Minnesota 55401",
-      "artists": [
-        "Bedazzle Bar | Half a million rhinestones, endless possibilities!"
-      ],
-      "link": "https://www.minneapolis.org/calendar/bedazzle-bar-half-a-million-rhinestones-endless-possibilities-2/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "520 N. 4th Street",
-      "title": "Pride Family Fest at Graze Food Hall by Travail",
-      "tour": "Community, Fairs & Festivals, Family Fun, LGBTQ",
-      "support_raw": "520 N. 4th Street, Minneapolis, Minnesota",
-      "artists": [
-        "Pride Family Fest at Graze Food Hall by Travail"
-      ],
-      "link": "https://www.minneapolis.org/calendar/pride-family-fest-at-graze-food-hall-by-travail/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "3517 Raleigh Ave",
-      "title": "Challenge Accepted: Video Game Night",
-      "tour": "Community, Family Fun",
-      "support_raw": "3517 Raleigh Ave, St Louis Park, Minnesota 55416",
-      "artists": [
-        "Challenge Accepted: Video Game Night"
-      ],
-      "link": "https://www.minneapolis.org/calendar/challenge-accepted-video-game-night/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "520 Malcolm Ave SE",
-      "title": "Amyl and The Sniffers",
-      "tour": "Live Music",
-      "support_raw": "520 Malcolm Ave SE, Minneapolis, Minnesota 55414",
-      "artists": [
-        "Amyl and The Sniffers"
-      ],
-      "link": "https://www.minneapolis.org/calendar/amyl-and-the-sniffers/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "80 S 9th St.",
-      "title": "The Dang Ol' Tri'olé",
-      "tour": "Live Music",
-      "support_raw": "80 S 9th St., Minneapolis, MN, Minnesota 55402",
-      "artists": [
-        "The Dang Ol' Tri'olé"
-      ],
-      "link": "https://www.minneapolis.org/calendar/the-dang-ol-triole/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "1105 Washington Ave S",
-      "title": "The Solicitors | Fuchsia | La La and the Gents",
-      "tour": "Dance, Food & Drink, LGBTQ, Live Music",
-      "support_raw": "1105 Washington Ave S, Minneapolis, Minnesota 55415",
-      "artists": [
-        "The Solicitors | Fuchsia | La La and the Gents"
-      ],
-      "link": "https://www.minneapolis.org/calendar/the-solicitors-fuchsia-la-la-and-the-gents/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "360 N Broadway St",
-      "title": "St. Paul Saints & Omaha Storm Chasers",
-      "tour": "Sports Events",
-      "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
-      "artists": [
-        "St. Paul Saints & Omaha Storm Chasers"
-      ],
-      "link": "https://www.minneapolis.org/calendar/st-paul-saints-omaha-storm-chasers-5/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "1333 Nicollet Mall",
-      "title": "Drag, Elevated",
-      "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
-      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Drag, Elevated"
-      ],
-      "link": "https://www.minneapolis.org/calendar/drag-elevated-2/"
     },
     {
       "date": "2026-06-20",
@@ -548,30 +272,6 @@
       "link": "https://www.minneapolis.org/calendar/candlelight-ghost-tour-on-the-minneapolis-trolley/"
     },
     {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "1010 Nicollet Mall",
-      "title": "Kevin Kling & Larry Long",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Kevin Kling & Larry Long"
-      ],
-      "link": "https://www.minneapolis.org/calendar/kevin-kling-larry-long/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "125 SE Main St",
-      "title": "Giant Valley String Band with Bill Cagley at Aster Café",
-      "tour": "Live Music",
-      "support_raw": "125 SE Main St, Minnesota",
-      "artists": [
-        "Giant Valley String Band with Bill Cagley at Aster Café"
-      ],
-      "link": "https://www.minneapolis.org/calendar/giant-valley-string-band-with-bill-cagley-at-aster-cafe-2/"
-    },
-    {
       "date": "2026-06-21",
       "end_date": "2026-12-20",
       "venue": "Second Street and 11th Avenue South",
@@ -582,30 +282,6 @@
         "Experience the Twin Cities' Sunday Riverwalk Food Tour"
       ],
       "link": "https://www.minneapolis.org/calendar/experience-the-twin-cities-sunday-riverwalk-food-tour/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Wabasha Brewing Company",
-      "title": "5k Fun Run x Backstory Coffee & Wabasha Brewing Co",
-      "tour": "Fitness, Food & Drink, Outdoor and Recreation",
-      "support_raw": "Wabasha Brewing Company, 429 Wabasha St S, St. Paul, MN 55107",
-      "artists": [
-        "5k Fun Run x Backstory Coffee & Wabasha Brewing Co"
-      ],
-      "link": "https://www.minneapolis.org/calendar/5k-fun-run-wabasha-brewing-co/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "80 S 9th St.",
-      "title": "Mary Cutrufello",
-      "tour": "Live Music",
-      "support_raw": "80 S 9th St., Minneapolis, MN, Minnesota 55402",
-      "artists": [
-        "Mary Cutrufello"
-      ],
-      "link": "https://www.minneapolis.org/calendar/mary-cutrufello-3/"
     },
     {
       "date": "2026-06-21",
@@ -621,18 +297,6 @@
     },
     {
       "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "300 N Washington Ave",
-      "title": "High Fika",
-      "tour": "Food & Drink",
-      "support_raw": "300 N Washington Ave, Minneapolis, Minnesota 55401",
-      "artists": [
-        "High Fika"
-      ],
-      "link": "https://www.minneapolis.org/calendar/high-fika/"
-    },
-    {
-      "date": "2026-06-21",
       "end_date": "2026-12-06",
       "venue": "1333 Nicollet Mall",
       "title": "Beauty and Bubbles Drag Brunch",
@@ -642,102 +306,6 @@
         "Beauty and Bubbles Drag Brunch"
       ],
       "link": "https://www.minneapolis.org/calendar/beauty-and-bubbles-drag-brunch/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "520 N. 4th Street",
-      "title": "Father's Day Wingin' It at Graze Food Hall by Travail",
-      "tour": "Food & Drink",
-      "support_raw": "520 N. 4th Street, Minneapolis, Minnesota",
-      "artists": [
-        "Father's Day Wingin' It at Graze Food Hall by Travail"
-      ],
-      "link": "https://www.minneapolis.org/calendar/fathers-day-wingin-it-at-graze-food-hall-by-travail/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "TCO Stadium",
-      "title": "Minnesota Pro Rugby — Twin Cities Gemini vs Chicago Tempest",
-      "tour": "Sports Events",
-      "support_raw": "TCO Stadium, Eagan, Minnesota 55121",
-      "artists": [
-        "Minnesota Pro Rugby — Twin Cities Gemini vs Chicago Tempest"
-      ],
-      "link": "https://www.minneapolis.org/calendar/minnesota-pro-rugby-twin-cities-gemini-vs-chicago-tempest/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Surly Brewing Co",
-      "title": "Father's Day at Surly",
-      "tour": "Family Fun, Food & Drink, Free, Live Music",
-      "support_raw": "Surly Brewing Co, 520 Malcolm Ave SE, Minneapolis, MN 55414",
-      "artists": [
-        "Father's Day at Surly"
-      ],
-      "link": "https://www.minneapolis.org/calendar/fathers-day-at-surly/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "360 Broadway St",
-      "title": "Saints Father's Day Celebration",
-      "tour": "Sports Events",
-      "support_raw": "360 Broadway St, St Paul, Minnesota 55101",
-      "artists": [
-        "Saints Father's Day Celebration"
-      ],
-      "link": "https://www.minneapolis.org/calendar/saints-fathers-day-celebration/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "The Market at Malcolm Yards",
-      "title": "Daddy‑O on the Patio",
-      "tour": "Community, Family Fun, Food & Drink",
-      "support_raw": "The Market at Malcolm Yards, 501 30th Ave SE, Minneapolis, MN 55414",
-      "artists": [
-        "Daddy‑O on the Patio"
-      ],
-      "link": "https://www.minneapolis.org/calendar/daddyo-on-the-patio/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "360 N Broadway St",
-      "title": "St. Paul Saints & Omaha Storm Chasers",
-      "tour": "Sports Events",
-      "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
-      "artists": [
-        "St. Paul Saints & Omaha Storm Chasers"
-      ],
-      "link": "https://www.minneapolis.org/calendar/st-paul-saints-omaha-storm-chasers-6/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Target Center",
-      "title": "Minnesota Lynx vs. Washington Mystics",
-      "tour": "Sports Events",
-      "support_raw": "Target Center, 600 N 1st Ave, Minneapolis, MN 55403",
-      "artists": [
-        "Minnesota Lynx vs. Washington Mystics"
-      ],
-      "link": "https://www.minneapolis.org/calendar/minnesota-lynx-vs-washington-mystics/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "1010 Nicollet Mall",
-      "title": "Church of Cash",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Church of Cash"
-      ],
-      "link": "https://www.minneapolis.org/calendar/church-of-cash/"
     },
     {
       "date": "2026-06-22",
@@ -750,30 +318,6 @@
         "Minnesota Twins vs. Los Angeles Dodgers"
       ],
       "link": "https://www.minneapolis.org/calendar/twins-vs-dodgers/"
-    },
-    {
-      "date": "2026-06-22",
-      "end_date": "2026-06-22",
-      "venue": "2400 Third Avenue South",
-      "title": "Mini Mia — August 22",
-      "tour": "Free",
-      "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
-      "artists": [
-        "Mini Mia — August 22"
-      ],
-      "link": "https://www.minneapolis.org/calendar/mini-mia-august-22/"
-    },
-    {
-      "date": "2026-06-22",
-      "end_date": "2026-06-22",
-      "venue": "1010 Nicollet Mall",
-      "title": "John Pizzarelli Trio: Dear Mr. Bennett",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "John Pizzarelli Trio: Dear Mr. Bennett"
-      ],
-      "link": "https://www.minneapolis.org/calendar/john-pizzarelli-trio-dear-mr-bennett/"
     },
     {
       "date": "2026-06-23",
@@ -5730,6 +5274,18 @@
         "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour"
       ],
       "link": "https://www.minneapolis.org/calendar/disney-descendants-zombies-camp-rock-worlds-collide-concert-tour/"
+    },
+    {
+      "date": "2026-10-21",
+      "end_date": "2026-10-21",
+      "venue": "1333 Nicollet Mall",
+      "title": "Ultimate Game Night: Learn to Play Ticket to Ride",
+      "tour": "Food & Drink, Multicultural",
+      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
+      "artists": [
+        "Ultimate Game Night: Learn to Play Ticket to Ride"
+      ],
+      "link": "https://www.minneapolis.org/calendar/ultimate-game-night-learn-to-play-ticket-to-ride-3/"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "site": "mn_united_fc",
-    "scraping_time": "2026-06-20T17:26:28.948971",
-    "start_date_range": "2026-06-20",
-    "end_date_range": "2026-10-18",
-    "total_shows_extracted": 8
+    "scraping_time": "2026-06-23T15:12:36.984024",
+    "start_date_range": "2026-06-23",
+    "end_date_range": "2026-10-21",
+    "total_shows_extracted": 7
   },
   "shows": [
     {
@@ -90,18 +90,6 @@
         "Vancouver Whitecaps FC"
       ],
       "link": "https://www.mnufc.com/competitions/mls-regular-season/2026/matches/minvsvan-07-25-2026"
-    },
-    {
-      "date": "2026-06-20",
-      "venue": "Allianz Field",
-      "title": "MNUFC2 vs. St Louis CITY2",
-      "tour": "Regular",
-      "support_raw": "",
-      "artists": [
-        "MNUFC2",
-        "St Louis CITY2"
-      ],
-      "link": "https://www.mnufc.com/competitions/mls-next-pro/2026/matches/minvsstl-06-20-2026"
     }
   ]
 }

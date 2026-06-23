@@ -1,167 +1,23 @@
 {
   "metadata": {
     "site": "utepils_brewery",
-    "scraping_time": "2026-06-20T23:17:16.098703",
-    "start_date_range": "2026-06-20",
-    "end_date_range": "2026-10-18",
-    "total_shows_extracted": 294
+    "scraping_time": "2026-06-23T15:12:38.390646",
+    "start_date_range": "2026-06-23",
+    "end_date_range": "2026-10-21",
+    "total_shows_extracted": 286
   },
   "shows": [
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Utepils Brewery",
-      "title": "Cuchillo",
-      "tour": "Utepils Brewery Event",
-      "support_raw": "12:00 PM",
-      "artists": [
-        "Cuchillo"
-      ],
-      "link": "https://www.utepilsbrewing.com/events/cuchillo/2026-06-20/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Utepils Brewery",
-      "title": "World Watch Party",
-      "tour": "Utepils Brewery Event",
-      "support_raw": "12:00 PM",
-      "artists": [
-        "World Watch Party"
-      ],
-      "link": "https://www.utepilsbrewing.com/events/world-watch-party/2026-06-20/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Utepils Brewery",
-      "title": "Beer Garden Grooves",
-      "tour": "Utepils Brewery Event",
-      "support_raw": "6:00 PM",
-      "artists": [
-        "Beer Garden Grooves"
-      ],
-      "link": "https://www.utepilsbrewing.com/events/beer-garden-grooves-3/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Utepils Brewery",
-      "title": "Yoga Flow with Annie Hayes",
-      "tour": "Utepils Brewery Event",
-      "support_raw": "10:00 AM",
-      "artists": [
-        "Yoga Flow with Annie Hayes"
-      ],
-      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-06-21/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Utepils Brewery",
-      "title": "World Watch Party",
-      "tour": "Utepils Brewery Event",
-      "support_raw": "11:00 AM",
-      "artists": [
-        "World Watch Party"
-      ],
-      "link": "https://www.utepilsbrewing.com/events/world-watch-party/2026-06-21/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Utepils Brewery",
-      "title": "Red Rocket Pizza",
-      "tour": "Utepils Brewery Event",
-      "support_raw": "12:00 PM",
-      "artists": [
-        "Red Rocket Pizza"
-      ],
-      "link": "https://www.utepilsbrewing.com/events/red-rocket-pizza/2026-06-21/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Utepils Brewery",
-      "title": "Father's Day & World Music Day",
-      "tour": "Utepils Brewery Event",
-      "support_raw": "12:00 PM",
-      "artists": [
-        "Father's Day & World Music Day"
-      ],
-      "link": "https://www.utepilsbrewing.com/events/world-music-day/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Utepils Brewery",
-      "title": "International Café",
-      "tour": "Utepils Brewery Event",
-      "support_raw": "2:00 PM",
-      "artists": [
-        "International Café"
-      ],
-      "link": "https://www.utepilsbrewing.com/events/international-cafe/2026-06-21/"
-    },
-    {
-      "date": "2026-06-22",
-      "end_date": "2026-06-22",
-      "venue": "Utepils Brewery",
-      "title": "World Watch Party",
-      "tour": "Utepils Brewery Event",
-      "support_raw": "12:00 PM",
-      "artists": [
-        "World Watch Party"
-      ],
-      "link": "https://www.utepilsbrewing.com/events/world-watch-party/2026-06-22/"
-    },
-    {
-      "date": "2026-06-22",
-      "end_date": "2026-06-22",
-      "venue": "Utepils Brewery",
-      "title": "All Day Happy Hour",
-      "tour": "Utepils Brewery Event",
-      "support_raw": "3:00 PM",
-      "artists": [
-        "All Day Happy Hour"
-      ],
-      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-06-22/"
-    },
-    {
-      "date": "2026-06-22",
-      "end_date": "2026-06-22",
-      "venue": "Utepils Brewery",
-      "title": "La Choza",
-      "tour": "Utepils Brewery Event",
-      "support_raw": "4:00 PM",
-      "artists": [
-        "La Choza"
-      ],
-      "link": "https://www.utepilsbrewing.com/events/la-choza/2026-06-22/"
-    },
-    {
-      "date": "2026-06-22",
-      "end_date": "2026-06-22",
-      "venue": "Utepils Brewery",
-      "title": "Analog Game Night",
-      "tour": "Utepils Brewery Event",
-      "support_raw": "6:00 PM",
-      "artists": [
-        "Analog Game Night"
-      ],
-      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-06-22/"
-    },
     {
       "date": "2026-06-23",
       "end_date": "2026-06-23",
       "venue": "Utepils Brewery",
       "title": "World Watch Party",
       "tour": "Utepils Brewery Event",
-      "support_raw": "12:00 PM",
+      "support_raw": "3:00 PM",
       "artists": [
         "World Watch Party"
       ],
-      "link": "https://www.utepilsbrewing.com/events/world-watch-party/2026-06-23/"
+      "link": "https://utepilsbrewing.com/events/world-watch-party/2026-06-23/"
     },
     {
       "date": "2026-06-23",
@@ -173,7 +29,7 @@
       "artists": [
         "Young Man MSP"
       ],
-      "link": "https://www.utepilsbrewing.com/events/young-man-msp/2026-06-23/"
+      "link": "https://utepilsbrewing.com/events/young-man-msp/2026-06-23/"
     },
     {
       "date": "2026-06-23",
@@ -185,7 +41,7 @@
       "artists": [
         "FREE Meat & Cheese Raffle"
       ],
-      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-06-23/"
+      "link": "https://utepilsbrewing.com/events/free-meat-cheese-raffle/2026-06-23/"
     },
     {
       "date": "2026-06-24",
@@ -197,7 +53,7 @@
       "artists": [
         "World Watch Party"
       ],
-      "link": "https://www.utepilsbrewing.com/events/world-watch-party/2026-06-24/"
+      "link": "https://utepilsbrewing.com/events/world-watch-party/2026-06-24/"
     },
     {
       "date": "2026-06-24",
@@ -209,7 +65,7 @@
       "artists": [
         "La Cochinita"
       ],
-      "link": "https://www.utepilsbrewing.com/events/la-cochinita/2026-06-24/"
+      "link": "https://utepilsbrewing.com/events/la-cochinita/2026-06-24/"
     },
     {
       "date": "2026-06-24",
@@ -221,7 +77,7 @@
       "artists": [
         "Trivia Mafia"
       ],
-      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-06-24/"
+      "link": "https://utepilsbrewing.com/events/trivia-mafia-3/2026-06-24/"
     },
     {
       "date": "2026-06-25",
@@ -233,7 +89,7 @@
       "artists": [
         "World Watch Party"
       ],
-      "link": "https://www.utepilsbrewing.com/events/world-watch-party/2026-06-25/"
+      "link": "https://utepilsbrewing.com/events/world-watch-party/2026-06-25/"
     },
     {
       "date": "2026-06-25",
@@ -245,7 +101,7 @@
       "artists": [
         "Brown Chicken Brown Cow"
       ],
-      "link": "https://www.utepilsbrewing.com/events/brown-chicken-brown-cow/2026-06-25/"
+      "link": "https://utepilsbrewing.com/events/brown-chicken-brown-cow/2026-06-25/"
     },
     {
       "date": "2026-06-25",
@@ -257,7 +113,7 @@
       "artists": [
         "Cribbage Tournament"
       ],
-      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-06-25/"
+      "link": "https://utepilsbrewing.com/events/cribbage-tournament/2026-06-25/"
     },
     {
       "date": "2026-06-26",
@@ -269,7 +125,7 @@
       "artists": [
         "Happy Hour"
       ],
-      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-06-26/"
+      "link": "https://utepilsbrewing.com/events/happy-hour/2026-06-26/"
     },
     {
       "date": "2026-06-26",
@@ -281,7 +137,7 @@
       "artists": [
         "World Watch Party"
       ],
-      "link": "https://www.utepilsbrewing.com/events/world-watch-party/2026-06-26/"
+      "link": "https://utepilsbrewing.com/events/world-watch-party/2026-06-26/"
     },
     {
       "date": "2026-06-26",
@@ -293,7 +149,7 @@
       "artists": [
         "Taste of Chile by Emconada"
       ],
-      "link": "https://www.utepilsbrewing.com/events/taste-of-chile-by-emconada/2026-06-26/"
+      "link": "https://utepilsbrewing.com/events/taste-of-chile-by-emconada/2026-06-26/"
     },
     {
       "date": "2026-06-26",
@@ -305,7 +161,7 @@
       "artists": [
         "Friday Night Live - FNL"
       ],
-      "link": "https://www.utepilsbrewing.com/events/friday-night-live-fnl/2026-06-26/"
+      "link": "https://utepilsbrewing.com/events/friday-night-live-fnl/2026-06-26/"
     },
     {
       "date": "2026-06-27",
@@ -317,7 +173,7 @@
       "artists": [
         "Cuchillo"
       ],
-      "link": "https://www.utepilsbrewing.com/events/cuchillo/2026-06-27/"
+      "link": "https://utepilsbrewing.com/events/cuchillo/2026-06-27/"
     },
     {
       "date": "2026-06-27",
@@ -329,7 +185,7 @@
       "artists": [
         "World Watch Party"
       ],
-      "link": "https://www.utepilsbrewing.com/events/world-watch-party/2026-06-27/"
+      "link": "https://utepilsbrewing.com/events/world-watch-party/2026-06-27/"
     },
     {
       "date": "2026-06-28",
@@ -341,7 +197,7 @@
       "artists": [
         "Yoga Flow with Annie Hayes"
       ],
-      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-06-28/"
+      "link": "https://utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-06-28/"
     },
     {
       "date": "2026-06-28",
@@ -353,7 +209,7 @@
       "artists": [
         "Gerhard's Brats"
       ],
-      "link": "https://www.utepilsbrewing.com/events/gerhards-brats/2026-06-28/"
+      "link": "https://utepilsbrewing.com/events/gerhards-brats/2026-06-28/"
     },
     {
       "date": "2026-06-28",
@@ -365,19 +221,7 @@
       "artists": [
         "World Watch Party"
       ],
-      "link": "https://www.utepilsbrewing.com/events/world-watch-party-2/2026-06-28/"
-    },
-    {
-      "date": "2026-06-29",
-      "end_date": "2026-06-29",
-      "venue": "Utepils Brewery",
-      "title": "World Watch Party",
-      "tour": "Utepils Brewery Event",
-      "support_raw": "12:00 PM",
-      "artists": [
-        "World Watch Party"
-      ],
-      "link": "https://www.utepilsbrewing.com/events/world-watch-party-2/2026-06-29/"
+      "link": "https://utepilsbrewing.com/events/world-watch-party-2/2026-06-28/"
     },
     {
       "date": "2026-06-29",
@@ -389,7 +233,19 @@
       "artists": [
         "All Day Happy Hour"
       ],
-      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-06-29/"
+      "link": "https://utepilsbrewing.com/events/all-day-happy-hour/2026-06-29/"
+    },
+    {
+      "date": "2026-06-29",
+      "end_date": "2026-06-29",
+      "venue": "Utepils Brewery",
+      "title": "World Watch Party",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "World Watch Party"
+      ],
+      "link": "https://utepilsbrewing.com/events/world-watch-party-2/2026-06-29/"
     },
     {
       "date": "2026-06-29",
@@ -401,7 +257,7 @@
       "artists": [
         "La Choza"
       ],
-      "link": "https://www.utepilsbrewing.com/events/la-choza/2026-06-29/"
+      "link": "https://utepilsbrewing.com/events/la-choza/2026-06-29/"
     },
     {
       "date": "2026-06-29",
@@ -413,7 +269,7 @@
       "artists": [
         "Sociable Circuit"
       ],
-      "link": "https://www.utepilsbrewing.com/events/sociable-circuit-2/2026-06-29/"
+      "link": "https://utepilsbrewing.com/events/sociable-circuit-2/2026-06-29/"
     },
     {
       "date": "2026-06-29",
@@ -425,7 +281,7 @@
       "artists": [
         "Analog Game Night"
       ],
-      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-06-29/"
+      "link": "https://utepilsbrewing.com/events/analog-game-night/2026-06-29/"
     },
     {
       "date": "2026-06-30",
@@ -433,11 +289,11 @@
       "venue": "Utepils Brewery",
       "title": "World Watch Party",
       "tour": "Utepils Brewery Event",
-      "support_raw": "12:00 PM",
+      "support_raw": "3:00 PM",
       "artists": [
         "World Watch Party"
       ],
-      "link": "https://www.utepilsbrewing.com/events/world-watch-party-2/2026-06-30/"
+      "link": "https://utepilsbrewing.com/events/world-watch-party-2/2026-06-30/"
     },
     {
       "date": "2026-06-30",
@@ -449,7 +305,7 @@
       "artists": [
         "Butcher & Bartender"
       ],
-      "link": "https://www.utepilsbrewing.com/events/butcher-bartender/2026-06-30/"
+      "link": "https://utepilsbrewing.com/events/butcher-bartender/2026-06-30/"
     },
     {
       "date": "2026-06-30",
@@ -461,7 +317,7 @@
       "artists": [
         "Do What You Love To End Alz"
       ],
-      "link": "https://www.utepilsbrewing.com/events/do-what-you-love-to-end-alz/"
+      "link": "https://utepilsbrewing.com/events/do-what-you-love-to-end-alz/"
     },
     {
       "date": "2026-06-30",
@@ -473,7 +329,7 @@
       "artists": [
         "FREE Meat & Cheese Raffle"
       ],
-      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-06-30/"
+      "link": "https://utepilsbrewing.com/events/free-meat-cheese-raffle/2026-06-30/"
     },
     {
       "date": "2026-07-01",
@@ -3233,7 +3089,7 @@
       "artists": [
         "Cribbage Tournament"
       ],
-      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-10-01/"
+      "link": "https://utepilsbrewing.com/events/cribbage-tournament/2026-10-01/"
     },
     {
       "date": "2026-10-02",
@@ -3245,7 +3101,7 @@
       "artists": [
         "Happy Hour"
       ],
-      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-10-02/"
+      "link": "https://utepilsbrewing.com/events/happy-hour/2026-10-02/"
     },
     {
       "date": "2026-10-03",
@@ -3257,7 +3113,7 @@
       "artists": [
         "Cuchillo"
       ],
-      "link": "https://www.utepilsbrewing.com/events/cuchillo/2026-10-03/"
+      "link": "https://utepilsbrewing.com/events/cuchillo/2026-10-03/"
     },
     {
       "date": "2026-10-04",
@@ -3269,7 +3125,7 @@
       "artists": [
         "Yoga Flow with Annie Hayes"
       ],
-      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-10-04/"
+      "link": "https://utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-10-04/"
     },
     {
       "date": "2026-10-04",
@@ -3281,7 +3137,7 @@
       "artists": [
         "International Café"
       ],
-      "link": "https://www.utepilsbrewing.com/events/international-cafe/2026-10-04/"
+      "link": "https://utepilsbrewing.com/events/international-cafe/2026-10-04/"
     },
     {
       "date": "2026-10-05",
@@ -3293,7 +3149,7 @@
       "artists": [
         "All Day Happy Hour"
       ],
-      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-10-05/"
+      "link": "https://utepilsbrewing.com/events/all-day-happy-hour/2026-10-05/"
     },
     {
       "date": "2026-10-05",
@@ -3305,7 +3161,7 @@
       "artists": [
         "Analog Game Night"
       ],
-      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-10-05/"
+      "link": "https://utepilsbrewing.com/events/analog-game-night/2026-10-05/"
     },
     {
       "date": "2026-10-05",
@@ -3317,7 +3173,7 @@
       "artists": [
         "Backgammon & Brews"
       ],
-      "link": "https://www.utepilsbrewing.com/events/backgammon-brews/2026-10-05/"
+      "link": "https://utepilsbrewing.com/events/backgammon-brews/2026-10-05/"
     },
     {
       "date": "2026-10-06",
@@ -3329,7 +3185,7 @@
       "artists": [
         "FREE Meat & Cheese Raffle"
       ],
-      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-10-06/"
+      "link": "https://utepilsbrewing.com/events/free-meat-cheese-raffle/2026-10-06/"
     },
     {
       "date": "2026-10-07",
@@ -3341,7 +3197,7 @@
       "artists": [
         "Trivia Mafia"
       ],
-      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-10-07/"
+      "link": "https://utepilsbrewing.com/events/trivia-mafia-3/2026-10-07/"
     },
     {
       "date": "2026-10-08",
@@ -3353,7 +3209,7 @@
       "artists": [
         "Cribbage Tournament"
       ],
-      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-10-08/"
+      "link": "https://utepilsbrewing.com/events/cribbage-tournament/2026-10-08/"
     },
     {
       "date": "2026-10-09",
@@ -3365,7 +3221,7 @@
       "artists": [
         "Happy Hour"
       ],
-      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-10-09/"
+      "link": "https://utepilsbrewing.com/events/happy-hour/2026-10-09/"
     },
     {
       "date": "2026-10-10",
@@ -3377,7 +3233,7 @@
       "artists": [
         "MNUFC Watch Party"
       ],
-      "link": "https://www.utepilsbrewing.com/events/mnufc-watch-parties/2026-10-10/"
+      "link": "https://utepilsbrewing.com/events/mnufc-watch-parties/2026-10-10/"
     },
     {
       "date": "2026-10-11",
@@ -3389,7 +3245,7 @@
       "artists": [
         "Yoga Flow with Annie Hayes"
       ],
-      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-10-11/"
+      "link": "https://utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-10-11/"
     },
     {
       "date": "2026-10-12",
@@ -3401,7 +3257,7 @@
       "artists": [
         "All Day Happy Hour"
       ],
-      "link": "https://www.utepilsbrewing.com/events/all-day-happy-hour/2026-10-12/"
+      "link": "https://utepilsbrewing.com/events/all-day-happy-hour/2026-10-12/"
     },
     {
       "date": "2026-10-12",
@@ -3413,7 +3269,7 @@
       "artists": [
         "Analog Game Night"
       ],
-      "link": "https://www.utepilsbrewing.com/events/analog-game-night/2026-10-12/"
+      "link": "https://utepilsbrewing.com/events/analog-game-night/2026-10-12/"
     },
     {
       "date": "2026-10-13",
@@ -3425,7 +3281,7 @@
       "artists": [
         "FREE Meat & Cheese Raffle"
       ],
-      "link": "https://www.utepilsbrewing.com/events/free-meat-cheese-raffle/2026-10-13/"
+      "link": "https://utepilsbrewing.com/events/free-meat-cheese-raffle/2026-10-13/"
     },
     {
       "date": "2026-10-14",
@@ -3437,7 +3293,7 @@
       "artists": [
         "La Cochinita"
       ],
-      "link": "https://www.utepilsbrewing.com/events/la-cochinita/2026-10-14/"
+      "link": "https://utepilsbrewing.com/events/la-cochinita/2026-10-14/"
     },
     {
       "date": "2026-10-14",
@@ -3449,7 +3305,7 @@
       "artists": [
         "Trivia Mafia"
       ],
-      "link": "https://www.utepilsbrewing.com/events/trivia-mafia-3/2026-10-14/"
+      "link": "https://utepilsbrewing.com/events/trivia-mafia-3/2026-10-14/"
     },
     {
       "date": "2026-10-14",
@@ -3461,7 +3317,7 @@
       "artists": [
         "MNUFC Watch Party"
       ],
-      "link": "https://www.utepilsbrewing.com/events/mnufc-watch-parties/2026-10-14/"
+      "link": "https://utepilsbrewing.com/events/mnufc-watch-parties/2026-10-14/"
     },
     {
       "date": "2026-10-15",
@@ -3473,7 +3329,7 @@
       "artists": [
         "Cribbage Tournament"
       ],
-      "link": "https://www.utepilsbrewing.com/events/cribbage-tournament/2026-10-15/"
+      "link": "https://utepilsbrewing.com/events/cribbage-tournament/2026-10-15/"
     },
     {
       "date": "2026-10-16",
@@ -3485,7 +3341,7 @@
       "artists": [
         "Happy Hour"
       ],
-      "link": "https://www.utepilsbrewing.com/events/happy-hour/2026-10-16/"
+      "link": "https://utepilsbrewing.com/events/happy-hour/2026-10-16/"
     },
     {
       "date": "2026-10-17",
@@ -3497,7 +3353,7 @@
       "artists": [
         "Cuchillo"
       ],
-      "link": "https://www.utepilsbrewing.com/events/cuchillo/2026-10-17/"
+      "link": "https://utepilsbrewing.com/events/cuchillo/2026-10-17/"
     },
     {
       "date": "2026-10-17",
@@ -3509,7 +3365,7 @@
       "artists": [
         "MNUFC Watch Party"
       ],
-      "link": "https://www.utepilsbrewing.com/events/mnufc-watch-parties/2026-10-17/"
+      "link": "https://utepilsbrewing.com/events/mnufc-watch-parties/2026-10-17/"
     },
     {
       "date": "2026-10-18",
@@ -3521,7 +3377,7 @@
       "artists": [
         "Yoga Flow with Annie Hayes"
       ],
-      "link": "https://www.utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-10-18/"
+      "link": "https://utepilsbrewing.com/events/yoga-flow-with-annie-hayes/2026-10-18/"
     },
     {
       "date": "2026-10-18",
@@ -3533,7 +3389,55 @@
       "artists": [
         "International Café"
       ],
-      "link": "https://www.utepilsbrewing.com/events/international-cafe/2026-10-18/"
+      "link": "https://utepilsbrewing.com/events/international-cafe/2026-10-18/"
+    },
+    {
+      "date": "2026-10-19",
+      "end_date": "2026-10-19",
+      "venue": "Utepils Brewery",
+      "title": "All Day Happy Hour",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "3:00 PM",
+      "artists": [
+        "All Day Happy Hour"
+      ],
+      "link": "https://utepilsbrewing.com/events/all-day-happy-hour/2026-10-19/"
+    },
+    {
+      "date": "2026-10-19",
+      "end_date": "2026-10-19",
+      "venue": "Utepils Brewery",
+      "title": "Analog Game Night",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "Analog Game Night"
+      ],
+      "link": "https://utepilsbrewing.com/events/analog-game-night/2026-10-19/"
+    },
+    {
+      "date": "2026-10-20",
+      "end_date": "2026-10-20",
+      "venue": "Utepils Brewery",
+      "title": "FREE Meat & Cheese Raffle",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "6:00 PM",
+      "artists": [
+        "FREE Meat & Cheese Raffle"
+      ],
+      "link": "https://utepilsbrewing.com/events/free-meat-cheese-raffle/2026-10-20/"
+    },
+    {
+      "date": "2026-10-21",
+      "end_date": "2026-10-21",
+      "venue": "Utepils Brewery",
+      "title": "Trivia Mafia",
+      "tour": "Utepils Brewery Event",
+      "support_raw": "7:00 PM",
+      "artists": [
+        "Trivia Mafia"
+      ],
+      "link": "https://utepilsbrewing.com/events/trivia-mafia-3/2026-10-21/"
     }
   ]
 }

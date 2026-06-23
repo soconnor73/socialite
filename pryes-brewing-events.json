@@ -1,23 +1,10 @@
 {
   "metadata": {
     "site": "pryes_brewing",
-    "scraping_time": "2026-06-20T23:24:33.703724",
-    "start_date_range": "2026-06-20",
-    "end_date_range": "2026-10-18",
-    "total_shows_extracted": 1
+    "scraping_time": "2026-06-23T15:12:38.400611",
+    "start_date_range": "2026-06-23",
+    "end_date_range": "2026-10-21",
+    "total_shows_extracted": 0
   },
-  "shows": [
-    {
-      "date": "2026-06-19",
-      "end_date": "2026-06-20",
-      "venue": "Pryes Brewing",
-      "title": "Block Party 2026",
-      "tour": "Pryes Brewing Event",
-      "support_raw": "5:00 PM - 10:00 PM",
-      "artists": [
-        "Block Party 2026"
-      ],
-      "link": "https://www.pryesbrewing.com/events/block-party-2026"
-    }
-  ]
+  "shows": []
 }

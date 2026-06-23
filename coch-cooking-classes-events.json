@@ -1,72 +1,12 @@
 {
   "metadata": {
     "site": "coch_cooking_classes",
-    "scraping_time": "2026-06-20T23:32:38.682153",
-    "start_date_range": "2026-06-20",
-    "end_date_range": "2026-10-18",
-    "total_shows_extracted": 8
+    "scraping_time": "2026-06-23T15:12:38.589476",
+    "start_date_range": "2026-06-23",
+    "end_date_range": "2026-10-21",
+    "total_shows_extracted": 3
   },
   "shows": [
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Cooks of Crocus Hill - St. Paul",
-      "title": "Gluten-Free Bakery Mornings",
-      "tour": "Cooking Class",
-      "support_raw": "10 AM  $99",
-      "artists": [
-        "Gluten-Free Bakery Mornings"
-      ],
-      "link": "https://cooksofcrocushill.com/gluten-free-bakery-mornings-june-20-st-paul-10-am/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Cooks of Crocus Hill - Minneapolis",
-      "title": "Sushi, Sushi",
-      "tour": "Cooking Class",
-      "support_raw": "6 PM  $125",
-      "artists": [
-        "Sushi, Sushi"
-      ],
-      "link": "https://cooksofcrocushill.com/sushi-sushi-june-20-minneapolis-6-pm/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Cooks of Crocus Hill - St. Paul",
-      "title": "Brunch & Bubbles",
-      "tour": "Cooking Class",
-      "support_raw": "10 AM  $115",
-      "artists": [
-        "Brunch & Bubbles"
-      ],
-      "link": "https://cooksofcrocushill.com/brunch-bubbles-june-21-st-paul-10-am/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Cooks of Crocus Hill - St. Paul",
-      "title": "Big Blade Fiesta! Father's Day Knife Skills",
-      "tour": "Cooking Class",
-      "support_raw": "4 PM  $175",
-      "artists": [
-        "Big Blade Fiesta! Father's Day Knife Skills"
-      ],
-      "link": "https://cooksofcrocushill.com/big-blade-fiesta-father-s-day-knife-skills-june-21-st-paul-4-pm/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Cooks of Crocus Hill - Minneapolis",
-      "title": "Pasta, Pasta",
-      "tour": "Cooking Class",
-      "support_raw": "4 PM  $99",
-      "artists": [
-        "Pasta, Pasta"
-      ],
-      "link": "https://cooksofcrocushill.com/pasta-pasta-june-21-minneapolis-4-pm/"
-    },
     {
       "date": "2026-06-24",
       "end_date": "2026-06-24",

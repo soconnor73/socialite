@@ -1,10 +1,10 @@
 {
   "metadata": {
     "site": "ordway_theater",
-    "scraping_time": "2026-06-20T17:26:29.486143",
-    "start_date_range": "2026-06-20",
-    "end_date_range": "2026-10-18",
-    "total_shows_extracted": 9
+    "scraping_time": "2026-06-23T15:12:37.749616",
+    "start_date_range": "2026-06-23",
+    "end_date_range": "2026-10-21",
+    "total_shows_extracted": 8
   },
   "shows": [
     {
@@ -18,18 +18,6 @@
         "SIX"
       ],
       "link": "https://ordway.org/events/six/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Ordway Concert Hall",
-      "title": "BIG GRAVITY",
-      "tour": "Concerts",
-      "support_raw": "TaikoArts Midwest Presents",
-      "artists": [
-        "BIG GRAVITY"
-      ],
-      "link": "https://boxoffice.ordway.org/Online/mapSelect.asp?BOset::WSmap::seatmap::performance_ids=00F97BC3-53A5-4208-B1D5-26D6F02F00D9"
     },
     {
       "date": "2026-06-25",

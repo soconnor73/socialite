@@ -1,24 +1,12 @@
 {
   "metadata": {
     "site": "guthrie_theater",
-    "scraping_time": "2026-06-20T17:26:24.926383",
-    "start_date_range": "2026-06-20",
-    "end_date_range": "2026-10-18",
-    "total_shows_extracted": 3
+    "scraping_time": "2026-06-23T15:12:34.029127",
+    "start_date_range": "2026-06-23",
+    "end_date_range": "2026-10-21",
+    "total_shows_extracted": 2
   },
   "shows": [
-    {
-      "date": "2026-04-18",
-      "end_date": "2026-06-21",
-      "venue": "Guthrie Theater - Wurtele Thrust Stage",
-      "title": "Louisa May Alcott's Little Women",
-      "tour": "Now Playing",
-      "support_raw": "",
-      "artists": [
-        "Louisa May Alcott's Little Women"
-      ],
-      "link": "https://www.guthrietheater.org/whats-on/little-women/"
-    },
     {
       "date": "2026-06-06",
       "end_date": "2026-08-09",

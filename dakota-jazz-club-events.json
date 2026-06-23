@@ -1,48 +1,12 @@
 {
   "metadata": {
     "site": "dakota_jazz_club",
-    "scraping_time": "2026-06-20T18:59:50.845756",
-    "start_date_range": "2026-06-20",
-    "end_date_range": "2026-10-18",
-    "total_shows_extracted": 104
+    "scraping_time": "2026-06-23T15:12:38.068844",
+    "start_date_range": "2026-06-23",
+    "end_date_range": "2026-10-21",
+    "total_shows_extracted": 101
   },
   "shows": [
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Dakota Jazz Club",
-      "title": "Kevin Kling &#038; Larry Long",
-      "tour": "Live Music",
-      "support_raw": "7:00 PM",
-      "artists": [
-        "Kevin Kling &#038; Larry Long"
-      ],
-      "link": "https://www.dakotacooks.com/event/kevin-kling-larry-long-jun20-2026/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Dakota Jazz Club",
-      "title": "Church of Cash",
-      "tour": "Live Music",
-      "support_raw": "7:00 PM",
-      "artists": [
-        "Church of Cash"
-      ],
-      "link": "https://www.dakotacooks.com/event/church-of-cash-jun21-2026/"
-    },
-    {
-      "date": "2026-06-22",
-      "end_date": "2026-06-22",
-      "venue": "Dakota Jazz Club",
-      "title": "John Pizzarelli Trio: Dear Mr. Bennett",
-      "tour": "Live Music",
-      "support_raw": "7:00 PM",
-      "artists": [
-        "John Pizzarelli Trio: Dear Mr. Bennett"
-      ],
-      "link": "https://www.dakotacooks.com/event/john-pizzarelli-trio-dear-mr-bennett-jun22-2026/2026-06-22/1/"
-    },
     {
       "date": "2026-06-23",
       "end_date": "2026-06-23",

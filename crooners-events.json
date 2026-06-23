@@ -1,120 +1,12 @@
 {
   "metadata": {
     "site": "crooners",
-    "scraping_time": "2026-06-20T19:11:09.225782",
-    "start_date_range": "2026-06-20",
-    "end_date_range": "2026-10-18",
-    "total_shows_extracted": 141
+    "scraping_time": "2026-06-23T15:12:38.334709",
+    "start_date_range": "2026-06-23",
+    "end_date_range": "2026-10-21",
+    "total_shows_extracted": 132
   },
   "shows": [
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Dunsmore Jazz Room",
-      "title": "TCJazzFest: Kevin Gamble Presents a Tribute to Ray Charles",
-      "tour": "Live Music",
-      "support_raw": "4:30 PM  Free",
-      "artists": [
-        "TCJazzFest: Kevin Gamble Presents a Tribute to Ray Charles"
-      ],
-      "link": "https://www.croonersmn.com/event/tcjazzfest-kevin-gamble-presents-a-tribute-to-ray-charles/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "The Belvedere at Crooners",
-      "title": "TCJazzFest: Ronny Loew Band",
-      "tour": "Live Music",
-      "support_raw": "6:00 PM  Free",
-      "artists": [
-        "TCJazzFest: Ronny Loew Band"
-      ],
-      "link": "https://www.croonersmn.com/event/tcjazzfest-ronny-loew-band/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Main Stage Showroom",
-      "title": "TCJazzFest: Ralph Hepola Quartet",
-      "tour": "Live Music",
-      "support_raw": "7:30 PM  Free",
-      "artists": [
-        "TCJazzFest: Ralph Hepola Quartet"
-      ],
-      "link": "https://www.croonersmn.com/event/tcjazzfest-ralph-hepola-quartet/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "venue": "Maggie&#8217;s Piano Lounge",
-      "title": "TCJazzFest: Jon Weber",
-      "tour": "Live Music",
-      "support_raw": "8:00 PM  Free",
-      "artists": [
-        "TCJazzFest: Jon Weber"
-      ],
-      "link": "https://www.croonersmn.com/event/tcjazzfest-jon-weber/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Dunsmore Jazz Room",
-      "title": "THE BIG BROADWAY SINGALONG!",
-      "tour": "Live Music",
-      "support_raw": "5:00 PM  $$30.00 - $40.00",
-      "artists": [
-        "THE BIG BROADWAY SINGALONG!"
-      ],
-      "link": "https://www.croonersmn.com/event/the-big-broadway-singalong/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Maggie&#8217;s Piano Lounge",
-      "title": "Dorothy Doring and Dale Alexander",
-      "tour": "Live Music",
-      "support_raw": "5:00 PM  Free",
-      "artists": [
-        "Dorothy Doring and Dale Alexander"
-      ],
-      "link": "https://www.croonersmn.com/event/dorothy-doring-and-dale-alexander-4/"
-    },
-    {
-      "date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "venue": "Main Stage Showroom",
-      "title": "Urban Classic Presents: The Music of Rufus and Chaka Khan",
-      "tour": "Live Music",
-      "support_raw": "7:00 PM  $$45.00 - $55.00",
-      "artists": [
-        "Urban Classic Presents: The Music of Rufus and Chaka Khan"
-      ],
-      "link": "https://www.croonersmn.com/event/urban-classic-presents-the-music-of-rufus-and-chaka-khan/"
-    },
-    {
-      "date": "2026-06-22",
-      "end_date": "2026-06-22",
-      "venue": "Maggie&#8217;s Piano Lounge",
-      "title": "Lee Engele and Ted Godbout",
-      "tour": "Live Music",
-      "support_raw": "5:00 PM  Free",
-      "artists": [
-        "Lee Engele and Ted Godbout"
-      ],
-      "link": "https://www.croonersmn.com/event/lee-engele-and-ted-godbout-2/"
-    },
-    {
-      "date": "2026-06-22",
-      "end_date": "2026-06-22",
-      "venue": "Dunsmore Jazz Room",
-      "title": "The Singer&#8217;s Voice, hosted by Dan Chouinard featuring Prudence Johnson",
-      "tour": "Live Music",
-      "support_raw": "7:00 PM  $$25.00 - $35.00",
-      "artists": [
-        "The Singer&#8217;s Voice, hosted by Dan Chouinard featuring Prudence Johnson"
-      ],
-      "link": "https://www.croonersmn.com/event/the-singers-voice-hosted-by-dan-chouinard-featuring-prudence-johnson/"
-    },
     {
       "date": "2026-06-24",
       "end_date": "2026-06-24",
