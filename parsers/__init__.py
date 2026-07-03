@@ -29,6 +29,8 @@ from .parkway_theater import ParkwayTheaterParser
 from .fillmore_minneapolis import FillmoreMinneapolisParser
 from .litt_pinball_bar import LITTPinballBarParser
 from .castle_danger_brewery import CastleDangerBreweryParser
+from .train_ride import TrainRideParser
+from .mn_state_fair_grandstand import MNStateFairGrandstandParser
 
 PARSER_REGISTRY = {
     'first_avenue': FirstAvenueParser,
@@ -60,7 +62,9 @@ PARSER_REGISTRY = {
     'parkway_theater': ParkwayTheaterParser,
     'fillmore_minneapolis': FillmoreMinneapolisParser,
     'litt_pinball_bar': LITTPinballBarParser,
-    'castle_danger_brewery': CastleDangerBreweryParser
+    'castle_danger_brewery': CastleDangerBreweryParser,
+    'train_ride': TrainRideParser,
+    'mn_state_fair_grandstand': MNStateFairGrandstandParser
 }
 
 def get_parser(site_name: str) -> BaseParser:

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_aggregated": 2483,
-    "aggregated_at": "2026-06-23T15:12:58.907796",
+    "total_aggregated": 2499,
+    "aggregated_at": "2026-07-03T13:34:32.929972",
     "venues_included": [
       "100 22nd St E",
       "1009 W Franklin Ave",
@@ -161,6 +161,7 @@
       "Ordway Concert Hall",
       "Ordway Music Theater",
       "Ordway Theater",
+      "Osceola & St. Croix Valley Railway",
       "Palace Theatre",
       "Parade Park",
       "Park Point",
@@ -177,6 +178,7 @@
       "Sociable Cider Werks",
       "Split Rock Lighthouse",
       "St. Louis County Depot",
+      "State Fair Grandstand",
       "State Theatre",
       "Summit Brewing",
       "Summit Brewing Co",
@@ -5465,6 +5467,45 @@
     },
     {
       "date": "2026-07-03",
+      "end_date": "2026-10-31",
+      "venue": "Osceola & St. Croix Valley Railway",
+      "title": "Osceola Marine Excursion",
+      "tour": "Train Rides",
+      "support_raw": "1.5 Hours • 20 Mile round trip to Marine on St. Croix • From $32.10",
+      "artists": [
+        "Osceola Marine Excursion"
+      ],
+      "link": "https://trainride.org/all-rides/osceola-marine-excursion/",
+      "source": "train_ride"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-10-31",
+      "venue": "Osceola & St. Croix Valley Railway",
+      "title": "Pizza Train",
+      "tour": "Train Rides",
+      "support_raw": "1.5 Hours • From $171.20",
+      "artists": [
+        "Pizza Train"
+      ],
+      "link": "https://trainride.org/all-rides/pizza-train/",
+      "source": "train_ride"
+    },
+    {
+      "date": "2026-07-03",
+      "end_date": "2026-10-31",
+      "venue": "Osceola & St. Croix Valley Railway",
+      "title": "Osceola Ice Cream Train",
+      "tour": "Train Rides",
+      "support_raw": "From $21.40",
+      "artists": [
+        "Osceola Ice Cream Train"
+      ],
+      "link": "https://trainride.org/all-rides/osceola-ice-cream-train/",
+      "source": "train_ride"
+    },
+    {
+      "date": "2026-07-03",
       "end_date": "2026-07-05",
       "venue": "Trylon Cinema",
       "title": "THE THING IN 4K",
@@ -5722,6 +5763,19 @@
       ],
       "link": "https://www.minneapolisparks.org/event-calendar/tree-treks/2026-07-04/",
       "source": "mpls_parks"
+    },
+    {
+      "date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "venue": "Osceola & St. Croix Valley Railway",
+      "title": "Rail Yard Bash July 4th at Osceola & St. Croix Valley Railway",
+      "tour": "Train Rides",
+      "support_raw": "",
+      "artists": [
+        "Rail Yard Bash July 4th at Osceola & St. Croix Valley Railway"
+      ],
+      "link": "https://trainride.org/rail-yard-bash/",
+      "source": "train_ride"
     },
     {
       "date": "2026-07-04",
@@ -22172,6 +22226,19 @@
     {
       "date": "2026-08-27",
       "end_date": "2026-08-27",
+      "venue": "State Fair Grandstand",
+      "title": "Bonnie Raitt: Live 2026 with special guest Jon Cleary & The Absolute Monster Gentlemen",
+      "tour": "Grandstand Concert Series",
+      "support_raw": "7:00 pm • $46 - $81.25 (All seats reserved) $87 - $99.25 (Party Deck)",
+      "artists": [
+        "Bonnie Raitt: Live 2026 with special guest Jon Cleary & The Absolute Monster Gentlemen"
+      ],
+      "link": "https://www.mnstatefair.org/grandstand/bonnie-raitt",
+      "source": "mn_state_fair_grandstand"
+    },
+    {
+      "date": "2026-08-27",
+      "end_date": "2026-08-27",
       "venue": "Eloise Butler Wildflower Garden",
       "title": "Garden Storytime",
       "tour": "Park Event",
@@ -22393,6 +22460,19 @@
     {
       "date": "2026-08-28",
       "end_date": "2026-08-28",
+      "venue": "State Fair Grandstand",
+      "title": "\"Weird Al\" Yankovic: Bigger & Weirder 2026 Tour with special guest Puddles Pity Party",
+      "tour": "Grandstand Concert Series",
+      "support_raw": "7:00 pm • $54 - $89.25 (All seats reserved) $74 - $87.75 (Party Deck)",
+      "artists": [
+        "\"Weird Al\" Yankovic: Bigger & Weirder 2026 Tour with special guest Puddles Pity Party"
+      ],
+      "link": "https://www.mnstatefair.org/grandstand/weird-al-yankovic-bigger-and-weirder-2026-tour",
+      "source": "mn_state_fair_grandstand"
+    },
+    {
+      "date": "2026-08-28",
+      "end_date": "2026-08-28",
       "venue": "Minneapolis Parks",
       "title": "Rock the Block",
       "tour": "Park Event",
@@ -22607,6 +22687,19 @@
       ],
       "link": "https://www.mlb.com/gameday/823665",
       "source": "minnesota_twins"
+    },
+    {
+      "date": "2026-08-29",
+      "end_date": "2026-08-29",
+      "venue": "State Fair Grandstand",
+      "title": "Jimmy Jam & Terry Lewis Homecoming: A Celebration of the Minneapolis Sound",
+      "tour": "Grandstand Concert Series",
+      "support_raw": "7:00 pm • $64 - $98.75 (All seats reserved) $84 - $97.75 (Party Deck)",
+      "artists": [
+        "Jimmy Jam & Terry Lewis Homecoming: A Celebration of the Minneapolis Sound"
+      ],
+      "link": "https://www.mnstatefair.org/grandstand/jimmy-jam-and-terry-lewis",
+      "source": "mn_state_fair_grandstand"
     },
     {
       "date": "2026-08-29",
@@ -22871,6 +22964,19 @@
     {
       "date": "2026-08-30",
       "end_date": "2026-08-30",
+      "venue": "State Fair Grandstand",
+      "title": "Sierra Ferrell: Heavy Petal Tour with special guest Tanya Tucker - The Current's Music On-A-Stick Show 2026",
+      "tour": "Grandstand Concert Series",
+      "support_raw": "7:00 pm • $46 - $81.25 (All seats reserved) $87 - $99.25 (Party Deck)",
+      "artists": [
+        "Sierra Ferrell: Heavy Petal Tour with special guest Tanya Tucker - The Current's Music On-A-Stick Show 2026"
+      ],
+      "link": "https://www.mnstatefair.org/grandstand/sierra-ferrell",
+      "source": "mn_state_fair_grandstand"
+    },
+    {
+      "date": "2026-08-30",
+      "end_date": "2026-08-30",
       "venue": "Eloise Butler Wildflower Garden",
       "title": "Garden Storytime",
       "tour": "Park Event",
@@ -23035,6 +23141,19 @@
       ],
       "link": "https://www.minneapolis.org/calendar/twins-tigers/",
       "source": "minneapolis"
+    },
+    {
+      "date": "2026-08-31",
+      "end_date": "2026-08-31",
+      "venue": "State Fair Grandstand",
+      "title": "Tommy James & The Shondells with special guest Herman's Hermits starring Peter Noone",
+      "tour": "Grandstand Concert Series",
+      "support_raw": "7:00 pm • $33 - $43.75 (All seats reserved) $43 - $53.75 (Party Deck)",
+      "artists": [
+        "Tommy James & The Shondells with special guest Herman's Hermits starring Peter Noone"
+      ],
+      "link": "https://www.mnstatefair.org/grandstand/tommy-james-and-the-shondells",
+      "source": "mn_state_fair_grandstand"
     },
     {
       "date": "2026-08-31",
@@ -23221,6 +23340,19 @@
     {
       "date": "2026-09-01",
       "end_date": "2026-09-01",
+      "venue": "State Fair Grandstand",
+      "title": "Rod Stewart with special guest Richard Marx",
+      "tour": "Grandstand Concert Series",
+      "support_raw": "7:00 pm • $86 - $147.25 (All seats reserved) $168 - $184.75 (Party Deck)",
+      "artists": [
+        "Rod Stewart with special guest Richard Marx"
+      ],
+      "link": "https://www.mnstatefair.org/grandstand/rod-stewart",
+      "source": "mn_state_fair_grandstand"
+    },
+    {
+      "date": "2026-09-01",
+      "end_date": "2026-09-01",
       "venue": "Minneapolis Parks",
       "title": "Rock the Block",
       "tour": "Park Event",
@@ -23390,6 +23522,19 @@
     {
       "date": "2026-09-02",
       "end_date": "2026-09-02",
+      "venue": "State Fair Grandstand",
+      "title": "AJR with special guests Quinn XCII and Avery Cochrane",
+      "tour": "Grandstand Concert Series",
+      "support_raw": "7:00 pm • $49.50 - $92.75 (All seats reserved) $93.50 - $105.75 (Party Deck)",
+      "artists": [
+        "AJR with special guests Quinn XCII and Avery Cochrane"
+      ],
+      "link": "https://www.mnstatefair.org/grandstand/ajr",
+      "source": "mn_state_fair_grandstand"
+    },
+    {
+      "date": "2026-09-02",
+      "end_date": "2026-09-02",
       "venue": "Eloise Butler Wildflower Garden",
       "title": "Meadow Makers",
       "tour": "Park Event",
@@ -23515,6 +23660,19 @@
       ],
       "link": "https://www.minneapolis.org/calendar/meet-at-mia-summer-series-september-3/",
       "source": "minneapolis"
+    },
+    {
+      "date": "2026-09-03",
+      "end_date": "2026-09-03",
+      "venue": "State Fair Grandstand",
+      "title": "Brad Paisley with special guests Jake Worthington and Laci Kaye Booth",
+      "tour": "Grandstand Concert Series",
+      "support_raw": "7:00 pm • $82 - $98.75 (General admission pit, no seating) $52 - $87.25 (All seats reserved) $100 - $113.75 (Party Deck)",
+      "artists": [
+        "Brad Paisley with special guests Jake Worthington and Laci Kaye Booth"
+      ],
+      "link": "https://www.mnstatefair.org/grandstand/brad-paisley",
+      "source": "mn_state_fair_grandstand"
     },
     {
       "date": "2026-09-03",
@@ -23686,6 +23844,19 @@
     },
     {
       "date": "2026-09-04",
+      "end_date": "2026-09-04",
+      "venue": "State Fair Grandstand",
+      "title": "HARDY with special guest McCoy Moore",
+      "tour": "Grandstand Concert Series",
+      "support_raw": "7:00 pm • $92 - $108.75 (General admission pit, no seating) $62 - $98.75 (All seats reserved) $120 - $133.75 (Party Deck)",
+      "artists": [
+        "HARDY with special guest McCoy Moore"
+      ],
+      "link": "https://www.mnstatefair.org/grandstand/hardy-with-special-guest-mccoy-moore",
+      "source": "mn_state_fair_grandstand"
+    },
+    {
+      "date": "2026-09-04",
       "end_date": "2026-09-06",
       "venue": "Trylon Cinema",
       "title": "THE MATTEI AFFAIR",
@@ -23842,6 +24013,19 @@
     {
       "date": "2026-09-05",
       "end_date": "2026-09-05",
+      "venue": "State Fair Grandstand",
+      "title": "TLC and Salt-N-Pepa with En Vogue - IT'S ICONIC",
+      "tour": "Grandstand Concert Series",
+      "support_raw": "7:00 pm • $59 - $90.25 (All seats reserved) $114 - $127.75 (Party Deck)",
+      "artists": [
+        "TLC and Salt-N-Pepa with En Vogue - IT'S ICONIC"
+      ],
+      "link": "https://www.mnstatefair.org/grandstand/tlc-and-salt-n-pepa-with-en-vogue",
+      "source": "mn_state_fair_grandstand"
+    },
+    {
+      "date": "2026-09-05",
+      "end_date": "2026-09-05",
       "venue": "Minneapolis Parks",
       "title": "Early Birders – September",
       "tour": "Park Event",
@@ -23987,6 +24171,19 @@
     {
       "date": "2026-09-06",
       "end_date": "2026-09-06",
+      "venue": "State Fair Grandstand",
+      "title": "Minnesota State Fair Amateur Talent Contest Finals - FREE",
+      "tour": "Grandstand Concert Series",
+      "support_raw": "7:30 pm",
+      "artists": [
+        "Minnesota State Fair Amateur Talent Contest Finals - FREE"
+      ],
+      "link": "https://www.mnstatefair.org/grandstand/minnesota-state-fair-amateur-talent-contest-finals-free",
+      "source": "mn_state_fair_grandstand"
+    },
+    {
+      "date": "2026-09-06",
+      "end_date": "2026-09-06",
       "venue": "Eloise Butler Wildflower Garden",
       "title": "Garden Storytime",
       "tour": "Park Event",
@@ -24126,6 +24323,19 @@
       ],
       "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-09-07/",
       "source": "luminary_arts_center"
+    },
+    {
+      "date": "2026-09-07",
+      "end_date": "2026-09-07",
+      "venue": "State Fair Grandstand",
+      "title": "CeCe Winans - More Than This World Tour",
+      "tour": "Grandstand Concert Series",
+      "support_raw": "3:00 pm • $37 - $49.25 (All seats reserved) $47 - $59.25 (Party Deck)",
+      "artists": [
+        "CeCe Winans - More Than This World Tour"
+      ],
+      "link": "https://www.mnstatefair.org/grandstand/cece-winans-more-than-this-world-tour",
+      "source": "mn_state_fair_grandstand"
     },
     {
       "date": "2026-09-07",

@@ -1,10 +1,11 @@
 // Global Application State
+const initialToday = new Date();
 let appState = {
     allEvents: [],
     filteredEvents: [],
     selectedSources: new Set(),
-    currentYear: 2026,
-    currentMonth: 5, // 0-indexed (June is 5)
+    currentYear: initialToday.getFullYear(),
+    currentMonth: initialToday.getMonth(), // 0-indexed
     viewMode: 'list', // 'grid' or 'list'
     searchQuery: '',
     startDate: '2026-06-20',
@@ -43,14 +44,16 @@ const SOURCE_METADATA = {
     'parkway_theater': { name: 'Parkway Theater', color: 'var(--clr-parkway-theater)' },
     'fillmore_minneapolis': { name: 'Fillmore Minneapolis', color: 'var(--clr-fillmore-minneapolis)' },
     'litt_pinball_bar': { name: 'LITT Pinball Bar', color: 'var(--clr-litt-pinball)' },
-    'castle_danger_brewery': { name: 'Castle Danger Brewery', color: 'var(--clr-castle-danger)' }
+    'castle_danger_brewery': { name: 'Castle Danger Brewery', color: 'var(--clr-castle-danger)' },
+    'train_ride': { name: 'Osceola Train Rides', color: 'var(--clr-train-ride)' },
+    'mn_state_fair_grandstand': { name: 'State Fair Grandstand', color: 'var(--clr-state-fair)' }
 };
 
 const CATEGORY_MAP = {
     'music': {
         name: 'Music & Concerts',
         color: '#6366f1', // indigo
-        sources: ['berlin_jazz_club', 'crooners', 'dakota_jazz_club', 'fillmore_minneapolis', 'first_avenue', 'grand_casino_arena', 'minnesota_orchestra', 'us_bank_stadium']
+        sources: ['berlin_jazz_club', 'crooners', 'dakota_jazz_club', 'fillmore_minneapolis', 'first_avenue', 'grand_casino_arena', 'minnesota_orchestra', 'us_bank_stadium', 'mn_state_fair_grandstand']
     },
     'performing_arts': {
         name: 'Performing Arts & Comedy',
@@ -80,7 +83,7 @@ const CATEGORY_MAP = {
     'outdoors': {
         name: 'Festivals, Tourism & Outdoors',
         color: '#06b6d4', // cyan
-        sources: ['minneapolis', 'mpls_parks', 'visit_duluth', 'visit_stpaul']
+        sources: ['minneapolis', 'mpls_parks', 'visit_duluth', 'visit_stpaul', 'train_ride']
     }
 };
 
