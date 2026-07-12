@@ -141,5 +141,4 @@ class FathomEventsParser(BaseParser):
             return ""
         text = text.replace('\xa0', ' ').replace('\u00a0', ' ')
         text = text.replace('’', "'").replace('‘', "'").replace('”', '"').replace('“', '"')
-        text = text.replace('', '-')
         return " ".join(text.split()).strip()
