@@ -1,5 +1,12 @@
 // Global Application State
 const initialToday = new Date();
+let initialSavedEvents = [];
+try {
+    initialSavedEvents = JSON.parse(localStorage.getItem('socialite_saved_events') || '[]');
+} catch (e) {
+    console.error("Failed to parse saved events from localStorage:", e);
+}
+
 let appState = {
     allEvents: [],
     filteredEvents: [],
@@ -11,7 +18,7 @@ let appState = {
     startDate: '2026-06-20',
     endDate: '2026-10-18',
     selectedDate: null,
-    savedEvents: JSON.parse(localStorage.getItem('socialite_saved_events') || '[]')
+    savedEvents: initialSavedEvents
 };
 
 // Source Configuration
@@ -193,16 +200,18 @@ function setupEventListeners() {
     });
 
     // View Toggles
-    dom.viewGridBtn.addEventListener('click', () => toggleView('grid'));
-    dom.viewListBtn.addEventListener('click', () => toggleView('list'));
-    dom.viewSavedBtn.addEventListener('click', () => toggleView('saved'));
+    if (dom.viewGridBtn) dom.viewGridBtn.addEventListener('click', () => toggleView('grid'));
+    if (dom.viewListBtn) dom.viewListBtn.addEventListener('click', () => toggleView('list'));
+    if (dom.viewSavedBtn) dom.viewSavedBtn.addEventListener('click', () => toggleView('saved'));
 
     // Interested Button toggle in modal
-    dom.modalInterestedBtn.addEventListener('click', () => {
-        if (appState.currentSelectedEvent) {
-            toggleInterested(appState.currentSelectedEvent);
-        }
-    });
+    if (dom.modalInterestedBtn) {
+        dom.modalInterestedBtn.addEventListener('click', () => {
+            if (appState.currentSelectedEvent) {
+                toggleInterested(appState.currentSelectedEvent);
+            }
+        });
+    }
 
     // Period Navigation
     dom.prevPeriodBtn.addEventListener('click', () => navigatePeriod(-1));

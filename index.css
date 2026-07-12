@@ -901,6 +901,7 @@ body {
 .modal-action-row {
     display: flex;
     justify-content: flex-end;
+    gap: 1rem;
 }
 
 .primary-btn {
@@ -1176,16 +1177,17 @@ body {
 .secondary-btn {
     display: inline-flex;
     align-items: center;
-    gap: 8px;
-    padding: 10px 18px;
+    gap: 0.5rem;
+    padding: 0.75rem 1.75rem;
     border-radius: 12px;
-    font-weight: 500;
+    font-weight: 600;
     cursor: pointer;
     background: rgba(255, 255, 255, 0.05);
     border: 1px solid var(--panel-border);
     color: var(--text-primary);
-    transition: all 0.2s ease;
+    transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease;
     font-family: 'Outfit', sans-serif;
+    text-decoration: none;
 }
 
 .secondary-btn:hover {
@@ -1197,6 +1199,7 @@ body {
     background: var(--accent-gradient);
     border-color: transparent;
     color: white;
+    box-shadow: 0 10px 15px -3px rgba(99, 102, 241, 0.3);
 }
 
 .secondary-btn span {
