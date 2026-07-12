@@ -1,5 +1,9 @@
 import datetime
 import re
+import urllib.request
+import gzip
+import os
+import html
 from bs4 import BeautifulSoup
 from typing import List, Dict, Any
 from .base import BaseParser
@@ -115,6 +119,12 @@ class MinneapolisParser(BaseParser):
                     else:
                         venue = first_line
                         address = ", ".join(lines[1:]) if len(lines) > 1 else ""
+            
+            # Resolve venue from detail page Event Location if venue defaults to Minneapolis
+            if venue == "Minneapolis" and link:
+                detail_venue = self._get_detail_venue(link)
+                if detail_venue:
+                    venue = detail_venue
                 
             # Artists (for generic city events, title is the event artist representation)
             artists = [title]
@@ -135,3 +145,54 @@ class MinneapolisParser(BaseParser):
             })
             
         return parsed_shows
+
+    def _get_detail_venue(self, url: str) -> str:
+        if not url:
+            return ""
+        
+        slug_match = re.search(r'/calendar/([^/]+)/?$', url)
+        slug = slug_match.group(1) if slug_match else "temp"
+        
+        cache_dir = "raw_html/minneapolis_details"
+        os.makedirs(cache_dir, exist_ok=True)
+        cache_path = os.path.join(cache_dir, f"{slug}.html")
+        
+        content_text = ""
+        if os.path.exists(cache_path):
+            try:
+                with open(cache_path, 'r', encoding='utf-8') as f:
+                    content_text = f.read()
+            except Exception:
+                pass
+        
+        if not content_text:
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+                'Accept-Encoding': 'gzip, deflate'
+            }
+            req = urllib.request.Request(url, headers=headers)
+            try:
+                with urllib.request.urlopen(req) as response:
+                    content = response.read()
+                    if response.info().get('Content-Encoding') == 'gzip':
+                        content = gzip.decompress(content)
+                    content_text = content.decode('utf-8', errors='ignore')
+                    with open(cache_path, 'w', encoding='utf-8') as f:
+                        f.write(content_text)
+                    import time
+                    time.sleep(0.1) # Small delay to avoid hammering the server
+            except Exception:
+                return ""
+                
+        if content_text:
+            try:
+                soup = BeautifulSoup(content_text, 'html.parser')
+                h3 = soup.find('h3', string=re.compile(r'Event Location', re.IGNORECASE))
+                if h3:
+                    p = h3.find_next('p')
+                    if p:
+                        import html as _html
+                        return self._clean_text(_html.unescape(p.get_text(strip=True)))
+            except Exception:
+                pass
+        return ""
