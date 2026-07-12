@@ -100,18 +100,21 @@ class MinneapolisParser(BaseParser):
             if not start_date:
                 continue
                 
-            # Venue Extraction from map summary Address
+            # Venue Extraction from map summary Address / Event Location
+            venue = "Minneapolis"
             address = ""
             map_summary = card.find(class_='map-infowindow__summary')
             if map_summary:
-                address = self._clean_text(map_summary.get_text(", ", strip=True))
-                
-            venue = "Minneapolis"
-            if address:
-                parts = address.split(',')
-                first_part = parts[0].strip()
-                # If first part is a street name/number, use the whole address or the first part
-                venue = first_part if first_part else "Minneapolis"
+                lines = [self._clean_text(line) for line in map_summary.get_text('\n').split('\n') if self._clean_text(line)]
+                if lines:
+                    first_line = lines[0]
+                    # Check if the first line starts with a digit (street address)
+                    if re.match(r'^\d+', first_line):
+                        venue = "Minneapolis"
+                        address = ", ".join(lines)
+                    else:
+                        venue = first_line
+                        address = ", ".join(lines[1:]) if len(lines) > 1 else ""
                 
             # Artists (for generic city events, title is the event artist representation)
             artists = [title]

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "site": "visit_stpaul",
-    "scraping_time": "2026-06-23T15:12:37.789718",
-    "start_date_range": "2026-06-23",
-    "end_date_range": "2026-10-21",
-    "total_shows_extracted": 12
+    "scraping_time": "2026-07-11T19:34:56.938750",
+    "start_date_range": "2026-07-11",
+    "end_date_range": "2026-11-08",
+    "total_shows_extracted": 11
   },
   "shows": [
     {
@@ -42,18 +42,6 @@
         "Discover West 7th — A Shop Small Adventure"
       ],
       "link": "https://fortroadfed.org/shop-small-adventure"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-28",
-      "venue": "Ordway Center for the Performing Arts",
-      "title": "SIX",
-      "tour": "Arts & Culture",
-      "support_raw": "",
-      "artists": [
-        "SIX"
-      ],
-      "link": "https://ordway.org/events/six/"
     },
     {
       "date": "2026-06-20",

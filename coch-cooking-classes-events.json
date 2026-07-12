@@ -1,47 +1,10 @@
 {
   "metadata": {
     "site": "coch_cooking_classes",
-    "scraping_time": "2026-06-23T15:12:38.589476",
-    "start_date_range": "2026-06-23",
-    "end_date_range": "2026-10-21",
-    "total_shows_extracted": 3
+    "scraping_time": "2026-07-11T19:35:22.503470",
+    "start_date_range": "2026-07-11",
+    "end_date_range": "2026-11-08",
+    "total_shows_extracted": 0
   },
-  "shows": [
-    {
-      "date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "venue": "Cooks of Crocus Hill - St. Paul",
-      "title": "My Big Fat Greek Wine Tasting",
-      "tour": "Cooking Class",
-      "support_raw": "6 PM  $75",
-      "artists": [
-        "My Big Fat Greek Wine Tasting"
-      ],
-      "link": "https://cooksofcrocushill.com/my-big-fat-greek-wine-tasting-june-24-st-paul-6-pm/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "Cooks of Crocus Hill - Minneapolis",
-      "title": "Gluten-Free Pizza Party",
-      "tour": "Cooking Class",
-      "support_raw": "6 PM  $110",
-      "artists": [
-        "Gluten-Free Pizza Party"
-      ],
-      "link": "https://cooksofcrocushill.com/gluten-free-pizza-party-june-27-minneapolis-6-pm/"
-    },
-    {
-      "date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "venue": "Cooks of Crocus Hill - Minneapolis",
-      "title": "Game Night in the Kitchen: Latin",
-      "tour": "Cooking Class",
-      "support_raw": "4 PM  $110",
-      "artists": [
-        "Game Night in the Kitchen: Latin"
-      ],
-      "link": "https://cooksofcrocushill.com/game-night-in-the-kitchen-latin-june-28-minneapolis-4-pm/"
-    }
-  ]
+  "shows": []
 }

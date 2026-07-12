@@ -1,46 +1,12 @@
 {
   "metadata": {
     "site": "grand_casino_arena",
-    "scraping_time": "2026-06-23T15:12:33.996826",
-    "start_date_range": "2026-06-23",
-    "end_date_range": "2026-10-21",
-    "total_shows_extracted": 12
+    "scraping_time": "2026-07-11T19:34:48.781419",
+    "start_date_range": "2026-07-11",
+    "end_date_range": "2026-11-08",
+    "total_shows_extracted": 9
   },
   "shows": [
-    {
-      "date": "2026-06-24",
-      "venue": "Grand Casino Arena",
-      "title": "Lionel Richie and Earth, Wind & Fire",
-      "tour": "Starts at 7:30 PM",
-      "support_raw": "",
-      "artists": [
-        "Lionel Richie",
-        "Earth, Wind & Fire"
-      ],
-      "link": "https://www.grandcasinoarena.com/events/detail/lionel-richie-and-earth-wind-fire-1"
-    },
-    {
-      "date": "2026-06-28",
-      "venue": "Grand Casino Arena",
-      "title": "Josh Groban",
-      "tour": "Starts at 8:00 PM",
-      "support_raw": "",
-      "artists": [
-        "Josh Groban"
-      ],
-      "link": "https://www.grandcasinoarena.com/events/detail/josh-groban-1"
-    },
-    {
-      "date": "2026-07-02",
-      "venue": "Grand Casino Arena",
-      "title": "Alex Warren",
-      "tour": "Starts at 7:30 PM",
-      "support_raw": "",
-      "artists": [
-        "Alex Warren"
-      ],
-      "link": "https://www.grandcasinoarena.com/events/detail/alex-warren"
-    },
     {
       "date": "2026-07-15",
       "venue": "Grand Casino Arena",

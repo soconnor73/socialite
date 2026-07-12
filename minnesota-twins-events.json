@@ -1,120 +1,12 @@
 {
   "metadata": {
     "site": "minnesota_twins",
-    "scraping_time": "2026-06-23T15:12:37.606190",
-    "start_date_range": "2026-06-23",
-    "end_date_range": "2026-10-21",
-    "total_shows_extracted": 41
+    "scraping_time": "2026-07-11T19:34:56.228571",
+    "start_date_range": "2026-07-11",
+    "end_date_range": "2026-11-08",
+    "total_shows_extracted": 32
   },
   "shows": [
-    {
-      "date": "2026-06-23",
-      "venue": "Target Field",
-      "title": "Minnesota Twins vs. Los Angeles Dodgers",
-      "tour": "MLB Regular Season",
-      "support_raw": "",
-      "artists": [
-        "Minnesota Twins",
-        "Los Angeles Dodgers"
-      ],
-      "link": "https://www.mlb.com/gameday/823690"
-    },
-    {
-      "date": "2026-06-24",
-      "venue": "Target Field",
-      "title": "Minnesota Twins vs. Los Angeles Dodgers",
-      "tour": "MLB Regular Season",
-      "support_raw": "",
-      "artists": [
-        "Minnesota Twins",
-        "Los Angeles Dodgers"
-      ],
-      "link": "https://www.mlb.com/gameday/823691"
-    },
-    {
-      "date": "2026-06-26",
-      "venue": "Target Field",
-      "title": "Minnesota Twins vs. Colorado Rockies",
-      "tour": "MLB Regular Season",
-      "support_raw": "",
-      "artists": [
-        "Minnesota Twins",
-        "Colorado Rockies"
-      ],
-      "link": "https://www.mlb.com/gameday/823688"
-    },
-    {
-      "date": "2026-06-27",
-      "venue": "Target Field",
-      "title": "Minnesota Twins vs. Colorado Rockies",
-      "tour": "MLB Regular Season",
-      "support_raw": "",
-      "artists": [
-        "Minnesota Twins",
-        "Colorado Rockies"
-      ],
-      "link": "https://www.mlb.com/gameday/823689"
-    },
-    {
-      "date": "2026-06-28",
-      "venue": "Target Field",
-      "title": "Minnesota Twins vs. Colorado Rockies",
-      "tour": "MLB Regular Season",
-      "support_raw": "",
-      "artists": [
-        "Minnesota Twins",
-        "Colorado Rockies"
-      ],
-      "link": "https://www.mlb.com/gameday/823686"
-    },
-    {
-      "date": "2026-07-07",
-      "venue": "Target Field",
-      "title": "Minnesota Twins vs. Cleveland Guardians",
-      "tour": "MLB Regular Season",
-      "support_raw": "",
-      "artists": [
-        "Minnesota Twins",
-        "Cleveland Guardians"
-      ],
-      "link": "https://www.mlb.com/gameday/823687"
-    },
-    {
-      "date": "2026-07-08",
-      "venue": "Target Field",
-      "title": "Minnesota Twins vs. Cleveland Guardians",
-      "tour": "MLB Regular Season",
-      "support_raw": "",
-      "artists": [
-        "Minnesota Twins",
-        "Cleveland Guardians"
-      ],
-      "link": "https://www.mlb.com/gameday/823684"
-    },
-    {
-      "date": "2026-07-09",
-      "venue": "Target Field",
-      "title": "Minnesota Twins vs. Cleveland Guardians",
-      "tour": "MLB Regular Season",
-      "support_raw": "",
-      "artists": [
-        "Minnesota Twins",
-        "Cleveland Guardians"
-      ],
-      "link": "https://www.mlb.com/gameday/823683"
-    },
-    {
-      "date": "2026-07-10",
-      "venue": "Target Field",
-      "title": "Minnesota Twins vs. Los Angeles Angels",
-      "tour": "MLB Regular Season",
-      "support_raw": "",
-      "artists": [
-        "Minnesota Twins",
-        "Los Angeles Angels"
-      ],
-      "link": "https://www.mlb.com/gameday/823685"
-    },
     {
       "date": "2026-07-11",
       "venue": "Target Field",

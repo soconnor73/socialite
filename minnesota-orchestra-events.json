@@ -1,10 +1,10 @@
 {
   "metadata": {
     "site": "minnesota_orchestra",
-    "scraping_time": "2026-06-23T15:12:37.675246",
-    "start_date_range": "2026-06-23",
-    "end_date_range": "2026-10-21",
-    "total_shows_extracted": 12
+    "scraping_time": "2026-07-11T19:34:56.454582",
+    "start_date_range": "2026-07-11",
+    "end_date_range": "2026-11-08",
+    "total_shows_extracted": 19
   },
   "shows": [
     {
@@ -96,6 +96,32 @@
       "link": "https://www.minnesotaorchestra.org/tickets/calendar/classical/pictures-at-an-exhibition"
     },
     {
+      "date": "2026-10-22",
+      "end_date": "2026-10-23",
+      "venue": "Orchestra Hall",
+      "title": "Haydn and Liszt",
+      "tour": "Minnesota Orchestra Event",
+      "support_raw": "",
+      "artists": [
+        "Haydn",
+        "Liszt"
+      ],
+      "link": "https://www.minnesotaorchestra.org/tickets/calendar/classical/haydn-and-liszt"
+    },
+    {
+      "date": "2026-11-05",
+      "end_date": "2026-11-07",
+      "venue": "Orchestra Hall",
+      "title": "Nordic Soundscapes Festival Søndergård, Parker and Sibelius",
+      "tour": "Nordic Soundscapes Festival",
+      "support_raw": "",
+      "artists": [
+        "Nordic Soundscapes Festival Søndergård, Parker",
+        "Sibelius"
+      ],
+      "link": "https://www.minnesotaorchestra.org/tickets/calendar/classical/sondergard-parker-and-sibelius"
+    },
+    {
       "date": "2026-07-26",
       "end_date": "2026-07-26",
       "venue": "Orchestra Hall",
@@ -136,6 +162,19 @@
       "link": "https://www.minnesotaorchestra.org/tickets/calendar/live/jazz-at-lincoln-center-orchestra-2026"
     },
     {
+      "date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "venue": "Orchestra Hall",
+      "title": "Ben Folds with the Minnesota Orchestra",
+      "tour": "Minnesota Orchestra Event",
+      "support_raw": "with the Minnesota Orchestra",
+      "artists": [
+        "Ben Folds",
+        "the Minnesota Orchestra"
+      ],
+      "link": "https://www.minnesotaorchestra.org/tickets/calendar/live/ben-folds-with-the-minnesota-orchestra"
+    },
+    {
       "date": "2026-10-08",
       "end_date": "2026-10-11",
       "venue": "Orchestra Hall",
@@ -149,6 +188,19 @@
       "link": "https://www.minnesotaorchestra.org/tickets/calendar/movies-music/the-return-of-the-jedi-in-concert"
     },
     {
+      "date": "2026-10-30",
+      "end_date": "2026-10-31",
+      "venue": "Orchestra Hall",
+      "title": "U.S. Bank Movies & Music Vertigo with the Minnesota Orchestra",
+      "tour": "U.S. Bank Movies & Music",
+      "support_raw": "with the Minnesota Orchestra",
+      "artists": [
+        "U.S. Bank Movies & Music Vertigo",
+        "the Minnesota Orchestra"
+      ],
+      "link": "https://www.minnesotaorchestra.org/tickets/calendar/movies-music/vertigo"
+    },
+    {
       "date": "2026-10-17",
       "end_date": "2026-10-17",
       "venue": "Orchestra Hall",
@@ -159,6 +211,44 @@
         "Fall Sensory-Friendly Concert in the Target Atrium"
       ],
       "link": "https://www.minnesotaorchestra.org/tickets/calendar/family-sensory-friendly/fall-sensory-friendly-concert"
+    },
+    {
+      "date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "venue": "Orchestra Hall",
+      "title": "Nordic Soundscapes Festival The Musical Tales of Hans Christian Andersen FAMILY CONCERT",
+      "tour": "Nordic Soundscapes Festival",
+      "support_raw": "FAMILY CONCERT",
+      "artists": [
+        "Nordic Soundscapes Festival The Musical Tales of Hans Christian Andersen FAMILY CONCERT"
+      ],
+      "link": "https://www.minnesotaorchestra.org/tickets/calendar/family-sensory-friendly/the-musical-tales-of-hans-christian-andersen"
+    },
+    {
+      "date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "venue": "Orchestra Hall",
+      "title": "Chamber Music in the Hall Brahms, Prokofiev and Tabakova Featuring Simon Trpčeski",
+      "tour": "Chamber Music in the Hall",
+      "support_raw": "Featuring Simon Trpčeski",
+      "artists": [
+        "Chamber Music in the Hall Brahms, Prokofiev",
+        "Tabakova Featuring Simon Trpčeski"
+      ],
+      "link": "https://www.minnesotaorchestra.org/tickets/calendar/chamber/brahms-prokofiev-and-bacewicz"
+    },
+    {
+      "date": "2026-10-27",
+      "end_date": "2026-10-29",
+      "venue": "Orchestra Hall",
+      "title": "Young People's Concert Peter and the Wolf Grades 1-6",
+      "tour": "Young People's Concert",
+      "support_raw": "Grades 1-6",
+      "artists": [
+        "Young People's Concert Peter",
+        "the Wolf Grades 1-6"
+      ],
+      "link": "https://www.minnesotaorchestra.org/tickets/calendar/young-peoples/peter-and-the-wolf"
     }
   ]
 }

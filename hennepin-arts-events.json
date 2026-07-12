@@ -1,10 +1,10 @@
 {
   "metadata": {
     "site": "hennepin_arts",
-    "scraping_time": "2026-06-23T15:12:37.706703",
-    "start_date_range": "2026-06-23",
-    "end_date_range": "2026-10-21",
-    "total_shows_extracted": 112
+    "scraping_time": "2026-07-11T19:34:56.601074",
+    "start_date_range": "2026-07-11",
+    "end_date_range": "2026-11-08",
+    "total_shows_extracted": 123
   },
   "shows": [
     {
@@ -30,6 +30,30 @@
         "Basement Yard 2026"
       ],
       "link": "https://www.ticketmaster.com/event/060064C1C05FA178"
+    },
+    {
+      "date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "venue": "Hennepin Arts",
+      "title": "Lucas Zelnick",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Lucas Zelnick"
+      ],
+      "link": "https://hennepinarts.org/events/lucas-zelnick-2026"
+    },
+    {
+      "date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "venue": "Hennepin Arts",
+      "title": "Lucas Zelnick",
+      "tour": "9:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Lucas Zelnick"
+      ],
+      "link": "https://hennepinarts.org/events/lucas-zelnick-2026"
     },
     {
       "date": "2026-10-09",
@@ -188,6 +212,66 @@
       "link": "https://www.ticketmaster.com/event/060064C4D7E0E535"
     },
     {
+      "date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "venue": "Hennepin Arts",
+      "title": "Hold On To Your Butts",
+      "tour": "2:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Hold On To Your Butts"
+      ],
+      "link": "https://hennepinarts.org/events/hold-on-to-your-butts-2026"
+    },
+    {
+      "date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "venue": "Hennepin Arts",
+      "title": "Hold On To Your Butts",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Hold On To Your Butts"
+      ],
+      "link": "https://hennepinarts.org/events/hold-on-to-your-butts-2026"
+    },
+    {
+      "date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "venue": "Hennepin Arts",
+      "title": "Hold On To Your Butts",
+      "tour": "2:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Hold On To Your Butts"
+      ],
+      "link": "https://hennepinarts.org/events/hold-on-to-your-butts-2026"
+    },
+    {
+      "date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "venue": "Hennepin Arts",
+      "title": "Hold On To Your Butts",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Hold On To Your Butts"
+      ],
+      "link": "https://hennepinarts.org/events/hold-on-to-your-butts-2026"
+    },
+    {
+      "date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "venue": "Hennepin Arts",
+      "title": "ARI MATTI LIVE",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "ARI MATTI LIVE"
+      ],
+      "link": "https://hennepinarts.org/events/ari-matti-live-2026"
+    },
+    {
       "date": "2026-07-14",
       "end_date": "2026-07-14",
       "venue": "Hennepin Arts",
@@ -198,6 +282,18 @@
         "Lyle Lovett"
       ],
       "link": "https://www.ticketmaster.com/event/06006481B0B8DE2B"
+    },
+    {
+      "date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "venue": "Hennepin Arts",
+      "title": "When a Woman's Fed Up",
+      "tour": "3:00 PM",
+      "support_raw": "",
+      "artists": [
+        "When a Woman's Fed Up"
+      ],
+      "link": "https://hennepinarts.org/events/when-a-womans-fed-up-2026"
     },
     {
       "date": "2026-08-22",
@@ -212,28 +308,16 @@
       "link": "https://www.ticketmaster.com/event/060064C19C936461"
     },
     {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
+      "date": "2026-11-08",
+      "end_date": "2026-11-08",
       "venue": "Hennepin Arts",
-      "title": "Leanne Morgan",
-      "tour": "7:00 PM",
+      "title": "Neil deGrasse Tyson",
+      "tour": "7:30 PM",
       "support_raw": "",
       "artists": [
-        "Leanne Morgan"
+        "Neil deGrasse Tyson"
       ],
-      "link": "https://www.ticketmaster.com/event/060064748395612F"
-    },
-    {
-      "date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "venue": "Hennepin Arts",
-      "title": "Leanne Morgan",
-      "tour": "7:00 PM",
-      "support_raw": "",
-      "artists": [
-        "Leanne Morgan"
-      ],
-      "link": "https://www.ticketmaster.com/event/06006479DB3AFD94"
+      "link": "https://www.ticketmaster.com/event/060064BAA8BC87E2"
     },
     {
       "date": "2026-10-17",
@@ -320,18 +404,6 @@
       "link": "https://hennepinarts.org/events/jewelry-power-elite-2026"
     },
     {
-      "date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "venue": "Hennepin Arts",
-      "title": "Off Book",
-      "tour": "8:00 PM",
-      "support_raw": "",
-      "artists": [
-        "Off Book"
-      ],
-      "link": "https://hennepinarts.org/events/off-book-2026"
-    },
-    {
       "date": "2026-07-11",
       "end_date": "2026-07-11",
       "venue": "Hennepin Arts",
@@ -342,6 +414,42 @@
         "Off Book"
       ],
       "link": "https://hennepinarts.org/events/off-book-2026"
+    },
+    {
+      "date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "venue": "Hennepin Arts",
+      "title": "Russ Taff",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Russ Taff"
+      ],
+      "link": "https://www.ticketmaster.com/event/060064ACE45B9293"
+    },
+    {
+      "date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "venue": "Hennepin Arts",
+      "title": "Deconstructing the Music Live",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Deconstructing the Music Live"
+      ],
+      "link": "https://www.ticketmaster.com/event/060064AED6884678"
+    },
+    {
+      "date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "venue": "Hennepin Arts",
+      "title": "Mojo Brookzz",
+      "tour": "7:00 PM",
+      "support_raw": "",
+      "artists": [
+        "Mojo Brookzz"
+      ],
+      "link": "https://www.ticketmaster.com/event/060064A8CB536016"
     },
     {
       "date": "2026-10-08",
@@ -464,18 +572,6 @@
       "link": "https://www.ticketmaster.com/event/06006489F2BBC2A3"
     },
     {
-      "date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "venue": "Hennepin Arts",
-      "title": "Battle of the Improv All-Stars",
-      "tour": "7:30 PM",
-      "support_raw": "",
-      "artists": [
-        "Battle of the Improv All-Stars"
-      ],
-      "link": "https://hennepinarts.org/events/battle-of-the-improv-all-stars-2025"
-    },
-    {
       "date": "2026-07-11",
       "end_date": "2026-07-11",
       "venue": "Hennepin Arts",
@@ -584,17 +680,16 @@
       "link": "https://hennepinarts.org/events/battle-of-the-improv-all-stars-2025"
     },
     {
-      "date": "2026-07-07",
-      "end_date": "2026-07-07",
+      "date": "2026-11-05",
+      "end_date": "2026-11-05",
       "venue": "Hennepin Arts",
-      "title": "Mike Campbell & The Dirty Knobs",
+      "title": "Justin Willman",
       "tour": "7:00 PM",
       "support_raw": "",
       "artists": [
-        "Mike Campbell",
-        "The Dirty Knobs"
+        "Justin Willman"
       ],
-      "link": "https://www.ticketmaster.com/event/06006465A8F461EC"
+      "link": "https://hennepinarts.org/events/justin-willman-2026"
     },
     {
       "date": "2026-10-12",
@@ -631,6 +726,18 @@
         "Tab Benoit"
       ],
       "link": "https://www.ticketmaster.com/event/06006463CBB55433"
+    },
+    {
+      "date": "2026-10-22",
+      "end_date": "2026-10-22",
+      "venue": "Hennepin Arts",
+      "title": "Outlander In Concert",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "Outlander In Concert"
+      ],
+      "link": "https://www.ticketmaster.com/event/06006471C993F896"
     },
     {
       "date": "2026-10-15",
@@ -715,54 +822,6 @@
         "Sting"
       ],
       "link": "https://www.ticketmaster.com/event/06006457B546E3D9"
-    },
-    {
-      "date": "2026-07-08",
-      "end_date": "2026-07-08",
-      "venue": "Hennepin Arts",
-      "title": "Wicked",
-      "tour": "7:30 PM",
-      "support_raw": "",
-      "artists": [
-        "Wicked"
-      ],
-      "link": "https://hennepinarts.org/events/wicked"
-    },
-    {
-      "date": "2026-07-09",
-      "end_date": "2026-07-09",
-      "venue": "Hennepin Arts",
-      "title": "Wicked",
-      "tour": "1:00 PM",
-      "support_raw": "",
-      "artists": [
-        "Wicked"
-      ],
-      "link": "https://hennepinarts.org/events/wicked"
-    },
-    {
-      "date": "2026-07-09",
-      "end_date": "2026-07-09",
-      "venue": "Hennepin Arts",
-      "title": "Wicked",
-      "tour": "7:30 PM",
-      "support_raw": "",
-      "artists": [
-        "Wicked"
-      ],
-      "link": "https://hennepinarts.org/events/wicked"
-    },
-    {
-      "date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "venue": "Hennepin Arts",
-      "title": "Wicked",
-      "tour": "7:30 PM",
-      "support_raw": "",
-      "artists": [
-        "Wicked"
-      ],
-      "link": "https://hennepinarts.org/events/wicked"
     },
     {
       "date": "2026-07-11",
@@ -1238,6 +1297,78 @@
       "venue": "Hennepin Arts",
       "title": "The Sound of Music",
       "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "The Sound of Music"
+      ],
+      "link": "https://hennepinarts.org/events/the-sound-of-music-2026"
+    },
+    {
+      "date": "2026-10-22",
+      "end_date": "2026-10-22",
+      "venue": "Hennepin Arts",
+      "title": "The Sound of Music",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "The Sound of Music"
+      ],
+      "link": "https://hennepinarts.org/events/the-sound-of-music-2026"
+    },
+    {
+      "date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "venue": "Hennepin Arts",
+      "title": "The Sound of Music",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "The Sound of Music"
+      ],
+      "link": "https://hennepinarts.org/events/the-sound-of-music-2026"
+    },
+    {
+      "date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "venue": "Hennepin Arts",
+      "title": "The Sound of Music",
+      "tour": "2:00 PM",
+      "support_raw": "",
+      "artists": [
+        "The Sound of Music"
+      ],
+      "link": "https://hennepinarts.org/events/the-sound-of-music-2026"
+    },
+    {
+      "date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "venue": "Hennepin Arts",
+      "title": "The Sound of Music",
+      "tour": "7:30 PM",
+      "support_raw": "",
+      "artists": [
+        "The Sound of Music"
+      ],
+      "link": "https://hennepinarts.org/events/the-sound-of-music-2026"
+    },
+    {
+      "date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "venue": "Hennepin Arts",
+      "title": "The Sound of Music",
+      "tour": "1:00 PM",
+      "support_raw": "",
+      "artists": [
+        "The Sound of Music"
+      ],
+      "link": "https://hennepinarts.org/events/the-sound-of-music-2026"
+    },
+    {
+      "date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "venue": "Hennepin Arts",
+      "title": "The Sound of Music",
+      "tour": "6:30 PM",
       "support_raw": "",
       "artists": [
         "The Sound of Music"

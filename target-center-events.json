@@ -1,24 +1,12 @@
 {
   "metadata": {
     "site": "target_center",
-    "scraping_time": "2026-06-23T15:12:37.626045",
-    "start_date_range": "2026-06-23",
-    "end_date_range": "2026-10-21",
-    "total_shows_extracted": 4
+    "scraping_time": "2026-07-11T19:34:56.348522",
+    "start_date_range": "2026-07-11",
+    "end_date_range": "2026-11-08",
+    "total_shows_extracted": 3
   },
   "shows": [
-    {
-      "date": "2026-07-06",
-      "venue": "Target Center",
-      "title": "Minnesota Lynx vs Connecticut Sun",
-      "tour": "7:00 PM",
-      "support_raw": "",
-      "artists": [
-        "Minnesota Lynx",
-        "Connecticut Sun"
-      ],
-      "link": "https://www.targetcenter.com/events/detail/minnesota-lynx-vs-connecticut-sun-1"
-    },
     {
       "date": "2026-07-11",
       "venue": "Target Center",

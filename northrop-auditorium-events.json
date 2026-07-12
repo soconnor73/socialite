@@ -1,10 +1,10 @@
 {
   "metadata": {
     "site": "northrop_auditorium",
-    "scraping_time": "2026-06-23T15:12:37.734716",
-    "start_date_range": "2026-06-23",
-    "end_date_range": "2026-10-21",
-    "total_shows_extracted": 3
+    "scraping_time": "2026-07-11T19:34:56.702551",
+    "start_date_range": "2026-07-11",
+    "end_date_range": "2026-11-08",
+    "total_shows_extracted": 4
   },
   "shows": [
     {
@@ -42,6 +42,18 @@
       "artists": [
         "Emily Johnson / Catalyst",
         "Overflow Radio"
+      ],
+      "link": "https://tickets.umn.edu/northrop/online/article/NRP2627SEASON"
+    },
+    {
+      "date": "2026-10-27",
+      "end_date": "2026-10-29",
+      "venue": "Northrop Auditorium",
+      "title": "Haunted Harmonies",
+      "tour": "Featuring Caleb Hudson, Trumpet, and Greg Zelek, Northrop OrganistTuesday, Oct. 27, 7 p.m. CTIn Person / LivestreamOn Demand Through Nov. 12026-27 Northrop Season",
+      "support_raw": "Northrop Presents",
+      "artists": [
+        "Haunted Harmonies"
       ],
       "link": "https://tickets.umn.edu/northrop/online/article/NRP2627SEASON"
     }

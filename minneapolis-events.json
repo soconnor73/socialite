@@ -1,16 +1,16 @@
 {
   "metadata": {
     "site": "minneapolis",
-    "scraping_time": "2026-06-23T15:12:35.087218",
-    "start_date_range": "2026-06-23",
-    "end_date_range": "2026-10-21",
-    "total_shows_extracted": 440
+    "scraping_time": "2026-07-11T19:34:52.358628",
+    "start_date_range": "2026-07-11",
+    "end_date_range": "2026-11-08",
+    "total_shows_extracted": 340
   },
   "shows": [
     {
       "date": "2026-06-20",
       "end_date": "2026-08-23",
-      "venue": "725 Vineland Pl",
+      "venue": "Minneapolis",
       "title": "Suzanne Jackson: What Is Love",
       "tour": "Arts & Theater",
       "support_raw": "725 Vineland Pl, Minnesota",
@@ -22,7 +22,7 @@
     {
       "date": "2026-06-20",
       "end_date": "2026-10-04",
-      "venue": "725 Vineland Place",
+      "venue": "Minneapolis",
       "title": "Skyline Mini Golf",
       "tour": "Family Fun",
       "support_raw": "725 Vineland Place, Minneapolis, Minnesota",
@@ -34,7 +34,7 @@
     {
       "date": "2026-06-20",
       "end_date": "2026-07-22",
-      "venue": "2213 Snelling Ave",
+      "venue": "Minneapolis",
       "title": "Exhibition: Kilnforming in the Upper Midwest",
       "tour": "Arts & Theater",
       "support_raw": "2213 Snelling Ave, Minneapolis, Minnesota 55404",
@@ -49,7 +49,7 @@
       "venue": "Theater Latte Da",
       "title": "My Ántonia",
       "tour": "Arts & Theater",
-      "support_raw": "Theater Latte Da, 345 13th Ave NE, Minneapolis, MN 55413",
+      "support_raw": "345 13th Ave NE, Minneapolis, MN 55413",
       "artists": [
         "My Ántonia"
       ],
@@ -57,32 +57,8 @@
     },
     {
       "date": "2026-06-20",
-      "end_date": "2026-06-27",
-      "venue": "2011 Dupont Ave S",
-      "title": "Nobody's Perfect by Simon Williams",
-      "tour": "Arts & Theater, Comedy, Family Fun",
-      "support_raw": "2011 Dupont Ave S, Minneapolis, Minnesota 55405",
-      "artists": [
-        "Nobody's Perfect by Simon Williams"
-      ],
-      "link": "https://www.minneapolis.org/calendar/nobodys-perfect-by-simon-williams/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-28",
-      "venue": "2400 Third Avenue South",
-      "title": "In-Gallery Conversation at Mia: Pride",
-      "tour": "Arts & Theater",
-      "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
-      "artists": [
-        "In-Gallery Conversation at Mia: Pride"
-      ],
-      "link": "https://www.minneapolis.org/calendar/in-gallery-conversation-at-mia-pride/"
-    },
-    {
-      "date": "2026-06-20",
       "end_date": "2026-08-08",
-      "venue": "824 Hennepin Ave.",
+      "venue": "Minneapolis",
       "title": "Battle of the Improv All-Stars 2026",
       "tour": "Comedy, Hennepin Arts",
       "support_raw": "824 Hennepin Ave., Minneapolis, Minnesota 55403",
@@ -93,23 +69,11 @@
     },
     {
       "date": "2026-06-20",
-      "end_date": "2026-06-27",
-      "venue": "901 North Third Street",
-      "title": "MIDSUMMER NIGHT'S DREAM",
-      "tour": "Arts & Theater, Comedy, LGBTQ",
-      "support_raw": "901 North Third Street, Suite 156, Minneapolis, Minnesota 55401",
-      "artists": [
-        "MIDSUMMER NIGHT'S DREAM"
-      ],
-      "link": "https://www.minneapolis.org/calendar/midsummer-nights-dream/"
-    },
-    {
-      "date": "2026-06-20",
       "end_date": "2026-08-09",
       "venue": "Guthrie Theater",
       "title": "Come From Away",
       "tour": "Arts & Theater",
-      "support_raw": "Guthrie Theater, 818 S 2nd St, Minneapolis, Minnesota 55415",
+      "support_raw": "818 S 2nd St, Minneapolis, Minnesota 55415",
       "artists": [
         "Come From Away"
       ],
@@ -117,20 +81,8 @@
     },
     {
       "date": "2026-06-20",
-      "end_date": "2026-06-27",
-      "venue": "2400 Plymouth ave N",
-      "title": "The People's Museum for Prince",
-      "tour": "Arts & Theater, Community, Free, History & Heritage, Live Music",
-      "support_raw": "2400 Plymouth ave N, Minneapolis, Minnesota 55429-2012",
-      "artists": [
-        "The People's Museum for Prince"
-      ],
-      "link": "https://www.minneapolis.org/calendar/the-peoples-museum-for-prince/"
-    },
-    {
-      "date": "2026-06-20",
       "end_date": "2026-12-20",
-      "venue": "823 5th Ave S Floor 1",
+      "venue": "Minneapolis",
       "title": "AMALFI: A Postcard Series",
       "tour": "Food & Drink",
       "support_raw": "823 5th Ave S Floor 1, Minneapolis, MN, MN 55404, Minneapolis, Minnesota 55404",
@@ -145,7 +97,7 @@
       "venue": "IDS Center Crystal Court",
       "title": "Minneapolis Vintage Emporium",
       "tour": "Community, Free, Shopping",
-      "support_raw": "IDS Center Crystal Court, 80 S 8th St, Minneapolis, MN 55402",
+      "support_raw": "80 S 8th St, Minneapolis, MN 55402",
       "artists": [
         "Minneapolis Vintage Emporium"
       ],
@@ -153,47 +105,11 @@
     },
     {
       "date": "2026-06-20",
-      "end_date": "2026-06-28",
-      "venue": "345 Washington",
-      "title": "SIX",
-      "tour": "Arts & Theater, Family Fun, Live Music",
-      "support_raw": "345 Washington, Saint Paul, Minnesota 55102",
-      "artists": [
-        "SIX"
-      ],
-      "link": "https://www.minneapolis.org/calendar/six-2/"
-    },
-    {
-      "date": "2026-06-26",
-      "end_date": "2026-07-10",
-      "venue": "Theatre in the Round",
-      "title": "Blithe Spirit",
-      "tour": "Arts & Theater, Comedy",
-      "support_raw": "Theatre in the Round, 245 Cedar Ave, Minneapolis, MN 55454",
-      "artists": [
-        "Blithe Spirit"
-      ],
-      "link": "https://www.minneapolis.org/calendar/blithe-spirit/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-26",
-      "venue": "University of Minnesota",
-      "title": "Special Olympics USA Games",
-      "tour": "Sports Events, Big Events",
-      "support_raw": "University of Minnesota, Minneapolis, MN 55455",
-      "artists": [
-        "Special Olympics USA Games"
-      ],
-      "link": "https://www.minneapolis.org/calendar/special-olympics-usa-games/"
-    },
-    {
-      "date": "2026-06-20",
       "end_date": "2026-12-19",
-      "venue": "Second Street and 11th Avenue South",
+      "venue": "Second Street and 11th Avenue South, Minneapolis, MN 55415",
       "title": "Experience the Twin Cities' Saturday Riverwalk Food Tour",
       "tour": "Family Fun, Food & Drink",
-      "support_raw": "Second Street and 11th Avenue South, Minneapolis, MN 55415, Minnesota",
+      "support_raw": "Minnesota",
       "artists": [
         "Experience the Twin Cities' Saturday Riverwalk Food Tour"
       ],
@@ -202,7 +118,7 @@
     {
       "date": "2026-06-20",
       "end_date": "2026-12-19",
-      "venue": "505 Nicollet",
+      "venue": "Minneapolis",
       "title": "Minneapolis Hop-on Hop-off Bus Tour (Saturday) by Experience the Twin Cities",
       "tour": "Family Fun, History & Heritage, Outdoor and Recreation",
       "support_raw": "505 Nicollet, Minneapolis, MN 55402, Minnesota",
@@ -213,32 +129,8 @@
     },
     {
       "date": "2026-06-20",
-      "end_date": "2026-06-26",
-      "venue": "2951 Lyndale Ave S",
-      "title": "LETTERS FROM MAX",
-      "tour": "Arts & Theater",
-      "support_raw": "2951 Lyndale Ave S, Minneapolis, Minnesota 55408",
-      "artists": [
-        "LETTERS FROM MAX"
-      ],
-      "link": "https://www.minneapolis.org/calendar/letters-from-max/"
-    },
-    {
-      "date": "2026-06-20",
-      "end_date": "2026-06-27",
-      "venue": "Peavey Plaza",
-      "title": "Minnesota United Soccer Celebration",
-      "tour": "Community, Family Fun, Free, Outdoor and Recreation, Sports Events",
-      "support_raw": "Peavey Plaza, 1101 Nicollet Mall, Minneapolis, MN 55403",
-      "artists": [
-        "Minnesota United Soccer Celebration"
-      ],
-      "link": "https://www.minneapolis.org/calendar/soccer-celebration/"
-    },
-    {
-      "date": "2026-06-20",
       "end_date": "2026-12-19",
-      "venue": "900 N Washington Ave 55401",
+      "venue": "Minneapolis",
       "title": "Experience the Twin Cities' Saturday North Loop Food Tour",
       "tour": "Family Fun, Food & Drink",
       "support_raw": "900 N Washington Ave 55401, Minnesota",
@@ -250,7 +142,7 @@
     {
       "date": "2026-06-20",
       "end_date": "2026-12-05",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "FLAMboyANCE Drag Show",
       "tour": "Arts & Theater, Comedy, Food & Drink, LGBTQ",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -262,7 +154,7 @@
     {
       "date": "2026-06-20",
       "end_date": "2026-09-29",
-      "venue": "100 22nd St E",
+      "venue": "Minneapolis",
       "title": "Candlelight Ghost Tour on the Minneapolis Trolley",
       "tour": "History & Heritage, Holiday",
       "support_raw": "100 22nd St E, Minneapolis, Minnesota 55404",
@@ -274,10 +166,10 @@
     {
       "date": "2026-06-21",
       "end_date": "2026-12-20",
-      "venue": "Second Street and 11th Avenue South",
+      "venue": "Second Street and 11th Avenue South, Minneapolis, MN 55415",
       "title": "Experience the Twin Cities' Sunday Riverwalk Food Tour",
       "tour": "Family Fun, Food & Drink, Outdoor and Recreation",
-      "support_raw": "Second Street and 11th Avenue South, Minneapolis, MN 55415, Minnesota",
+      "support_raw": "Minnesota",
       "artists": [
         "Experience the Twin Cities' Sunday Riverwalk Food Tour"
       ],
@@ -286,7 +178,7 @@
     {
       "date": "2026-06-21",
       "end_date": "2026-08-23",
-      "venue": "823 5th Ave S Floor 1",
+      "venue": "Minneapolis",
       "title": "Postcard Brunch",
       "tour": "Food & Drink",
       "support_raw": "823 5th Ave S Floor 1, Minneapolis, MN, MN 55404, Minneapolis, Minnesota 55404",
@@ -298,7 +190,7 @@
     {
       "date": "2026-06-21",
       "end_date": "2026-12-06",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Beauty and Bubbles Drag Brunch",
       "tour": "Arts & Theater, Comedy, Food & Drink, LGBTQ",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -308,21 +200,9 @@
       "link": "https://www.minneapolis.org/calendar/beauty-and-bubbles-drag-brunch/"
     },
     {
-      "date": "2026-06-22",
-      "end_date": "2026-06-24",
-      "venue": "Target Field",
-      "title": "Minnesota Twins vs. Los Angeles Dodgers",
-      "tour": "Sports Events",
-      "support_raw": "Target Field, 1 Twins Way, Minneapolis, MN 55403",
-      "artists": [
-        "Minnesota Twins vs. Los Angeles Dodgers"
-      ],
-      "link": "https://www.minneapolis.org/calendar/twins-vs-dodgers/"
-    },
-    {
       "date": "2026-06-23",
       "end_date": "2026-08-25",
-      "venue": "600 Malcolm Avenue Southeast",
+      "venue": "Minneapolis",
       "title": "The Chipper Pop-Up",
       "tour": "Food & Drink",
       "support_raw": "600 Malcolm Avenue Southeast, Minneapolis, Minnesota 55414",
@@ -334,7 +214,7 @@
     {
       "date": "2026-06-23",
       "end_date": "2026-12-17",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Drag Queen Charity Bingo",
       "tour": "Arts & Theater, Comedy, Community, Food & Drink, Free, LGBTQ",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -344,33 +224,9 @@
       "link": "https://www.minneapolis.org/calendar/drag-queen-charity-bingo/"
     },
     {
-      "date": "2026-06-23",
-      "end_date": "2026-06-23",
-      "venue": "1010 Nicollet Mall",
-      "title": "Acoustic Alchemy",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Acoustic Alchemy"
-      ],
-      "link": "https://www.minneapolis.org/calendar/acoustic-alchemy/"
-    },
-    {
-      "date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "venue": "1010 Nicollet Mall",
-      "title": "John Pizzarelli Trio: Dear Mr. Bennett",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "John Pizzarelli Trio: Dear Mr. Bennett"
-      ],
-      "link": "https://www.minneapolis.org/calendar/john-pizzarelli-trio-dear-mr-bennett1/"
-    },
-    {
       "date": "2026-06-24",
       "end_date": "2026-12-16",
-      "venue": "505 Nicollet",
+      "venue": "Minneapolis",
       "title": "Essential Walking Tour of Minneapolis by Experience the Twin Cities : Wednesdays",
       "tour": "Family Fun, History & Heritage, Outdoor and Recreation",
       "support_raw": "505 Nicollet, Minneapolis, MN 55402, Minnesota",
@@ -380,192 +236,24 @@
       "link": "https://www.minneapolis.org/calendar/essential-walking-tour-of-minneapolis-by-experience-the-twin-cities-wednesdays/"
     },
     {
-      "date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "venue": "The Commons",
-      "title": "Downtown parks & Netflix: KPop Demon Hunters Sing-Along",
-      "tour": "Community, Family Fun, Free",
-      "support_raw": "The Commons, 425 Portland Ave S, Minneapolis, MN, 55415",
-      "artists": [
-        "Downtown parks & Netflix: KPop Demon Hunters Sing-Along"
-      ],
-      "link": "https://www.minneapolis.org/calendar/kpop-demon-hunters-sing-along/"
-    },
-    {
-      "date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "venue": "1333 Nicollet Mall",
-      "title": "Ultimate Game Night: Super Smash Brothers",
-      "tour": "Food & Drink, Multicultural",
-      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Ultimate Game Night: Super Smash Brothers"
-      ],
-      "link": "https://www.minneapolis.org/calendar/ultimate-game-night-super-smash-brothers/"
-    },
-    {
-      "date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "venue": "416 Cedar Avenue South",
-      "title": "Amir ElSaffar and Lorenzo Bianchi Hoesch present INNER SPACES",
-      "tour": "Live Music",
-      "support_raw": "416 Cedar Avenue South, Minneapolis, Minnesota 55454",
-      "artists": [
-        "Amir ElSaffar and Lorenzo Bianchi Hoesch present INNER SPACES"
-      ],
-      "link": "https://www.minneapolis.org/calendar/amir-elsaffar-and-lorenzo-bianchi-hoesch-present-inner-spaces/"
-    },
-    {
-      "date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "venue": "125 SE Main St.",
-      "title": "Kaatwalk EP Release Show at Aster Café",
-      "tour": "Live Music",
-      "support_raw": "125 SE Main St., Minnesota",
-      "artists": [
-        "Kaatwalk EP Release Show at Aster Café"
-      ],
-      "link": "https://www.minneapolis.org/calendar/kaatwalk-ep-release-show-at-aster-cafe/"
-    },
-    {
       "date": "2026-06-25",
       "end_date": "2026-12-17",
-      "venue": "Second Street and 11th Avenue South",
+      "venue": "Second Street and 11th Avenue South, Minneapolis, MN 55415",
       "title": "Experience the Twin Cities' Thursday Riverwalk Food Tour",
       "tour": "Family Fun, Food & Drink, Outdoor and Recreation",
-      "support_raw": "Second Street and 11th Avenue South, Minneapolis, MN 55415, Minnesota",
+      "support_raw": "Minnesota",
       "artists": [
         "Experience the Twin Cities' Thursday Riverwalk Food Tour"
       ],
       "link": "https://www.minneapolis.org/calendar/experience-the-twin-cities-thursday-riverwalk-food-tour/"
     },
     {
-      "date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "venue": "2400 Third Avenue South",
-      "title": "Meet at Mia: Summer Series — June 25",
-      "tour": "Free",
-      "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
-      "artists": [
-        "Meet at Mia: Summer Series — June 25"
-      ],
-      "link": "https://www.minneapolis.org/calendar/meet-at-mia-summer-series-june-25/"
-    },
-    {
-      "date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "venue": "430 North 1st Avenue",
-      "title": "Summer Show Art Opening",
-      "tour": "Arts & Theater",
-      "support_raw": "430 North 1st Avenue, Minneapolis, Minnesota 55401",
-      "artists": [
-        "Summer Show Art Opening"
-      ],
-      "link": "https://www.minneapolis.org/calendar/summer-show-art-opening/"
-    },
-    {
-      "date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "venue": "704 South Second Street",
-      "title": "Weaving History: A Celebration of Minnesota Unraveled Storytellers",
-      "tour": "Community",
-      "support_raw": "704 South Second Street, Minneapolis, Minnesota 55401",
-      "artists": [
-        "Weaving History: A Celebration of Minnesota Unraveled Storytellers"
-      ],
-      "link": "https://www.minneapolis.org/calendar/weaving-history-a-celebration-of-minnesota-unraveled-storytellers/"
-    },
-    {
-      "date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "venue": "1758 W River Road N",
-      "title": "Never River",
-      "tour": "Sports Events",
-      "support_raw": "1758 W River Road N, Minneapolis, Minnesota 55411",
-      "artists": [
-        "Never River"
-      ],
-      "link": "https://www.minneapolis.org/calendar/never-river-3/"
-    },
-    {
-      "date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "venue": "The Armory",
-      "title": "Louis Tomlinson How Did We Get Here? World Tour 2026",
-      "tour": "Live Music",
-      "support_raw": "The Armory, 500 S 6th St, Minneapolis, MN 55415",
-      "artists": [
-        "Louis Tomlinson How Did We Get Here? World Tour 2026"
-      ],
-      "link": "https://www.minneapolis.org/calendar/louis-tomlinson/"
-    },
-    {
-      "date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "venue": "1333 Nicollet Mall",
-      "title": "The Buttercream Show with special guest Splash",
-      "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
-      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "The Buttercream Show with special guest Splash"
-      ],
-      "link": "https://www.minneapolis.org/calendar/the-buttercream-show-with-special-guest-splash/"
-    },
-    {
-      "date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "venue": "1010 Nicollet Mall",
-      "title": "L.A. Buckner & BiG HOMiE: EP Release",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "L.A. Buckner & BiG HOMiE: EP Release"
-      ],
-      "link": "https://www.minneapolis.org/calendar/la-buckner-big-homie-ep-release/"
-    },
-    {
-      "date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "venue": "1333 Nicollet Mall",
-      "title": "DRAG HOUSE RULES Season 2 Watch Party",
-      "tour": "Food & Drink, LGBTQ, Multicultural",
-      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "DRAG HOUSE RULES Season 2 Watch Party"
-      ],
-      "link": "https://www.minneapolis.org/calendar/drag-house-rules-season-2-watch-party/"
-    },
-    {
-      "date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "venue": "416 Cedar Avenue South",
-      "title": "An Evening with ALYSHA BRILLA",
-      "tour": "Live Music",
-      "support_raw": "416 Cedar Avenue South, Minneapolis, Minnesota 55454",
-      "artists": [
-        "An Evening with ALYSHA BRILLA"
-      ],
-      "link": "https://www.minneapolis.org/calendar/an-evening-with-alysha-brilla/"
-    },
-    {
-      "date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "venue": "125 SE Main St.",
-      "title": "Honeymoon Madness w/​ Max Rewitzer at Aster Café",
-      "tour": "Live Music",
-      "support_raw": "125 SE Main St., Minnesota",
-      "artists": [
-        "Honeymoon Madness w/​ Max Rewitzer at Aster Café"
-      ],
-      "link": "https://www.minneapolis.org/calendar/honeymoon-madness-w-max-rewitzer-at-aster-cafe-2/"
-    },
-    {
       "date": "2026-06-26",
       "end_date": "2026-12-18",
-      "venue": "Second Street and 11th Avenue South",
+      "venue": "Second Street and 11th Avenue South, Minneapolis, MN 55415",
       "title": "Experience the Twin Cities' Friday Riverwalk Food Tour",
       "tour": "Family Fun, Food & Drink, Outdoor and Recreation",
-      "support_raw": "Second Street and 11th Avenue South, Minneapolis, MN 55415, Minnesota",
+      "support_raw": "Minnesota",
       "artists": [
         "Experience the Twin Cities' Friday Riverwalk Food Tour"
       ],
@@ -574,7 +262,7 @@
     {
       "date": "2026-06-26",
       "end_date": "2026-12-18",
-      "venue": "505 Nicollet",
+      "venue": "Minneapolis",
       "title": "Minneapolis Hop-on Hop-off Bus Tour (Friday) by Experience the Twin Cities",
       "tour": "Family Fun, History & Heritage, Outdoor and Recreation",
       "support_raw": "505 Nicollet, Minneapolis, MN 55402, Minnesota",
@@ -584,484 +272,16 @@
       "link": "https://www.minneapolis.org/calendar/minneapolis-hop-on-hop-off-bus-tour-friday-by-experience-the-twin-cities/"
     },
     {
-      "date": "2026-06-26",
-      "end_date": "2026-06-28",
-      "venue": "Target Field",
-      "title": "Minnesota Twins vs. Colorado Rockies",
-      "tour": "Sports Events",
-      "support_raw": "Target Field, 1 Twins Way, Minneapolis, MN 55403",
-      "artists": [
-        "Minnesota Twins vs. Colorado Rockies"
-      ],
-      "link": "https://www.minneapolis.org/calendar/twins-vs-rockies/"
-    },
-    {
-      "date": "2026-06-26",
-      "end_date": "2026-06-26",
-      "venue": "900 S WASHINGTON AVE",
-      "title": "Rainbow Rhythms: Pride Poolside Party",
-      "tour": "LGBTQ",
-      "support_raw": "900 S WASHINGTON AVE, MINNEAPOLIS, Minnesota 55415",
-      "artists": [
-        "Rainbow Rhythms: Pride Poolside Party"
-      ],
-      "link": "https://www.minneapolis.org/calendar/rainbow-rhythms-pride-poolside-party/"
-    },
-    {
-      "date": "2026-06-26",
-      "end_date": "2026-06-26",
-      "venue": "400 Kenwood Parkway",
-      "title": "14th Annual Pride Beer Dabbler",
-      "tour": "Community, Fairs & Festivals, Food & Drink, LGBTQ",
-      "support_raw": "400 Kenwood Parkway, Minneapolis, Minnesota 55403",
-      "artists": [
-        "14th Annual Pride Beer Dabbler"
-      ],
-      "link": "https://www.minneapolis.org/calendar/14th-annual-pride-beer-dabbler/"
-    },
-    {
-      "date": "2026-06-26",
-      "end_date": "2026-06-26",
-      "venue": "1333 Nicollet Mall",
-      "title": "Roxy's Cabaret Presents: Celine Dion and Friends",
-      "tour": "Food & Drink, LGBTQ, Multicultural",
-      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Roxy's Cabaret Presents: Celine Dion and Friends"
-      ],
-      "link": "https://www.minneapolis.org/calendar/roxys-cabaret-presents-celine-dion-and-friends/"
-    },
-    {
-      "date": "2026-06-26",
-      "end_date": "2026-06-26",
-      "venue": "1333 Nicollet Mall",
-      "title": "Pride Weekend with Mo Heart",
-      "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
-      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Pride Weekend with Mo Heart"
-      ],
-      "link": "https://www.minneapolis.org/calendar/pride-weekend-with-mo-heart/"
-    },
-    {
-      "date": "2026-06-26",
-      "end_date": "2026-06-26",
-      "venue": "1010 Nicollet Mall",
-      "title": "Stanley Jordan",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Stanley Jordan"
-      ],
-      "link": "https://www.minneapolis.org/calendar/stanley-jordan/"
-    },
-    {
-      "date": "2026-06-26",
-      "end_date": "2026-06-26",
-      "venue": "501 West 78th Street",
-      "title": "Beautiful Vision — The Songs of Van Morrison",
-      "tour": "Live Music",
-      "support_raw": "501 West 78th Street, Chanhassen, Minnesota 55317",
-      "artists": [
-        "Beautiful Vision — The Songs of Van Morrison"
-      ],
-      "link": "https://www.minneapolis.org/calendar/beautiful-vision-the-songs-of-van-morrison/"
-    },
-    {
-      "date": "2026-06-26",
-      "end_date": "2026-06-27",
-      "venue": "1333 Nicollet Mall",
-      "title": "Rooftop Patio Dance Party",
-      "tour": "Dance, Food & Drink, LGBTQ, Multicultural",
-      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Rooftop Patio Dance Party"
-      ],
-      "link": "https://www.minneapolis.org/calendar/rooftop-patio-dance-party/"
-    },
-    {
-      "date": "2026-06-26",
-      "end_date": "2026-06-26",
-      "venue": "125 SE Main St.",
-      "title": "The Neighborhood Quartet at Aster Café",
-      "tour": "Live Music",
-      "support_raw": "125 SE Main St., Minnesota",
-      "artists": [
-        "The Neighborhood Quartet at Aster Café"
-      ],
-      "link": "https://www.minneapolis.org/calendar/the-neighborhood-quartet-at-aster-cafe1/"
-    },
-    {
-      "date": "2026-06-26",
-      "end_date": "2026-06-26",
-      "venue": "125 SE Main St.",
-      "title": "The Neighborhood Quartet at Aster Café",
-      "tour": "Live Music",
-      "support_raw": "125 SE Main St., Minnesota",
-      "artists": [
-        "The Neighborhood Quartet at Aster Café"
-      ],
-      "link": "https://www.minneapolis.org/calendar/the-neighborhood-quartet-at-aster-cafe/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-28",
-      "venue": "Loring Park",
-      "title": "Twin Cities Pride Festival",
-      "tour": "Arts & Theater, Community, Fairs & Festivals, Family Fun, Food & Drink, Free, LGBTQ, Live Music, Big Events",
-      "support_raw": "Loring Park, Loring Greenway, Minneapolis, MN 55403",
-      "artists": [
-        "Twin Cities Pride Festival"
-      ],
-      "link": "https://www.minneapolis.org/calendar/twin-cities-pride-festival/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "Minneapolis Convention Center",
-      "title": "Time Travelers Vintage Expo",
-      "tour": "Community, Shopping, Big Events",
-      "support_raw": "Minneapolis Convention Center, 1301 2nd Ave S, Minneapolis, MN 55404",
-      "artists": [
-        "Time Travelers Vintage Expo"
-      ],
-      "link": "https://www.minneapolis.org/calendar/time-travelers-vintage-expo/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "Surly Brewing Co",
-      "title": "5k Fun Run x Surly Brewing Co",
-      "tour": "Fitness, Food & Drink, Outdoor and Recreation",
-      "support_raw": "Surly Brewing Co, 520 Malcolm Ave SE, Minneapolis, MN 55414",
-      "artists": [
-        "5k Fun Run x Surly Brewing Co"
-      ],
-      "link": "https://www.minneapolis.org/calendar/5k-fun-run-surly-brewing/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "Broken Clock Brewing Cooperative",
-      "title": "Queer Makers Market",
-      "tour": "Community, Food & Drink, Free, LGBTQ, Shopping",
-      "support_raw": "Broken Clock Brewing Cooperative, 1712 Marshall St NE, Suite 100, Minneapolis, MN 55413",
-      "artists": [
-        "Queer Makers Market"
-      ],
-      "link": "https://www.minneapolis.org/calendar/queer-makers-market/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "1845 Stinson Parkway NE suite 103",
-      "title": "LGBTQIA+ Somatic Restore Yoga Class",
-      "tour": "Fitness, Free, LGBTQ",
-      "support_raw": "1845 Stinson Parkway NE suite 103, Minneapolis, Minnesota 55418",
-      "artists": [
-        "LGBTQIA+ Somatic Restore Yoga Class"
-      ],
-      "link": "https://www.minneapolis.org/calendar/lgbtqia-somatic-restore-yoga-class-3/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "80 S 9th St.",
-      "title": "Jeff Ray & The Stakes",
-      "tour": "Live Music",
-      "support_raw": "80 S 9th St., Minneapolis, MN, Minnesota 55402",
-      "artists": [
-        "Jeff Ray & The Stakes"
-      ],
-      "link": "https://www.minneapolis.org/calendar/jeff-ray-the-stakes-2/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "2400 Third Avenue South",
-      "title": "Mini Mia — June 27",
-      "tour": "Free",
-      "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
-      "artists": [
-        "Mini Mia — June 27"
-      ],
-      "link": "https://www.minneapolis.org/calendar/mini-mia-june-27/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "1105 Washington Ave S",
-      "title": "NOR & CBE Presents | Nomolos | Lipstinger | Ryan Howe | Wyatt Avery | Johnny Williams",
-      "tour": "Dance, Family Fun, Food & Drink, LGBTQ, Live Music",
-      "support_raw": "1105 Washington Ave S, Minneapolis, Minnesota 55415",
-      "artists": [
-        "NOR & CBE Presents | Nomolos | Lipstinger | Ryan Howe | Wyatt Avery | Johnny Williams"
-      ],
-      "link": "https://www.minneapolis.org/calendar/nor-cbe-presents-nomolos-lipstinger-ryan-howe-wyatt-avery-johnny-williams/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "2000 4th Ave S",
-      "title": "UltraBomb In-store Performance and Signing",
-      "tour": "Free, Live Music, Shopping",
-      "support_raw": "2000 4th Ave S, Minneapolis, MN, Minnesota 55404",
-      "artists": [
-        "UltraBomb In-store Performance and Signing"
-      ],
-      "link": "https://www.minneapolis.org/calendar/ultrabomb-in-store-performance-and-signing/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "1845 Stinson Parkway 103",
-      "title": "Yoga Nidra + Sound Bowl Experience",
-      "tour": "Fitness, LGBTQ",
-      "support_raw": "1845 Stinson Parkway 103, Minneapolis, Minnesota 55418",
-      "artists": [
-        "Yoga Nidra + Sound Bowl Experience"
-      ],
-      "link": "https://www.minneapolis.org/calendar/yoga-nidra-sound-bowl-experience/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "609 Hennepin Avenue",
-      "title": "The Official Pride Bar Crawl — Minneapolis",
-      "tour": "Food & Drink",
-      "support_raw": "609 Hennepin Avenue, Minneapolis, Minnesota 55403",
-      "artists": [
-        "The Official Pride Bar Crawl — Minneapolis"
-      ],
-      "link": "https://www.minneapolis.org/calendar/the-official-pride-bar-crawl-minneapolis/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "1009 W Franklin Ave",
-      "title": "Artist Talk: Carl Oltvedt",
-      "tour": "Arts & Theater, Community, Free, Shopping",
-      "support_raw": "1009 W Franklin Ave, Minneapolis, Minnesota 55405",
-      "artists": [
-        "Artist Talk: Carl Oltvedt"
-      ],
-      "link": "https://www.minneapolis.org/calendar/artist-talk-carl-oltvedt/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-28",
-      "venue": "501 West 78th Street",
-      "title": "Candy-OH! — A Tribute to the Cars",
-      "tour": "Live Music",
-      "support_raw": "501 West 78th Street, Chanhassen, Minnesota 55317",
-      "artists": [
-        "Candy-OH! — A Tribute to the Cars"
-      ],
-      "link": "https://www.minneapolis.org/calendar/candy-oh-a-tribute-to-the-cars/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "1105 Washington Ave S",
-      "title": "Closed City Terror | Renegade Escape | BuzzBox",
-      "tour": "Dance, Food & Drink, LGBTQ, Live Music",
-      "support_raw": "1105 Washington Ave S, Minneapolis, Minnesota 55415",
-      "artists": [
-        "Closed City Terror | Renegade Escape | BuzzBox"
-      ],
-      "link": "https://www.minneapolis.org/calendar/closed-city-terror-renegade-escape-buzzbox/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "80 S 9th St.",
-      "title": "Courtney Burton and Court's in Session",
-      "tour": "Live Music",
-      "support_raw": "80 S 9th St., Minneapolis, MN, Minnesota 55402",
-      "artists": [
-        "Courtney Burton and Court's in Session"
-      ],
-      "link": "https://www.minneapolis.org/calendar/courtney-burton-and-courts-in-session/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "1333 Nicollet Mall",
-      "title": "Pride Saturday Drag Show",
-      "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
-      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Pride Saturday Drag Show"
-      ],
-      "link": "https://www.minneapolis.org/calendar/pride-saturday-drag-show/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "1010 Nicollet Mall",
-      "title": "Andrew Walesch & His Orchestra: Vegas 1960",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Andrew Walesch & His Orchestra: Vegas 1960"
-      ],
-      "link": "https://www.minneapolis.org/calendar/andrew-walesch-his-orchestra-vegas-1960/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "1333 Nicollet Mall",
-      "title": "FLAMboyANCE Drag Show",
-      "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
-      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "FLAMboyANCE Drag Show"
-      ],
-      "link": "https://www.minneapolis.org/calendar/flamboyance-drag-show1-2/"
-    },
-    {
-      "date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "venue": "345 Washington St",
-      "title": "Royalty Chorus Concert",
-      "tour": "Arts & Theater, LGBTQ, Live Music",
-      "support_raw": "345 Washington St, Saint Paul, Minnesota 55102",
-      "artists": [
-        "Royalty Chorus Concert"
-      ],
-      "link": "https://www.minneapolis.org/calendar/royalty-chorus-concert/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "125 SE Main St.",
-      "title": "Holy Hannah! with Dark Pony at Aster Café",
-      "tour": "Live Music",
-      "support_raw": "125 SE Main St., Minnesota",
-      "artists": [
-        "Holy Hannah! with Dark Pony at Aster Café"
-      ],
-      "link": "https://www.minneapolis.org/calendar/holy-hannah-with-dark-pony-at-aster-cafe-2/"
-    },
-    {
       "date": "2026-06-28",
       "end_date": "2026-09-15",
       "venue": "Target Field",
       "title": "Wine, Women & Baseball",
       "tour": "Food & Drink, Sports Events",
-      "support_raw": "Target Field, 1 Twins Way, Minneapolis, MN 55403",
+      "support_raw": "1 Twins Way, Minneapolis, MN 55403",
       "artists": [
         "Wine, Women & Baseball"
       ],
       "link": "https://www.minneapolis.org/calendar/wine-women-baseball/"
-    },
-    {
-      "date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "venue": "80 S 9th St.",
-      "title": "Roe Family Singers",
-      "tour": "Live Music",
-      "support_raw": "80 S 9th St., Minneapolis, MN, Minnesota 55402",
-      "artists": [
-        "Roe Family Singers"
-      ],
-      "link": "https://www.minneapolis.org/calendar/roe-family-singers/"
-    },
-    {
-      "date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "venue": "527 South Marquette Avenue",
-      "title": "Drag Brunch at Blondette: Pride Parade Brunch",
-      "tour": "LGBTQ",
-      "support_raw": "527 South Marquette Avenue, Minneapolis, Minnesota 55402",
-      "artists": [
-        "Drag Brunch at Blondette: Pride Parade Brunch"
-      ],
-      "link": "https://www.minneapolis.org/calendar/drag-brunch-at-blondette-pride-parade-brunch/"
-    },
-    {
-      "date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "venue": "910 Hennepin Ave",
-      "title": "Twin Cities Pride Parade",
-      "tour": "Arts & Theater, Community, Fairs & Festivals, Family Fun, Free, LGBTQ, Big Events",
-      "support_raw": "910 Hennepin Ave, Minneapolis, MN 55403",
-      "artists": [
-        "Twin Cities Pride Parade"
-      ],
-      "link": "https://www.minneapolis.org/calendar/twin-cities-pride-parade/"
-    },
-    {
-      "date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "venue": "1333 Nicollet Mall",
-      "title": "Pride Rooftop Tea-Dance",
-      "tour": "Dance, Food & Drink, LGBTQ, Multicultural",
-      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Pride Rooftop Tea-Dance"
-      ],
-      "link": "https://www.minneapolis.org/calendar/pride-rooftop-tea-dance/"
-    },
-    {
-      "date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "venue": "1333 Nicollet Mall",
-      "title": "Post Parade Pride Drag Brunch",
-      "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
-      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Post Parade Pride Drag Brunch"
-      ],
-      "link": "https://www.minneapolis.org/calendar/post-parade-pride-drag-brunch/"
-    },
-    {
-      "date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "venue": "1010 Nicollet Mall",
-      "title": "Greg Koch w/​ The Koch Marshall Trio",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Greg Koch w/​ The Koch Marshall Trio"
-      ],
-      "link": "https://www.minneapolis.org/calendar/greg-koch-w-the-koch-marshall-trio/"
-    },
-    {
-      "date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "venue": "1010 Nicollet Mall",
-      "title": "Holly Cole",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Holly Cole"
-      ],
-      "link": "https://www.minneapolis.org/calendar/holly-cole/"
-    },
-    {
-      "date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "venue": "300 N Washington Ave",
-      "title": "Guytano – Summer Concert Series",
-      "tour": "Community, Live Music",
-      "support_raw": "300 N Washington Ave, Minneapolis, Minnesota 55401",
-      "artists": [
-        "Guytano – Summer Concert Series"
-      ],
-      "link": "https://www.minneapolis.org/calendar/guytano-summer-concert-series/"
-    },
-    {
-      "date": "2026-06-29",
-      "end_date": "2026-06-29",
-      "venue": "1010 Nicollet Mall",
-      "title": "Anders Osborne",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Anders Osborne"
-      ],
-      "link": "https://www.minneapolis.org/calendar/anders-osborne/"
     },
     {
       "date": "2026-06-30",
@@ -1069,119 +289,11 @@
       "venue": "Lutunji&#039;s Palate",
       "title": "Ultimate Joy, Unplugged Open Mic Nights",
       "tour": "Community, Food & Drink",
-      "support_raw": "Lutunji&#039;s Palate, 1400 Park Ave S, #1010, Minneapolis, MN 55404",
+      "support_raw": "1400 Park Ave S, #1010, Minneapolis, MN 55404",
       "artists": [
         "Ultimate Joy, Unplugged Open Mic Nights"
       ],
       "link": "https://www.minneapolis.org/calendar/ultimate-joy-unplugged/"
-    },
-    {
-      "date": "2026-06-30",
-      "end_date": "2026-06-30",
-      "venue": "Fine Line",
-      "title": "Tiny Desk Contest on the Road 2026",
-      "tour": "Live Music",
-      "support_raw": "Fine Line, 318 N 1st Ave, Minneapolis, MN 55401",
-      "artists": [
-        "Tiny Desk Contest on the Road 2026"
-      ],
-      "link": "https://www.minneapolis.org/calendar/tiny-desk-contest/"
-    },
-    {
-      "date": "2026-06-30",
-      "end_date": "2026-06-30",
-      "venue": "1010 Nicollet Mall",
-      "title": "Haley Reinhart",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Haley Reinhart"
-      ],
-      "link": "https://www.minneapolis.org/calendar/haley-reinhart-2/"
-    },
-    {
-      "date": "2026-06-30",
-      "end_date": "2026-06-30",
-      "venue": "360 N Broadway St",
-      "title": "St. Paul Saints & Buffalo Bisons",
-      "tour": "Sports Events",
-      "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
-      "artists": [
-        "St. Paul Saints & Buffalo Bisons"
-      ],
-      "link": "https://www.minneapolis.org/calendar/st-paul-saints-buffalo-bisons/"
-    },
-    {
-      "date": "2026-06-30",
-      "end_date": "2026-06-30",
-      "venue": "Sisyphus Brewing",
-      "title": "The Doctors of Comedy",
-      "tour": "Comedy",
-      "support_raw": "Sisyphus Brewing, 712 Ontario Ave W #100, Minneapolis, MN 55403",
-      "artists": [
-        "The Doctors of Comedy"
-      ],
-      "link": "https://www.minneapolis.org/calendar/the-doctors-of-comedy/"
-    },
-    {
-      "date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "venue": "2400 Third Avenue South",
-      "title": "Mini Mia — July 1",
-      "tour": "Community, Family Fun, Free",
-      "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
-      "artists": [
-        "Mini Mia — July 1"
-      ],
-      "link": "https://www.minneapolis.org/calendar/mini-mia-july-1/"
-    },
-    {
-      "date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "venue": "1333 Nicollet Mall",
-      "title": "Ultimate Game Night: Mario Kart World Balloon Battle Tournament",
-      "tour": "Food & Drink, Multicultural",
-      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Ultimate Game Night: Mario Kart World Balloon Battle Tournament"
-      ],
-      "link": "https://www.minneapolis.org/calendar/ultimate-game-night-mario-kart-world-balloon-battle-tournament/"
-    },
-    {
-      "date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "venue": "1010 Nicollet Mall",
-      "title": "Mindi Abair",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Mindi Abair"
-      ],
-      "link": "https://www.minneapolis.org/calendar/mindi-abair/"
-    },
-    {
-      "date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "venue": "360 N Broadway St",
-      "title": "St. Paul Saints & Buffalo Bisons",
-      "tour": "Sports Events",
-      "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
-      "artists": [
-        "St. Paul Saints & Buffalo Bisons"
-      ],
-      "link": "https://www.minneapolis.org/calendar/st-paul-saints-buffalo-bisons1/"
-    },
-    {
-      "date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "venue": "425 Portland Ave S",
-      "title": "Hamilton Sing & Dance-Along",
-      "tour": "Community, Family Fun, Free",
-      "support_raw": "425 Portland Ave S, Minneapolis, MN",
-      "artists": [
-        "Hamilton Sing & Dance-Along"
-      ],
-      "link": "https://www.minneapolis.org/calendar/hamilton-sing-dance-along/"
     },
     {
       "date": "2026-07-01",
@@ -1189,328 +301,16 @@
       "venue": "The Commons",
       "title": "Movies at The Commons",
       "tour": "Community, Family Fun, Free",
-      "support_raw": "The Commons, 425 Portland Ave S, Minneapolis, MN",
+      "support_raw": "425 Portland Ave S, Minneapolis, MN",
       "artists": [
         "Movies at The Commons"
       ],
       "link": "https://www.minneapolis.org/calendar/movies-at-the-commons/"
     },
     {
-      "date": "2026-07-02",
-      "end_date": "2026-07-02",
-      "venue": "725 Vineland Place",
-      "title": "Green Roof Poetry: Poetry as Resistance",
-      "tour": "Arts & Theater",
-      "support_raw": "725 Vineland Place, Minneapolis, Minnesota",
-      "artists": [
-        "Green Roof Poetry: Poetry as Resistance"
-      ],
-      "link": "https://www.minneapolis.org/calendar/green-roof-poetry-poetry-as-resistance/"
-    },
-    {
-      "date": "2026-07-02",
-      "end_date": "2026-07-02",
-      "venue": "1010 Nicollet Mall",
-      "title": "Eric Roberson",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Eric Roberson"
-      ],
-      "link": "https://www.minneapolis.org/calendar/eric-roberson/"
-    },
-    {
-      "date": "2026-07-02",
-      "end_date": "2026-07-02",
-      "venue": "360 N Broadway St",
-      "title": "St. Paul Saints & Buffalo Bisons",
-      "tour": "Sports Events",
-      "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
-      "artists": [
-        "St. Paul Saints & Buffalo Bisons"
-      ],
-      "link": "https://www.minneapolis.org/calendar/st-paul-saints-buffalo-bisons2/"
-    },
-    {
-      "date": "2026-07-02",
-      "end_date": "2026-07-02",
-      "venue": "416 Cedar Avenue South",
-      "title": "SONIDO GALLO NEGRO with Rudy De Anda",
-      "tour": "Live Music",
-      "support_raw": "416 Cedar Avenue South, Minneapolis, Minnesota 55454",
-      "artists": [
-        "SONIDO GALLO NEGRO with Rudy De Anda"
-      ],
-      "link": "https://www.minneapolis.org/calendar/sonido-gallo-negro-with-rudy-de-anda/"
-    },
-    {
-      "date": "2026-07-03",
-      "end_date": "2026-07-04",
-      "venue": "Minneapolis",
-      "title": "Taste of Minnesota",
-      "tour": "Arts & Theater, Community, Fairs & Festivals, Family Fun, Food & Drink, Free, Live Music, Big Events",
-      "support_raw": "",
-      "artists": [
-        "Taste of Minnesota"
-      ],
-      "link": "https://www.minneapolis.org/calendar/taste-of-minnesota/"
-    },
-    {
-      "date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "venue": "1105 Washington Ave S",
-      "title": "Ham Shannon | Close to Toast | Garden Glow",
-      "tour": "Dance, Food & Drink, LGBTQ, Live Music",
-      "support_raw": "1105 Washington Ave S, Minneapolis, Minnesota 55415",
-      "artists": [
-        "Ham Shannon | Close to Toast | Garden Glow"
-      ],
-      "link": "https://www.minneapolis.org/calendar/ham-shannon-close-to-toast-garden-glow1/"
-    },
-    {
-      "date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "venue": "1105 Washington Ave S",
-      "title": "Ham Shannon | Close to Toast | Garden Glow",
-      "tour": "Dance, Food & Drink, LGBTQ, Live Music",
-      "support_raw": "1105 Washington Ave S, Minneapolis, Minnesota 55415",
-      "artists": [
-        "Ham Shannon | Close to Toast | Garden Glow"
-      ],
-      "link": "https://www.minneapolis.org/calendar/ham-shannon-close-to-toast-garden-glow/"
-    },
-    {
-      "date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "venue": "360 N Broadway St",
-      "title": "St. Paul Saints & Buffalo Bisons",
-      "tour": "Sports Events",
-      "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
-      "artists": [
-        "St. Paul Saints & Buffalo Bisons"
-      ],
-      "link": "https://www.minneapolis.org/calendar/st-paul-saints-buffalo-bisons3/"
-    },
-    {
-      "date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "venue": "1010 Nicollet Mall",
-      "title": "Ladies of Soul, Vol. 4",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Ladies of Soul, Vol. 4"
-      ],
-      "link": "https://www.minneapolis.org/calendar/ladies-of-soul-vol-4/"
-    },
-    {
-      "date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "venue": "1333 Nicollet Mall",
-      "title": "Roxy's Cabaret Presents: Dolly Parton and Friends",
-      "tour": "Food & Drink, LGBTQ, Multicultural",
-      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Roxy's Cabaret Presents: Dolly Parton and Friends"
-      ],
-      "link": "https://www.minneapolis.org/calendar/roxys-cabaret-presents-dolly-parton-and-friends/"
-    },
-    {
-      "date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "venue": "281 Hamline Ave N St. Paul",
-      "title": "Minnesota Wind Chill vs. Chicago Union — Professional Men's Ultimate Frisbee Game",
-      "tour": "Sports Events",
-      "support_raw": "281 Hamline Ave N St. Paul, MN 55104, Minnesota",
-      "artists": [
-        "Minnesota Wind Chill vs. Chicago Union — Professional Men's Ultimate Frisbee Game"
-      ],
-      "link": "https://www.minneapolis.org/calendar/minnesota-wind-chill-vs-chicago-union-professional-mens-ultimate-frisbee-game-2/"
-    },
-    {
-      "date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "venue": "125 SE Main St.",
-      "title": "Marvelous at Aster Café",
-      "tour": "Live Music",
-      "support_raw": "125 SE Main St., Minnesota",
-      "artists": [
-        "Marvelous at Aster Café"
-      ],
-      "link": "https://www.minneapolis.org/calendar/marvelous-at-aster-cafe/"
-    },
-    {
-      "date": "2026-07-04",
-      "end_date": "2026-07-04",
-      "venue": "Water Works",
-      "title": "Red, White & Boom!",
-      "tour": "Community, Family Fun, Food & Drink, Free, Holiday, Live Music, Outdoor and Recreation, Big Events",
-      "support_raw": "Water Works, 425 West River Parkway, Minneapolis, MN 55401",
-      "artists": [
-        "Red, White & Boom!"
-      ],
-      "link": "https://www.minneapolis.org/calendar/red-white-boom/"
-    },
-    {
-      "date": "2026-07-04",
-      "end_date": "2026-07-04",
-      "venue": "225 Thomas Ave N",
-      "title": "World Cup Street Fair 2026",
-      "tour": "Sports Events",
-      "support_raw": "225 Thomas Ave N, Minneapolis, Minnesota 55405",
-      "artists": [
-        "World Cup Street Fair 2026"
-      ],
-      "link": "https://www.minneapolis.org/calendar/world-cup-street-fair-2026/"
-    },
-    {
-      "date": "2026-07-04",
-      "end_date": "2026-07-04",
-      "venue": "360 N Broadway St",
-      "title": "St. Paul Saints & Buffalo Bisons",
-      "tour": "Sports Events",
-      "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
-      "artists": [
-        "St. Paul Saints & Buffalo Bisons"
-      ],
-      "link": "https://www.minneapolis.org/calendar/st-paul-saints-buffalo-bisons4/"
-    },
-    {
-      "date": "2026-07-04",
-      "end_date": "2026-07-04",
-      "venue": "1010 Nicollet Mall",
-      "title": "Davina and The Vagabonds",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Davina and The Vagabonds"
-      ],
-      "link": "https://www.minneapolis.org/calendar/davina-and-the-vagabonds-5/"
-    },
-    {
-      "date": "2026-07-05",
-      "end_date": "2026-07-05",
-      "venue": "1333 Nicollet Mall",
-      "title": "Bottomless Drag Brunch at Roxy's Cabaret",
-      "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
-      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Bottomless Drag Brunch at Roxy's Cabaret"
-      ],
-      "link": "https://www.minneapolis.org/calendar/bottomless-drag-brunch-at-roxys-cabaret-9/"
-    },
-    {
-      "date": "2026-07-05",
-      "end_date": "2026-07-05",
-      "venue": "360 N Broadway St",
-      "title": "St. Paul Saints & Buffalo Bisons",
-      "tour": "Sports Events",
-      "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
-      "artists": [
-        "St. Paul Saints & Buffalo Bisons"
-      ],
-      "link": "https://www.minneapolis.org/calendar/st-paul-saints-buffalo-bisons5/"
-    },
-    {
-      "date": "2026-07-05",
-      "end_date": "2026-07-05",
-      "venue": "1010 Nicollet Mall",
-      "title": "Natania & Ticket to Brasil",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Natania & Ticket to Brasil"
-      ],
-      "link": "https://www.minneapolis.org/calendar/natania-ticket-to-brasil-2/"
-    },
-    {
-      "date": "2026-07-05",
-      "end_date": "2026-07-05",
-      "venue": "300 N Washington Ave",
-      "title": "The New Standards – Summer Concert Series",
-      "tour": "Community, Live Music",
-      "support_raw": "300 N Washington Ave, Minneapolis, Minnesota 55401",
-      "artists": [
-        "The New Standards – Summer Concert Series"
-      ],
-      "link": "https://www.minneapolis.org/calendar/the-new-standards-summer-concert-series/"
-    },
-    {
-      "date": "2026-07-06",
-      "end_date": "2026-07-06",
-      "venue": "1010 Nicollet Mall",
-      "title": "Sounds of Santana",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Sounds of Santana"
-      ],
-      "link": "https://www.minneapolis.org/calendar/sounds-of-santana/"
-    },
-    {
-      "date": "2026-07-06",
-      "end_date": "2026-07-06",
-      "venue": "Target Center",
-      "title": "Minnesota Lynx vs. Connecticut Sun",
-      "tour": "Sports Events",
-      "support_raw": "Target Center, 600 N 1st Ave, Minneapolis, MN 55403",
-      "artists": [
-        "Minnesota Lynx vs. Connecticut Sun"
-      ],
-      "link": "https://www.minneapolis.org/calendar/minnesota-lynx-vs-connecticut-sun/"
-    },
-    {
-      "date": "2026-07-07",
-      "end_date": "2026-07-07",
-      "venue": "710 Hennepin Ave.",
-      "title": "Mike Campbell & The Dirty Knobs",
-      "tour": "Live Music",
-      "support_raw": "710 Hennepin Ave., Minneapolis, Minnesota 55403",
-      "artists": [
-        "Mike Campbell & The Dirty Knobs"
-      ],
-      "link": "https://www.minneapolis.org/calendar/mike-campbell-the-dirty-knobs/"
-    },
-    {
-      "date": "2026-07-07",
-      "end_date": "2026-07-09",
-      "venue": "Target Field",
-      "title": "Minnesota Twins vs. Cleveland Guardians",
-      "tour": "Sports Events",
-      "support_raw": "Target Field, 1 Twins Way, Minneapolis, MN 55403",
-      "artists": [
-        "Minnesota Twins vs. Cleveland Guardians"
-      ],
-      "link": "https://www.minneapolis.org/calendar/twins-vs-guardians-2/"
-    },
-    {
-      "date": "2026-07-07",
-      "end_date": "2026-07-07",
-      "venue": "3032 Minnehaha Ave",
-      "title": "Better Things 5x5 Reading & Open Mic (July 2026)",
-      "tour": "Arts & Theater, Community, Free",
-      "support_raw": "3032 Minnehaha Ave, Minneapolis, MN 55406, Minneapolis, Minnesota 55406",
-      "artists": [
-        "Better Things 5x5 Reading & Open Mic (July 2026)"
-      ],
-      "link": "https://www.minneapolis.org/calendar/better-things-5x5-reading-open-mic-july-2026/"
-    },
-    {
-      "date": "2026-07-07",
-      "end_date": "2026-07-07",
-      "venue": "1010 Nicollet Mall",
-      "title": "Moore By Forty",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Moore By Forty"
-      ],
-      "link": "https://www.minneapolis.org/calendar/moore-by-forty/"
-    },
-    {
       "date": "2026-07-08",
       "end_date": "2026-08-09",
-      "venue": "910 Hennepin Ave.",
+      "venue": "Minneapolis",
       "title": "Wicked",
       "tour": "Arts & Theater, Hennepin Arts",
       "support_raw": "910 Hennepin Ave., Minneapolis, Minnesota 55403",
@@ -1520,117 +320,9 @@
       "link": "https://www.minneapolis.org/calendar/wicked/"
     },
     {
-      "date": "2026-07-08",
-      "end_date": "2026-07-08",
-      "venue": "823 5th Avenue South",
-      "title": "Charcuterie Atelier — Hands-On Class",
-      "tour": "Food & Drink",
-      "support_raw": "823 5th Avenue South, Minneapolis, Minnesota 55404",
-      "artists": [
-        "Charcuterie Atelier — Hands-On Class"
-      ],
-      "link": "https://www.minneapolis.org/calendar/charcuterie-atelier-hands-on-class/"
-    },
-    {
-      "date": "2026-07-08",
-      "end_date": "2026-07-08",
-      "venue": "1333 Nicollet Mall",
-      "title": "Ultimate Game Night: Advanced Beginner Board Game Night",
-      "tour": "Food & Drink, Multicultural",
-      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Ultimate Game Night: Advanced Beginner Board Game Night"
-      ],
-      "link": "https://www.minneapolis.org/calendar/ultimate-game-night-advanced-beginner-board-game-night/"
-    },
-    {
-      "date": "2026-07-08",
-      "end_date": "2026-07-08",
-      "venue": "1010 Nicollet Mall",
-      "title": "Suzy Bogguss",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Suzy Bogguss"
-      ],
-      "link": "https://www.minneapolis.org/calendar/suzy-bogguss/"
-    },
-    {
-      "date": "2026-07-09",
-      "end_date": "2026-07-09",
-      "venue": "2400 Third Avenue South",
-      "title": "Meet at Mia: Summer Series — July 9",
-      "tour": "Live Music",
-      "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
-      "artists": [
-        "Meet at Mia: Summer Series — July 9"
-      ],
-      "link": "https://www.minneapolis.org/calendar/meet-at-mia-summer-series-july-9/"
-    },
-    {
-      "date": "2026-07-09",
-      "end_date": "2026-07-10",
-      "venue": "501 West 78th Street",
-      "title": "Urban Classic — The Music of Earth, Wind and Fire",
-      "tour": "Arts & Theater, Food & Drink, Free, Live Music",
-      "support_raw": "501 West 78th Street, Chanhassen, Minnesota 55317",
-      "artists": [
-        "Urban Classic — The Music of Earth, Wind and Fire"
-      ],
-      "link": "https://www.minneapolis.org/calendar/urban-classic-the-music-of-earth-wind-and-fire/"
-    },
-    {
-      "date": "2026-07-09",
-      "end_date": "2026-07-09",
-      "venue": "1105 Washington Ave S",
-      "title": "Alec Collins | Fiddle and Flannels | Timmy Magdall",
-      "tour": "Dance, Food & Drink, LGBTQ, Live Music",
-      "support_raw": "1105 Washington Ave S, Minneapolis, Minnesota 55415",
-      "artists": [
-        "Alec Collins | Fiddle and Flannels | Timmy Magdall"
-      ],
-      "link": "https://www.minneapolis.org/calendar/alec-collins-fiddle-and-flannels-timmy-magdall/"
-    },
-    {
-      "date": "2026-07-09",
-      "end_date": "2026-07-09",
-      "venue": "1758 W River Road N",
-      "title": "Never River",
-      "tour": "Sports Events",
-      "support_raw": "1758 W River Road N, Minneapolis, Minnesota 55411",
-      "artists": [
-        "Never River"
-      ],
-      "link": "https://www.minneapolis.org/calendar/never-river-4/"
-    },
-    {
-      "date": "2026-07-09",
-      "end_date": "2026-07-09",
-      "venue": "1010 Nicollet Mall",
-      "title": "BZ3 Organ Trio: Album Release Show",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "BZ3 Organ Trio: Album Release Show"
-      ],
-      "link": "https://www.minneapolis.org/calendar/bz3-organ-trio-album-release-show/"
-    },
-    {
-      "date": "2026-07-09",
-      "end_date": "2026-07-09",
-      "venue": "501 West 78th Street",
-      "title": "The Groove",
-      "tour": "Food & Drink, Live Music",
-      "support_raw": "501 West 78th Street, Chanhassen, Minnesota 55317",
-      "artists": [
-        "The Groove"
-      ],
-      "link": "https://www.minneapolis.org/calendar/the-groove-2/"
-    },
-    {
       "date": "2026-07-10",
       "end_date": "2026-08-14",
-      "venue": "725 Vineland Place",
+      "venue": "Minneapolis",
       "title": "Once Upon a Time in Manhood",
       "tour": "Arts & Theater",
       "support_raw": "725 Vineland Place, Minneapolis, Minnesota",
@@ -1642,7 +334,7 @@
     {
       "date": "2026-07-10",
       "end_date": "2026-07-11",
-      "venue": "824 Hennepin Ave.",
+      "venue": "Minneapolis",
       "title": "Off Book",
       "tour": "Arts & Theater, Hennepin Arts",
       "support_raw": "824 Hennepin Ave., Minneapolis, Minnesota 55403",
@@ -1657,71 +349,11 @@
       "venue": "Target Field",
       "title": "Minnesota Twins vs. Los Angeles Angels",
       "tour": "Sports Events",
-      "support_raw": "Target Field, 1 Twins Way, Minneapolis, MN 55403",
+      "support_raw": "1 Twins Way, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Twins vs. Los Angeles Angels"
       ],
       "link": "https://www.minneapolis.org/calendar/twins-vs-angels/"
-    },
-    {
-      "date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "venue": "1105 Washington Ave S",
-      "title": "Heliocene ( Single Release Show ) | Ray Gun Youth | Damn Phibian",
-      "tour": "Dance, Food & Drink, LGBTQ, Live Music",
-      "support_raw": "1105 Washington Ave S, Minneapolis, Minnesota 55415",
-      "artists": [
-        "Heliocene ( Single Release Show ) | Ray Gun Youth | Damn Phibian"
-      ],
-      "link": "https://www.minneapolis.org/calendar/heliocene-single-release-show-ray-gun-youth-damn-phibian/"
-    },
-    {
-      "date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "venue": "The Armory",
-      "title": "Death Cab for Cutie",
-      "tour": "Live Music",
-      "support_raw": "The Armory, 500 S 6th St, Minneapolis, MN 55415",
-      "artists": [
-        "Death Cab for Cutie"
-      ],
-      "link": "https://www.minneapolis.org/calendar/death-cab-for-cutie/"
-    },
-    {
-      "date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "venue": "1010 Nicollet Mall",
-      "title": "Nur‑D",
-      "tour": "Live Music",
-      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Nur‑D"
-      ],
-      "link": "https://www.minneapolis.org/calendar/nur-d-2/"
-    },
-    {
-      "date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "venue": "600 Malcolm Avenue Southeast",
-      "title": "Keeper's Heart Single Barrel Release Party — French Oak",
-      "tour": "Food & Drink",
-      "support_raw": "600 Malcolm Avenue Southeast, Minneapolis, Minnesota 55414",
-      "artists": [
-        "Keeper's Heart Single Barrel Release Party — French Oak"
-      ],
-      "link": "https://www.minneapolis.org/calendar/keepers-heart-single-barrel-release-party-french-oak/"
-    },
-    {
-      "date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "venue": "1333 Nicollet Mall",
-      "title": "Roxy's Cabaret Presents: Donna Summer and Friends",
-      "tour": "Food & Drink, LGBTQ, Multicultural",
-      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
-      "artists": [
-        "Roxy's Cabaret Presents: Donna Summer and Friends"
-      ],
-      "link": "https://www.minneapolis.org/calendar/roxys-cabaret-presents-donna-summer-and-friends/"
     },
     {
       "date": "2026-07-11",
@@ -1729,7 +361,7 @@
       "venue": "Indeed Brewing Company",
       "title": "The Big Show at Indeed Brewing Company",
       "tour": "Food & Drink, Live Music, Big Events",
-      "support_raw": "Indeed Brewing Company, 711 NE 15th Ave, Minneapolis, MN 55413",
+      "support_raw": "711 NE 15th Ave, Minneapolis, MN 55413",
       "artists": [
         "The Big Show at Indeed Brewing Company"
       ],
@@ -1741,7 +373,7 @@
       "venue": "Summit Brewing Co",
       "title": "5k Fun Run x Summit Brewing Co",
       "tour": "Food & Drink, Outdoor and Recreation",
-      "support_raw": "Summit Brewing Co, 910 Montreal Circle, St. Paul, MN 55102",
+      "support_raw": "910 Montreal Circle, St. Paul, MN 55102",
       "artists": [
         "5k Fun Run x Summit Brewing Co"
       ],
@@ -1750,7 +382,7 @@
     {
       "date": "2026-07-11",
       "end_date": "2026-07-11",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Studio Sessions: Modern Art and Politics",
       "tour": "Community",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
@@ -1762,7 +394,7 @@
     {
       "date": "2026-07-11",
       "end_date": "2026-07-11",
-      "venue": "704 South 2nd St.",
+      "venue": "Minneapolis",
       "title": "\"Tshuaj Ntsuab (Plant Medicine): A Compendium of Hmong Medicinal Plants\" Book Signing at Mill City Farmers Market",
       "tour": "Free, History & Heritage",
       "support_raw": "704 South 2nd St., Minneapolis, Minnesota 55401",
@@ -1777,7 +409,7 @@
       "venue": "Green Room",
       "title": "K‑Pop Takeover",
       "tour": "Dance, Live Music, Multicultural",
-      "support_raw": "Green Room, 2923 S Girard Ave, Minneapolis, MN 55408",
+      "support_raw": "2923 S Girard Ave, Minneapolis, MN 55408",
       "artists": [
         "K‑Pop Takeover"
       ],
@@ -1789,7 +421,7 @@
       "venue": "Target Center",
       "title": "Minnesota Lynx vs. New York Liberty",
       "tour": "Sports Events",
-      "support_raw": "Target Center, 600 N 1st Ave, Minneapolis, MN 55403",
+      "support_raw": "600 N 1st Ave, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Lynx vs. New York Liberty"
       ],
@@ -1798,7 +430,7 @@
     {
       "date": "2026-07-11",
       "end_date": "2026-07-11",
-      "venue": "1105 Washington Ave S",
+      "venue": "Minneapolis",
       "title": "NOR & CBE Presents | Ambient Toad | ELL | xLCR | Deep Fortune | Lubird",
       "tour": "Dance, Family Fun, Food & Drink, LGBTQ, Live Music",
       "support_raw": "1105 Washington Ave S, Minneapolis, Minnesota 55415",
@@ -1810,7 +442,7 @@
     {
       "date": "2026-07-11",
       "end_date": "2026-07-11",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Studio Sessions: Animating with Textiles",
       "tour": "Community",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
@@ -1825,7 +457,7 @@
       "venue": "Graze Food Hall by Travail",
       "title": "Rock the Hall — Obadiah Gamble",
       "tour": "Free, Live Music",
-      "support_raw": "Graze Food Hall by Travail, 520 N 4th St, Minneapolis, MN 55401",
+      "support_raw": "520 N 4th St, Minneapolis, MN 55401",
       "artists": [
         "Rock the Hall — Obadiah Gamble"
       ],
@@ -1834,7 +466,7 @@
     {
       "date": "2026-07-11",
       "end_date": "2026-07-11",
-      "venue": "704 South 2nd St.",
+      "venue": "Minneapolis",
       "title": "Minnesota Salsa Fiesta!",
       "tour": "Dance, History & Heritage, Live Music, Multicultural",
       "support_raw": "704 South 2nd St., Minneapolis, Minnesota 55401",
@@ -1846,7 +478,7 @@
     {
       "date": "2026-07-11",
       "end_date": "2026-07-11",
-      "venue": "281 Hamline Ave N St. Paul",
+      "venue": "Minneapolis",
       "title": "Minnesota Wind Chill vs. Boston Glory — Professional Men's Ultimate Frisbee Game",
       "tour": "Sports Events",
       "support_raw": "281 Hamline Ave N St. Paul, MN 55104, Minnesota",
@@ -1858,7 +490,7 @@
     {
       "date": "2026-07-11",
       "end_date": "2026-07-12",
-      "venue": "501 West 78th Street",
+      "venue": "Minneapolis",
       "title": "The Last Waltz",
       "tour": "Arts & Theater, Food & Drink, Free, Live Music",
       "support_raw": "501 West 78th Street, Chanhassen, Minnesota 55317",
@@ -1870,7 +502,7 @@
     {
       "date": "2026-07-11",
       "end_date": "2026-07-11",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "The Goddess Experience Drag Show",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -1882,7 +514,7 @@
     {
       "date": "2026-07-11",
       "end_date": "2026-07-11",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Sounds of Blackness feat. Jamecia Bennett",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -1894,7 +526,7 @@
     {
       "date": "2026-07-11",
       "end_date": "2026-07-11",
-      "venue": "416 Cedar Avenue South",
+      "venue": "Minneapolis",
       "title": "HORSE LORDS",
       "tour": "Live Music",
       "support_raw": "416 Cedar Avenue South, Minneapolis, Minnesota 55454",
@@ -1906,7 +538,7 @@
     {
       "date": "2026-07-11",
       "end_date": "2026-07-11",
-      "venue": "125 SE Main St.",
+      "venue": "Minneapolis",
       "title": "Second Hand Dan at Aster Café",
       "tour": "Live Music",
       "support_raw": "125 SE Main St., Minnesota",
@@ -1918,7 +550,7 @@
     {
       "date": "2026-07-12",
       "end_date": "2026-07-12",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Rebirth Brass Band",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -1930,7 +562,7 @@
     {
       "date": "2026-07-12",
       "end_date": "2026-07-12",
-      "venue": "3700 Monterery Drive",
+      "venue": "Minneapolis",
       "title": "Gen X Fest",
       "tour": "Fairs & Festivals",
       "support_raw": "3700 Monterery Drive, St Louis Park, Minnesota 55416",
@@ -1945,7 +577,7 @@
       "venue": "Sociable Cider Werks",
       "title": "5k Fun Run x Sociable Cider Werks",
       "tour": "Fitness, Food & Drink, Outdoor and Recreation",
-      "support_raw": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413",
+      "support_raw": "1500 Fillmore St NE, Minneapolis, MN 55413",
       "artists": [
         "5k Fun Run x Sociable Cider Werks"
       ],
@@ -1954,7 +586,7 @@
     {
       "date": "2026-07-12",
       "end_date": "2026-07-12",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Family Day — July",
       "tour": "Community, Family Fun, Free",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
@@ -1966,7 +598,7 @@
     {
       "date": "2026-07-12",
       "end_date": "2026-07-12",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Bottomless Drag Brunch at Roxy's Cabaret",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -1978,7 +610,7 @@
     {
       "date": "2026-07-12",
       "end_date": "2026-07-12",
-      "venue": "4257 Nicollet Ave",
+      "venue": "Minneapolis",
       "title": "Bastille Day Celebration",
       "tour": "Food & Drink",
       "support_raw": "4257 Nicollet Ave, Minneapolis, Minnesota 55409",
@@ -1993,7 +625,7 @@
       "venue": "Lakewood Cemetery",
       "title": "Lakewood Music in the Chapel Concert Series",
       "tour": "Community, Live Music",
-      "support_raw": "Lakewood Cemetery, 3600 Hennepin Ave, Minneapolis, MN 55408",
+      "support_raw": "3600 Hennepin Ave, Minneapolis, MN 55408",
       "artists": [
         "Lakewood Music in the Chapel Concert Series"
       ],
@@ -2002,7 +634,7 @@
     {
       "date": "2026-07-12",
       "end_date": "2026-07-12",
-      "venue": "300 N Washington Ave",
+      "venue": "Minneapolis",
       "title": "Going to the Sun – Summer Concert Series",
       "tour": "Community, Live Music",
       "support_raw": "300 N Washington Ave, Minneapolis, Minnesota 55401",
@@ -2014,7 +646,7 @@
     {
       "date": "2026-07-13",
       "end_date": "2026-07-13",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Our House: Tribute to Crosby, Stills, Nash & Young",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2029,7 +661,7 @@
       "venue": "Target Center",
       "title": "Minnesota Lynx vs. Phoenix Mercury",
       "tour": "Sports Events",
-      "support_raw": "Target Center, 600 N 1st Ave, Minneapolis, MN 55403",
+      "support_raw": "600 N 1st Ave, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Lynx vs. Phoenix Mercury"
       ],
@@ -2038,7 +670,7 @@
     {
       "date": "2026-07-14",
       "end_date": "2026-07-14",
-      "venue": "805 Hennepin Ave.",
+      "venue": "Minneapolis",
       "title": "Lyle Lovett and his Small Large Band",
       "tour": "Live Music, Hennepin Arts",
       "support_raw": "805 Hennepin Ave., Minneapolis, Minnesota 55403",
@@ -2050,7 +682,7 @@
     {
       "date": "2026-07-14",
       "end_date": "2026-07-15",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "James Hunter Six",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2062,7 +694,7 @@
     {
       "date": "2026-07-15",
       "end_date": "2026-07-15",
-      "venue": "300 N Washington Ave",
+      "venue": "Minneapolis",
       "title": "Intuitive Tarot",
       "tour": "Arts & Theater",
       "support_raw": "300 N Washington Ave, MINNEAPOLIS, Minnesota 55401",
@@ -2077,7 +709,7 @@
       "venue": "Target Center",
       "title": "Minnesota Lynx vs. Los Angeles Sparks",
       "tour": "Sports Events",
-      "support_raw": "Target Center, 600 N 1st Ave, Minneapolis, MN 55403",
+      "support_raw": "600 N 1st Ave, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Lynx vs. Los Angeles Sparks"
       ],
@@ -2086,7 +718,7 @@
     {
       "date": "2026-07-15",
       "end_date": "2026-07-15",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Ultimate Game Night: Learn to Play Catan",
       "tour": "Food & Drink, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2098,7 +730,7 @@
     {
       "date": "2026-07-16",
       "end_date": "2026-07-16",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Meet at Mia: Summer Series — July 16",
       "tour": "Live Music",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
@@ -2110,7 +742,7 @@
     {
       "date": "2026-07-16",
       "end_date": "2026-07-16",
-      "venue": "1758 W River Road N",
+      "venue": "Minneapolis",
       "title": "Never River",
       "tour": "Sports Events",
       "support_raw": "1758 W River Road N, Minneapolis, Minnesota 55411",
@@ -2122,7 +754,7 @@
     {
       "date": "2026-07-16",
       "end_date": "2026-07-16",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Southside Aces Album Release",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2134,7 +766,7 @@
     {
       "date": "2026-07-16",
       "end_date": "2026-07-16",
-      "venue": "125 SE Main St.",
+      "venue": "Minneapolis",
       "title": "Larry McDonough: George & Ira Gershwin at Aster Café",
       "tour": "Live Music",
       "support_raw": "125 SE Main St., Minnesota",
@@ -2146,7 +778,7 @@
     {
       "date": "2026-07-17",
       "end_date": "2026-07-19",
-      "venue": "49 Harriet Island Rd",
+      "venue": "Minneapolis",
       "title": "Minnesota Yacht Club Festival",
       "tour": "Community, Fairs & Festivals, Food & Drink, Live Music",
       "support_raw": "49 Harriet Island Rd, St. Paul, MN 55107",
@@ -2161,7 +793,7 @@
       "venue": "Minnehaha Falls",
       "title": "Minnehaha Falls Art Fair",
       "tour": "Arts & Theater, Community, Fairs & Festivals, Family Fun, Food & Drink, Free, Outdoor and Recreation, Shopping, Big Events",
-      "support_raw": "Minnehaha Falls, 4801 S Minnehaha Dr, Minneapolis, MN 55417",
+      "support_raw": "4801 S Minnehaha Dr, Minneapolis, MN 55417",
       "artists": [
         "Minnehaha Falls Art Fair"
       ],
@@ -2170,7 +802,7 @@
     {
       "date": "2026-07-17",
       "end_date": "2026-07-19",
-      "venue": "501 West 78th Street",
+      "venue": "Minneapolis",
       "title": "Billy and Elton — The Hits",
       "tour": "Arts & Theater, Food & Drink, Free, Live Music",
       "support_raw": "501 West 78th Street, Chanhassen, Minnesota 55317",
@@ -2182,7 +814,7 @@
     {
       "date": "2026-07-17",
       "end_date": "2026-07-17",
-      "venue": "1105 Washington Ave S",
+      "venue": "Minneapolis",
       "title": "The Modern Era | Oister Boy | Dave's Manual | Astro Brat @ Day Block Brewing",
       "tour": "Community, Dance, Food & Drink, LGBTQ, Live Music",
       "support_raw": "1105 Washington Ave S, Minneapolis, Minnesota 55415",
@@ -2194,7 +826,7 @@
     {
       "date": "2026-07-17",
       "end_date": "2026-07-17",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "St. Paul Peterson: Funk Friday",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2206,7 +838,7 @@
     {
       "date": "2026-07-17",
       "end_date": "2026-07-17",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Louisville Bats",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -2218,7 +850,7 @@
     {
       "date": "2026-07-17",
       "end_date": "2026-07-17",
-      "venue": "416 Cedar Avenue South",
+      "venue": "Minneapolis",
       "title": "An Evening with FANOOS ENSEMBLE",
       "tour": "Live Music",
       "support_raw": "416 Cedar Avenue South, Minnesota 55454",
@@ -2230,7 +862,7 @@
     {
       "date": "2026-07-17",
       "end_date": "2026-07-17",
-      "venue": "125 SE Main St.",
+      "venue": "Minneapolis",
       "title": "The New Entangled Particles at Aster Café",
       "tour": "Live Music",
       "support_raw": "125 SE Main St., Minnesota",
@@ -2242,7 +874,7 @@
     {
       "date": "2026-07-17",
       "end_date": "2026-07-17",
-      "venue": "701 N 1st Ave",
+      "venue": "Minneapolis",
       "title": "Miss Jackson If You're Nasty — Janet Jackson Dance Night",
       "tour": "Dance",
       "support_raw": "701 N 1st Ave, Minneapolis, Minnesota 55403",
@@ -2257,7 +889,7 @@
       "venue": "Guthrie Theater",
       "title": "Private Lives",
       "tour": "Arts & Theater",
-      "support_raw": "Guthrie Theater, 818 S 2nd Street, Minneapolis, MN 55415",
+      "support_raw": "818 S 2nd Street, Minneapolis, MN 55415",
       "artists": [
         "Private Lives"
       ],
@@ -2266,7 +898,7 @@
     {
       "date": "2026-07-18",
       "end_date": "2026-07-18",
-      "venue": "1801 Stevens Ave",
+      "venue": "Minneapolis",
       "title": "Red Hot Art Fest",
       "tour": "Community, Fairs & Festivals, Family Fun, Free, Live Music, Shopping",
       "support_raw": "1801 Stevens Ave, Minneapolis, MN 55403",
@@ -2278,7 +910,7 @@
     {
       "date": "2026-07-18",
       "end_date": "2026-07-18",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Art Play — July",
       "tour": "Community, Free",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
@@ -2290,7 +922,7 @@
     {
       "date": "2026-07-18",
       "end_date": "2026-07-18",
-      "venue": "4800 Lake Nokomis Pkwy",
+      "venue": "Minneapolis",
       "title": "Floating Lanterns & Night Market",
       "tour": "Community, Food & Drink, Multicultural, Outdoor and Recreation, Shopping",
       "support_raw": "4800 Lake Nokomis Pkwy, Minneapolis, MN",
@@ -2302,7 +934,7 @@
     {
       "date": "2026-07-18",
       "end_date": "2026-07-18",
-      "venue": "1500 Jackson St NE",
+      "venue": "Minneapolis",
       "title": "The Preposterous Case of the Pilfered Porcelain Pinky",
       "tour": "Arts & Theater",
       "support_raw": "1500 Jackson St NE, Minneapolis, Miinneapolis, Minnesota 55413",
@@ -2314,7 +946,7 @@
     {
       "date": "2026-07-18",
       "end_date": "2026-07-18",
-      "venue": "1105 Washington Ave S",
+      "venue": "Minneapolis",
       "title": "Dilly Dally Alley | Grim Lot | Safety Knife",
       "tour": "Dance, Food & Drink, LGBTQ, Live Music",
       "support_raw": "1105 Washington Ave S, Minneapolis, Minnesota 55415",
@@ -2329,7 +961,7 @@
       "venue": "Target Center",
       "title": "Minnesota Lynx vs. Portland Fire",
       "tour": "Sports Events",
-      "support_raw": "Target Center, 600 N 1st Ave, Minneapolis, MN 55403",
+      "support_raw": "600 N 1st Ave, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Lynx vs. Portland Fire"
       ],
@@ -2338,7 +970,7 @@
     {
       "date": "2026-07-18",
       "end_date": "2026-07-18",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Simply the Best Saturday Drag Show",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2350,7 +982,7 @@
     {
       "date": "2026-07-18",
       "end_date": "2026-07-18",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Louisville Bats",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -2362,7 +994,7 @@
     {
       "date": "2026-07-18",
       "end_date": "2026-07-18",
-      "venue": "125 SE Main St.",
+      "venue": "Minneapolis",
       "title": "Zoe Says Go at Aster Café",
       "tour": "Live Music",
       "support_raw": "125 SE Main St., Minnesota",
@@ -2374,7 +1006,7 @@
     {
       "date": "2026-07-18",
       "end_date": "2026-07-19",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Blood, Sweat & Tears",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2386,7 +1018,7 @@
     {
       "date": "2026-07-19",
       "end_date": "2026-07-19",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Bottomless Drag Brunch at Roxy's Cabaret",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2398,7 +1030,7 @@
     {
       "date": "2026-07-19",
       "end_date": "2026-07-19",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Louisville Bats",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -2413,7 +1045,7 @@
       "venue": "TCO Stadium",
       "title": "Minnesota Pro Rugby — Twin Cities Gemini vs Denver Onyx",
       "tour": "Sports Events",
-      "support_raw": "TCO Stadium, Eagan, Minnesota 55121",
+      "support_raw": "Eagan, Minnesota 55121",
       "artists": [
         "Minnesota Pro Rugby — Twin Cities Gemini vs Denver Onyx"
       ],
@@ -2422,7 +1054,7 @@
     {
       "date": "2026-07-19",
       "end_date": "2026-07-19",
-      "venue": "281 Hamline Ave N St. Paul",
+      "venue": "Minneapolis",
       "title": "Minnesota Wind Chill vs. Madison Radicals — Professional Men's Ultimate Frisbee Game",
       "tour": "Sports Events",
       "support_raw": "281 Hamline Ave N St. Paul, MN 55104, Minnesota",
@@ -2434,7 +1066,7 @@
     {
       "date": "2026-07-19",
       "end_date": "2026-07-19",
-      "venue": "300 N Washington Ave",
+      "venue": "Minneapolis",
       "title": "The Dan Israel Band – Summer Concert Series — Rescheduled",
       "tour": "Community, Live Music",
       "support_raw": "300 N Washington Ave, Minneapolis, Minnesota 55401",
@@ -2446,7 +1078,7 @@
     {
       "date": "2026-07-21",
       "end_date": "2026-07-21",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Liv Warfield: Honey & Whiskey",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2458,7 +1090,7 @@
     {
       "date": "2026-07-21",
       "end_date": "2026-07-21",
-      "venue": "712 Ontario Ave W #100",
+      "venue": "Minneapolis",
       "title": "Canned Laughter: A Short Form Improv Show",
       "tour": "Arts & Theater, Comedy, Food & Drink",
       "support_raw": "712 Ontario Ave W #100, Minneapolis, Minnesota 55403",
@@ -2470,7 +1102,7 @@
     {
       "date": "2026-07-21",
       "end_date": "2026-07-21",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Columbus Clippers",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -2482,7 +1114,7 @@
     {
       "date": "2026-07-22",
       "end_date": "2026-07-22",
-      "venue": "300 N Washington Ave",
+      "venue": "Minneapolis",
       "title": "Intuitive Tarot",
       "tour": "Arts & Theater",
       "support_raw": "300 N Washington Ave, MINNEAPOLIS, Minnesota 55401",
@@ -2494,7 +1126,7 @@
     {
       "date": "2026-07-22",
       "end_date": "2026-07-22",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Columbus Clippers",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -2506,7 +1138,7 @@
     {
       "date": "2026-07-22",
       "end_date": "2026-07-22",
-      "venue": "1758 W River Road N",
+      "venue": "Minneapolis",
       "title": "Never River (Aquatennial Feature)",
       "tour": "Sports Events",
       "support_raw": "1758 W River Road N, Minneapolis, Minnesota 55411",
@@ -2518,7 +1150,7 @@
     {
       "date": "2026-07-22",
       "end_date": "2026-07-22",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Ultimate Game Night: JackBox Party",
       "tour": "Food & Drink, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2533,7 +1165,7 @@
       "venue": "Orchestra Hall",
       "title": "John Williams' Greatest Scores",
       "tour": "Family Fun, Live Music",
-      "support_raw": "Orchestra Hall, 1111 Nicollet Mall, Minneapolis, MN 55403",
+      "support_raw": "1111 Nicollet Mall, Minneapolis, MN 55403",
       "artists": [
         "John Williams' Greatest Scores"
       ],
@@ -2542,7 +1174,7 @@
     {
       "date": "2026-07-23",
       "end_date": "2026-07-23",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Meet at Mia: Summer Series — July 23",
       "tour": "Arts & Theater, Free, Live Music",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
@@ -2554,7 +1186,7 @@
     {
       "date": "2026-07-23",
       "end_date": "2026-07-23",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Psychic Standup with Karen Rontowski",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2566,7 +1198,7 @@
     {
       "date": "2026-07-23",
       "end_date": "2026-07-23",
-      "venue": "600 North First Avenue",
+      "venue": "Minneapolis",
       "title": "Forrest Frank",
       "tour": "Live Music",
       "support_raw": "600 North First Avenue, Minneapolis, Minnesota",
@@ -2578,7 +1210,7 @@
     {
       "date": "2026-07-23",
       "end_date": "2026-07-23",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Columbus Clippers",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -2590,7 +1222,7 @@
     {
       "date": "2026-07-23",
       "end_date": "2026-07-23",
-      "venue": "501 West 78th Street",
+      "venue": "Minneapolis",
       "title": "The Super Tramps",
       "tour": "Arts & Theater, Food & Drink, Free, Live Music",
       "support_raw": "501 West 78th Street, Chanhassen, Minnesota 55317",
@@ -2602,7 +1234,7 @@
     {
       "date": "2026-07-24",
       "end_date": "2026-08-01",
-      "venue": "824 Hennepin Ave.",
+      "venue": "Minneapolis",
       "title": "Jewelry Power Elite",
       "tour": "Comedy, Hennepin Arts",
       "support_raw": "824 Hennepin Ave., Minneapolis, Minnesota 55403",
@@ -2617,7 +1249,7 @@
       "venue": "West River Road North",
       "title": "Carifest",
       "tour": "Community, Fairs & Festivals, Family Fun, Food & Drink, Multicultural, Big Events",
-      "support_raw": "West River Road North, Minneapolis, MN 55411",
+      "support_raw": "Minneapolis, MN 55411",
       "artists": [
         "Carifest"
       ],
@@ -2626,7 +1258,7 @@
     {
       "date": "2026-07-24",
       "end_date": "2026-07-25",
-      "venue": "501 West 78th Street",
+      "venue": "Minneapolis",
       "title": "Classic American Rockers",
       "tour": "Arts & Theater, Food & Drink, Free, Live Music",
       "support_raw": "501 West 78th Street, Chanhassen, Minnesota 55317",
@@ -2641,7 +1273,7 @@
       "venue": "Target Field",
       "title": "Minnesota Twins vs. Oakland Athletics",
       "tour": "Sports Events",
-      "support_raw": "Target Field, 1 Twins Way, Minneapolis, MN 55403",
+      "support_raw": "1 Twins Way, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Twins vs. Oakland Athletics"
       ],
@@ -2650,7 +1282,7 @@
     {
       "date": "2026-07-24",
       "end_date": "2026-07-24",
-      "venue": "1105 Washington Ave S",
+      "venue": "Minneapolis",
       "title": "Ditch Pigeon | Miid | Johnny Sincerely Orchestra",
       "tour": "Dance, Food & Drink, LGBTQ, Live Music",
       "support_raw": "1105 Washington Ave S, Minneapolis, Minnesota 55415",
@@ -2662,7 +1294,7 @@
     {
       "date": "2026-07-24",
       "end_date": "2026-07-24",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Columbus Clippers",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -2674,7 +1306,7 @@
     {
       "date": "2026-07-24",
       "end_date": "2026-07-24",
-      "venue": "400 Snelling Ave",
+      "venue": "Minneapolis",
       "title": "Mr. Brightside: The Ultimate Killers Experience",
       "tour": "Live Music",
       "support_raw": "400 Snelling Ave, St. Paul, Minnesota 55114",
@@ -2686,7 +1318,7 @@
     {
       "date": "2026-07-24",
       "end_date": "2026-07-24",
-      "venue": "125 SE Main St.",
+      "venue": "Minneapolis",
       "title": "Thomas Sticha at Aster Café",
       "tour": "Live Music",
       "support_raw": "125 SE Main St., Minnesota",
@@ -2701,7 +1333,7 @@
       "venue": "Loring Park",
       "title": "Loring Park Art Festival",
       "tour": "Arts & Theater, Community, Fairs & Festivals, Family Fun, Food & Drink, Free, Outdoor and Recreation, Shopping, Big Events",
-      "support_raw": "Loring Park, Loring Greenway, Minneapolis, MN 55403",
+      "support_raw": "Loring Greenway, Minneapolis, MN 55403",
       "artists": [
         "Loring Park Art Festival"
       ],
@@ -2713,7 +1345,7 @@
       "venue": "Capri Theater",
       "title": "Black Business Week Street Mall",
       "tour": "Community, Free, History & Heritage, Shopping",
-      "support_raw": "Capri Theater, 2027 West Broadway, Minneapolis, MN 55411",
+      "support_raw": "2027 West Broadway, Minneapolis, MN 55411",
       "artists": [
         "Black Business Week Street Mall"
       ],
@@ -2722,7 +1354,7 @@
     {
       "date": "2026-07-25",
       "end_date": "2026-07-25",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Mini Mia — July 25",
       "tour": "Community, Family Fun, Free",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
@@ -2734,7 +1366,7 @@
     {
       "date": "2026-07-25",
       "end_date": "2026-07-25",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Columbus Clippers",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -2746,7 +1378,7 @@
     {
       "date": "2026-07-25",
       "end_date": "2026-07-25",
-      "venue": "1105 Washington Ave S",
+      "venue": "Minneapolis",
       "title": "The Over Unders | Monarch | The Social Cues",
       "tour": "Dance, Food & Drink, LGBTQ, Live Music",
       "support_raw": "1105 Washington Ave S, Minneapolis, Minnesota 55415",
@@ -2758,7 +1390,7 @@
     {
       "date": "2026-07-25",
       "end_date": "2026-07-25",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Drag, Elevated",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2770,7 +1402,7 @@
     {
       "date": "2026-07-25",
       "end_date": "2026-07-25",
-      "venue": "600 North First Avenue",
+      "venue": "Minneapolis",
       "title": "Megan Moroney",
       "tour": "Live Music",
       "support_raw": "600 North First Avenue, Minneapolis, Minnesota",
@@ -2782,7 +1414,7 @@
     {
       "date": "2026-07-25",
       "end_date": "2026-07-25",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "The Belfast Cowboys",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2806,7 +1438,7 @@
     {
       "date": "2026-07-26",
       "end_date": "2026-07-26",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Bottomless Drag Brunch at Roxy's Cabaret",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2821,7 +1453,7 @@
       "venue": "Orchestra Hall",
       "title": "A Night in the Tropics with the Minnesota Orchestra",
       "tour": "Live Music",
-      "support_raw": "Orchestra Hall, 1111 Nicollet Mall, Minneapolis, MN 55403",
+      "support_raw": "1111 Nicollet Mall, Minneapolis, MN 55403",
       "artists": [
         "A Night in the Tropics with the Minnesota Orchestra"
       ],
@@ -2830,7 +1462,7 @@
     {
       "date": "2026-07-26",
       "end_date": "2026-07-26",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Columbus Clippers",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -2842,7 +1474,7 @@
     {
       "date": "2026-07-26",
       "end_date": "2026-07-26",
-      "venue": "600 North First Avenue",
+      "venue": "Minneapolis",
       "title": "Dude Perfect",
       "tour": "Family Fun",
       "support_raw": "600 North First Avenue, Minneapolis, Minnesota",
@@ -2854,7 +1486,7 @@
     {
       "date": "2026-07-26",
       "end_date": "2026-07-26",
-      "venue": "501 West 78th Street",
+      "venue": "Minneapolis",
       "title": "The Look of Love — The Songs of Burt Bacharach",
       "tour": "Live Music",
       "support_raw": "501 West 78th Street, Chanhassen, Minnesota 55317",
@@ -2866,7 +1498,7 @@
     {
       "date": "2026-07-26",
       "end_date": "2026-07-26",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Keiko Matsui",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2878,7 +1510,7 @@
     {
       "date": "2026-07-26",
       "end_date": "2026-07-26",
-      "venue": "300 N Washington Ave",
+      "venue": "Minneapolis",
       "title": "Rogue Valley – Summer Concert Series",
       "tour": "Community, Live Music",
       "support_raw": "300 N Washington Ave, Minneapolis, Minnesota 55401",
@@ -2893,7 +1525,7 @@
       "venue": "Target Field",
       "title": "Minnesota Twins vs. Kansas City Royals",
       "tour": "Sports Events",
-      "support_raw": "Target Field, 1 Twins Way, Minneapolis, MN 55403",
+      "support_raw": "1 Twins Way, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Twins vs. Kansas City Royals"
       ],
@@ -2905,7 +1537,7 @@
       "venue": "Target Center",
       "title": "Minnesota Lynx vs. Portland Tempo",
       "tour": "Sports Events",
-      "support_raw": "Target Center, 600 N 1st Ave, Minneapolis, MN 55403",
+      "support_raw": "600 N 1st Ave, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Lynx vs. Portland Tempo"
       ],
@@ -2914,7 +1546,7 @@
     {
       "date": "2026-07-28",
       "end_date": "2026-07-28",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Allen Stone",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2926,7 +1558,7 @@
     {
       "date": "2026-07-29",
       "end_date": "2026-07-29",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Ultimate Game Night: Mario Kart World on the Nintendo Switch 2!",
       "tour": "Food & Drink, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2938,7 +1570,7 @@
     {
       "date": "2026-07-29",
       "end_date": "2026-07-29",
-      "venue": "600 North First Avenue",
+      "venue": "Minneapolis",
       "title": "Olivia Dean",
       "tour": "Live Music",
       "support_raw": "600 North First Avenue, Minneapolis, Minnesota",
@@ -2950,7 +1582,7 @@
     {
       "date": "2026-07-29",
       "end_date": "2026-07-30",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "DakhaBrakha",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -2962,7 +1594,7 @@
     {
       "date": "2026-07-30",
       "end_date": "2026-07-30",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Meet at Mia: Summer Series — July 30",
       "tour": "Live Music",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
@@ -2974,7 +1606,7 @@
     {
       "date": "2026-07-30",
       "end_date": "2026-07-30",
-      "venue": "1105 Washington Ave S",
+      "venue": "Minneapolis",
       "title": "Matt Herzog Band ( Album Release Party ) | Cain & Co.",
       "tour": "Dance, Food & Drink, LGBTQ, Live Music",
       "support_raw": "1105 Washington Ave S, Minneapolis, Minnesota 55415",
@@ -2986,7 +1618,7 @@
     {
       "date": "2026-07-30",
       "end_date": "2026-07-30",
-      "venue": "1105 Washington Ave S",
+      "venue": "Minneapolis",
       "title": "Buckaroux Banshees | Unattractive Giant Monster | Atomic Lights | Blur Curve",
       "tour": "Dance, Food & Drink, LGBTQ, Live Music",
       "support_raw": "1105 Washington Ave S, Minneapolis, Minnesota 55415",
@@ -2998,7 +1630,7 @@
     {
       "date": "2026-07-30",
       "end_date": "2026-07-30",
-      "venue": "3537 Zenith Avenue South",
+      "venue": "Minneapolis",
       "title": "Summer Bakkenalia. 21+",
       "tour": "Fairs & Festivals",
       "support_raw": "3537 Zenith Avenue South, Minneapolis, Minnesota 55416",
@@ -3010,7 +1642,7 @@
     {
       "date": "2026-07-30",
       "end_date": "2026-07-31",
-      "venue": "501 West 78th Street",
+      "venue": "Minneapolis",
       "title": "Shabby Road Orchestra Performs The Beatles' Let it Be",
       "tour": "Arts & Theater, Food & Drink, Free, Live Music",
       "support_raw": "501 West 78th Street, Chanhassen, Minnesota 55317",
@@ -3022,7 +1654,7 @@
     {
       "date": "2026-07-30",
       "end_date": "2026-07-30",
-      "venue": "1758 W River Road N",
+      "venue": "Minneapolis",
       "title": "Never River",
       "tour": "Sports Events",
       "support_raw": "1758 W River Road N, Minneapolis, Minnesota 55411",
@@ -3034,7 +1666,7 @@
     {
       "date": "2026-07-30",
       "end_date": "2026-07-30",
-      "venue": "125 SE Main St.",
+      "venue": "Minneapolis",
       "title": "River & Rail with Sam Ryden at Aster Café",
       "tour": "Live Music",
       "support_raw": "125 SE Main St., Minnesota",
@@ -3046,7 +1678,7 @@
     {
       "date": "2026-07-30",
       "end_date": "2026-07-30",
-      "venue": "125 SE Main St.",
+      "venue": "Minneapolis",
       "title": "River & Rail with Sam Ryden at Aster Café",
       "tour": "Live Music",
       "support_raw": "125 SE Main St., Minnesota",
@@ -3058,7 +1690,7 @@
     {
       "date": "2026-07-31",
       "end_date": "2026-07-31",
-      "venue": "1105 Washington Ave S",
+      "venue": "Minneapolis",
       "title": "Fiona Hayes | Sugarcoat | Vash the Stampede",
       "tour": "Dance, Food & Drink, LGBTQ, Live Music",
       "support_raw": "1105 Washington Ave S, Minneapolis, Minnesota 55415",
@@ -3070,7 +1702,7 @@
     {
       "date": "2026-07-31",
       "end_date": "2026-07-31",
-      "venue": "400 Snelling Ave",
+      "venue": "Minneapolis",
       "title": "Bohemian Queen: A Tribute to Queen Worldwide and Separate Journeys: A Tribute to Journey",
       "tour": "Live Music",
       "support_raw": "400 Snelling Ave, St. Paul, Minnesota 55114",
@@ -3082,7 +1714,7 @@
     {
       "date": "2026-08-01",
       "end_date": "2026-08-15",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Art Play — August",
       "tour": "Free",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
@@ -3097,7 +1729,7 @@
       "venue": "U.S. Bank Stadium",
       "title": "WWE SummerSlam",
       "tour": "Sports Events, Big Events",
-      "support_raw": "U.S. Bank Stadium, 401 Chicago Ave, Minneapolis, MN 55415",
+      "support_raw": "401 Chicago Ave, Minneapolis, MN 55415",
       "artists": [
         "WWE SummerSlam"
       ],
@@ -3106,7 +1738,7 @@
     {
       "date": "2026-08-01",
       "end_date": "2026-08-02",
-      "venue": "3700 Monterey Dr",
+      "venue": "Minneapolis",
       "title": "Slavic Experience",
       "tour": "Fairs & Festivals, Family Fun, History & Heritage, Live Music, Multicultural",
       "support_raw": "3700 Monterey Dr, St. Louis Park, Minnesota 55416",
@@ -3121,7 +1753,7 @@
       "venue": "Powderhorn Park",
       "title": "Powderhorn Art Fair",
       "tour": "Arts & Theater, Community, Fairs & Festivals, Family Fun, Food & Drink, Free, Big Events",
-      "support_raw": "Powderhorn Park, 3400 15th Ave S, Minneapolis, MN 55407",
+      "support_raw": "3400 15th Ave S, Minneapolis, MN 55407",
       "artists": [
         "Powderhorn Art Fair"
       ],
@@ -3130,7 +1762,7 @@
     {
       "date": "2026-08-01",
       "end_date": "2026-08-01",
-      "venue": "56 Brewing",
+      "venue": "Minneapolis",
       "title": "Nershfest",
       "tour": "Fairs & Festivals, Food & Drink, Live Music, Big Events",
       "support_raw": "56 Brewing, 3055 NE Columbia Ave Suite 102, Minneapolis, MN 55418",
@@ -3145,7 +1777,7 @@
       "venue": "Father Hennepin Bluff Park",
       "title": "Minneapolis Food Truck Festival",
       "tour": "Community, Fairs & Festivals, Family Fun, Food & Drink, Free, Big Events",
-      "support_raw": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414",
+      "support_raw": "420 SE Main St, Minneapolis, MN 55414",
       "artists": [
         "Minneapolis Food Truck Festival"
       ],
@@ -3154,7 +1786,7 @@
     {
       "date": "2026-08-01",
       "end_date": "2026-08-02",
-      "venue": "501 West 78th Street",
+      "venue": "Minneapolis",
       "title": "Thunderdome Queen — The Ultimate Tina Turner Experience",
       "tour": "Live Music",
       "support_raw": "501 West 78th Street, Chanhassen, Minnesota 55317",
@@ -3166,7 +1798,7 @@
     {
       "date": "2026-08-01",
       "end_date": "2026-08-01",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "FLAMboyANCE Drag Show",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3181,7 +1813,7 @@
       "venue": "Target Center",
       "title": "Minnesota Lynx vs. Indiana Fever",
       "tour": "Sports Events",
-      "support_raw": "Target Center, 600 N 1st Ave, Minneapolis, MN 55403",
+      "support_raw": "600 N 1st Ave, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Lynx vs. Indiana Fever"
       ],
@@ -3190,7 +1822,7 @@
     {
       "date": "2026-08-04",
       "end_date": "2026-08-04",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Louisville Bats",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -3202,7 +1834,7 @@
     {
       "date": "2026-08-05",
       "end_date": "2026-08-05",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Mini Mia — August 5",
       "tour": "Free, History & Heritage",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
@@ -3214,7 +1846,7 @@
     {
       "date": "2026-08-05",
       "end_date": "2026-08-05",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Louisville Bats",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -3229,7 +1861,7 @@
       "venue": "Fulton Beer Taproom",
       "title": "Noah Kahan Concert Pre-Party",
       "tour": "Food & Drink, Live Music",
-      "support_raw": "Fulton Beer Taproom, 414 N 6th Ave, Minneapolis, MN 55401",
+      "support_raw": "414 N 6th Ave, Minneapolis, MN 55401",
       "artists": [
         "Noah Kahan Concert Pre-Party"
       ],
@@ -3238,7 +1870,7 @@
     {
       "date": "2026-08-05",
       "end_date": "2026-08-05",
-      "venue": "1758 W River Road N",
+      "venue": "Minneapolis",
       "title": "Never River",
       "tour": "Sports Events",
       "support_raw": "1758 W River Road N, Minneapolis, Minnesota 55411",
@@ -3250,7 +1882,7 @@
     {
       "date": "2026-08-05",
       "end_date": "2026-08-05",
-      "venue": "823 5th Ave S Floor 1",
+      "venue": "Minneapolis",
       "title": "Sea to Table: Communal Italian Dinner",
       "tour": "Food & Drink",
       "support_raw": "823 5th Ave S Floor 1, Minneapolis, MN, MN 55404, Minneapolis, Minnesota 55404",
@@ -3262,7 +1894,7 @@
     {
       "date": "2026-08-05",
       "end_date": "2026-08-05",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Ultimate Game Night presents: Trading Card Night",
       "tour": "Food & Drink, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3274,7 +1906,7 @@
     {
       "date": "2026-08-05",
       "end_date": "2026-08-05",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Soul Asylum (Acoustic) w/​ Ivan Neville & Laurels Strings Quartet",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3298,7 +1930,7 @@
     {
       "date": "2026-08-06",
       "end_date": "2027-01-03",
-      "venue": "725 Vineland Place",
+      "venue": "Minneapolis",
       "title": "Olalekan Jeyifous: Hydricosmic Litanies",
       "tour": "Arts & Theater",
       "support_raw": "725 Vineland Place, Minneapolis, Minnesota",
@@ -3313,7 +1945,7 @@
       "venue": "Minneapolis Parks",
       "title": "Art in the Park — August",
       "tour": "Free",
-      "support_raw": "Minneapolis Parks, Minneapolis, Minnesota 55404",
+      "support_raw": "Minneapolis, Minnesota 55404",
       "artists": [
         "Art in the Park — August"
       ],
@@ -3322,7 +1954,7 @@
     {
       "date": "2026-08-06",
       "end_date": "2026-08-06",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "I Am In Love: Jane Monheit Sings Cole Porter",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3334,7 +1966,7 @@
     {
       "date": "2026-08-06",
       "end_date": "2026-08-06",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Louisville Bats",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -3349,7 +1981,7 @@
       "venue": "Target Center",
       "title": "Minnesota Lynx vs. Los Angeles Sparks",
       "tour": "Sports Events",
-      "support_raw": "Target Center, 600 N 1st Ave, Minneapolis, MN 55403",
+      "support_raw": "600 N 1st Ave, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Lynx vs. Los Angeles Sparks"
       ],
@@ -3358,7 +1990,7 @@
     {
       "date": "2026-08-07",
       "end_date": "2026-08-09",
-      "venue": "2500 Lake of the Isles Pkwy E",
+      "venue": "Minneapolis",
       "title": "Uptown Art Fair",
       "tour": "Community, Fairs & Festivals, Family Fun, Food & Drink, Free, Shopping, Big Events",
       "support_raw": "2500 Lake of the Isles Pkwy E,, Minneapolis, MN 55416",
@@ -3382,7 +2014,7 @@
     {
       "date": "2026-08-07",
       "end_date": "2026-08-08",
-      "venue": "501 West 78th Street",
+      "venue": "Minneapolis",
       "title": "Forever Everly",
       "tour": "Food & Drink, Free, Live Music",
       "support_raw": "501 West 78th Street, Chanhassen, Minnesota 55317",
@@ -3394,7 +2026,7 @@
     {
       "date": "2026-08-07",
       "end_date": "2026-08-07",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Louisville Bats",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -3409,7 +2041,7 @@
       "venue": "Forgotten Star Brewing",
       "title": "5k Fun Run x Forgotten Star Brewing",
       "tour": "Fitness, Food & Drink, Outdoor and Recreation",
-      "support_raw": "Forgotten Star Brewing, 38 Northern Stacks Dr, Fridley, MN 55421",
+      "support_raw": "38 Northern Stacks Dr, Fridley, MN 55421",
       "artists": [
         "5k Fun Run x Forgotten Star Brewing"
       ],
@@ -3421,7 +2053,7 @@
       "venue": "Target Center",
       "title": "Minnesota Lynx vs. Las Vegas Aces",
       "tour": "Sports Events",
-      "support_raw": "Target Center, 600 N 1st Ave, Minneapolis, MN 55403",
+      "support_raw": "600 N 1st Ave, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Lynx vs. Las Vegas Aces"
       ],
@@ -3430,7 +2062,7 @@
     {
       "date": "2026-08-08",
       "end_date": "2026-08-08",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Louisville Bats",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -3442,7 +2074,7 @@
     {
       "date": "2026-08-08",
       "end_date": "2026-08-08",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Glitz & Glam Drag Show",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3454,7 +2086,7 @@
     {
       "date": "2026-08-09",
       "end_date": "2026-08-09",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Family Day — August",
       "tour": "Family Fun, Free",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
@@ -3466,7 +2098,7 @@
     {
       "date": "2026-08-09",
       "end_date": "2026-08-09",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Bottomless Drag Brunch at Roxy's Cabaret",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3478,7 +2110,7 @@
     {
       "date": "2026-08-09",
       "end_date": "2026-08-09",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Louisville Bats",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -3493,7 +2125,7 @@
       "venue": "Target Center",
       "title": "Minnesota Lynx vs. Dallas Wings",
       "tour": "Sports Events",
-      "support_raw": "Target Center, 600 N 1st Ave, Minneapolis, MN 55403",
+      "support_raw": "600 N 1st Ave, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Lynx vs. Dallas Wings"
       ],
@@ -3502,7 +2134,7 @@
     {
       "date": "2026-08-09",
       "end_date": "2026-08-09",
-      "venue": "501 West 78th Street",
+      "venue": "Minneapolis",
       "title": "Bread Alone — Music & Memories of the Band Bread",
       "tour": "Arts & Theater, Food & Drink, Free, Live Music",
       "support_raw": "501 West 78th Street, Chanhassen, Minnesota 55317",
@@ -3517,7 +2149,7 @@
       "venue": "Target Field",
       "title": "Minnesota Twins vs. Baltimore Orioles",
       "tour": "Sports Events",
-      "support_raw": "Target Field, 1 Twins Way, Minneapolis, MN 55403",
+      "support_raw": "1 Twins Way, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Twins vs. Baltimore Orioles"
       ],
@@ -3526,7 +2158,7 @@
     {
       "date": "2026-08-10",
       "end_date": "2026-08-10",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Django Festival Allstars",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3538,7 +2170,7 @@
     {
       "date": "2026-08-11",
       "end_date": "2026-08-11",
-      "venue": "1758 W River Road N",
+      "venue": "Minneapolis",
       "title": "Never River (Alumni Show)",
       "tour": "Sports Events",
       "support_raw": "1758 W River Road N, Minneapolis, Minnesota 55411",
@@ -3550,7 +2182,7 @@
     {
       "date": "2026-08-11",
       "end_date": "2026-08-11",
-      "venue": "416 Cedar AvenueMinneapolis",
+      "venue": "Minneapolis",
       "title": "MICKY AND THE MOTORCARS",
       "tour": "Live Music",
       "support_raw": "416 Cedar AvenueMinneapolis, Minnesota 55454",
@@ -3562,7 +2194,7 @@
     {
       "date": "2026-08-12",
       "end_date": "2026-08-12",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Braxton Cook",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3574,7 +2206,7 @@
     {
       "date": "2026-08-12",
       "end_date": "2026-08-12",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Ultimate Game Night: Mario Kart World Racing Tournament",
       "tour": "Food & Drink, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3589,7 +2221,7 @@
       "venue": "Target Field",
       "title": "Minnesota Twins vs. Philadelphia Phillies",
       "tour": "Sports Events",
-      "support_raw": "Target Field, 1 Twins Way, Minneapolis, MN 55403",
+      "support_raw": "1 Twins Way, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Twins vs. Philadelphia Phillies"
       ],
@@ -3598,7 +2230,7 @@
     {
       "date": "2026-08-13",
       "end_date": "2026-08-13",
-      "venue": "1758 W River Road N",
+      "venue": "Minneapolis",
       "title": "Never River",
       "tour": "Sports Events",
       "support_raw": "1758 W River Road N, Minneapolis, Minnesota 55411",
@@ -3610,7 +2242,7 @@
     {
       "date": "2026-08-13",
       "end_date": "2026-08-13",
-      "venue": "501 West 78th Street",
+      "venue": "Minneapolis",
       "title": "Pure Funk",
       "tour": "Arts & Theater, Food & Drink, Free, Live Music",
       "support_raw": "501 West 78th Street, Chanhassen, Minnesota 55317",
@@ -3622,7 +2254,7 @@
     {
       "date": "2026-08-14",
       "end_date": "2026-08-14",
-      "venue": "501 West 78th Street",
+      "venue": "Minneapolis",
       "title": "The Song Remains the Same — JJHOF Does Zeppelin",
       "tour": "Arts & Theater, Food & Drink, Free, Live Music",
       "support_raw": "501 West 78th Street, Chanhassen, Minnesota 55317",
@@ -3634,7 +2266,7 @@
     {
       "date": "2026-08-14",
       "end_date": "2026-08-14",
-      "venue": "400 Snelling Ave N",
+      "venue": "Minneapolis",
       "title": "AM Gold Yacht Rock: Specializing in the Decade of Hit Songs from the Late 1970s–Mid 1980s",
       "tour": "Live Music",
       "support_raw": "400 Snelling Ave N, St. Paul, Minnesota 55104",
@@ -3646,7 +2278,7 @@
     {
       "date": "2026-08-14",
       "end_date": "2026-08-14",
-      "venue": "416 Cedar Avenue South",
+      "venue": "Minneapolis",
       "title": "An Evening with FINK",
       "tour": "Live Music",
       "support_raw": "416 Cedar Avenue South, Minneapolis, Minnesota 55454",
@@ -3658,7 +2290,7 @@
     {
       "date": "2026-08-15",
       "end_date": "2026-08-16",
-      "venue": "501 West 78th Street",
+      "venue": "Minneapolis",
       "title": "My Way with Andrew Walesch & His Orchestra",
       "tour": "Arts & Theater, Food & Drink, Free, Live Music",
       "support_raw": "501 West 78th Street, Chanhassen, Minnesota 55317",
@@ -3673,7 +2305,7 @@
       "venue": "U.S. Bank Stadium",
       "title": "Ed Sheeran LOOP Tour",
       "tour": "Live Music",
-      "support_raw": "U.S. Bank Stadium, 401 Chicago Ave, Minneapolis, MN 55415",
+      "support_raw": "401 Chicago Ave, Minneapolis, MN 55415",
       "artists": [
         "Ed Sheeran LOOP Tour"
       ],
@@ -3685,7 +2317,7 @@
       "venue": "Graze Food Hall by Travail",
       "title": "Rock the Hall — Elliot Graber",
       "tour": "Free, Live Music",
-      "support_raw": "Graze Food Hall by Travail, 520 N 4th St, Minneapolis, MN 55401",
+      "support_raw": "520 N 4th St, Minneapolis, MN 55401",
       "artists": [
         "Rock the Hall — Elliot Graber"
       ],
@@ -3694,7 +2326,7 @@
     {
       "date": "2026-08-15",
       "end_date": "2026-08-15",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "The Goddess Experience Drag Show",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3709,7 +2341,7 @@
       "venue": "Sociable Cider Werks",
       "title": "Sociable Summer Market",
       "tour": "Food & Drink, Shopping",
-      "support_raw": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413",
+      "support_raw": "1500 Fillmore St NE, Minneapolis, MN 55413",
       "artists": [
         "Sociable Summer Market"
       ],
@@ -3718,7 +2350,7 @@
     {
       "date": "2026-08-16",
       "end_date": "2026-08-16",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Bottomless Drag Brunch at Roxy's Cabaret",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3730,7 +2362,7 @@
     {
       "date": "2026-08-16",
       "end_date": "2026-08-16",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Cult Cinema Classics Presents: Dazed and Confused",
       "tour": "Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3742,7 +2374,7 @@
     {
       "date": "2026-08-16",
       "end_date": "2026-08-16",
-      "venue": "300 N Washington Ave",
+      "venue": "Minneapolis",
       "title": "The Scarlet Goodbye – Summer Concert Series",
       "tour": "Community, Live Music",
       "support_raw": "300 N Washington Ave, Minneapolis, Minnesota 55401",
@@ -3757,7 +2389,7 @@
       "venue": "Target Field",
       "title": "Minnesota Twins vs. Atlanta Braves",
       "tour": "Sports Events",
-      "support_raw": "Target Field, 1 Twins Way, Minneapolis, MN 55403",
+      "support_raw": "1 Twins Way, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Twins vs. Atlanta Braves"
       ],
@@ -3766,7 +2398,7 @@
     {
       "date": "2026-08-17",
       "end_date": "2026-08-17",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Ben Sidran",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3778,7 +2410,7 @@
     {
       "date": "2026-08-18",
       "end_date": "2026-08-18",
-      "venue": "1758 W River Road N",
+      "venue": "Minneapolis",
       "title": "Never River",
       "tour": "Sports Events",
       "support_raw": "1758 W River Road N, Minneapolis, Minnesota 55411",
@@ -3790,7 +2422,7 @@
     {
       "date": "2026-08-18",
       "end_date": "2026-08-18",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Grace Kelly",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3802,7 +2434,7 @@
     {
       "date": "2026-08-18",
       "end_date": "2026-08-18",
-      "venue": "600 North First Avenue",
+      "venue": "Minneapolis",
       "title": "J. Cole",
       "tour": "Live Music",
       "support_raw": "600 North First Avenue, Minneapolis, Minnesota",
@@ -3814,7 +2446,7 @@
     {
       "date": "2026-08-19",
       "end_date": "2026-08-19",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Spyro Gyra",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3826,7 +2458,7 @@
     {
       "date": "2026-08-19",
       "end_date": "2026-08-19",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Ultimate Game Night: Learn to Play Ticket to Ride",
       "tour": "Food & Drink, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3838,7 +2470,7 @@
     {
       "date": "2026-08-20",
       "end_date": "2026-08-20",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Meet at Mia: Summer Series — August 20",
       "tour": "Free",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
@@ -3850,7 +2482,7 @@
     {
       "date": "2026-08-20",
       "end_date": "2026-08-20",
-      "venue": "1105 Washington Ave S",
+      "venue": "Minneapolis",
       "title": "Second Hand Dan | Larrikins | Moneybones",
       "tour": "Dance, Food & Drink, LGBTQ, Live Music",
       "support_raw": "1105 Washington Ave S, Minneapolis, Minnesota 55415",
@@ -3862,7 +2494,7 @@
     {
       "date": "2026-08-20",
       "end_date": "2026-08-20",
-      "venue": "1758 W River Road N",
+      "venue": "Minneapolis",
       "title": "Never River",
       "tour": "Sports Events",
       "support_raw": "1758 W River Road N, Minneapolis, Minnesota 55411",
@@ -3874,7 +2506,7 @@
     {
       "date": "2026-08-20",
       "end_date": "2026-08-20",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Peter Himmelman",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3886,7 +2518,7 @@
     {
       "date": "2026-08-21",
       "end_date": "2026-08-21",
-      "venue": "416 Cedar Avenue South",
+      "venue": "Minneapolis",
       "title": "AFRO DEAD with Demitrious Rallis Band",
       "tour": "Live Music",
       "support_raw": "416 Cedar Avenue South, Minneapolis, Minnesota 55454",
@@ -3898,7 +2530,7 @@
     {
       "date": "2026-08-22",
       "end_date": "2026-08-22",
-      "venue": "1105 Washington Ave S",
+      "venue": "Minneapolis",
       "title": "Fortunate Suns | Lazy River Road",
       "tour": "Dance, Food & Drink, LGBTQ, Live Music",
       "support_raw": "1105 Washington Ave S, Minneapolis, Minnesota 55415",
@@ -3910,7 +2542,7 @@
     {
       "date": "2026-08-22",
       "end_date": "2026-08-22",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Simply the Best Saturday Drag Show",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3922,7 +2554,7 @@
     {
       "date": "2026-08-23",
       "end_date": "2026-08-23",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Bottomless Drag Brunch at Roxy's Cabaret",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3934,7 +2566,7 @@
     {
       "date": "2026-08-23",
       "end_date": "2026-08-23",
-      "venue": "300 N Washington Ave",
+      "venue": "Minneapolis",
       "title": "Leslie Vincent + Sarah Morris – Summer Concert Series",
       "tour": "Community, Live Music",
       "support_raw": "300 N Washington Ave, Minneapolis, Minnesota 55401",
@@ -3946,7 +2578,7 @@
     {
       "date": "2026-08-23",
       "end_date": "2026-08-23",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Cinema Classic Presents: Rocky Horror Picture Show",
       "tour": "Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3958,7 +2590,7 @@
     {
       "date": "2026-08-23",
       "end_date": "2026-08-23",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "The Devon Allman Project",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -3973,7 +2605,7 @@
       "venue": "Target Center",
       "title": "Minnesota Lynx vs. Golden State Valkyries",
       "tour": "Sports Events",
-      "support_raw": "Target Center, 600 N 1st Ave, Minneapolis, MN 55403",
+      "support_raw": "600 N 1st Ave, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Lynx vs. Golden State Valkyries"
       ],
@@ -3982,7 +2614,7 @@
     {
       "date": "2026-08-25",
       "end_date": "2026-08-25",
-      "venue": "1758 W River Road N",
+      "venue": "Minneapolis",
       "title": "Never River",
       "tour": "Sports Events",
       "support_raw": "1758 W River Road N, Minneapolis, Minnesota 55411",
@@ -3994,7 +2626,7 @@
     {
       "date": "2026-08-25",
       "end_date": "2026-08-25",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Toledo Mud Hens",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -4006,7 +2638,7 @@
     {
       "date": "2026-08-26",
       "end_date": "2026-08-26",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Ultimate Game Night: JackBox Party",
       "tour": "Food & Drink, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4018,7 +2650,7 @@
     {
       "date": "2026-08-26",
       "end_date": "2026-08-26",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Toledo Mud Hens",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -4030,7 +2662,7 @@
     {
       "date": "2026-08-27",
       "end_date": "2026-08-27",
-      "venue": "1758 W River Road N",
+      "venue": "Minneapolis",
       "title": "Never River",
       "tour": "Sports Events",
       "support_raw": "1758 W River Road N, Minneapolis, Minnesota 55411",
@@ -4042,7 +2674,7 @@
     {
       "date": "2026-08-27",
       "end_date": "2026-08-27",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Toledo Mud Hens",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -4057,7 +2689,7 @@
       "venue": "Target Field",
       "title": "Minnesota Twins vs. Chicago White Sox",
       "tour": "Sports Events",
-      "support_raw": "Target Field, 1 Twins Way, Minneapolis, MN 55403",
+      "support_raw": "1 Twins Way, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Twins vs. Chicago White Sox"
       ],
@@ -4066,7 +2698,7 @@
     {
       "date": "2026-08-28",
       "end_date": "2026-08-28",
-      "venue": "600 North First Avenue",
+      "venue": "Minneapolis",
       "title": "Tame Impala",
       "tour": "Live Music",
       "support_raw": "600 North First Avenue, Minneapolis, Minnesota",
@@ -4078,7 +2710,7 @@
     {
       "date": "2026-08-28",
       "end_date": "2026-08-28",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Toledo Mud Hens",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -4090,7 +2722,7 @@
     {
       "date": "2026-08-29",
       "end_date": "2026-08-29",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Toledo Mud Hens",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -4102,7 +2734,7 @@
     {
       "date": "2026-08-29",
       "end_date": "2026-08-29",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Drag, Elevated",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4114,7 +2746,7 @@
     {
       "date": "2026-08-30",
       "end_date": "2026-08-30",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Bottomless Drag Brunch at Roxy's Cabaret",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4126,7 +2758,7 @@
     {
       "date": "2026-08-30",
       "end_date": "2026-08-30",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Cult Cinema Classic Presents: Death Becomes Her",
       "tour": "Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4138,7 +2770,7 @@
     {
       "date": "2026-08-30",
       "end_date": "2026-08-30",
-      "venue": "300 N Washington Ave",
+      "venue": "Minneapolis",
       "title": "ABBAsolutely Fab – Summer Concert Series",
       "tour": "Community, Dance, Fairs & Festivals, Family Fun, Fitness, Food & Drink, Free, History & Heritage, Holiday, LGBTQ, Live Music, Hennepin Arts",
       "support_raw": "300 N Washington Ave, Minneapolis, Minnesota 55401",
@@ -4153,7 +2785,7 @@
       "venue": "Target Field",
       "title": "Minnesota Twins vs. Detroit Tigers",
       "tour": "Sports Events",
-      "support_raw": "Target Field, 1 Twins Way, Minneapolis, MN 55403",
+      "support_raw": "1 Twins Way, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Twins vs. Detroit Tigers"
       ],
@@ -4162,7 +2794,7 @@
     {
       "date": "2026-09-01",
       "end_date": "2026-09-01",
-      "venue": "1758 W River Road N",
+      "venue": "Minneapolis",
       "title": "Never River",
       "tour": "Sports Events",
       "support_raw": "1758 W River Road N, Minneapolis, Minnesota 55411",
@@ -4174,7 +2806,7 @@
     {
       "date": "2026-09-02",
       "end_date": "2026-09-02",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Mini Mia — September 2",
       "tour": "Community",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota MN",
@@ -4186,7 +2818,7 @@
     {
       "date": "2026-09-02",
       "end_date": "2026-09-02",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Ultimate Game Night: Super Smash Brothers",
       "tour": "Food & Drink, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4198,7 +2830,7 @@
     {
       "date": "2026-09-02",
       "end_date": "2026-12-02",
-      "venue": "1105 S Washington Ave",
+      "venue": "Minneapolis",
       "title": "BIGFOOT COUNTY @ DAY BLOCK BREWING",
       "tour": "Food & Drink, Live Music",
       "support_raw": "1105 S Washington Ave, Minneapolis, Minnesota 55415",
@@ -4210,7 +2842,7 @@
     {
       "date": "2026-09-03",
       "end_date": "2026-09-03",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Meet at Mia: Summer Series — September 3",
       "tour": "Arts & Theater",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota MN",
@@ -4222,7 +2854,7 @@
     {
       "date": "2026-09-05",
       "end_date": "2026-09-19",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Art Play — September",
       "tour": "Community, Free",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
@@ -4234,7 +2866,7 @@
     {
       "date": "2026-09-05",
       "end_date": "2026-09-05",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "FLAMboyANCE Drag Show",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4246,7 +2878,7 @@
     {
       "date": "2026-09-06",
       "end_date": "2026-09-06",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Bottomless Drag Brunch at Roxy's Cabaret",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4258,7 +2890,7 @@
     {
       "date": "2026-09-06",
       "end_date": "2026-09-06",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Cult Cinema Classics Presents: Superstar",
       "tour": "LGBTQ, Multicultural, Hennepin Arts",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4270,7 +2902,7 @@
     {
       "date": "2026-09-08",
       "end_date": "2026-09-08",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Syracuse Mets",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -4282,7 +2914,7 @@
     {
       "date": "2026-09-09",
       "end_date": "2026-09-09",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Syracuse Mets",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -4294,7 +2926,7 @@
     {
       "date": "2026-09-09",
       "end_date": "2026-09-09",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Ultimate Game Night: Advanced Beginner Board Game Night",
       "tour": "Food & Drink, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4306,7 +2938,7 @@
     {
       "date": "2026-09-10",
       "end_date": "2026-09-10",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Meet at Mia: Summer Series — September 10",
       "tour": "Arts & Theater",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
@@ -4330,7 +2962,7 @@
     {
       "date": "2026-09-10",
       "end_date": "2026-09-10",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Syracuse Mets",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -4345,7 +2977,7 @@
       "venue": "Target Field",
       "title": "Minnesota Twins vs. Cleveland Guardians",
       "tour": "Sports Events",
-      "support_raw": "Target Field, 1 Twins Way, Minneapolis, MN 55403",
+      "support_raw": "1 Twins Way, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Twins vs. Cleveland Guardians"
       ],
@@ -4354,7 +2986,7 @@
     {
       "date": "2026-09-11",
       "end_date": "2026-09-11",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Syracuse Mets",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -4366,7 +2998,7 @@
     {
       "date": "2026-09-11",
       "end_date": "2026-09-11",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Bettye LaVette Duo",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4381,7 +3013,7 @@
       "venue": "Minneapolis Parks",
       "title": "Art in the Park — September",
       "tour": "Free",
-      "support_raw": "Minneapolis Parks, Minneapolis, Minnesota 55404",
+      "support_raw": "Minneapolis, Minnesota 55404",
       "artists": [
         "Art in the Park — September"
       ],
@@ -4390,7 +3022,7 @@
     {
       "date": "2026-09-12",
       "end_date": "2026-09-12",
-      "venue": "3700 Monterey Dr",
+      "venue": "Minneapolis",
       "title": "St. Louis Park Art Fair",
       "tour": "Arts & Theater, Fairs & Festivals, Family Fun",
       "support_raw": "3700 Monterey Dr, St. Louis Park, Minnesota 55416",
@@ -4405,7 +3037,7 @@
       "venue": "Graze Food Hall by Travail",
       "title": "Rock the Hall — Andra Suchy",
       "tour": "Free, Live Music",
-      "support_raw": "Graze Food Hall by Travail, 520 N 4th St, Minneapolis, MN 55401",
+      "support_raw": "520 N 4th St, Minneapolis, MN 55401",
       "artists": [
         "Rock the Hall — Andra Suchy"
       ],
@@ -4414,7 +3046,7 @@
     {
       "date": "2026-09-12",
       "end_date": "2026-09-12",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Syracuse Mets",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -4426,7 +3058,7 @@
     {
       "date": "2026-09-12",
       "end_date": "2026-09-12",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Glitz & Glam Drag Show",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4441,7 +3073,7 @@
       "venue": "U.S. Bank Stadium",
       "title": "Minnesota Vikings vs. Green Bay Packers",
       "tour": "Sports Events, Big Events",
-      "support_raw": "U.S. Bank Stadium, 401 Chicago Ave, Minneapolis, MN 55415",
+      "support_raw": "401 Chicago Ave, Minneapolis, MN 55415",
       "artists": [
         "Minnesota Vikings vs. Green Bay Packers"
       ],
@@ -4450,7 +3082,7 @@
     {
       "date": "2026-09-13",
       "end_date": "2026-09-13",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Family Day — September",
       "tour": "Community, Free",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
@@ -4462,7 +3094,7 @@
     {
       "date": "2026-09-13",
       "end_date": "2026-09-13",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Bottomless Drag Brunch at Roxy's Cabaret",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4474,7 +3106,7 @@
     {
       "date": "2026-09-13",
       "end_date": "2026-09-13",
-      "venue": "360 N Broadway St",
+      "venue": "Minneapolis",
       "title": "St. Paul Saints & Syracuse Mets",
       "tour": "Sports Events",
       "support_raw": "360 N Broadway St, St. Paul, Minnesota 55101",
@@ -4486,7 +3118,7 @@
     {
       "date": "2026-09-13",
       "end_date": "2026-09-13",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Dominique Fils-Aimé",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4498,7 +3130,7 @@
     {
       "date": "2026-09-13",
       "end_date": "2026-09-13",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Cult Cinema Classics Presents: Clue",
       "tour": "Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4510,7 +3142,7 @@
     {
       "date": "2026-09-14",
       "end_date": "2026-09-14",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Lucía",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4522,7 +3154,7 @@
     {
       "date": "2026-09-15",
       "end_date": "2026-09-20",
-      "venue": "910 Hennepin Ave.",
+      "venue": "Minneapolis",
       "title": "Mamma Mia!",
       "tour": "Arts & Theater, Hennepin Arts",
       "support_raw": "910 Hennepin Ave., Minneapolis, Minnesota 55403",
@@ -4537,7 +3169,7 @@
       "venue": "The Armory",
       "title": "Lily Allen — West End Girl",
       "tour": "Live Music",
-      "support_raw": "The Armory, 500 S 6th St, Minneapolis, MN 55415",
+      "support_raw": "500 S 6th St, Minneapolis, MN 55415",
       "artists": [
         "Lily Allen — West End Girl"
       ],
@@ -4546,7 +3178,7 @@
     {
       "date": "2026-09-16",
       "end_date": "2026-09-16",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Ultimate Game Night: Learn to Play Catan",
       "tour": "Food & Drink, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4558,7 +3190,7 @@
     {
       "date": "2026-09-17",
       "end_date": "2026-09-17",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Meet at Mia: Summer Series — September 17",
       "tour": "Community, Food & Drink, Free, Live Music",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
@@ -4570,7 +3202,7 @@
     {
       "date": "2026-09-18",
       "end_date": "2026-09-18",
-      "venue": "400 Snelling Ave N",
+      "venue": "Minneapolis",
       "title": "SuperSonic: North America's Tribute to Oasis",
       "tour": "Live Music",
       "support_raw": "400 Snelling Ave N, St. Paul, Minnesota 55104",
@@ -4582,7 +3214,7 @@
     {
       "date": "2026-09-18",
       "end_date": "2026-09-18",
-      "venue": "805 Hennepin Ave.",
+      "venue": "Minneapolis",
       "title": "John Crist Live!",
       "tour": "Comedy, Hennepin Arts",
       "support_raw": "805 Hennepin Ave., Minneapolis MN 55403, Minneapolis, Minnesota 55403",
@@ -4609,7 +3241,7 @@
       "venue": "Target Center",
       "title": "Minnesota Lynx vs. New York Liberty",
       "tour": "Sports Events",
-      "support_raw": "Target Center, 600 N 1st Ave, Minneapolis, MN 55403",
+      "support_raw": "600 N 1st Ave, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Lynx vs. New York Liberty"
       ],
@@ -4618,7 +3250,7 @@
     {
       "date": "2026-09-18",
       "end_date": "2026-09-18",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Mac McAnally",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4630,7 +3262,7 @@
     {
       "date": "2026-09-19",
       "end_date": "2026-09-20",
-      "venue": "2544 Hwy 100 S",
+      "venue": "Minneapolis",
       "title": "MinnesoThai Street Food Festival",
       "tour": "Fairs & Festivals, Family Fun, History & Heritage, Multicultural",
       "support_raw": "2544 Hwy 100 S, St. Louis Park, Minnesota 55416",
@@ -4642,7 +3274,7 @@
     {
       "date": "2026-09-19",
       "end_date": "2026-09-19",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "The Goddess Experience Drag Show",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4654,7 +3286,7 @@
     {
       "date": "2026-09-20",
       "end_date": "2026-09-20",
-      "venue": "805 Hennepin Ave.",
+      "venue": "Minneapolis",
       "title": "Jim Henson's Fraggle Rock: Back to the Rock LIVE",
       "tour": "Family Fun",
       "support_raw": "805 Hennepin Ave., Minneapolis, Minnesota 55403",
@@ -4666,7 +3298,7 @@
     {
       "date": "2026-09-20",
       "end_date": "2026-09-20",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Bottomless Drag Brunch at Roxy's Cabaret",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4678,7 +3310,7 @@
     {
       "date": "2026-09-20",
       "end_date": "2026-09-20",
-      "venue": "300 N Washington Ave",
+      "venue": "Minneapolis",
       "title": "Kiss The Tiger – Summer Concert Series",
       "tour": "Community, Live Music",
       "support_raw": "300 N Washington Ave, Minneapolis, Minnesota 55401",
@@ -4690,7 +3322,7 @@
     {
       "date": "2026-09-20",
       "end_date": "2026-09-20",
-      "venue": "1111 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Herb Alpert & The Tijuana Brass & Other Delights at Orchestra Hall",
       "tour": "Live Music",
       "support_raw": "1111 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4702,7 +3334,7 @@
     {
       "date": "2026-09-20",
       "end_date": "2026-09-20",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Cult Cinema Classics Presents: The Royal Tenenbaums",
       "tour": "Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4714,7 +3346,7 @@
     {
       "date": "2026-09-21",
       "end_date": "2026-09-21",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Shoshana Bean",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4726,7 +3358,7 @@
     {
       "date": "2026-09-22",
       "end_date": "2026-09-22",
-      "venue": "600 North First Avenue",
+      "venue": "Minneapolis",
       "title": "Kacey Musgraves",
       "tour": "Live Music",
       "support_raw": "600 North First Avenue, Minneapolis, Minnesota",
@@ -4738,7 +3370,7 @@
     {
       "date": "2026-09-23",
       "end_date": "2026-09-27",
-      "venue": "115 SE Main St",
+      "venue": "Minneapolis",
       "title": "Twin Cities Arab Film Fest: Twentieth Edition!",
       "tour": "Arts & Theater, Fairs & Festivals",
       "support_raw": "115 SE Main St, Minneapolis, MN 55414, Minneapolis, Minnesota 55414",
@@ -4750,7 +3382,7 @@
     {
       "date": "2026-09-23",
       "end_date": "2026-09-23",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Ultimate Game Night: Mario Kart World Balloon Battle Tournament",
       "tour": "Food & Drink, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4762,7 +3394,7 @@
     {
       "date": "2026-09-23",
       "end_date": "2026-09-23",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Pure Prairie League",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4774,7 +3406,7 @@
     {
       "date": "2026-09-24",
       "end_date": "2026-09-24",
-      "venue": "805 Hennepin Ave.",
+      "venue": "Minneapolis",
       "title": "The Basement Yard Live",
       "tour": "Comedy, Hennepin Arts",
       "support_raw": "805 Hennepin Ave., Minneapolis MN 55403, Minneapolis, Minnesota 55403",
@@ -4789,7 +3421,7 @@
       "venue": "Target Center",
       "title": "Minnesota Lynx vs. Indiana Fever",
       "tour": "Sports Events",
-      "support_raw": "Target Center, 600 N 1st Ave, Minneapolis, MN 55403",
+      "support_raw": "600 N 1st Ave, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Lynx vs. Indiana Fever"
       ],
@@ -4801,7 +3433,7 @@
       "venue": "Target Field",
       "title": "Minnesota Twins vs. Texas Rangers",
       "tour": "Sports Events",
-      "support_raw": "Target Field, 1 Twins Way, Minneapolis, MN 55403",
+      "support_raw": "1 Twins Way, Minneapolis, MN 55403",
       "artists": [
         "Minnesota Twins vs. Texas Rangers"
       ],
@@ -4813,7 +3445,7 @@
       "venue": "Dakota",
       "title": "Dakota Block Party",
       "tour": "Community, Fairs & Festivals, Family Fun, Food & Drink, Free, Live Music, Big Events",
-      "support_raw": "Dakota, 1010 Nicollet Mall, Minneapolis, MN 55403",
+      "support_raw": "1010 Nicollet Mall, Minneapolis, MN 55403",
       "artists": [
         "Dakota Block Party"
       ],
@@ -4822,7 +3454,7 @@
     {
       "date": "2026-09-26",
       "end_date": "2026-09-26",
-      "venue": "2400 Third Avenue South",
+      "venue": "Minneapolis",
       "title": "Mini Mia — September 26",
       "tour": "Community, Family Fun, Free",
       "support_raw": "2400 Third Avenue South, Minneapolis, Minnesota 55404",
@@ -4837,7 +3469,7 @@
       "venue": "The Armory",
       "title": "Bleachers",
       "tour": "Live Music",
-      "support_raw": "The Armory, 500 S 6th St, Minneapolis, MN 55415",
+      "support_raw": "500 S 6th St, Minneapolis, MN 55415",
       "artists": [
         "Bleachers"
       ],
@@ -4846,7 +3478,7 @@
     {
       "date": "2026-09-26",
       "end_date": "2026-09-26",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Simply the Best Saturday Drag Show",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4858,7 +3490,7 @@
     {
       "date": "2026-09-27",
       "end_date": "2026-09-27",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Bottomless Drag Brunch at Roxy's Cabaret",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4870,7 +3502,7 @@
     {
       "date": "2026-09-27",
       "end_date": "2026-09-27",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Cult Cinema Classics Presents: V for Vendetta",
       "tour": "Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4882,7 +3514,7 @@
     {
       "date": "2026-09-27",
       "end_date": "2026-09-27",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Alicia Witt: Album Release",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4897,7 +3529,7 @@
       "venue": "The Armory",
       "title": "Foster the People",
       "tour": "Live Music",
-      "support_raw": "The Armory, 500 S 6th St, Minneapolis, MN 55415",
+      "support_raw": "500 S 6th St, Minneapolis, MN 55415",
       "artists": [
         "Foster the People"
       ],
@@ -4906,7 +3538,7 @@
     {
       "date": "2026-09-30",
       "end_date": "2026-09-30",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Ultimate Game Night: Mario Kart World on the Nintendo Switch 2!",
       "tour": "Food & Drink, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4918,7 +3550,7 @@
     {
       "date": "2026-09-30",
       "end_date": "2026-09-30",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Vieux Farka Touré",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4930,7 +3562,7 @@
     {
       "date": "2026-10-01",
       "end_date": "2026-10-01",
-      "venue": "805 Hennepin Ave.",
+      "venue": "Minneapolis",
       "title": "Rocky Horror Picture Show Spooktacular Tour",
       "tour": "Comedy, Hennepin Arts",
       "support_raw": "805 Hennepin Ave., Minneapolis MN 55403, Minneapolis, Minnesota 55403",
@@ -4942,7 +3574,7 @@
     {
       "date": "2026-10-01",
       "end_date": "2026-10-01",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Alfredo Rodriguez & Pedrito Martinez",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4954,7 +3586,7 @@
     {
       "date": "2026-10-01",
       "end_date": "2026-10-01",
-      "venue": "710 Hennepin Ave",
+      "venue": "Minneapolis",
       "title": "Tab Benoit: Soul of the Swamp Tour at Pantages Theatre",
       "tour": "Live Music",
       "support_raw": "710 Hennepin Ave, Minneapolis, Minnesota 55402",
@@ -4966,7 +3598,7 @@
     {
       "date": "2026-10-03",
       "end_date": "2026-10-03",
-      "venue": "214 4th Street East",
+      "venue": "Minneapolis",
       "title": "The Twin Cities Bloody Mary Festival",
       "tour": "Fairs & Festivals",
       "support_raw": "214 4th Street East, St. Paul , Minnesota 55101",
@@ -4978,7 +3610,7 @@
     {
       "date": "2026-10-03",
       "end_date": "2026-10-03",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Drag, Elevated",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -4993,7 +3625,7 @@
       "venue": "U.S. Bank Stadium",
       "title": "Minnesota Vikings vs. Miami Dolphins",
       "tour": "Sports Events, Big Events",
-      "support_raw": "U.S. Bank Stadium, 401 Chicago Ave, Minneapolis, MN 55415",
+      "support_raw": "401 Chicago Ave, Minneapolis, MN 55415",
       "artists": [
         "Minnesota Vikings vs. Miami Dolphins"
       ],
@@ -5002,7 +3634,7 @@
     {
       "date": "2026-10-04",
       "end_date": "2026-10-04",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Bottomless Drag Brunch at Roxy's Cabaret",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -5014,7 +3646,7 @@
     {
       "date": "2026-10-04",
       "end_date": "2026-10-04",
-      "venue": "300 N Washington Ave",
+      "venue": "Minneapolis",
       "title": "Davina & The Vagabonds – Summer Concert Series",
       "tour": "Community, Live Music",
       "support_raw": "300 N Washington Ave, Minneapolis, Minnesota 55401",
@@ -5026,7 +3658,7 @@
     {
       "date": "2026-10-04",
       "end_date": "2026-10-04",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Cult Cinema Classics Presents: Evil Dead 2",
       "tour": "Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -5038,7 +3670,7 @@
     {
       "date": "2026-10-04",
       "end_date": "2026-10-04",
-      "venue": "600 North First Avenue",
+      "venue": "Minneapolis",
       "title": "Doja Cat",
       "tour": "Live Music",
       "support_raw": "600 North First Avenue, Minneapolis, Minnesota",
@@ -5050,7 +3682,7 @@
     {
       "date": "2026-10-07",
       "end_date": "2026-10-07",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Ultimate Game Night presents: Trading Card Night",
       "tour": "Food & Drink, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -5065,7 +3697,7 @@
       "venue": "Orchestra Hall",
       "title": "Return of the Jedi in Concert with the Minnesota Orchestra",
       "tour": "Arts & Theater, Live Music",
-      "support_raw": "Orchestra Hall, 1111 Nicollet Mall, Minneapolis, MN 55403",
+      "support_raw": "1111 Nicollet Mall, Minneapolis, MN 55403",
       "artists": [
         "Return of the Jedi in Concert with the Minnesota Orchestra"
       ],
@@ -5074,7 +3706,7 @@
     {
       "date": "2026-10-08",
       "end_date": "2026-10-08",
-      "venue": "2520 Central Ave NE",
+      "venue": "Minneapolis",
       "title": "Blackwillow Starling Live!",
       "tour": "Arts & Theater",
       "support_raw": "2520 Central Ave NE, Minneapolis, Minnesota 55418",
@@ -5086,7 +3718,7 @@
     {
       "date": "2026-10-09",
       "end_date": "2026-10-09",
-      "venue": "805 Hennepin Ave.",
+      "venue": "Minneapolis",
       "title": "Sasha Velour — TRAVESTY",
       "tour": "Comedy, Hennepin Arts",
       "support_raw": "805 Hennepin Ave., Minneapolis MN 55403, Minneapolis, Minnesota 55403",
@@ -5098,7 +3730,7 @@
     {
       "date": "2026-10-10",
       "end_date": "2026-10-10",
-      "venue": "4655 46th Ave S",
+      "venue": "Minneapolis",
       "title": "Twin Cities Bike Tour",
       "tour": "Community, Family Fun, Fitness, Outdoor and Recreation, Sports Events",
       "support_raw": "4655 46th Ave S, Minneapolis, MN 55406, Twin Cities Metro, Minnesota 55406",
@@ -5113,7 +3745,7 @@
       "venue": "The Armory",
       "title": "Shaboozey",
       "tour": "Live Music",
-      "support_raw": "The Armory, 500 S 6th St, Minneapolis, MN 55415",
+      "support_raw": "500 S 6th St, Minneapolis, MN 55415",
       "artists": [
         "Shaboozey"
       ],
@@ -5122,7 +3754,7 @@
     {
       "date": "2026-10-10",
       "end_date": "2026-10-10",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "FLAMboyANCE Drag Show",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -5137,7 +3769,7 @@
       "venue": "Broken Clock Brewing Cooperative",
       "title": "5k Fun Run x Broken Clock Brewing",
       "tour": "Fitness, Food & Drink, Outdoor and Recreation",
-      "support_raw": "Broken Clock Brewing Cooperative, 1712 Marshall St NE, Suite 100, Minneapolis, MN 55413",
+      "support_raw": "1712 Marshall St NE, Suite 100, Minneapolis, MN 55413",
       "artists": [
         "5k Fun Run x Broken Clock Brewing"
       ],
@@ -5146,7 +3778,7 @@
     {
       "date": "2026-10-11",
       "end_date": "2026-10-11",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Bottomless Drag Brunch at Roxy's Cabaret",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -5158,7 +3790,7 @@
     {
       "date": "2026-10-11",
       "end_date": "2026-10-11",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Cult Cinema Classics Presents: Beetlejuice",
       "tour": "Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -5170,7 +3802,7 @@
     {
       "date": "2026-10-11",
       "end_date": "2026-10-11",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Mike Dawes",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -5182,7 +3814,7 @@
     {
       "date": "2026-10-12",
       "end_date": "2026-10-12",
-      "venue": "1010 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Hiromi: The Trio Project",
       "tour": "Live Music",
       "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -5194,7 +3826,7 @@
     {
       "date": "2026-10-14",
       "end_date": "2026-10-14",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Ultimate Game Night: JackBox Party",
       "tour": "Food & Drink, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -5206,7 +3838,7 @@
     {
       "date": "2026-10-17",
       "end_date": "2026-10-17",
-      "venue": "824 Hennepin Ave.",
+      "venue": "Minneapolis",
       "title": "An Evening with David Sedaris",
       "tour": "Comedy",
       "support_raw": "824 Hennepin Ave., Minneapolis, Minnesota 55403",
@@ -5218,7 +3850,7 @@
     {
       "date": "2026-10-17",
       "end_date": "2026-10-17",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Glitz & Glam Drag Show",
       "tour": "Food & Drink, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -5230,7 +3862,7 @@
     {
       "date": "2026-10-17",
       "end_date": "2026-10-17",
-      "venue": "345 Washington Street",
+      "venue": "Minneapolis",
       "title": "Branford Marsalis & Dianne Reeves celebrate John Coltrane At The Ordway",
       "tour": "Live Music",
       "support_raw": "345 Washington Street, St. Paul, Minnesota 55102",
@@ -5242,7 +3874,7 @@
     {
       "date": "2026-10-18",
       "end_date": "2026-10-18",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Bottomless Drag Brunch at Roxy's Cabaret",
       "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -5254,7 +3886,7 @@
     {
       "date": "2026-10-18",
       "end_date": "2026-10-18",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Cult Cinema Classics Presents: Scream",
       "tour": "Food & Drink, LGBTQ, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -5266,7 +3898,7 @@
     {
       "date": "2026-10-18",
       "end_date": "2026-10-18",
-      "venue": "600 North First Avenue",
+      "venue": "Minneapolis",
       "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
       "tour": "Live Music",
       "support_raw": "600 North First Avenue, Minneapolis, Minnesota",
@@ -5278,7 +3910,7 @@
     {
       "date": "2026-10-21",
       "end_date": "2026-10-21",
-      "venue": "1333 Nicollet Mall",
+      "venue": "Minneapolis",
       "title": "Ultimate Game Night: Learn to Play Ticket to Ride",
       "tour": "Food & Drink, Multicultural",
       "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
@@ -5286,6 +3918,174 @@
         "Ultimate Game Night: Learn to Play Ticket to Ride"
       ],
       "link": "https://www.minneapolis.org/calendar/ultimate-game-night-learn-to-play-ticket-to-ride-3/"
+    },
+    {
+      "date": "2026-10-22",
+      "end_date": "2026-10-24",
+      "venue": "Minneapolis",
+      "title": "Chris Botti",
+      "tour": "Live Music",
+      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
+      "artists": [
+        "Chris Botti"
+      ],
+      "link": "https://www.minneapolis.org/calendar/chris-botti-2/"
+    },
+    {
+      "date": "2026-10-22",
+      "end_date": "2026-10-22",
+      "venue": "Minneapolis",
+      "title": "Outlander in Concert",
+      "tour": "Live Music",
+      "support_raw": "805 Hennepin Ave., Minneapolis MN 55403, Minneapolis, Minnesota 55403",
+      "artists": [
+        "Outlander in Concert"
+      ],
+      "link": "https://www.minneapolis.org/calendar/outlander-in-concert/"
+    },
+    {
+      "date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "venue": "Minneapolis",
+      "title": "Lucas Zelnick",
+      "tour": "Comedy",
+      "support_raw": "710 Hennepin Ave., Minneapolis, Minnesota 55403",
+      "artists": [
+        "Lucas Zelnick"
+      ],
+      "link": "https://www.minneapolis.org/calendar/lucas-zelnick/"
+    },
+    {
+      "date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "venue": "Minneapolis",
+      "title": "The Goddess Experience Drag Show",
+      "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
+      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
+      "artists": [
+        "The Goddess Experience Drag Show"
+      ],
+      "link": "https://www.minneapolis.org/calendar/the-goddess-experience-drag-show-6/"
+    },
+    {
+      "date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "venue": "U.S. Bank Stadium",
+      "title": "Minnesota Vikings vs. Indianapolis Colts",
+      "tour": "Sports Events, Big Events",
+      "support_raw": "401 Chicago Ave, Minneapolis, MN 55415",
+      "artists": [
+        "Minnesota Vikings vs. Indianapolis Colts"
+      ],
+      "link": "https://www.minneapolis.org/calendar/vikings-vs-colts/"
+    },
+    {
+      "date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "venue": "Minneapolis",
+      "title": "Bottomless Drag Brunch at Roxy's Cabaret",
+      "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
+      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
+      "artists": [
+        "Bottomless Drag Brunch at Roxy's Cabaret"
+      ],
+      "link": "https://www.minneapolis.org/calendar/bottomless-drag-brunch-at-roxys-cabaret-24/"
+    },
+    {
+      "date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "venue": "Minneapolis",
+      "title": "Cult Cinema Classics Presents: Hocus Pocus",
+      "tour": "Food & Drink, LGBTQ, Multicultural",
+      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
+      "artists": [
+        "Cult Cinema Classics Presents: Hocus Pocus"
+      ],
+      "link": "https://www.minneapolis.org/calendar/cult-cinema-classics-presents-hocus-pocus/"
+    },
+    {
+      "date": "2026-10-28",
+      "end_date": "2026-10-30",
+      "venue": "Minneapolis",
+      "title": "Judy Collins: Sweet Judy Blue Eyes – Farewell",
+      "tour": "Live Music",
+      "support_raw": "1010 Nicollet Mall, Minneapolis, Minnesota 55403",
+      "artists": [
+        "Judy Collins: Sweet Judy Blue Eyes – Farewell"
+      ],
+      "link": "https://www.minneapolis.org/calendar/judy-collins-sweet-judy-blue-eyes-farewell/"
+    },
+    {
+      "date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "venue": "Minneapolis",
+      "title": "Ultimate Game Night: Super Smash Brothers",
+      "tour": "Food & Drink, Multicultural",
+      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
+      "artists": [
+        "Ultimate Game Night: Super Smash Brothers"
+      ],
+      "link": "https://www.minneapolis.org/calendar/ultimate-game-night-super-smash-brothers2/"
+    },
+    {
+      "date": "2026-10-30",
+      "end_date": "2026-10-31",
+      "venue": "Orchestra Hall",
+      "title": "Vertigo in Concert with the Minnesota Orchestra",
+      "tour": "Arts & Theater, Live Music",
+      "support_raw": "1111 Nicollet Mall, Minneapolis, MN 55403",
+      "artists": [
+        "Vertigo in Concert with the Minnesota Orchestra"
+      ],
+      "link": "https://www.minneapolis.org/calendar/vertigo-in-concert/"
+    },
+    {
+      "date": "2026-10-31",
+      "end_date": "2026-11-01",
+      "venue": "Minneapolis",
+      "title": "Hold On To Your Butts",
+      "tour": "Arts & Theater",
+      "support_raw": "824 Hennepin Ave., Minneapolis, Minnesota 55403",
+      "artists": [
+        "Hold On To Your Butts"
+      ],
+      "link": "https://www.minneapolis.org/calendar/hold-on-to-your-butts/"
+    },
+    {
+      "date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "venue": "Minneapolis",
+      "title": "Simply the Best Saturday Drag Show",
+      "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
+      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
+      "artists": [
+        "Simply the Best Saturday Drag Show"
+      ],
+      "link": "https://www.minneapolis.org/calendar/simply-the-best-saturday-drag-show-6/"
+    },
+    {
+      "date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "venue": "Minneapolis",
+      "title": "Cinema Classic Presents: Rocky Horror Picture Show",
+      "tour": "Food & Drink, LGBTQ, Multicultural",
+      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
+      "artists": [
+        "Cinema Classic Presents: Rocky Horror Picture Show"
+      ],
+      "link": "https://www.minneapolis.org/calendar/cinema-classic-presents-rocky-horror-picture-show-3/"
+    },
+    {
+      "date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "venue": "Minneapolis",
+      "title": "Bottomless Drag Brunch at Roxy's Cabaret",
+      "tour": "Comedy, Food & Drink, LGBTQ, Multicultural",
+      "support_raw": "1333 Nicollet Mall, Minneapolis, Minnesota 55403",
+      "artists": [
+        "Bottomless Drag Brunch at Roxy's Cabaret"
+      ],
+      "link": "https://www.minneapolis.org/calendar/bottomless-drag-brunch-at-roxys-cabaret-25/"
     }
   ]
 }

@@ -1,228 +1,12 @@
 {
   "metadata": {
     "site": "luminary_arts_center",
-    "scraping_time": "2026-06-23T15:12:38.375042",
-    "start_date_range": "2026-06-23",
-    "end_date_range": "2026-10-21",
+    "scraping_time": "2026-07-11T19:35:16.259013",
+    "start_date_range": "2026-07-11",
+    "end_date_range": "2026-11-08",
     "total_shows_extracted": 122
   },
   "shows": [
-    {
-      "date": "2026-06-23",
-      "end_date": "2026-06-23",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-06-23/"
-    },
-    {
-      "date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-06-24/"
-    },
-    {
-      "date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-06-25/"
-    },
-    {
-      "date": "2026-06-26",
-      "end_date": "2026-06-26",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-06-26/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-06-27/"
-    },
-    {
-      "date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-06-28/"
-    },
-    {
-      "date": "2026-06-29",
-      "end_date": "2026-06-29",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-06-29/"
-    },
-    {
-      "date": "2026-06-30",
-      "end_date": "2026-06-30",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-06-30/"
-    },
-    {
-      "date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-07-01/"
-    },
-    {
-      "date": "2026-07-02",
-      "end_date": "2026-07-02",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-07-02/"
-    },
-    {
-      "date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-07-03/"
-    },
-    {
-      "date": "2026-07-04",
-      "end_date": "2026-07-04",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-07-04/"
-    },
-    {
-      "date": "2026-07-05",
-      "end_date": "2026-07-05",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-07-05/"
-    },
-    {
-      "date": "2026-07-06",
-      "end_date": "2026-07-06",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-07-06/"
-    },
-    {
-      "date": "2026-07-07",
-      "end_date": "2026-07-07",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-07-07/"
-    },
-    {
-      "date": "2026-07-08",
-      "end_date": "2026-07-08",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-07-08/"
-    },
-    {
-      "date": "2026-07-09",
-      "end_date": "2026-07-09",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-07-09/"
-    },
-    {
-      "date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "venue": "Luminary Arts Center",
-      "title": "Candlelight Concerts",
-      "tour": "Luminary Arts Center Event",
-      "support_raw": "8:00 AM",
-      "artists": [
-        "Candlelight Concerts"
-      ],
-      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-07-10/"
-    },
     {
       "date": "2026-07-11",
       "end_date": "2026-07-11",
@@ -1470,6 +1254,222 @@
         "Candlelight Concerts"
       ],
       "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-10-21/"
+    },
+    {
+      "date": "2026-10-22",
+      "end_date": "2026-10-22",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-10-22/"
+    },
+    {
+      "date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-10-23/"
+    },
+    {
+      "date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-10-24/"
+    },
+    {
+      "date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-10-25/"
+    },
+    {
+      "date": "2026-10-26",
+      "end_date": "2026-10-26",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-10-26/"
+    },
+    {
+      "date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-10-27/"
+    },
+    {
+      "date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-10-28/"
+    },
+    {
+      "date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-10-29/"
+    },
+    {
+      "date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-10-30/"
+    },
+    {
+      "date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-10-31/"
+    },
+    {
+      "date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-11-01/"
+    },
+    {
+      "date": "2026-11-02",
+      "end_date": "2026-11-02",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-11-02/"
+    },
+    {
+      "date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-11-03/"
+    },
+    {
+      "date": "2026-11-04",
+      "end_date": "2026-11-04",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-11-04/"
+    },
+    {
+      "date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-11-05/"
+    },
+    {
+      "date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-11-06/"
+    },
+    {
+      "date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-11-07/"
+    },
+    {
+      "date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "venue": "Luminary Arts Center",
+      "title": "Candlelight Concerts",
+      "tour": "Luminary Arts Center Event",
+      "support_raw": "8:00 AM",
+      "artists": [
+        "Candlelight Concerts"
+      ],
+      "link": "https://luminaryartscenter.com/event/candlelight-concerts-2/2026-11-08/"
     }
   ]
 }

@@ -1,540 +1,12 @@
 {
   "metadata": {
     "site": "crooners",
-    "scraping_time": "2026-06-23T15:12:38.334709",
-    "start_date_range": "2026-06-23",
-    "end_date_range": "2026-10-21",
-    "total_shows_extracted": 132
+    "scraping_time": "2026-07-11T19:35:06.824241",
+    "start_date_range": "2026-07-11",
+    "end_date_range": "2026-11-08",
+    "total_shows_extracted": 99
   },
   "shows": [
-    {
-      "date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "venue": "Maggie&#8217;s Piano Lounge",
-      "title": "Dual Funkshun with Mark Bloom and Dan Neale",
-      "tour": "Live Music",
-      "support_raw": "5:00 PM  Free",
-      "artists": [
-        "Dual Funkshun with Mark Bloom and Dan Neale"
-      ],
-      "link": "https://www.croonersmn.com/event/dual-funkshun-with-mark-bloom-and-dan-neale-2/"
-    },
-    {
-      "date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "venue": "Dunsmore Jazz Room",
-      "title": "Backyard BBQ Playlist, Vol. I: The Sound of Philadelphia – \"Philly Soul\"",
-      "tour": "Live Music",
-      "support_raw": "7:30 PM  $$25.00 - $35.00",
-      "artists": [
-        "Backyard BBQ Playlist, Vol. I: The Sound of Philadelphia – \"Philly Soul\""
-      ],
-      "link": "https://www.croonersmn.com/event/backyard-bbq-playlist-vol-i-the-sound-of-philadelphia-philly-soul/"
-    },
-    {
-      "date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "venue": "Dunsmore Jazz Room",
-      "title": "CHARMIN + ARNE + GERSHWIN!",
-      "tour": "Live Music",
-      "support_raw": "5:30 PM  $$30.00 - $40.00",
-      "artists": [
-        "CHARMIN + ARNE + GERSHWIN!"
-      ],
-      "link": "https://www.croonersmn.com/event/charmin-arne-gershwin/"
-    },
-    {
-      "date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "venue": "Main Stage Showroom",
-      "title": "PRIDE 2026: Erin Schwab Sings Bette",
-      "tour": "Live Music",
-      "support_raw": "6:30 PM  $$30.00 - $40.00",
-      "artists": [
-        "PRIDE 2026: Erin Schwab Sings Bette"
-      ],
-      "link": "https://www.croonersmn.com/event/pride-2026-erin-schwab-sings-bette/"
-    },
-    {
-      "date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "venue": "The Belvedere at Crooners",
-      "title": "Those Medley Kids: Spotlight on Genesis&#8217; &#8220;Selling England by the Pound&#8221;",
-      "tour": "Live Music",
-      "support_raw": "7:30 PM  $$30.00 - $40.00",
-      "artists": [
-        "Those Medley Kids: Spotlight on Genesis&#8217; &#8220;Selling England by the Pound&#8221;"
-      ],
-      "link": "https://www.croonersmn.com/event/those-medley-kids-spotlight-on-genesis-selling-england-by-the-pound/"
-    },
-    {
-      "date": "2026-06-26",
-      "end_date": "2026-06-26",
-      "venue": "Maggie&#8217;s Piano Lounge",
-      "title": "Dylan Hicks and Zacc Harris",
-      "tour": "Live Music",
-      "support_raw": "5:00 PM  Free",
-      "artists": [
-        "Dylan Hicks and Zacc Harris"
-      ],
-      "link": "https://www.croonersmn.com/event/dylan-hicks-and-zacc-harris/"
-    },
-    {
-      "date": "2026-06-26",
-      "end_date": "2026-06-26",
-      "venue": "Dunsmore Jazz Room",
-      "title": "Closer to Indigo &#8211; A Tribute To the Indigo Girls",
-      "tour": "Live Music",
-      "support_raw": "6:30 PM  $$30.00 - $40.00",
-      "artists": [
-        "Closer to Indigo &#8211; A Tribute To the Indigo Girls"
-      ],
-      "link": "https://www.croonersmn.com/event/closer-to-indigo-a-tribute-to-the-indigo-girls-4/"
-    },
-    {
-      "date": "2026-06-26",
-      "end_date": "2026-06-26",
-      "venue": "Main Stage Showroom",
-      "title": "An Evening with Pamela McNeill",
-      "tour": "Live Music",
-      "support_raw": "7:00 PM  $$44.00 - $54.00",
-      "artists": [
-        "An Evening with Pamela McNeill"
-      ],
-      "link": "https://www.croonersmn.com/event/an-evening-with-pamela-mcneill/"
-    },
-    {
-      "date": "2026-06-26",
-      "end_date": "2026-06-26",
-      "venue": "Maggie&#8217;s Piano Lounge",
-      "title": "Michael Loonan",
-      "tour": "Live Music",
-      "support_raw": "7:30 PM  Free",
-      "artists": [
-        "Michael Loonan"
-      ],
-      "link": "https://www.croonersmn.com/event/michael-loonan-2/"
-    },
-    {
-      "date": "2026-06-26",
-      "end_date": "2026-06-26",
-      "venue": "The Belvedere at Crooners",
-      "title": "A Tribute To Jeff Beck &#038; Jimi Hendrix with Self-Titled",
-      "tour": "Live Music",
-      "support_raw": "8:00 PM  $$25.00 - $35.00",
-      "artists": [
-        "A Tribute To Jeff Beck &#038; Jimi Hendrix with Self-Titled"
-      ],
-      "link": "https://www.croonersmn.com/event/a-tribute-to-jeff-beck-jimi-hendrix-with-self-titled/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "Maggie&#8217;s Piano Lounge",
-      "title": "Cindi Scheffler",
-      "tour": "Live Music",
-      "support_raw": "5:00 PM  Free",
-      "artists": [
-        "Cindi Scheffler"
-      ],
-      "link": "https://www.croonersmn.com/event/cindi-scheffler-6/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "Main Stage Showroom",
-      "title": "VINTAGE VEGAS / The Songs of Sinatra, Bennett, Garland, Liza, Sammy, &#038; Dean",
-      "tour": "Live Music",
-      "support_raw": "5:30 PM  $$35.00 - $45.00",
-      "artists": [
-        "VINTAGE VEGAS / The Songs of Sinatra, Bennett, Garland, Liza, Sammy, &#038; Dean"
-      ],
-      "link": "https://www.croonersmn.com/event/vintage-vegas-the-songs-of-sinatra-bennett-garland-liza-sammy-dean/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "Dunsmore Jazz Room",
-      "title": "Moon River and Mercer: The Johnny Mercer Songbook with Maud Hixson",
-      "tour": "Live Music",
-      "support_raw": "6:00 PM  $$30.00 - $40.00",
-      "artists": [
-        "Moon River and Mercer: The Johnny Mercer Songbook with Maud Hixson"
-      ],
-      "link": "https://www.croonersmn.com/event/moon-river-and-mercer-the-johnny-mercer-songbook-with-maud-hixson/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "The Belvedere at Crooners",
-      "title": "New Primitives presents The Music of Bob Marley and The Wailers",
-      "tour": "Live Music",
-      "support_raw": "7:30 PM  $$25.00 - $35.00",
-      "artists": [
-        "New Primitives presents The Music of Bob Marley and The Wailers"
-      ],
-      "link": "https://www.croonersmn.com/event/new-primitives-presents-the-music-of-bob-marley-and-the-wailers/"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "venue": "Maggie&#8217;s Piano Lounge",
-      "title": "Michael Loonan",
-      "tour": "Live Music",
-      "support_raw": "7:30 PM  Free",
-      "artists": [
-        "Michael Loonan"
-      ],
-      "link": "https://www.croonersmn.com/event/michael-loonan-3/"
-    },
-    {
-      "date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "venue": "The Dunsmore Jazz Room",
-      "title": "LAMBCHOP Pilot Episode with CHANNY LEANEAGH and Special Guests",
-      "tour": "Live Music",
-      "support_raw": "6:00 PM  $$25.00 - $35.00",
-      "artists": [
-        "LAMBCHOP Pilot Episode with CHANNY LEANEAGH and Special Guests"
-      ],
-      "link": "https://www.croonersmn.com/event/lambchop-pilot-episode-with-channy-leaneagh-and-special-guests/"
-    },
-    {
-      "date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "venue": "Main Stage Showroom",
-      "title": "Lori Dokken Presents … The \"Say Gay All-Day All-Star Cabaret Show!\"",
-      "tour": "Live Music",
-      "support_raw": "7:00 PM  $$30.00 - $40.00",
-      "artists": [
-        "Lori Dokken Presents … The \"Say Gay All-Day All-Star Cabaret Show!\""
-      ],
-      "link": "https://www.croonersmn.com/event/lori-dokken-presents-the-say-gay-all-day-all-star-cabaret-show/"
-    },
-    {
-      "date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "venue": "The Belvedere at Crooners",
-      "title": "Divas Through the Decades",
-      "tour": "Live Music",
-      "support_raw": "8:00 PM  $$30.00 - $40.00",
-      "artists": [
-        "Divas Through the Decades"
-      ],
-      "link": "https://www.croonersmn.com/event/divas-through-the-decades-15/"
-    },
-    {
-      "date": "2026-06-29",
-      "end_date": "2026-06-29",
-      "venue": "Dunsmore Jazz Room",
-      "title": "Kate Beahen and Friends Sing Broadway and More",
-      "tour": "Live Music",
-      "support_raw": "6:00 PM  $$25.00 - $35.00",
-      "artists": [
-        "Kate Beahen and Friends Sing Broadway and More"
-      ],
-      "link": "https://www.croonersmn.com/event/kate-beahen-and-friends-sing-broadway-and-more-9/"
-    },
-    {
-      "date": "2026-06-29",
-      "end_date": "2026-06-29",
-      "venue": "Main Stage Showroom",
-      "title": "The Johnnie Brown Experience Through the Decades: Benefiting The Brownstone",
-      "tour": "Live Music",
-      "support_raw": "6:00 PM  $$45.00 - $55.00",
-      "artists": [
-        "The Johnnie Brown Experience Through the Decades: Benefiting The Brownstone"
-      ],
-      "link": "https://www.croonersmn.com/event/the-johnnie-brown-experience-through-the-decades/"
-    },
-    {
-      "date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "venue": "Maggie&#8217;s Piano Lounge",
-      "title": "Andy LaCasse",
-      "tour": "Live Music",
-      "support_raw": "5:00 PM  Free",
-      "artists": [
-        "Andy LaCasse"
-      ],
-      "link": "https://www.croonersmn.com/event/andy-lacasse/"
-    },
-    {
-      "date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "venue": "Dunsmore Jazz Room",
-      "title": "Masters of Improvisation",
-      "tour": "Live Music",
-      "support_raw": "5:30 PM  $$25.00 - $35.00",
-      "artists": [
-        "Masters of Improvisation"
-      ],
-      "link": "https://www.croonersmn.com/event/masters-of-improvisation-38/"
-    },
-    {
-      "date": "2026-07-02",
-      "end_date": "2026-07-02",
-      "venue": "Main Stage Showroom",
-      "title": "Buddy Holly: OH BOY!",
-      "tour": "Live Music",
-      "support_raw": "6:30 PM  $$30.00 - $40.00",
-      "artists": [
-        "Buddy Holly: OH BOY!"
-      ],
-      "link": "https://www.croonersmn.com/event/buddy-holly-oh-boy-22/"
-    },
-    {
-      "date": "2026-07-02",
-      "end_date": "2026-07-02",
-      "venue": "The Belvedere at Crooners",
-      "title": "The Belfast Cowboys",
-      "tour": "Live Music",
-      "support_raw": "7:30 PM  $$30.00 - $40.00",
-      "artists": [
-        "The Belfast Cowboys"
-      ],
-      "link": "https://www.croonersmn.com/event/the-belfast-cowboys-3/"
-    },
-    {
-      "date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "venue": "The Belvedere at Crooners",
-      "title": "Apple Valley High R&#038;B Band",
-      "tour": "Live Music",
-      "support_raw": "5:30 PM  $$20.00 - $30.00",
-      "artists": [
-        "Apple Valley High R&#038;B Band"
-      ],
-      "link": "https://www.croonersmn.com/event/apple-valley-high-rb-band-2/"
-    },
-    {
-      "date": "2026-07-05",
-      "end_date": "2026-07-05",
-      "venue": "Dunsmore Jazz Room",
-      "title": "Django Reinhardt: Final Songs of 1953 with the Ryan Picone Quartet",
-      "tour": "Live Music",
-      "support_raw": "6:00 PM  $$25.00 - $35.00",
-      "artists": [
-        "Django Reinhardt: Final Songs of 1953 with the Ryan Picone Quartet"
-      ],
-      "link": "https://www.croonersmn.com/event/django-reinhardt-final-songs-of-1953-with-the-ryan-picone-quartet/"
-    },
-    {
-      "date": "2026-07-05",
-      "end_date": "2026-07-05",
-      "venue": "Main Stage Showroom",
-      "title": "Lori Dokken presents … \"We the People … Singing &#038; Speaking Truth\"",
-      "tour": "Live Music",
-      "support_raw": "7:00 PM  $$30.00 - $40.00",
-      "artists": [
-        "Lori Dokken presents … \"We the People … Singing &#038; Speaking Truth\""
-      ],
-      "link": "https://www.croonersmn.com/event/lori-dokken-presents-we-the-people-singing-speaking-truth/"
-    },
-    {
-      "date": "2026-07-05",
-      "end_date": "2026-07-05",
-      "venue": "The Belvedere at Crooners",
-      "title": "Johnnie Brown &#8220;Let The Music Play&#8221;: A Tribute to Barry White",
-      "tour": "Live Music",
-      "support_raw": "8:00 PM  $$30.00 - $40.00",
-      "artists": [
-        "Johnnie Brown &#8220;Let The Music Play&#8221;: A Tribute to Barry White"
-      ],
-      "link": "https://www.croonersmn.com/event/johnnie-brown-let-the-music-play-a-tribute-to-barry-white/"
-    },
-    {
-      "date": "2026-06-29",
-      "end_date": "2026-06-29",
-      "venue": "Dunsmore Jazz Room",
-      "title": "Kate Beahen and Friends Sing Broadway and More",
-      "tour": "Live Music",
-      "support_raw": "6:00 PM  $$25.00 - $35.00",
-      "artists": [
-        "Kate Beahen and Friends Sing Broadway and More"
-      ],
-      "link": "https://www.croonersmn.com/event/kate-beahen-and-friends-sing-broadway-and-more-9/"
-    },
-    {
-      "date": "2026-06-29",
-      "end_date": "2026-06-29",
-      "venue": "Main Stage Showroom",
-      "title": "The Johnnie Brown Experience Through the Decades: Benefiting The Brownstone",
-      "tour": "Live Music",
-      "support_raw": "6:00 PM  $$45.00 - $55.00",
-      "artists": [
-        "The Johnnie Brown Experience Through the Decades: Benefiting The Brownstone"
-      ],
-      "link": "https://www.croonersmn.com/event/the-johnnie-brown-experience-through-the-decades/"
-    },
-    {
-      "date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "venue": "Maggie&#8217;s Piano Lounge",
-      "title": "Andy LaCasse",
-      "tour": "Live Music",
-      "support_raw": "5:00 PM  Free",
-      "artists": [
-        "Andy LaCasse"
-      ],
-      "link": "https://www.croonersmn.com/event/andy-lacasse/"
-    },
-    {
-      "date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "venue": "Dunsmore Jazz Room",
-      "title": "Masters of Improvisation",
-      "tour": "Live Music",
-      "support_raw": "5:30 PM  $$25.00 - $35.00",
-      "artists": [
-        "Masters of Improvisation"
-      ],
-      "link": "https://www.croonersmn.com/event/masters-of-improvisation-38/"
-    },
-    {
-      "date": "2026-07-02",
-      "end_date": "2026-07-02",
-      "venue": "Main Stage Showroom",
-      "title": "Buddy Holly: OH BOY!",
-      "tour": "Live Music",
-      "support_raw": "6:30 PM  $$30.00 - $40.00",
-      "artists": [
-        "Buddy Holly: OH BOY!"
-      ],
-      "link": "https://www.croonersmn.com/event/buddy-holly-oh-boy-22/"
-    },
-    {
-      "date": "2026-07-02",
-      "end_date": "2026-07-02",
-      "venue": "The Belvedere at Crooners",
-      "title": "The Belfast Cowboys",
-      "tour": "Live Music",
-      "support_raw": "7:30 PM  $$30.00 - $40.00",
-      "artists": [
-        "The Belfast Cowboys"
-      ],
-      "link": "https://www.croonersmn.com/event/the-belfast-cowboys-3/"
-    },
-    {
-      "date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "venue": "The Belvedere at Crooners",
-      "title": "Apple Valley High R&#038;B Band",
-      "tour": "Live Music",
-      "support_raw": "5:30 PM  $$20.00 - $30.00",
-      "artists": [
-        "Apple Valley High R&#038;B Band"
-      ],
-      "link": "https://www.croonersmn.com/event/apple-valley-high-rb-band-2/"
-    },
-    {
-      "date": "2026-07-05",
-      "end_date": "2026-07-05",
-      "venue": "Dunsmore Jazz Room",
-      "title": "Django Reinhardt: Final Songs of 1953 with the Ryan Picone Quartet",
-      "tour": "Live Music",
-      "support_raw": "6:00 PM  $$25.00 - $35.00",
-      "artists": [
-        "Django Reinhardt: Final Songs of 1953 with the Ryan Picone Quartet"
-      ],
-      "link": "https://www.croonersmn.com/event/django-reinhardt-final-songs-of-1953-with-the-ryan-picone-quartet/"
-    },
-    {
-      "date": "2026-07-05",
-      "end_date": "2026-07-05",
-      "venue": "Main Stage Showroom",
-      "title": "Lori Dokken presents … \"We the People … Singing &#038; Speaking Truth\"",
-      "tour": "Live Music",
-      "support_raw": "7:00 PM  $$30.00 - $40.00",
-      "artists": [
-        "Lori Dokken presents … \"We the People … Singing &#038; Speaking Truth\""
-      ],
-      "link": "https://www.croonersmn.com/event/lori-dokken-presents-we-the-people-singing-speaking-truth/"
-    },
-    {
-      "date": "2026-07-05",
-      "end_date": "2026-07-05",
-      "venue": "The Belvedere at Crooners",
-      "title": "Johnnie Brown &#8220;Let The Music Play&#8221;: A Tribute to Barry White",
-      "tour": "Live Music",
-      "support_raw": "8:00 PM  $$30.00 - $40.00",
-      "artists": [
-        "Johnnie Brown &#8220;Let The Music Play&#8221;: A Tribute to Barry White"
-      ],
-      "link": "https://www.croonersmn.com/event/johnnie-brown-let-the-music-play-a-tribute-to-barry-white/"
-    },
-    {
-      "date": "2026-07-08",
-      "end_date": "2026-07-08",
-      "venue": "Maggie&#8217;s Piano Lounge",
-      "title": "Jim Bierma and Nancy Bierma",
-      "tour": "Live Music",
-      "support_raw": "5:00 PM  Free",
-      "artists": [
-        "Jim Bierma and Nancy Bierma"
-      ],
-      "link": "https://www.croonersmn.com/event/jim-bierma-and-nancy-bierma-2/"
-    },
-    {
-      "date": "2026-07-09",
-      "end_date": "2026-07-09",
-      "venue": "The Belvedere at Crooners",
-      "title": "Dancing Queen &#8211; Tribute to Disco",
-      "tour": "Live Music",
-      "support_raw": "6:00 PM  $$30.00 - $40.00",
-      "artists": [
-        "Dancing Queen &#8211; Tribute to Disco"
-      ],
-      "link": "https://www.croonersmn.com/event/dancing-queen-tribute-to-disco/"
-    },
-    {
-      "date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "venue": "The Belvedere at Crooners",
-      "title": "Monroe Crossing &#8211; The Best in Bluegrass Entertainment!",
-      "tour": "Live Music",
-      "support_raw": "5:00 PM  $$30.00 - $40.00",
-      "artists": [
-        "Monroe Crossing &#8211; The Best in Bluegrass Entertainment!"
-      ],
-      "link": "https://www.croonersmn.com/event/monroe-crossing-the-best-in-bluegrass-entertainment/"
-    },
-    {
-      "date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "venue": "Maggie&#8217;s Piano Lounge",
-      "title": "Tom Hunter",
-      "tour": "Live Music",
-      "support_raw": "5:00 PM  Free",
-      "artists": [
-        "Tom Hunter"
-      ],
-      "link": "https://www.croonersmn.com/event/tom-hunter-9/"
-    },
-    {
-      "date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "venue": "Main Stage Showroom",
-      "title": "Erin &#038; Jay Cabaret Perform The Music of Carole King &#038; James Taylor",
-      "tour": "Live Music",
-      "support_raw": "6:00 PM  $$30.00 - $40.00",
-      "artists": [
-        "Erin &#038; Jay Cabaret Perform The Music of Carole King &#038; James Taylor"
-      ],
-      "link": "https://www.croonersmn.com/event/erin-jay-cabaret-perform-the-music-of-carole-king-james-taylor-3/"
-    },
-    {
-      "date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "venue": "Dunsmore Jazz Room",
-      "title": "Miss Shannan's Comedy Through the Chaos",
-      "tour": "Live Music",
-      "support_raw": "7:00 PM  $$25.00 - $35.00",
-      "artists": [
-        "Miss Shannan's Comedy Through the Chaos"
-      ],
-      "link": "https://www.croonersmn.com/event/miss-shannans-comedy-through-the-chaos-24/"
-    },
     {
       "date": "2026-07-11",
       "end_date": "2026-07-11",
@@ -1590,6 +1062,138 @@
         "Celebration of John Coltrane by Red Planet"
       ],
       "link": "https://www.croonersmn.com/event/celebration-of-john-coltrane-by-red-planet/"
+    },
+    {
+      "date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "venue": "Main Stage Showroom",
+      "title": "An Evening of Bossa Nova and Brazilian Jazz with Natania &#038; Ticket to Brasil",
+      "tour": "Live Music",
+      "support_raw": "6:30 PM  $$28.00 - $38.00",
+      "artists": [
+        "An Evening of Bossa Nova and Brazilian Jazz with Natania &#038; Ticket to Brasil"
+      ],
+      "link": "https://www.croonersmn.com/event/an-evening-of-bossa-nova-and-brazilian-jazz-with-natania-ticket-to-brasil/"
+    },
+    {
+      "date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "venue": "The Belvedere at Crooners",
+      "title": "Remembering the Legendary Lou Rawls with Johnnie Brown",
+      "tour": "Live Music",
+      "support_raw": "7:30 PM  $$30.00 - $40.00",
+      "artists": [
+        "Remembering the Legendary Lou Rawls with Johnnie Brown"
+      ],
+      "link": "https://www.croonersmn.com/event/remembering-the-legendary-lou-rawls-with-johnnie-brown/"
+    },
+    {
+      "date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "venue": "Main Stage Showroom",
+      "title": "Landslide: A Tribute to the Music of Fleetwood Mac",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $$30.00 - $40.00",
+      "artists": [
+        "Landslide: A Tribute to the Music of Fleetwood Mac"
+      ],
+      "link": "https://www.croonersmn.com/event/landslide-a-tribute-to-the-music-of-fleetwood-mac/"
+    },
+    {
+      "date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "venue": "Main Stage Showroom",
+      "title": "Urban Classic Presents: PURE FUNK",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $$45.00 - $55.00",
+      "artists": [
+        "Urban Classic Presents: PURE FUNK"
+      ],
+      "link": "https://www.croonersmn.com/event/urban-classic-presents-pure-funk-3/"
+    },
+    {
+      "date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "venue": "Maggie&#8217;s Piano Lounge",
+      "title": "Tommy Boynton and Friends",
+      "tour": "Live Music",
+      "support_raw": "5:00 PM  Free",
+      "artists": [
+        "Tommy Boynton and Friends"
+      ],
+      "link": "https://www.croonersmn.com/event/tommy-boynton-and-friends-4/"
+    },
+    {
+      "date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "venue": "Main Stage Showroom",
+      "title": "Landslide: A Tribute to the Music of Fleetwood Mac",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $$30.00 - $40.00",
+      "artists": [
+        "Landslide: A Tribute to the Music of Fleetwood Mac"
+      ],
+      "link": "https://www.croonersmn.com/event/landslide-a-tribute-to-the-music-of-fleetwood-mac/"
+    },
+    {
+      "date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "venue": "Main Stage Showroom",
+      "title": "Urban Classic Presents: PURE FUNK",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $$45.00 - $55.00",
+      "artists": [
+        "Urban Classic Presents: PURE FUNK"
+      ],
+      "link": "https://www.croonersmn.com/event/urban-classic-presents-pure-funk-3/"
+    },
+    {
+      "date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "venue": "Main Stage Showroom",
+      "title": "Hooked on a Feeling '70 – '74",
+      "tour": "Live Music",
+      "support_raw": "5:00 PM  $$35.00 - $45.00",
+      "artists": [
+        "Hooked on a Feeling '70 – '74"
+      ],
+      "link": "https://www.croonersmn.com/event/hooked-on-a-feeling-70-74-2/"
+    },
+    {
+      "date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "venue": "Dunsmore Jazz Room",
+      "title": "Claudia Schmidt and Ann Reed: At It Again!",
+      "tour": "Live Music",
+      "support_raw": "5:30 PM  $$25.00 - $35.00",
+      "artists": [
+        "Claudia Schmidt and Ann Reed: At It Again!"
+      ],
+      "link": "https://www.croonersmn.com/event/claudia-schmidt-and-ann-reed-at-it-again-2/"
+    },
+    {
+      "date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "venue": "Dunsmore Jazz Room",
+      "title": "Miss Shannan's Comedy Through the Chaos",
+      "tour": "Live Music",
+      "support_raw": "6:00 PM  $$25.00 - $35.00",
+      "artists": [
+        "Miss Shannan's Comedy Through the Chaos"
+      ],
+      "link": "https://www.croonersmn.com/event/miss-shannans-comedy-through-the-chaos-26/"
+    },
+    {
+      "date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "venue": "Main Stage Showroom",
+      "title": "I Honestly Love You: Beloved Songs of Olivia Newton-John and Anne Murray",
+      "tour": "Live Music",
+      "support_raw": "7:00 PM  $$30.00 - $40.00",
+      "artists": [
+        "I Honestly Love You: Beloved Songs of Olivia Newton-John and Anne Murray"
+      ],
+      "link": "https://www.croonersmn.com/event/i-honestly-love-you-beloved-songs-of-olivia-newton-john-and-anne-murray/"
     }
   ]
 }

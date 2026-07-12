@@ -1,49 +1,12 @@
 {
   "metadata": {
     "site": "ordway_theater",
-    "scraping_time": "2026-06-23T15:12:37.749616",
-    "start_date_range": "2026-06-23",
-    "end_date_range": "2026-10-21",
-    "total_shows_extracted": 8
+    "scraping_time": "2026-07-11T19:34:56.747591",
+    "start_date_range": "2026-07-11",
+    "end_date_range": "2026-11-08",
+    "total_shows_extracted": 5
   },
   "shows": [
-    {
-      "date": "2026-06-17",
-      "end_date": "2026-06-28",
-      "venue": "Ordway Music Theater",
-      "title": "SIX",
-      "tour": "Broadway",
-      "support_raw": "The Ordway Presents",
-      "artists": [
-        "SIX"
-      ],
-      "link": "https://ordway.org/events/six/"
-    },
-    {
-      "date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "venue": "Ordway Concert Hall",
-      "title": "The Moth Mainstage in St. Paul: AMERICAN DREAMS",
-      "tour": "Podcasts",
-      "support_raw": "The Moth Presents",
-      "artists": [
-        "The Moth Mainstage in St. Paul",
-        "AMERICAN DREAMS"
-      ],
-      "link": "https://boxoffice.ordway.org/Online/mapSelect.asp?BOset::WSmap::seatmap::performance_ids=91D29859-906B-4946-8646-8C1EF419DE3E"
-    },
-    {
-      "date": "2026-06-27",
-      "end_date": "2026-06-28",
-      "venue": "Ordway Theater",
-      "title": "Royalty",
-      "tour": "Concerts",
-      "support_raw": "One Voice Mixed Chorus Presents",
-      "artists": [
-        "Royalty"
-      ],
-      "link": "https://ordway.org/events/ovmc-royalty/"
-    },
     {
       "date": "2026-07-31",
       "end_date": "2026-07-31",
