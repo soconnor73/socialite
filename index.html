@@ -24,7 +24,7 @@
             <div class="brand">
                 <span class="material-symbols-outlined logo-icon">calendar_month</span>
                 <h1>Socialite</h1>
-                <span class="app-version">v1.2.10</span>
+                <span class="app-version">v1.2.11</span>
             </div>
             
             <div class="stat-card">
@@ -95,6 +95,10 @@
                         <span class="material-symbols-outlined">format_list_bulleted</span>
                         List View
                     </button>
+                    <button class="toggle-btn" id="view-saved-btn">
+                        <span class="material-symbols-outlined">star</span>
+                        Saved View
+                    </button>
                 </div>
             </header>
 
@@ -117,6 +121,13 @@
             <!-- List View Container -->
             <section class="list-feed-wrapper" id="list-feed-view">
                 <div class="list-feed-container" id="list-feed-container">
+                    <!-- Injected via JavaScript -->
+                </div>
+            </section>
+
+            <!-- Saved View Container -->
+            <section class="list-feed-wrapper hidden" id="saved-feed-view">
+                <div class="list-feed-container" id="saved-feed-container">
                     <!-- Injected via JavaScript -->
                 </div>
             </section>
@@ -167,6 +178,10 @@
             </div>
 
             <div class="modal-action-row">
+                <button class="secondary-btn" id="modal-interested-btn">
+                    <span class="material-symbols-outlined">star</span>
+                    Interested
+                </button>
                 <a href="#" target="_blank" class="primary-btn" id="modal-tickets-link">
                     <span class="material-symbols-outlined">local_activity</span>
                     Get Tickets

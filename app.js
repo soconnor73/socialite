@@ -6,11 +6,12 @@ let appState = {
     selectedSources: new Set(),
     currentYear: initialToday.getFullYear(),
     currentMonth: initialToday.getMonth(), // 0-indexed
-    viewMode: 'list', // 'grid' or 'list'
+    viewMode: 'list', // 'grid', 'list', or 'saved'
     searchQuery: '',
     startDate: '2026-06-20',
     endDate: '2026-10-18',
-    selectedDate: null
+    selectedDate: null,
+    savedEvents: JSON.parse(localStorage.getItem('socialite_saved_events') || '[]')
 };
 
 // Source Configuration
@@ -109,10 +110,13 @@ const dom = {
     nextPeriodBtn: document.getElementById('next-period-btn'),
     viewGridBtn: document.getElementById('view-grid-btn'),
     viewListBtn: document.getElementById('view-list-btn'),
+    viewSavedBtn: document.getElementById('view-saved-btn'),
     calendarGridView: document.getElementById('calendar-grid-view'),
     listFeedView: document.getElementById('list-feed-view'),
+    savedFeedView: document.getElementById('saved-feed-view'),
     monthDaysContainer: document.getElementById('month-days-container'),
     listFeedContainer: document.getElementById('list-feed-container'),
+    savedFeedContainer: document.getElementById('saved-feed-container'),
     eventModal: document.getElementById('event-modal'),
     closeModalBtn: document.getElementById('close-modal-btn'),
     modalVenueBadge: document.getElementById('modal-venue-badge'),
@@ -125,6 +129,7 @@ const dom = {
     modalSupportContainer: document.getElementById('modal-support-container'),
     modalArtistsContainer: document.getElementById('modal-artists-container'),
     modalTicketsLink: document.getElementById('modal-tickets-link'),
+    modalInterestedBtn: document.getElementById('modal-interested-btn'),
     sidebarPanel: document.getElementById('sidebar-panel'),
     sidebarBackdrop: document.getElementById('sidebar-backdrop'),
     mobileFilterBtn: document.getElementById('mobile-filter-btn'),
@@ -190,6 +195,14 @@ function setupEventListeners() {
     // View Toggles
     dom.viewGridBtn.addEventListener('click', () => toggleView('grid'));
     dom.viewListBtn.addEventListener('click', () => toggleView('list'));
+    dom.viewSavedBtn.addEventListener('click', () => toggleView('saved'));
+
+    // Interested Button toggle in modal
+    dom.modalInterestedBtn.addEventListener('click', () => {
+        if (appState.currentSelectedEvent) {
+            toggleInterested(appState.currentSelectedEvent);
+        }
+    });
 
     // Period Navigation
     dom.prevPeriodBtn.addEventListener('click', () => navigatePeriod(-1));
@@ -365,19 +378,30 @@ function updateCategoryTreeUI() {
 // View toggle helper
 function toggleView(mode) {
     appState.viewMode = mode;
+    
+    // De-activate all view buttons
+    dom.viewGridBtn.classList.remove('active');
+    dom.viewListBtn.classList.remove('active');
+    dom.viewSavedBtn.classList.remove('active');
+    
+    // Hide all view wrappers
+    dom.calendarGridView.classList.add('hidden');
+    dom.listFeedView.classList.add('hidden');
+    dom.savedFeedView.classList.add('hidden');
+    
     if (mode === 'grid') {
         appState.selectedDate = null; // Clear day filter when going back to grid
         dom.viewGridBtn.classList.add('active');
-        dom.viewListBtn.classList.remove('active');
         dom.calendarGridView.classList.remove('hidden');
-        dom.listFeedView.classList.add('hidden');
         renderGrid();
-    } else {
-        dom.viewGridBtn.classList.remove('active');
+    } else if (mode === 'list') {
         dom.viewListBtn.classList.add('active');
-        dom.calendarGridView.classList.add('hidden');
         dom.listFeedView.classList.remove('hidden');
         renderList();
+    } else if (mode === 'saved') {
+        dom.viewSavedBtn.classList.add('active');
+        dom.savedFeedView.classList.remove('hidden');
+        renderSavedView();
     }
 }
 
@@ -395,8 +419,10 @@ function navigatePeriod(direction) {
     
     if (appState.viewMode === 'grid') {
         renderGrid();
-    } else {
+    } else if (appState.viewMode === 'list') {
         renderList();
+    } else if (appState.viewMode === 'saved') {
+        renderSavedView();
     }
 }
 
@@ -430,8 +456,10 @@ function applyFilters() {
     
     if (appState.viewMode === 'grid') {
         renderGrid();
-    } else {
+    } else if (appState.viewMode === 'list') {
         renderList();
+    } else if (appState.viewMode === 'saved') {
+        renderSavedView();
     }
 }
 
@@ -637,42 +665,119 @@ function renderList() {
         dom.listFeedContainer.appendChild(groupHeader);
         
         shows.forEach(show => {
-            const meta = getSourceMeta(show.source);
-            const card = document.createElement('div');
-            card.className = 'feed-event-card';
-            
-            // If the event started in a previous month, label it as Ongoing with the start date
-            const isOngoing = show.date < dateStr;
-            const subtitleText = isOngoing 
-                ? `Ongoing (Started ${new Date(show.date + 'T00:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric' })})`
-                : (show.tour || 'Live Event');
-
-            card.innerHTML = `
-                <div class="card-date-col">
-                    <div class="card-day-num">${dateObj.getDate()}</div>
-                    <div class="card-month-year">${monthNames[dateObj.getMonth()]} ${dateObj.getFullYear()}</div>
-                    <div class="card-day-name">${dayNames[dateObj.getDay()]}</div>
-                </div>
-                <div class="card-info-col">
-                    <span class="card-venue-badge" style="background-color: ${meta.color}20; color: ${meta.color}">
-                        ${show.venue}
-                    </span>
-                    <h3 class="card-title">${show.title}</h3>
-                    <p class="card-subtitle">${subtitleText}</p>
-                </div>
-                <div class="card-action-col">
-                    <span class="material-symbols-outlined">chevron_right</span>
-                </div>
-            `;
-            
-            card.addEventListener('click', () => showDetailsModal(show));
+            const card = createEventCard(show, dateStr, false);
             dom.listFeedContainer.appendChild(card);
+        });
+    });
+}
+
+// Helper to create an event card
+function createEventCard(show, dateStr, isSavedView = false) {
+    const meta = getSourceMeta(show.source);
+    const card = document.createElement('div');
+    card.className = 'feed-event-card';
+    
+    const dateObj = new Date((dateStr || show.date) + 'T00:00:00');
+    const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+    const dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+    
+    const isOngoing = dateStr && show.date < dateStr;
+    const subtitleText = isOngoing 
+        ? `Ongoing (Started ${new Date(show.date + 'T00:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric' })})`
+        : (show.tour || 'Live Event');
+
+    let actionHtml = `<span class="material-symbols-outlined">chevron_right</span>`;
+    if (isSavedView) {
+        actionHtml = `
+            <button class="card-remove-btn" title="Remove from Saved">
+                <span class="material-symbols-outlined">delete</span>
+            </button>
+        `;
+    }
+
+    card.innerHTML = `
+        <div class="card-date-col">
+            <div class="card-day-num">${dateObj.getDate()}</div>
+            <div class="card-month-year">${monthNames[dateObj.getMonth()]} ${dateObj.getFullYear()}</div>
+            <div class="card-day-name">${dayNames[dateObj.getDay()]}</div>
+        </div>
+        <div class="card-info-col">
+            <span class="card-venue-badge" style="background-color: ${meta.color}20; color: ${meta.color}">
+                ${show.venue}
+            </span>
+            <h3 class="card-title">${show.title}</h3>
+            <p class="card-subtitle">${subtitleText}</p>
+        </div>
+        <div class="card-action-col">
+            ${actionHtml}
+        </div>
+    `;
+    
+    if (isSavedView) {
+        const removeBtn = card.querySelector('.card-remove-btn');
+        removeBtn.addEventListener('click', (e) => {
+            e.stopPropagation(); // Prevent opening modal
+            toggleInterested(show);
+        });
+    }
+    
+    card.addEventListener('click', () => showDetailsModal(show));
+    return card;
+}
+
+// Render Saved View Feed
+function renderSavedView() {
+    dom.savedFeedContainer.innerHTML = '';
+    
+    // Hide period navigation buttons
+    dom.prevPeriodBtn.classList.add('hidden');
+    dom.nextPeriodBtn.classList.add('hidden');
+    
+    dom.periodLabel.innerText = "Interested Events";
+    
+    if (appState.savedEvents.length === 0) {
+        dom.savedFeedContainer.innerHTML = `
+            <div class="empty-state-container">
+                <span class="material-symbols-outlined empty-state-icon">star</span>
+                <h3>No Interested Events Yet</h3>
+                <p style="margin-top: 0.5rem; max-width: 400px; line-height: 1.5;">
+                    Browse events and click "Interested" in the details popup to save events here.
+                </p>
+            </div>
+        `;
+        return;
+    }
+    
+    // Group saved shows by date
+    const grouped = {};
+    appState.savedEvents.forEach(show => {
+        if (!grouped[show.date]) grouped[show.date] = [];
+        grouped[show.date].push(show);
+    });
+    
+    const sortedDates = Object.keys(grouped).sort();
+    sortedDates.forEach(dateStr => {
+        const shows = grouped[dateStr];
+        const dateObj = new Date(dateStr + 'T00:00:00');
+        const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+        const dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+        
+        const groupHeader = document.createElement('div');
+        groupHeader.className = 'list-group-header';
+        groupHeader.innerText = `${dayNames[dateObj.getDay()]}, ${monthNames[dateObj.getMonth()]} ${dateObj.getDate()}, ${dateObj.getFullYear()}`;
+        dom.savedFeedContainer.appendChild(groupHeader);
+        
+        shows.forEach(show => {
+            const card = createEventCard(show, dateStr, true);
+            dom.savedFeedContainer.appendChild(card);
         });
     });
 }
 
 // Open details popup
 function showDetailsModal(show) {
+    appState.currentSelectedEvent = show;
+    
     const meta = getSourceMeta(show.source);
     dom.modalVenueBadge.innerText = show.venue;
     dom.modalVenueBadge.style.backgroundColor = `${meta.color}20`;
@@ -731,14 +836,56 @@ function showDetailsModal(show) {
         dom.modalTicketsLink.classList.add('hidden');
     }
     
+    // Update Interested button state
+    updateInterestedButtonUI(show);
+    
     dom.eventModal.classList.remove('hidden');
     // Animate scale in
     dom.eventModal.querySelector('.modal-card').style.transform = 'scale(1)';
 }
 
+function toggleInterested(show) {
+    const key = `${show.date}_${show.title.trim().toLowerCase()}_${show.venue.trim().toLowerCase()}`;
+    const idx = appState.savedEvents.findIndex(s => {
+        const sKey = `${s.date}_${s.title.trim().toLowerCase()}_${s.venue.trim().toLowerCase()}`;
+        return sKey === key;
+    });
+    
+    if (idx > -1) {
+        appState.savedEvents.splice(idx, 1);
+    } else {
+        appState.savedEvents.push(show);
+    }
+    
+    localStorage.setItem('socialite_saved_events', JSON.stringify(appState.savedEvents));
+    
+    updateInterestedButtonUI(show);
+    
+    if (appState.viewMode === 'saved') {
+        renderSavedView();
+    }
+}
+
+function updateInterestedButtonUI(show) {
+    const key = `${show.date}_${show.title.trim().toLowerCase()}_${show.venue.trim().toLowerCase()}`;
+    const isSaved = appState.savedEvents.some(s => {
+        const sKey = `${s.date}_${s.title.trim().toLowerCase()}_${s.venue.trim().toLowerCase()}`;
+        return sKey === key;
+    });
+    
+    if (isSaved) {
+        dom.modalInterestedBtn.classList.add('active');
+        dom.modalInterestedBtn.innerHTML = '<span class="material-symbols-outlined">star</span> Interested';
+    } else {
+        dom.modalInterestedBtn.classList.remove('active');
+        dom.modalInterestedBtn.innerHTML = '<span class="material-symbols-outlined">star</span> Interested';
+    }
+}
+
 function closeModal() {
     dom.eventModal.querySelector('.modal-card').style.transform = 'scale(0.95)';
     dom.eventModal.classList.add('hidden');
+    appState.currentSelectedEvent = null;
 }
 
 // Start app
