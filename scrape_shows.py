@@ -868,6 +868,26 @@ def scrape_site(site_name, start_date, end_date):
             print(f"Parsed {len(shows)} shows from mnstatefair.org")
             all_shows.extend(shows)
 
+    elif site_name == 'fathom_events':
+        filepath = "raw_html/fathom.html"
+        html = None
+        if os.path.exists(filepath):
+            print(f"Using cached file: {filepath}")
+            with open(filepath, 'rb') as f:
+                html = f.read()
+        else:
+            url = "https://www.fathomentertainment.com/"
+            html = get_page_content(url)
+            if html:
+                os.makedirs("raw_html", exist_ok=True)
+                with open(filepath, "wb") as f:
+                    f.write(html)
+                time.sleep(1)
+        if html:
+            shows = parser.parse(html, year=start_date.year)
+            print(f"Parsed {len(shows)} shows from fathomentertainment.com")
+            all_shows.extend(shows)
+
     # Filter shows to target 60-day window
     # Supports both single dates and date range checks
     filtered_shows = []
@@ -901,13 +921,22 @@ def scrape_site(site_name, start_date, end_date):
     print(f"Structured data saved to {output_filename}")
 
 def main():
+    import sys
     # Set target timeframe: 120 days starting today
     start_date = datetime.date.today()
     end_date = start_date + datetime.timedelta(days=120)
     
     # List of sites to scrape
-    sites_to_scrape = ['first_avenue', 'grand_casino_arena', 'acme_comedy_club', 'guthrie_theater', 'minneapolis', 'mn_united_fc', 'minnesota_twins', 'target_center', 'minnesota_orchestra', 'hennepin_arts', 'us_bank_stadium', 'northrop_auditorium', 'ordway_theater', 'visit_stpaul', 'dakota_jazz_club', 'berlin_jazz_club', 'crooners', 'visit_duluth', 'luminary_arts_center', 'utepils_brewery', 'pryes_brewing', 'mncba_workshops', 'coch_cooking_classes', 'dame_errant_clay', 'mpls_parks', 'trylon_cinema', 'parkway_theater', 'fillmore_minneapolis', 'litt_pinball_bar', 'castle_danger_brewery', 'train_ride', 'mn_state_fair_grandstand']
+    sites_to_scrape = ['first_avenue', 'grand_casino_arena', 'acme_comedy_club', 'guthrie_theater', 'minneapolis', 'mn_united_fc', 'minnesota_twins', 'target_center', 'minnesota_orchestra', 'hennepin_arts', 'us_bank_stadium', 'northrop_auditorium', 'ordway_theater', 'visit_stpaul', 'dakota_jazz_club', 'berlin_jazz_club', 'crooners', 'visit_duluth', 'luminary_arts_center', 'utepils_brewery', 'pryes_brewing', 'mncba_workshops', 'coch_cooking_classes', 'dame_errant_clay', 'mpls_parks', 'trylon_cinema', 'parkway_theater', 'fillmore_minneapolis', 'litt_pinball_bar', 'castle_danger_brewery', 'train_ride', 'mn_state_fair_grandstand', 'fathom_events']
     
+    if len(sys.argv) > 1:
+        target_site = sys.argv[1]
+        if target_site in sites_to_scrape:
+            sites_to_scrape = [target_site]
+        else:
+            print(f"Unknown site: {target_site}. Available: {sites_to_scrape}")
+            sys.exit(1)
+            
     for site in sites_to_scrape:
         scrape_site(site, start_date, end_date)
 

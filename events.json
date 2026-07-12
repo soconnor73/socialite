@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_aggregated": 2232,
-    "aggregated_at": "2026-07-11T19:55:31.131109",
+    "total_aggregated": 2263,
+    "aggregated_at": "2026-07-11T20:35:15.934977",
     "venues_included": [
       "100 22nd St E Minneapolis MN",
       "1165 7th Street West Saint Paul, MN 55102",
@@ -47,6 +47,7 @@
       "Eloise Butler Wildflower Garden",
       "Father Hennepin",
       "Father Hennepin Bluff Park",
+      "Fathom Events",
       "Field of Dreams",
       "Fine Line",
       "First Avenue",
@@ -831,6 +832,97 @@
       ],
       "link": "https://www.dameerrant.com/workshopsandevents/creaturefigure-4pgrk-z5r8y-r92hw-zyhxp-pxwh3-hlkep-zwz3s-h9t34-4zw5b-er28r-e2fjx-z4rg4-2xtcz-4xsxc-hrsh2-wzcxn-j9phf-s59wn-sg9l8-2lcn9",
       "source": "dame_errant_clay"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-15",
+      "venue": "Fathom Events",
+      "title": "-M-y- -N-e-i-g-h-b-o-r- -T-o-t-o-r-o-",
+      "tour": "Playing Near You",
+      "support_raw": "-S-t-u-d-i-o- -G-h-i-b-l-i- -F-e-s-t- -2-0-2-6-",
+      "artists": [
+        "-M-y- -N-e-i-g-h-b-o-r- -T-o-t-o-r-o-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/my-neighbor-totoro-studio-ghibli-fest-2026/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Fathom Events",
+      "title": "-T-h-e- -T-r-a-n-s-f-o-r-m-e-r-s-:- -T-h-e- -M-o-v-i-e-:- -T-h-e- -A-p-o-l-o-g-y- -T-o-u-r- -4-0-t-h- -A-n-n-i-v-e-r-s-a-r-y- -S-c-r-e-e-n-i-n-g-s-",
+      "tour": "Playing Near You",
+      "support_raw": "",
+      "artists": [
+        "-T-h-e- -T-r-a-n-s-f-o-r-m-e-r-s-:- -T-h-e- -M-o-v-i-e-:- -T-h-e- -A-p-o-l-o-g-y- -T-o-u-r- -4-0-t-h- -A-n-n-i-v-e-r-s-a-r-y- -S-c-r-e-e-n-i-n-g-s-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/the-transformers-the-movie-40th-anniversary/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Fathom Events",
+      "title": "-N-o- -L-i-m-b-s- -N-o- -L-i-m-i-t-s-:- -T-h-e- -N-i-c-k-V- -S-t-o-r-y-",
+      "tour": "Playing Near You",
+      "support_raw": "",
+      "artists": [
+        "-N-o- -L-i-m-b-s- -N-o- -L-i-m-i-t-s-:- -T-h-e- -N-i-c-k-V- -S-t-o-r-y-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/no-limbs-no-limits-the-nickv-story/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Fathom Events",
+      "title": "-G-u-i-l-l-e-r-m-o- -d-e-l- -T-o-r-o-'-s- -P-a-n-'-s- -L-a-b-y-r-i-n-t-h- -2-0-t-h- -A-n-n-i-v-e-r-s-a-r-y-",
+      "tour": "Playing Near You",
+      "support_raw": "",
+      "artists": [
+        "-G-u-i-l-l-e-r-m-o- -d-e-l- -T-o-r-o-'-s- -P-a-n-'-s- -L-a-b-y-r-i-n-t-h- -2-0-t-h- -A-n-n-i-v-e-r-s-a-r-y-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/guillermo-del-toro-pans-labyrinth-20th-anniversary/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Fathom Events",
+      "title": "-W-i-l-d-w-o-o-d-",
+      "tour": "Playing Near You",
+      "support_raw": "",
+      "artists": [
+        "-W-i-l-d-w-o-o-d-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/wildwood/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Fathom Events",
+      "title": "-V- -f-o-r- -V-e-n-d-e-t-t-a- -2-0-t-h- -A-n-n-i-v-e-r-s-a-r-y-",
+      "tour": "Playing Near You",
+      "support_raw": "",
+      "artists": [
+        "-V- -f-o-r- -V-e-n-d-e-t-t-a- -2-0-t-h- -A-n-n-i-v-e-r-s-a-r-y-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/v-for-vendetta/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "venue": "Fathom Events",
+      "title": "-J-I-M-M-Y-",
+      "tour": "Playing Near You",
+      "support_raw": "",
+      "artists": [
+        "-J-I-M-M-Y-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/jimmy/",
+      "source": "fathom_events"
     },
     {
       "date": "2026-07-11",
@@ -5484,6 +5576,32 @@
     {
       "date": "2026-07-22",
       "end_date": "2026-07-22",
+      "venue": "Fathom Events",
+      "title": "-T-h-e- -M-e-r-r-y- -W-i-d-o-w-",
+      "tour": "Playing Near You",
+      "support_raw": "-S-u-m-m-e-r- -E-n-c-o-r-e-",
+      "artists": [
+        "-T-h-e- -M-e-r-r-y- -W-i-d-o-w-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/the-merry-widow-met-summer-encore-2026/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-07-22",
+      "end_date": "2026-07-27",
+      "venue": "Fathom Events",
+      "title": "-B-a-d- -C-o-u-n-s-e-l-o-r-s-",
+      "tour": "Playing Near You",
+      "support_raw": "",
+      "artists": [
+        "-B-a-d- -C-o-u-n-s-e-l-o-r-s-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/bad-counselors/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-07-22",
+      "end_date": "2026-07-22",
       "venue": "The Fillmore Minneapolis",
       "title": "93X Presents Poppy - Constantly Nowhere Tour",
       "tour": "Concert",
@@ -7305,6 +7423,19 @@
       ],
       "link": "https://www.dameerrant.com/workshopsandevents/spongeholder-a37sj-gfb92-ysbcs",
       "source": "dame_errant_clay"
+    },
+    {
+      "date": "2026-07-26",
+      "end_date": "2026-07-27",
+      "venue": "Fathom Events",
+      "title": "-T-h-e- -F-i-f-t-h- -E-l-e-m-e-n-t- -(-2-0-2-6-)-",
+      "tour": "Playing Near You",
+      "support_raw": "-F-a-t-h-o-m-'-s- -B-i-g- -S-c-r-e-e-n- -C-l-a-s-s-i-c-s-",
+      "artists": [
+        "-T-h-e- -F-i-f-t-h- -E-l-e-m-e-n-t- -(-2-0-2-6-)-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/the-fifth-element-2026/",
+      "source": "fathom_events"
     },
     {
       "date": "2026-07-26",
@@ -9655,6 +9786,19 @@
     },
     {
       "date": "2026-08-02",
+      "end_date": "2026-08-05",
+      "venue": "Fathom Events",
+      "title": "-W-i-l-l-y- -W-o-n-k-a- -a-n-d- -t-h-e- -C-h-o-c-o-l-a-t-e- -F-a-c-t-o-r-y- -5-5-t-h- -A-n-n-i-v-e-r-s-a-r-y-",
+      "tour": "Playing Near You",
+      "support_raw": "-F-a-t-h-o-m-'-s- -B-i-g- -S-c-r-e-e-n- -C-l-a-s-s-i-c-s-",
+      "artists": [
+        "-W-i-l-l-y- -W-o-n-k-a- -a-n-d- -t-h-e- -C-h-o-c-o-l-a-t-e- -F-a-c-t-o-r-y- -5-5-t-h- -A-n-n-i-v-e-r-s-a-r-y-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/willy-wonka-and-the-chocolate-factory-55th-anniversary/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-08-02",
       "venue": "First Avenue",
       "title": "GCW vs. F1rst Wrestling",
       "tour": "★ Local Show ★",
@@ -10236,6 +10380,19 @@
     },
     {
       "date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "venue": "Fathom Events",
+      "title": "-A-i-d-a-",
+      "tour": "Playing Near You",
+      "support_raw": "-S-u-m-m-e-r- -E-n-c-o-r-e-",
+      "artists": [
+        "-A-i-d-a-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/aida-met-summer-encore-2026/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-08-05",
       "venue": "First Avenue",
       "title": "Tomahawk",
       "tour": "",
@@ -10544,6 +10701,19 @@
       ],
       "link": "https://www.dakotacooks.com/event/i-am-in-love-jane-monheit-sings-cole-porter-aug6-2026/",
       "source": "dakota_jazz_club"
+    },
+    {
+      "date": "2026-08-06",
+      "end_date": "2026-08-06",
+      "venue": "Fathom Events",
+      "title": "-D-C-I- -2-0-2-6-:- -B-i-g-,- -L-o-u-d- -a-n-d- -L-i-v-e-",
+      "tour": "Playing Near You",
+      "support_raw": "-D-C-I- -2-0-2-6-",
+      "artists": [
+        "-D-C-I- -2-0-2-6-:- -B-i-g-,- -L-o-u-d- -a-n-d- -L-i-v-e-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/dci-2026-big-loud-and-live/",
+      "source": "fathom_events"
     },
     {
       "date": "2026-08-06",
@@ -11212,6 +11382,19 @@
     },
     {
       "date": "2026-08-08",
+      "end_date": "2026-08-10",
+      "venue": "Fathom Events",
+      "title": "-T-a-l-e-s- -f-r-o-m- -E-a-r-t-h-s-e-a- -2-0-t-h- -A-n-n-i-v-e-r-s-a-r-y-",
+      "tour": "Playing Near You",
+      "support_raw": "-S-t-u-d-i-o- -G-h-i-b-l-i- -F-e-s-t- -2-0-2-6-",
+      "artists": [
+        "-T-a-l-e-s- -f-r-o-m- -E-a-r-t-h-s-e-a- -2-0-t-h- -A-n-n-i-v-e-r-s-a-r-y-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/tales-from-earthsea-20th-anniversary-studio-ghibli-fest-2026/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-08-08",
       "venue": "Turf Club",
       "title": "Dale Watson and His Lone Stars",
       "tour": "",
@@ -11495,6 +11678,19 @@
       ],
       "link": "https://www.croonersmn.com/event/love-tko-a-tribute-to-teddy-pendergrass-with-johnnie-brown/",
       "source": "crooners"
+    },
+    {
+      "date": "2026-08-09",
+      "end_date": "2026-08-11",
+      "venue": "Fathom Events",
+      "title": "-O-n-l-y- -Y-e-s-t-e-r-d-a-y- -3-5-t-h- -A-n-n-i-v-e-r-s-a-r-y-",
+      "tour": "Playing Near You",
+      "support_raw": "-S-t-u-d-i-o- -G-h-i-b-l-i- -F-e-s-t- -2-0-2-6-",
+      "artists": [
+        "-O-n-l-y- -Y-e-s-t-e-r-d-a-y- -3-5-t-h- -A-n-n-i-v-e-r-s-a-r-y-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/only-yesterday-35th-anniversary-studio-ghibli-fest-2026/",
+      "source": "fathom_events"
     },
     {
       "date": "2026-08-09",
@@ -13945,6 +14141,19 @@
     },
     {
       "date": "2026-08-18",
+      "end_date": "2026-08-18",
+      "venue": "Fathom Events",
+      "title": "-T-e-x-a-s- -C-h-a-i-n- -S-a-w- -D-a-y- -(-2-0-2-6-)-",
+      "tour": "Playing Near You",
+      "support_raw": "",
+      "artists": [
+        "-T-e-x-a-s- -C-h-a-i-n- -S-a-w- -D-a-y- -(-2-0-2-6-)-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/texas-chainsaw-day-2026/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-08-18",
       "venue": "Armory",
       "title": "LCD Soundsystem",
       "tour": "",
@@ -14867,6 +15076,19 @@
     },
     {
       "date": "2026-08-22",
+      "end_date": "2026-08-26",
+      "venue": "Fathom Events",
+      "title": "-C-a-s-t-l-e- -i-n- -t-h-e- -S-k-y- -4-0-t-h- -A-n-n-i-v-e-r-s-a-r-y-",
+      "tour": "Playing Near You",
+      "support_raw": "-S-t-u-d-i-o- -G-h-i-b-l-i- -F-e-s-t- -2-0-2-6-",
+      "artists": [
+        "-C-a-s-t-l-e- -i-n- -t-h-e- -S-k-y- -4-0-t-h- -A-n-n-i-v-e-r-s-a-r-y-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/castle-in-the-sky-40th-anniversary-studio-ghibli-fest-2026/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-08-22",
       "end_date": "2026-08-22",
       "venue": "The Fillmore Minneapolis",
       "title": "Bop To The Top",
@@ -15492,6 +15714,19 @@
     },
     {
       "date": "2026-08-25",
+      "end_date": "2026-08-27",
+      "venue": "Fathom Events",
+      "title": "-A-m-e-r-i-c-a-n- -M-a-r-t-y-r-:- -T-h-e- -S-t-a-n-l-e-y- -R-o-t-h-e-r- -S-t-o-r-y-",
+      "tour": "Playing Near You",
+      "support_raw": "-A-m-e-r-i-c-a-n- -M-a-r-t-y-r-",
+      "artists": [
+        "-A-m-e-r-i-c-a-n- -M-a-r-t-y-r-:- -T-h-e- -S-t-a-n-l-e-y- -R-o-t-h-e-r- -S-t-o-r-y-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/american-martyr-the-stanley-rother-story/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-08-25",
       "venue": "Fine Line",
       "title": "Mo Lowda & The Humble",
       "tour": "",
@@ -16060,6 +16295,19 @@
       ],
       "link": "https://www.dakotacooks.com/event/musiq-soulchild-aug-2026/2026-08-28/1/",
       "source": "dakota_jazz_club"
+    },
+    {
+      "date": "2026-08-28",
+      "end_date": "2026-09-02",
+      "venue": "Fathom Events",
+      "title": "-T-e-r-m-i-n-a-t-o-r- -2-:- -J-u-d-g-m-e-n-t- -D-a-y- -3-5-t-h- -A-n-n-i-v-e-r-s-a-r-y-",
+      "tour": "Playing Near You",
+      "support_raw": "-T-e-r-m-i-n-a-t-o-r- -2-",
+      "artists": [
+        "-T-e-r-m-i-n-a-t-o-r- -2-:- -J-u-d-g-m-e-n-t- -D-a-y- -3-5-t-h- -A-n-n-i-v-e-r-s-a-r-y-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/terminator-2-judgment-day-35th-anniversary/",
+      "source": "fathom_events"
     },
     {
       "date": "2026-08-28",
@@ -17307,6 +17555,19 @@
     {
       "date": "2026-09-03",
       "end_date": "2026-09-03",
+      "venue": "Fathom Events",
+      "title": "-T-h-e- -H-u-n-g-e-r- -G-a-m-e-s- -(-2-0-2-6-)-",
+      "tour": "Playing Near You",
+      "support_raw": "",
+      "artists": [
+        "-T-h-e- -H-u-n-g-e-r- -G-a-m-e-s- -(-2-0-2-6-)-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/the-hunger-games-2026/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-09-03",
+      "end_date": "2026-09-03",
       "venue": "Luminary Arts Center",
       "title": "Candlelight Concerts",
       "tour": "Luminary Arts Center Event",
@@ -17462,6 +17723,19 @@
     {
       "date": "2026-09-04",
       "end_date": "2026-09-04",
+      "venue": "Fathom Events",
+      "title": "-T-h-e- -H-u-n-g-e-r- -G-a-m-e-s-:- -C-a-t-c-h-i-n-g- -F-i-r-e- -(-2-0-2-6-)-",
+      "tour": "Playing Near You",
+      "support_raw": "-T-h-e- -H-u-n-g-e-r- -G-a-m-e-s-",
+      "artists": [
+        "-T-h-e- -H-u-n-g-e-r- -G-a-m-e-s-:- -C-a-t-c-h-i-n-g- -F-i-r-e- -(-2-0-2-6-)-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/the-hunger-games-catching-fire-2026/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-09-04",
+      "end_date": "2026-09-04",
       "venue": "The Fillmore Minneapolis",
       "title": "ISAIAH RASHAD: Lil Sunny's Awful Road Trip",
       "tour": "Concert",
@@ -17613,6 +17887,19 @@
       ],
       "link": "https://www.croonersmn.com/event/ten-years-of-the-mysterious-old-radio-listening-society/",
       "source": "crooners"
+    },
+    {
+      "date": "2026-09-05",
+      "end_date": "2026-09-05",
+      "venue": "Fathom Events",
+      "title": "-T-h-e- -H-u-n-g-e-r- -G-a-m-e-s-:- -M-o-c-k-i-n-g-j-a-y- -–- -P-a-r-t- -1- -(-2-0-2-6-)-",
+      "tour": "Playing Near You",
+      "support_raw": "-T-h-e- -H-u-n-g-e-r- -G-a-m-e-s-",
+      "artists": [
+        "-T-h-e- -H-u-n-g-e-r- -G-a-m-e-s-:- -M-o-c-k-i-n-g-j-a-y- -–- -P-a-r-t- -1- -(-2-0-2-6-)-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/the-hunger-games-mockingjay-part-1-2026/",
+      "source": "fathom_events"
     },
     {
       "date": "2026-09-05",
@@ -17782,6 +18069,19 @@
       ],
       "link": "https://www.croonersmn.com/event/on-my-way-to-harlem-with-johnnie-brown-2/",
       "source": "crooners"
+    },
+    {
+      "date": "2026-09-06",
+      "end_date": "2026-09-06",
+      "venue": "Fathom Events",
+      "title": "-T-h-e- -H-u-n-g-e-r- -G-a-m-e-s-:- -M-o-c-k-i-n-g-j-a-y- -–- -P-a-r-t- -2- -(-2-0-2-6-)-",
+      "tour": "Playing Near You",
+      "support_raw": "-T-h-e- -H-u-n-g-e-r- -G-a-m-e-s-",
+      "artists": [
+        "-T-h-e- -H-u-n-g-e-r- -G-a-m-e-s-:- -M-o-c-k-i-n-g-j-a-y- -–- -P-a-r-t- -2- -(-2-0-2-6-)-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/the-hunger-games-mockingjay-part-2-2026/",
+      "source": "fathom_events"
     },
     {
       "date": "2026-09-06",
@@ -17979,6 +18279,19 @@
       ],
       "link": "https://castledangerbrewery.com/event/burger-joint/2026-09-07/",
       "source": "castle_danger_brewery"
+    },
+    {
+      "date": "2026-09-07",
+      "end_date": "2026-09-07",
+      "venue": "Fathom Events",
+      "title": "-T-h-e- -H-u-n-g-e-r- -G-a-m-e-s-:- -T-h-e- -B-a-l-l-a-d- -o-f- -S-o-n-g-b-i-r-d-s- -&- -S-n-a-k-e-s- -(-2-0-2-6-)-",
+      "tour": "Playing Near You",
+      "support_raw": "-T-h-e- -H-u-n-g-e-r- -G-a-m-e-s-",
+      "artists": [
+        "-T-h-e- -H-u-n-g-e-r- -G-a-m-e-s-:- -T-h-e- -B-a-l-l-a-d- -o-f- -S-o-n-g-b-i-r-d-s- -&- -S-n-a-k-e-s- -(-2-0-2-6-)-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/the-hunger-games-the-ballad-of-songbirds-snakes-2026/",
+      "source": "fathom_events"
     },
     {
       "date": "2026-09-07",
@@ -18393,6 +18706,19 @@
       ],
       "link": "https://www.dakotacooks.com/event/madeleine-peyroux-sep-2026/2026-09-10/",
       "source": "dakota_jazz_club"
+    },
+    {
+      "date": "2026-09-10",
+      "end_date": "2026-09-17",
+      "venue": "Fathom Events",
+      "title": "-T-h-e- -P-a-s-s-i-o-n- -o-f- -t-h-e- -C-h-r-i-s-t-",
+      "tour": "Playing Near You",
+      "support_raw": "",
+      "artists": [
+        "-T-h-e- -P-a-s-s-i-o-n- -o-f- -t-h-e- -C-h-r-i-s-t-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/the-passion-of-the-christ/",
+      "source": "fathom_events"
     },
     {
       "date": "2026-09-10",
@@ -20716,6 +21042,19 @@
     },
     {
       "date": "2026-09-20",
+      "end_date": "2026-09-23",
+      "venue": "Fathom Events",
+      "title": "-H-e-a-v-e-n- -i-n- -S-t-o-n-e- -a-n-d- -G-l-a-s-s-",
+      "tour": "Playing Near You",
+      "support_raw": "",
+      "artists": [
+        "-H-e-a-v-e-n- -i-n- -S-t-o-n-e- -a-n-d- -G-l-a-s-s-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/heaven-in-stone-and-glass/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-09-20",
       "venue": "First Avenue",
       "title": "Hulvey",
       "tour": "“Could Be Tonight” Tour",
@@ -21904,6 +22243,19 @@
       ],
       "link": "https://www.dakotacooks.com/event/dakota-block-party-sep26-2026/",
       "source": "dakota_jazz_club"
+    },
+    {
+      "date": "2026-09-26",
+      "end_date": "2026-09-30",
+      "venue": "Fathom Events",
+      "title": "-P-r-i-n-c-e-s-s- -M-o-n-o-n-o-k-e-",
+      "tour": "Playing Near You",
+      "support_raw": "-S-t-u-d-i-o- -G-h-i-b-l-i- -F-e-s-t- -2-0-2-6-",
+      "artists": [
+        "-P-r-i-n-c-e-s-s- -M-o-n-o-n-o-k-e-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/princess-mononoke-studio-ghibli-fest-2026/",
+      "source": "fathom_events"
     },
     {
       "date": "2026-09-26",
@@ -23427,6 +23779,19 @@
     },
     {
       "date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "venue": "Fathom Events",
+      "title": "-A-d-o-r-e- -H-i-m-",
+      "tour": "Playing Near You",
+      "support_raw": "",
+      "artists": [
+        "-A-d-o-r-e- -H-i-m-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/adore-him/",
+      "source": "fathom_events"
+    },
+    {
+      "date": "2026-10-04",
       "venue": "Amsterdam Bar & Hall",
       "title": "Zolita",
       "tour": "The Hell’s Belles Tour",
@@ -24429,6 +24794,19 @@
       ],
       "link": "https://castledangerbrewery.com/event/na-cho-bizness-4/2026-10-10/",
       "source": "castle_danger_brewery"
+    },
+    {
+      "date": "2026-10-10",
+      "end_date": "2026-10-14",
+      "venue": "Fathom Events",
+      "title": "-G-o-n-e- -W-i-t-h- -T-h-e- -W-i-n-d- -(-2-0-2-6-)-",
+      "tour": "Playing Near You",
+      "support_raw": "-F-a-t-h-o-m-'-s- -B-i-g- -S-c-r-e-e-n- -C-l-a-s-s-i-c-s-",
+      "artists": [
+        "-G-o-n-e- -W-i-t-h- -T-h-e- -W-i-n-d- -(-2-0-2-6-)-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/gone-with-the-wind-2026/",
+      "source": "fathom_events"
     },
     {
       "date": "2026-10-10",
@@ -25682,6 +26060,19 @@
       ],
       "link": "https://www.dakotacooks.com/event/branford-marsalis-dianne-reeves-celebrate-john-coltrane-at-the-ordway-oct17-2026/",
       "source": "dakota_jazz_club"
+    },
+    {
+      "date": "2026-10-17",
+      "end_date": "2026-10-21",
+      "venue": "Fathom Events",
+      "title": "-S-p-i-r-i-t-e-d- -A-w-a-y- -2-5-t-h- -A-n-n-i-v-e-r-s-a-r-y-",
+      "tour": "Playing Near You",
+      "support_raw": "-S-t-u-d-i-o- -G-h-i-b-l-i- -F-e-s-t- -2-0-2-6-",
+      "artists": [
+        "-S-p-i-r-i-t-e-d- -A-w-a-y- -2-5-t-h- -A-n-n-i-v-e-r-s-a-r-y-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/spirited-away-studio-ghibli-fest-2026/",
+      "source": "fathom_events"
     },
     {
       "date": "2026-10-17",
@@ -28839,6 +29230,19 @@
       ],
       "link": "https://www.croonersmn.com/event/i-honestly-love-you-beloved-songs-of-olivia-newton-john-and-anne-murray/",
       "source": "crooners"
+    },
+    {
+      "date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "venue": "Fathom Events",
+      "title": "-R-o-c-k-y- -5-0-t-h- -A-n-n-i-v-e-r-s-a-r-y-",
+      "tour": "Playing Near You",
+      "support_raw": "",
+      "artists": [
+        "-R-o-c-k-y- -5-0-t-h- -A-n-n-i-v-e-r-s-a-r-y-"
+      ],
+      "link": "https://www.fathomentertainment.com/releases/rocky-50th-anniversary/",
+      "source": "fathom_events"
     },
     {
       "date": "2026-11-07",

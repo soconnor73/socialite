@@ -54,7 +54,8 @@ const SOURCE_METADATA = {
     'litt_pinball_bar': { name: 'LITT Pinball Bar', color: 'var(--clr-litt-pinball)' },
     'castle_danger_brewery': { name: 'Castle Danger Brewery', color: 'var(--clr-castle-danger)' },
     'train_ride': { name: 'Osceola Train Rides', color: 'var(--clr-train-ride)' },
-    'mn_state_fair_grandstand': { name: 'State Fair Grandstand', color: 'var(--clr-state-fair)' }
+    'mn_state_fair_grandstand': { name: 'State Fair Grandstand', color: 'var(--clr-state-fair)' },
+    'fathom_events': { name: 'Fathom Events', color: 'var(--clr-fathom-events)' }
 };
 
 const CATEGORY_MAP = {
@@ -86,7 +87,7 @@ const CATEGORY_MAP = {
     'cinema': {
         name: 'Cinema & Film',
         color: '#3b82f6', // blue
-        sources: ['parkway_theater', 'trylon_cinema']
+        sources: ['parkway_theater', 'trylon_cinema', 'fathom_events']
     },
     'outdoors': {
         name: 'Festivals, Tourism & Outdoors',
