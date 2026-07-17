@@ -96,7 +96,7 @@ You can package and run Socialite in a lightweight Linux Docker container with a
 ### 1. Build the Docker Image
 Navigate to the root directory and build the image:
 ```bash
-docker build -t socialite-app .
+docker build -t socialite-app -f docker/Dockerfile .
 ```
 
 ### 2. Run the Container
@@ -119,13 +119,13 @@ Access the application at `http://localhost:8080`.
   ```cron
   0 0 * * 0 cd /app && /usr/local/bin/python scrape_shows.py && /usr/local/bin/python aggregate_events.py > /proc/1/fd/1 2>&1
   ```
-- **Dockerfile Setup**: The `Dockerfile` copies `cronjob` to the system cron directory, sets proper permissions, and registers it:
+- **Dockerfile Setup**: The `Dockerfile` copies `docker/cronjob` to the system cron directory, sets proper permissions, and registers it:
   ```dockerfile
-  RUN cp /app/cronjob /etc/cron.d/socialite-cron \
+  RUN cp /app/docker/cronjob /etc/cron.d/socialite-cron \
       && chmod 0644 /etc/cron.d/socialite-cron \
       && crontab /etc/cron.d/socialite-cron
   ```
-- **Entrypoint execution**: When the container spins up, `entrypoint.sh` starts the background `cron` daemon before launching `nginx` in the foreground:
+- **Entrypoint execution**: When the container spins up, `docker/entrypoint.sh` starts the background `cron` daemon before launching `nginx` in the foreground:
   ```bash
   #!/bin/sh
   cron

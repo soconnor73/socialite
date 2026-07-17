@@ -19,21 +19,21 @@ COPY . /app/
 
 # Remove default Nginx site configuration and copy our custom nginx configuration
 RUN rm -f /etc/nginx/sites-enabled/default \
-    && cp /app/nginx.conf /etc/nginx/conf.d/default.conf
+    && cp /app/docker/nginx.conf /etc/nginx/conf.d/default.conf
 
 # Setup the cron job
-RUN cp /app/cronjob /etc/cron.d/socialite-cron \
+RUN cp /app/docker/cronjob /etc/cron.d/socialite-cron \
     && chmod 0644 /etc/cron.d/socialite-cron \
     && crontab /etc/cron.d/socialite-cron
 
 # Fix potential Windows CRLF line endings for Linux execution
-RUN sed -i 's/\r$//' /app/entrypoint.sh /etc/cron.d/socialite-cron
+RUN sed -i 's/\r$//' /app/docker/entrypoint.sh /etc/cron.d/socialite-cron
 
 # Make entrypoint script executable
-RUN chmod +x /app/entrypoint.sh
+RUN chmod +x /app/docker/entrypoint.sh
 
 # Expose port 80 for the Nginx web server
 EXPOSE 80
 
 # Run entrypoint script
-ENTRYPOINT ["/app/entrypoint.sh"]
+ENTRYPOINT ["/app/docker/entrypoint.sh"]
