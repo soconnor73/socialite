@@ -161,8 +161,8 @@ async function init() {
 // Fetch compiled events
 async function fetchEvents() {
     try {
-        const response = await fetch(`events.json?t=${new Date().getTime()}`);
-        if (!response.ok) throw new Error('Failed to load events.json');
+        const response = await fetch(`events/events.json?t=${new Date().getTime()}`);
+        if (!response.ok) throw new Error('Failed to load events/events.json');
         const data = await response.json();
         
         appState.allEvents = data.shows || [];

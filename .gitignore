@@ -3,8 +3,8 @@ package.json
 package-lock.json
 *.tar
 raw_html/
-*-events.json
-!events.json
+events/*-events.json
+!events/events.json
 scratch/
 __pycache__/
 *.pyc

@@ -5,13 +5,13 @@ import datetime
 
 def aggregate():
     print("Aggregating event files...")
-    event_files = glob.glob("*-events.json")
+    event_files = glob.glob(os.path.join("events", "*-events.json"))
     
     all_shows = []
     seen_keys = set()
     
     for filepath in event_files:
-        if filepath == "events.json":
+        if os.path.basename(filepath) == "events.json":
             continue
         try:
             filename = os.path.basename(filepath)
@@ -39,7 +39,7 @@ def aggregate():
     all_shows.sort(key=lambda s: s.get('date', ''))
     
     # Save the consolidated output
-    output_filename = "events.json"
+    output_filename = os.path.join("events", "events.json")
     with open(output_filename, 'w', encoding='utf-8') as f:
         json.dump({
             'metadata': {

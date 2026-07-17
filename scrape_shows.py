@@ -904,7 +904,8 @@ def scrape_site(site_name, start_date, end_date):
     print(f"Total shows in 60-day window: {len(filtered_shows)}")
 
     # Name of the output file reflects the parser
-    output_filename = f"{site_name.replace('_', '-')}-events.json"
+    os.makedirs("events", exist_ok=True)
+    output_filename = os.path.join("events", f"{site_name.replace('_', '-')}-events.json")
     
     with open(output_filename, 'w', encoding='utf-8') as f:
         json.dump({

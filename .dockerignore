@@ -8,5 +8,5 @@ package.json
 !app.js
 *.tar
 raw_html
-*-events.json
-!events.json
+events/*-events.json
+!events/events.json
