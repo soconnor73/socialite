@@ -9,4 +9,8 @@ scratch/
 __pycache__/
 *.pyc
 result.txt
+.env
+.env.*
+*.pem
+*.key
 
