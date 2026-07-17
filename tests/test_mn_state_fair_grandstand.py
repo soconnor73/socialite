@@ -1,6 +1,7 @@
 import datetime
 import os
 import sys
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from parsers.mn_state_fair_grandstand import MNStateFairGrandstandParser
 
 if sys.stdout.encoding != 'utf-8':
