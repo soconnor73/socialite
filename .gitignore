@@ -6,3 +6,7 @@ raw_html/
 *-events.json
 !events.json
 scratch/
+__pycache__/
+*.pyc
+result.txt
+
