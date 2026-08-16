@@ -18,9 +18,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . /app/
 
 # Remove default Nginx site configuration and copy our custom nginx configuration
+# (nginx.conf includes /app/docker/security-headers.conf directly, no separate copy needed)
 RUN rm -f /etc/nginx/sites-enabled/default \
-    && cp /app/docker/nginx.conf /etc/nginx/conf.d/default.conf \
-    && cp /app/docker/security-headers.conf /etc/nginx/security-headers.conf
+    && cp /app/docker/nginx.conf /etc/nginx/conf.d/default.conf
 
 # Setup the cron job
 RUN cp /app/docker/cronjob /etc/cron.d/socialite-cron \
