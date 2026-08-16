@@ -478,6 +478,16 @@ function getSourceMeta(source) {
     return SOURCE_METADATA[source] || { name: source, color: DEFAULT_SOURCE_COLOR };
 }
 
+// Helper: Only allow http(s) URLs before assigning to href (scraped links are untrusted)
+function isSafeHttpUrl(url) {
+    try {
+        const parsed = new URL(url, window.location.href);
+        return parsed.protocol === 'http:' || parsed.protocol === 'https:';
+    } catch {
+        return false;
+    }
+}
+
 // Render Calendar Grid View
 function renderGrid() {
     const monthNames = [
@@ -712,17 +722,20 @@ function createEventCard(show, dateStr, isSavedView = false) {
             <div class="card-day-name">${dayNames[dateObj.getDay()]}</div>
         </div>
         <div class="card-info-col">
-            <span class="card-venue-badge" style="background-color: ${meta.color}20; color: ${meta.color}">
-                ${show.venue}
-            </span>
-            <h3 class="card-title">${show.title}</h3>
-            <p class="card-subtitle">${subtitleText}</p>
+            <span class="card-venue-badge" style="background-color: ${meta.color}20; color: ${meta.color}"></span>
+            <h3 class="card-title"></h3>
+            <p class="card-subtitle"></p>
         </div>
         <div class="card-action-col">
             ${actionHtml}
         </div>
     `;
-    
+
+    // Scraped, untrusted fields — set as text, never interpolated into innerHTML
+    card.querySelector('.card-venue-badge').textContent = show.venue;
+    card.querySelector('.card-title').textContent = show.title;
+    card.querySelector('.card-subtitle').textContent = subtitleText;
+
     if (isSavedView) {
         const removeBtn = card.querySelector('.card-remove-btn');
         removeBtn.addEventListener('click', (e) => {
@@ -838,8 +851,8 @@ function showDetailsModal(show) {
         dom.modalArtistsContainer.appendChild(pill);
     });
     
-    // Tickets URL
-    if (show.link) {
+    // Tickets URL (scraped, untrusted — only allow http(s) to block javascript: URIs)
+    if (show.link && isSafeHttpUrl(show.link)) {
         dom.modalTicketsLink.href = show.link;
         dom.modalTicketsLink.classList.remove('hidden');
     } else {
