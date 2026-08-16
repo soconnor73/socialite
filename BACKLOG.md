@@ -99,11 +99,29 @@ directly to an anchor's `href` with no scheme validation. A scraped value of
 **Recommendation:** Validate the scheme before assigning (allow only `http:`/`https:`),
 or reject/strip the value otherwise.
 
-## P2 — Medium
+## P2 — Medium (FIXED)
 
-### 4. Missing security headers
+### 4. Missing security headers — ✅ Fixed
+Added `docker/security-headers.conf` (X-Content-Type-Options, X-Frame-Options,
+Referrer-Policy, Content-Security-Policy) and `include`d it in both `location`
+blocks in `docker/nginx.conf`. It's a separate includable file, not inlined at the
+`server` level, because nginx's `add_header` inheritance rule would otherwise have
+silently dropped these headers on the `/events/events.json` response — that
+location already defines its own `add_header`s (Cache-Control/Pragma/Expires),
+which resets inheritance from the parent context for that directive. The Dockerfile
+now copies the snippet to `/etc/nginx/security-headers.conf` alongside the main
+config.
+
+The CSP allows `'unsafe-inline'` for `style-src` because `app.js` sets inline
+`style="..."` attributes via `innerHTML` for category dots/venue badges (values
+come from trusted `SOURCE_METADATA`/`CATEGORY_MAP` config, not scraped data — see
+finding #2's resolution). It also allow-lists `fonts.googleapis.com`/
+`fonts.gstatic.com` since `index.html` loads Google Fonts. `script-src` is
+restricted to `'self'` (no inline scripts in the app). Details below kept for
+reference.
+
 **File:** `docker/nginx.conf`
-**Confirms** original review's recommendation — verified the current config has none
+**Confirms** original review's recommendation — verified the current config had none
 of the suggested headers:
 ```nginx
 location / {
@@ -115,15 +133,6 @@ location / {
 No `Content-Security-Policy`, `X-Frame-Options`, `X-Content-Type-Options`, or
 `Referrer-Policy`. A CSP in particular would meaningfully blunt findings #2 and #3
 even if the underlying code isn't fixed immediately.
-
-**Recommendation:** Add at minimum:
-```nginx
-add_header X-Content-Type-Options "nosniff" always;
-add_header X-Frame-Options "DENY" always;
-add_header Referrer-Policy "strict-origin-when-cross-origin" always;
-add_header Content-Security-Policy "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; object-src 'none'; base-uri 'self'" always;
-```
-(Tune `script-src`/`style-src` to match actual inline usage in `index.html`.)
 
 ## Not backlogged (reviewed, no action needed)
 
