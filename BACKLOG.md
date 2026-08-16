@@ -35,8 +35,17 @@ Homepage/Traefik container, not this one.
 ### 2. Stored XSS via unsanitized scraped data in `innerHTML` — ✅ Fixed
 `createEventCard` now renders the card shell as static `innerHTML` (no scraped
 fields inline) and sets `show.venue`, `show.title`, and `subtitleText` afterward via
-`textContent`, so scraped markup can no longer execute. Details below kept for
-reference.
+`textContent`, so scraped markup can no longer execute.
+
+A follow-up review found the same bug in a sibling call site: `renderGrid`
+(`app.js`, calendar month view) built each `.grid-event-dot` via a template literal
+with `show.title`/`show.venue` interpolated into `data-id` and `title` attributes
+inside `innerHTML` — the exact same vector, just in attribute context instead of
+text context (e.g. a scraped title containing `"` could break out of the attribute).
+Fixed by building each dot with `document.createElement` and setting
+`dot.dataset.id`/`dot.title` as DOM properties instead of markup.
+
+Details below kept for reference.
 
 **File:** `app.js:708-724` (`createEventCard`), also `app.js:842-843`
 **Confirms and raises severity of** original finding #2 (rated Medium there).

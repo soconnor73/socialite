@@ -535,32 +535,29 @@ function renderGrid() {
             return dateStr >= sDateStr && dateStr <= eDateStr;
         });
         
-        const eventsListHtml = dayEvents.map(show => {
-            const meta = getSourceMeta(show.source);
-            return `
-                <div class="grid-event-dot" 
-                     style="background-color: ${meta.color}; color: ${meta.color};" 
-                     data-id="${show.date}-${show.title}"
-                     title="${show.title} @ ${show.venue}">
-                </div>
-            `;
-        }).join('');
-        
         cell.innerHTML = `
             <div class="day-num-row">
                 <span class="day-num">${day}</span>
             </div>
-            <div class="day-events-list">
-                ${eventsListHtml}
-            </div>
+            <div class="day-events-list"></div>
         `;
-        
-        // Add click events to open details modal
-        cell.querySelectorAll('.grid-event-dot').forEach((dot, idx) => {
+
+        // Scraped, untrusted fields (show.title/show.venue) — build dots as DOM
+        // nodes and set text/dataset directly, never interpolated into innerHTML
+        const eventsListEl = cell.querySelector('.day-events-list');
+        dayEvents.forEach(show => {
+            const meta = getSourceMeta(show.source);
+            const dot = document.createElement('div');
+            dot.className = 'grid-event-dot';
+            dot.style.backgroundColor = meta.color;
+            dot.style.color = meta.color;
+            dot.dataset.id = `${show.date}-${show.title}`;
+            dot.title = `${show.title} @ ${show.venue}`;
             dot.addEventListener('click', (e) => {
                 e.stopPropagation();
-                showDetailsModal(dayEvents[idx]);
+                showDetailsModal(show);
             });
+            eventsListEl.appendChild(dot);
         });
         
         // Click on cell to switch to list view for only events on this day
