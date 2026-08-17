@@ -259,6 +259,46 @@ requests (`mn_united_fc.py`, `minneapolis.py`, `minnesota_twins.py`); added
   finding #6's `print(f"...{club_dapi_base}")` logs an attacker-influenced
   string unsanitized (minor CRLF log-injection risk, not otherwise actionable).
 
+## Round 3 — full Docker build verification, 2026-08-16
+
+Docker image builds had been blocked in this environment by a corporate
+proxy intercepting `pip install`'s TLS, so all fixes above were verified with
+targeted `nginx:stable` container tests rather than a real end-to-end build.
+Once the proxy was disabled, the image built and ran successfully — and
+surfaced one bug the targeted tests couldn't have caught.
+
+### 9. Weekly scrape cron job silently never runs — ✅ Fixed
+**File:** `docker/Dockerfile`, `docker/cronjob`
+Not a security finding — a pre-existing reliability bug, unrelated to the
+OWASP work above, found only once a full build+run became possible.
+
+`docker/cronjob` has Windows CRLF line endings (this repo is checked out on
+Windows). The Dockerfile ran `crontab /etc/cron.d/socialite-cron` to install
+the job *before* its CRLF-stripping `sed` step. Confirmed by direct testing
+that this system's `crontab` doesn't pass a raw CR byte through as-is —
+`crontab -l` echoes it back as the literal two-character string `\r`. That
+lands right after the job's trailing `2>&1`, producing `2>&1\r`, which
+`/bin/sh` rejects at runtime with `Bad fd number` — reproduced directly.
+Since the whole cron line is one `&&`-chained compound command, this error
+kills the entire job before `scrape_shows.py` or `aggregate_events.py` ever
+runs. `events/events.json` would never be refreshed by the container's own
+cron in production.
+
+There was also a smaller, related issue: the same file was *also* copied to
+`/etc/cron.d/socialite-cron`, but that location requires 6-field entries
+(with an explicit user column) — this file has the 5-field per-user format —
+so cron would just log an "unknown user" warning for it on every reload; it
+was dead weight duplicating the working `crontab`-installed job.
+
+Fixed by reordering the Dockerfile so `sed -i 's/\r$//'` runs on
+`docker/cronjob` *before* `crontab` installs it, and dropping the redundant/
+malformed `/etc/cron.d/socialite-cron` copy. Verified with a real build:
+the installed crontab's raw bytes now end in `31 0a` (`"1\n"`, no stray CR),
+and a `sh -n` syntax check on the extracted command passes. (Did not execute
+the real job during testing — confirmed the redirection bug's mechanism in
+an isolated disposable container instead, to avoid triggering an actual
+scrape of 30+ third-party sites.)
+
 ## Not backlogged (reviewed, no action needed)
 
 - **Hard-coded secrets** — re-checked with a broader grep across `.py`/`.js`/`.json`/

@@ -22,16 +22,21 @@ COPY . /app/
 RUN rm -f /etc/nginx/sites-enabled/default \
     && cp /app/docker/nginx.conf /etc/nginx/conf.d/default.conf
 
-# Setup the cron job
-RUN cp /app/docker/cronjob /etc/cron.d/socialite-cron \
-    && chmod 0644 /etc/cron.d/socialite-cron \
-    && crontab /etc/cron.d/socialite-cron
-
-# Fix potential Windows CRLF line endings for Linux execution
-RUN sed -i 's/\r$//' /app/docker/entrypoint.sh /etc/cron.d/socialite-cron
+# Fix potential Windows CRLF line endings for Linux execution. Must run
+# BEFORE `crontab` installs the job below: a raw CR byte fed to `crontab` is
+# stored as a literal two-character "\r" (verified via `crontab -l`), which
+# makes the job's trailing `2>&1` redirection invalid ("Bad fd number") and
+# silently prevents the entire compound command from ever running.
+RUN sed -i 's/\r$//' /app/docker/entrypoint.sh /app/docker/cronjob
 
 # Make entrypoint script executable
 RUN chmod +x /app/docker/entrypoint.sh
+
+# Install the weekly scrape job as root's crontab. (Not placed under
+# /etc/cron.d/ too — that location requires a 6-field format with an explicit
+# user column, which this 5-field per-user crontab syntax doesn't have; cron
+# would just log an "unknown user" warning for it on every reload.)
+RUN crontab /app/docker/cronjob
 
 # Expose port 80 for the Nginx web server
 EXPOSE 80
