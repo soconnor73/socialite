@@ -166,22 +166,28 @@ requests) return `200`; `scrape_shows.py`, `requirements.txt`, `README.md`,
 
 **File:** `docker/nginx.conf`
 
-### 6. SSRF via unvalidated URLs from scraped third-party content (A10)
+### 6. SSRF via unvalidated URLs from scraped third-party content (A10) — ✅ Fixed
 **File:** `parsers/mn_united_fc.py:87-100`, `parsers/minneapolis.py:92-97,149-175`
-Not fixed yet.
 
-- `mn_united_fc.py` extracts `forgeDAPI`/`leagueForgeDAPIv1` values via regex
-  from mnufc.com's page content and uses them unvalidated to build URLs
-  fetched via `urlopen`. A compromised/tampered upstream response could
-  redirect the scraper to an internal host or a `file://` URL.
-- `minneapolis.py` takes a scraped `<a href>` verbatim (only rewritten if it
-  starts with `/`) and passes it straight to `_get_detail_venue()` →
+- `mn_united_fc.py` extracted `forgeDAPI`/`leagueForgeDAPIv1` values via regex
+  from mnufc.com's page content and used them unvalidated to build URLs
+  fetched via `urlopen`. A compromised/tampered upstream response could have
+  redirected the scraper to an internal host or a `file://` URL.
+- `minneapolis.py` took a scraped `<a href>` verbatim (only rewritten if it
+  started with `/`) and passed it straight to `_get_detail_venue()` →
   `urlopen()` with no host allowlist.
 
-**Recommendation:** before fetching, validate the resolved URL's scheme is
-`https:`/`http:` and its host matches the expected site (e.g.
-`dapi.mnufc.com`/`dapi.mlssoccer.com` for the first, `minneapolis.org` for the
-second) — same shape as the `isSafeHttpUrl()` fix already applied in `app.js`.
+Fixed by adding `_is_safe_dapi_base()`/`_is_safe_detail_url()` helpers (same
+shape as the `isSafeHttpUrl()` fix already applied in `app.js`) that require
+`https:` and an exact host match (`dapi.mnufc.com`/`dapi.mlssoccer.com` for
+the first, `www.minneapolis.org` for the second) before a scraped URL is used
+as a fetch base; otherwise the code falls back to the hardcoded default
+(mn_united_fc.py) or returns no venue (minneapolis.py) instead of fetching.
+Also sanitized the `minneapolis.py` cache-slug to `[A-Za-z0-9_-]` only,
+closing the (Linux-inert, but still worth removing) backslash gap from
+finding #8. Verified with unit tests: legit hosts pass, `http:` downgrade,
+cloud-metadata IPs, `file://`, and host-confusion attempts (`evil.com/dapi.mnufc.com`)
+all correctly rejected.
 
 ### 7. Unbounded scraper resource usage (A04 Insecure Design)
 **File:** `scrape_shows.py` (`get_page_content` and several pagination loops)
@@ -204,10 +210,9 @@ Not fixed yet, low individual severity:
 - No `server_tokens off;` — nginx version is disclosed on default error pages.
 - No Subresource Integrity (SRI) on the Google Fonts `<link>` tags in
   `index.html`.
-- `minneapolis.py`'s cache-slug regex blocks `/` but not `\` in the matched
-  segment — not exploitable in the actual Linux container (backslash isn't a
-  path separator there), only relevant if the scraper is ever run directly on
-  Windows.
+- ~~`minneapolis.py`'s cache-slug regex blocks `/` but not `\` in the matched
+  segment~~ — fixed as part of finding #6 (slug now sanitized to
+  `[A-Za-z0-9_-]` only).
 
 ### Checked, no findings
 - **A02 Cryptographic Failures** — TLS terminates at Traefik; no certs/keys

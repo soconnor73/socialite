@@ -6,6 +6,11 @@ import urllib.parse
 from typing import List, Dict, Any
 from .base import BaseParser
 
+# Only these hosts may be used as the Forge DAPI base, even if the page's HTML
+# claims otherwise (SSRF hardening — see _is_safe_dapi_base).
+ALLOWED_DAPI_HOSTS = {'dapi.mnufc.com', 'dapi.mlssoccer.com'}
+
+
 class MNUnitedFCParser(BaseParser):
     """
     Parser implementation for MN United FC Schedule (mnufc.com/schedule).
@@ -67,6 +72,16 @@ class MNUnitedFCParser(BaseParser):
         text = text.replace('’', "'").replace('‘', "'").replace('”', '"').replace('“', '"')
         return " ".join(text.split()).strip()
 
+    def _is_safe_dapi_base(self, url: str) -> bool:
+        """Reject a DAPI base extracted from page HTML unless it's https and
+        points at a known DAPI host, to stop a tampered/compromised response
+        from redirecting our fetches to an internal host or a file:// URL."""
+        try:
+            parsed = urllib.parse.urlparse(url)
+        except ValueError:
+            return False
+        return parsed.scheme == 'https' and parsed.hostname in ALLOWED_DAPI_HOSTS
+
     def _fetch_json(self, url: str) -> Dict[str, Any]:
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
@@ -89,12 +104,20 @@ class MNUnitedFCParser(BaseParser):
         
         match_club = re.search(r'forgeDAPI:\s*"([^"]+)"', html_str)
         if match_club:
-            club_dapi_base = match_club.group(1).rstrip('/')
-            
+            candidate = match_club.group(1).rstrip('/')
+            if self._is_safe_dapi_base(candidate):
+                club_dapi_base = candidate
+            else:
+                print(f"[MNUFC Parser] Warning: ignoring untrusted forgeDAPI base {candidate!r}, using default.")
+
         match_league = re.search(r'leagueForgeDAPIv1:\s*"([^"]+)"', html_str)
         if match_league:
             # Substitute v1 with v2 if appropriate or use as is
-            league_dapi_base = match_league.group(1).rstrip('/')
+            candidate = match_league.group(1).rstrip('/')
+            if self._is_safe_dapi_base(candidate):
+                league_dapi_base = candidate
+            else:
+                print(f"[MNUFC Parser] Warning: ignoring untrusted leagueForgeDAPIv1 base {candidate!r}, using default.")
             
         print(f"[MNUFC Parser] Resolved club DAPI: {club_dapi_base}")
         print(f"[MNUFC Parser] Resolved league DAPI: {league_dapi_base}")

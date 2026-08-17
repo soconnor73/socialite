@@ -1,12 +1,18 @@
 import datetime
 import re
 import urllib.request
+import urllib.parse
 import gzip
 import os
 import html
 from bs4 import BeautifulSoup
 from typing import List, Dict, Any
 from .base import BaseParser
+
+# Only this host may be fetched for event detail pages, even if a scraped
+# <a href> claims otherwise (SSRF hardening — see _is_safe_detail_url).
+ALLOWED_DETAIL_HOST = 'www.minneapolis.org'
+
 
 class MinneapolisParser(BaseParser):
     """
@@ -146,13 +152,26 @@ class MinneapolisParser(BaseParser):
             
         return parsed_shows
 
+    def _is_safe_detail_url(self, url: str) -> bool:
+        """Reject a detail-page URL unless it's https and points at the
+        expected host, to stop a scraped <a href> from redirecting our
+        fetch to an internal host or a file:// URL."""
+        try:
+            parsed = urllib.parse.urlparse(url)
+        except ValueError:
+            return False
+        return parsed.scheme == 'https' and parsed.hostname == ALLOWED_DETAIL_HOST
+
     def _get_detail_venue(self, url: str) -> str:
-        if not url:
+        if not url or not self._is_safe_detail_url(url):
             return ""
-        
+
         slug_match = re.search(r'/calendar/([^/]+)/?$', url)
         slug = slug_match.group(1) if slug_match else "temp"
-        
+        # Keep only characters safe for a single path segment (defense in
+        # depth against traversal via the matched slug).
+        slug = re.sub(r'[^A-Za-z0-9_-]', '_', slug) or "temp"
+
         cache_dir = "raw_html/minneapolis_details"
         os.makedirs(cache_dir, exist_ok=True)
         cache_path = os.path.join(cache_dir, f"{slug}.html")
