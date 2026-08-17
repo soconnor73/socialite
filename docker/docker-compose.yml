@@ -3,6 +3,13 @@ services:
     image: socialite-app:latest
     container_name: socialite
     restart: unless-stopped
+    # Compensating control for running as root inside the container (nginx's
+    # master process and cron both need root; nginx's worker processes, which
+    # handle all HTTP request parsing, already drop to the unprivileged
+    # `nginx` user via the base image's default nginx.conf). Blocks privilege
+    # escalation via setuid/setgid binaries if the container is compromised.
+    security_opt:
+      - no-new-privileges:true
     networks:
       - proxy_network
     labels:

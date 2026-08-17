@@ -10,6 +10,11 @@ from .base import BaseParser
 # claims otherwise (SSRF hardening — see _is_safe_dapi_base).
 ALLOWED_DAPI_HOSTS = {'dapi.mnufc.com', 'dapi.mlssoccer.com'}
 
+REQUEST_TIMEOUT = 30
+# Hard cap on the match-pagination loop, which otherwise relies on the DAPI
+# response eventually returning an empty page or an old-enough match date.
+MAX_MATCH_PAGES = 200
+
 
 class MNUnitedFCParser(BaseParser):
     """
@@ -87,7 +92,7 @@ class MNUnitedFCParser(BaseParser):
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
         req = urllib.request.Request(url, headers=headers)
-        with urllib.request.urlopen(req) as res:
+        with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as res:
             return json.loads(res.read().decode('utf-8'))
 
     def parse(self, html_content: bytes, **kwargs) -> List[Dict[str, Any]]:
@@ -206,7 +211,7 @@ class MNUnitedFCParser(BaseParser):
         all_matches = []
         skip = 0
         limit = 25
-        while True:
+        for _page in range(MAX_MATCH_PAGES):
             matches_url = f"{club_dapi_base}/content/en-us/matches?$skip={skip}&$limit={limit}"
             try:
                 matches_data = self._fetch_json(matches_url)

@@ -5,6 +5,9 @@ import urllib.request
 from typing import List, Dict, Any
 from .base import BaseParser
 
+REQUEST_TIMEOUT = 30
+
+
 class MinnesotaTwinsParser(BaseParser):
     """
     Parser implementation for Minnesota Twins Schedule (mlb.com/twins/schedule).
@@ -40,7 +43,7 @@ class MinnesotaTwinsParser(BaseParser):
         parsed_shows = []
         req = urllib.request.Request(url, headers=headers)
         try:
-            with urllib.request.urlopen(req) as res:
+            with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as res:
                 parsed = json.loads(res.read().decode('utf-8'))
                 dates = parsed.get('dates', [])
                 for d in dates:

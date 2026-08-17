@@ -10,3 +10,10 @@ package.json
 raw_html
 events/*-events.json
 !events/events.json
+__pycache__
+*.pyc
+result.txt
+.env
+.env.*
+*.pem
+*.key

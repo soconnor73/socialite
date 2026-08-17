@@ -13,6 +13,8 @@ from .base import BaseParser
 # <a href> claims otherwise (SSRF hardening — see _is_safe_detail_url).
 ALLOWED_DETAIL_HOST = 'www.minneapolis.org'
 
+REQUEST_TIMEOUT = 30
+
 
 class MinneapolisParser(BaseParser):
     """
@@ -191,7 +193,7 @@ class MinneapolisParser(BaseParser):
             }
             req = urllib.request.Request(url, headers=headers)
             try:
-                with urllib.request.urlopen(req) as response:
+                with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as response:
                     content = response.read()
                     if response.info().get('Content-Encoding') == 'gzip':
                         content = gzip.decompress(content)

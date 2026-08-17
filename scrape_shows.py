@@ -8,24 +8,33 @@ import gzip
 
 from parsers import get_parser
 
+# Applied to every outbound fetch so a slow/hostile upstream can't hang the
+# weekly scrape job indefinitely.
+REQUEST_TIMEOUT = 30
+
+# Hard cap on paginated API loops that otherwise trust a server-supplied
+# `total` field to know when to stop — a misbehaving/hostile response could
+# otherwise keep such a loop running unbounded.
+MAX_PAGES_PER_WINDOW = 50
+
 def get_page_content(url, use_cloudscraper=False):
     print(f"Fetching: {url}")
     if use_cloudscraper:
         try:
             import cloudscraper
             scraper = cloudscraper.create_scraper()
-            response = scraper.get(url)
+            response = scraper.get(url, timeout=REQUEST_TIMEOUT)
             return response.content
         except Exception as e:
             print(f"Cloudscraper fetch failed: {e}. Falling back to standard fetch.")
-            
+
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
         'Accept-Encoding': 'gzip, deflate'
     }
     req = urllib.request.Request(url, headers=headers)
     try:
-        with urllib.request.urlopen(req) as response:
+        with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as response:
             content = response.read()
             if response.info().get('Content-Encoding') == 'gzip':
                 content = gzip.decompress(content)
@@ -473,7 +482,7 @@ def scrape_site(site_name, start_date, end_date):
         month_windows = get_month_windows(start_date, end_date)
         for (w_start, w_end) in month_windows:
             page = 1
-            while True:
+            while page <= MAX_PAGES_PER_WINDOW:
                 cache_key = f"{w_start}_{w_end}_p{page}"
                 filepath = f"raw_html/visit_duluth_{cache_key}.json"
                 raw = None
@@ -513,7 +522,7 @@ def scrape_site(site_name, start_date, end_date):
         month_windows = get_month_windows(start_date, end_date)
         for (w_start, w_end) in month_windows:
             page = 1
-            while True:
+            while page <= MAX_PAGES_PER_WINDOW:
                 cache_key = f"{w_start}_{w_end}_p{page}"
                 filepath = f"raw_html/castle_danger_brewery_{cache_key}.json"
                 raw = None
@@ -553,7 +562,7 @@ def scrape_site(site_name, start_date, end_date):
         month_windows = get_month_windows(start_date, end_date)
         for (w_start, w_end) in month_windows:
             page = 1
-            while True:
+            while page <= MAX_PAGES_PER_WINDOW:
                 cache_key = f"{w_start}_{w_end}_p{page}"
                 filepath = f"raw_html/luminary_arts_center_{cache_key}.json"
                 raw = None
@@ -593,7 +602,7 @@ def scrape_site(site_name, start_date, end_date):
         month_windows = get_month_windows(start_date, end_date)
         for (w_start, w_end) in month_windows:
             page = 1
-            while True:
+            while page <= MAX_PAGES_PER_WINDOW:
                 cache_key = f"{w_start}_{w_end}_p{page}"
                 filepath = f"raw_html/utepils_brewery_{cache_key}.json"
                 raw = None
@@ -713,7 +722,7 @@ def scrape_site(site_name, start_date, end_date):
         month_windows = get_month_windows(start_date, end_date)
         for (w_start, w_end) in month_windows:
             page = 1
-            while True:
+            while page <= MAX_PAGES_PER_WINDOW:
                 cache_key = f"{w_start}_{w_end}_p{page}"
                 filepath = f"raw_html/mpls_parks_{cache_key}.json"
                 raw = None

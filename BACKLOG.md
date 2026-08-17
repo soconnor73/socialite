@@ -189,27 +189,51 @@ finding #8. Verified with unit tests: legit hosts pass, `http:` downgrade,
 cloud-metadata IPs, `file://`, and host-confusion attempts (`evil.com/dapi.mnufc.com`)
 all correctly rejected.
 
-### 7. Unbounded scraper resource usage (A04 Insecure Design)
-**File:** `scrape_shows.py` (`get_page_content` and several pagination loops)
-Not fixed yet. No timeout on `urlopen`/`cloudscraper` calls — a slow or
-hostile upstream can hang the weekly scrape job indefinitely. Several
-pagination loops (`visit_duluth`, `castle_danger_brewery`,
-`luminary_arts_center`, `utepils_brewery`, `mpls_parks`) trust a
-server-supplied `total` field with no hard page cap, unlike `minneapolis`
-which caps at `max_pages=100`.
+### 7. Unbounded scraper resource usage (A04 Insecure Design) — ✅ Fixed
+**File:** `scrape_shows.py`, `parsers/mn_united_fc.py`, `parsers/minneapolis.py`,
+`parsers/minnesota_twins.py`
 
-**Recommendation:** add a `timeout=` to all `urlopen`/`cloudscraper` calls and
-a hard page cap to the uncapped pagination loops.
+No timeout on any `urlopen`/`cloudscraper` call — a slow or hostile upstream
+could hang the weekly scrape job indefinitely. Several pagination loops
+(`visit_duluth`, `castle_danger_brewery`, `luminary_arts_center`,
+`utepils_brewery`, `mpls_parks` in `scrape_shows.py`, plus the match-pagination
+loop in `mn_united_fc.py`) trusted a server-supplied `total`/empty-page signal
+with no hard cap, unlike `minneapolis` which already capped at `max_pages=100`.
 
-### 8. Minor hardening items (A05)
-Not fixed yet, low individual severity:
-- Container runs as root — no `USER` directive in `docker/Dockerfile`.
-- `.dockerignore` doesn't exclude `.env`/`*.pem`/`*.key` like `.gitignore`
-  does; inconsistent, would ship a local `.env` into the image if one existed
-  (mitigated in practice now by finding #5's allowlist, but worth aligning).
-- No `server_tokens off;` — nginx version is disclosed on default error pages.
-- No Subresource Integrity (SRI) on the Google Fonts `<link>` tags in
-  `index.html`.
+Fixed: added a 30s `REQUEST_TIMEOUT` applied to every `urlopen`/`cloudscraper`
+call across `scrape_shows.py` and the three parser files that make their own
+requests (`mn_united_fc.py`, `minneapolis.py`, `minnesota_twins.py`); added
+`MAX_PAGES_PER_WINDOW = 50` and converted the 5 uncapped `while True:` loops in
+`scrape_shows.py` to `while page <= MAX_PAGES_PER_WINDOW:`; added
+`MAX_MATCH_PAGES = 200` to cap `mn_united_fc.py`'s match-pagination loop.
+
+### 8. Minor hardening items (A05) — mostly fixed
+- **Fixed** — `.dockerignore` now excludes `.env`/`.env.*`/`*.pem`/`*.key`/
+  `__pycache__`/`*.pyc`/`result.txt`, matching `.gitignore`. (Already mitigated
+  in practice by finding #5's allowlist, but worth keeping the ignore files
+  consistent.)
+- **Fixed** — `server_tokens off;` added to `docker/nginx.conf`; verified the
+  `Server` response header now reads `nginx` with no version number.
+- **Partially addressed** — container runs as root; no `USER` directive in
+  `docker/Dockerfile`. Confirmed the base `nginx:stable` image's default
+  `/etc/nginx/nginx.conf` already sets `user nginx;`, so nginx's *worker*
+  processes — which parse and serve all untrusted HTTP requests, the actual
+  attack surface — already run unprivileged. Only the nginx master process and
+  `cron` remain root, and `cron` only ever runs the fixed, hardcoded scraper
+  command (no attacker-influenced trigger). A full non-root migration would
+  need cron to run under a non-root user and nginx to bind a non-privileged
+  port (which means updating the Traefik `loadbalancer.server.port` label in
+  `docker-compose.yml` too) — untestable end-to-end here since Docker image
+  builds are blocked by the corporate proxy's SSL interception on `pip
+  install`. Added `security_opt: [no-new-privileges:true]` to
+  `docker-compose.yml` as a compensating control instead (blocks privilege
+  escalation via setuid/setgid binaries if the container is compromised).
+- **Intentionally skipped** — SRI on the Google Fonts `<link>` tags in
+  `index.html`. Google's font CSS responses vary by `User-Agent` (different
+  browsers get different `@font-face` rules/formats), so a fixed SRI hash
+  would break font loading for a large fraction of visitors. This is a known
+  SRI/Google-Fonts incompatibility, not an oversight — leaving unpinned here
+  is the standard trade-off recommended for this specific CDN.
 - ~~`minneapolis.py`'s cache-slug regex blocks `/` but not `\` in the matched
   segment~~ — fixed as part of finding #6 (slug now sanitized to
   `[A-Za-z0-9_-]` only).
