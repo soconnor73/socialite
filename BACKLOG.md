@@ -134,6 +134,102 @@ No `Content-Security-Policy`, `X-Frame-Options`, `X-Content-Type-Options`, or
 `Referrer-Policy`. A CSP in particular would meaningfully blunt findings #2 and #3
 even if the underlying code isn't fixed immediately.
 
+## Round 2 — OWASP Top 10 (2021) pass, 2026-08-16
+
+Follow-up review targeting the categories not explicitly covered above: A01
+Broken Access Control, A02 Cryptographic Failures, A03 Injection, A04 Insecure
+Design, A05 Security Misconfiguration, A06 Vulnerable/Outdated Components, A07
+Auth Failures, A08 Software/Data Integrity, A09 Logging/Monitoring, A10 SSRF.
+
+### 5. Entire source tree + runtime scrape cache publicly served — ✅ Fixed (A01 / A05)
+`docker/nginx.conf`'s `location / { root /app; try_files $uri $uri/ =404; }`
+had no path/extension restriction. Since `COPY . /app/` puts the whole repo
+under that root, and `.dockerignore` only excludes `raw_html/`, `.git`, and
+most `*.js`, everything else was publicly downloadable: `/scrape_shows.py`,
+`/parsers/*.py`, `/requirements.txt`, `/docker/nginx.conf`,
+`/docker/docker-compose.yml`, `/README.md`, `/BACKLOG.md`,
+`/SECURITY_REVIEW.md` — full scraper source, infra layout, and this
+vulnerability backlog, all one `curl` away. Worse: `raw_html/` is excluded
+from the Docker *build*, but the weekly cron job (`docker/cronjob`) writes
+cached third-party scrape output into `/app/raw_html/` at **runtime**, and
+that directory sat under the same served root — so scraped venue-site HTML/JSON
+was being publicly re-hosted too.
+
+Fixed by replacing the catch-all with an explicit allowlist: `location =`
+blocks for exactly `/`, `/index.html`, `/index.css`, `/app.js`, and
+`/events/events.json`, plus a final `location / { return 404; }` catch-all.
+Verified against the real repo with `nginx:stable`: all 5 legitimate paths
+(including the `?v=NN` cache-busted query strings `index.html` actually
+requests) return `200`; `scrape_shows.py`, `requirements.txt`, `README.md`,
+`BACKLOG.md`, `docker/nginx.conf`, `docker/docker-compose.yml`,
+`parsers/base.py`, `raw_html/`, and `.git/config` all return `404`.
+
+**File:** `docker/nginx.conf`
+
+### 6. SSRF via unvalidated URLs from scraped third-party content (A10)
+**File:** `parsers/mn_united_fc.py:87-100`, `parsers/minneapolis.py:92-97,149-175`
+Not fixed yet.
+
+- `mn_united_fc.py` extracts `forgeDAPI`/`leagueForgeDAPIv1` values via regex
+  from mnufc.com's page content and uses them unvalidated to build URLs
+  fetched via `urlopen`. A compromised/tampered upstream response could
+  redirect the scraper to an internal host or a `file://` URL.
+- `minneapolis.py` takes a scraped `<a href>` verbatim (only rewritten if it
+  starts with `/`) and passes it straight to `_get_detail_venue()` →
+  `urlopen()` with no host allowlist.
+
+**Recommendation:** before fetching, validate the resolved URL's scheme is
+`https:`/`http:` and its host matches the expected site (e.g.
+`dapi.mnufc.com`/`dapi.mlssoccer.com` for the first, `minneapolis.org` for the
+second) — same shape as the `isSafeHttpUrl()` fix already applied in `app.js`.
+
+### 7. Unbounded scraper resource usage (A04 Insecure Design)
+**File:** `scrape_shows.py` (`get_page_content` and several pagination loops)
+Not fixed yet. No timeout on `urlopen`/`cloudscraper` calls — a slow or
+hostile upstream can hang the weekly scrape job indefinitely. Several
+pagination loops (`visit_duluth`, `castle_danger_brewery`,
+`luminary_arts_center`, `utepils_brewery`, `mpls_parks`) trust a
+server-supplied `total` field with no hard page cap, unlike `minneapolis`
+which caps at `max_pages=100`.
+
+**Recommendation:** add a `timeout=` to all `urlopen`/`cloudscraper` calls and
+a hard page cap to the uncapped pagination loops.
+
+### 8. Minor hardening items (A05)
+Not fixed yet, low individual severity:
+- Container runs as root — no `USER` directive in `docker/Dockerfile`.
+- `.dockerignore` doesn't exclude `.env`/`*.pem`/`*.key` like `.gitignore`
+  does; inconsistent, would ship a local `.env` into the image if one existed
+  (mitigated in practice now by finding #5's allowlist, but worth aligning).
+- No `server_tokens off;` — nginx version is disclosed on default error pages.
+- No Subresource Integrity (SRI) on the Google Fonts `<link>` tags in
+  `index.html`.
+- `minneapolis.py`'s cache-slug regex blocks `/` but not `\` in the matched
+  segment — not exploitable in the actual Linux container (backslash isn't a
+  path separator there), only relevant if the scraper is ever run directly on
+  Windows.
+
+### Checked, no findings
+- **A02 Cryptographic Failures** — TLS terminates at Traefik; no certs/keys
+  in-repo; `.gitignore` already excludes `*.pem`/`*.key`.
+- **A03 Injection (beyond #6/#8)** — no `subprocess`/`os.system`/`eval`/
+  `exec`/`pickle`/unsafe `yaml.load`/XML parsing anywhere in `*.py`.
+- **A06 Vulnerable Components** — `beautifulsoup4==4.15.0`/`cloudscraper==1.2.71`
+  have no known CVEs as of this review; no CDN-loaded `<script>` (only
+  CSS-only Google Fonts links, no SRI but limited blast radius).
+- **A07 Auth Failures** — confirmed no auth surface exists anywhere in the
+  app; the `localStorage`-based "Interested" save feature is appropriate for
+  a single-user, no-login app and isn't a partial/insecure auth mechanism.
+  Saved events read back from `localStorage` flow through the same
+  `textContent`-based safe rendering path as fresh scraped data (see finding
+  #2's fix) — no new XSS route via that round-trip.
+- **A08 Software/Data Integrity** — dependencies pinned, no unsafe
+  deserialization or remote code execution.
+- **A09 Logging/Monitoring** — acceptable for this app's scale; noted only
+  that scrape failures currently rely on `docker logs` with no alerting, and
+  finding #6's `print(f"...{club_dapi_base}")` logs an attacker-influenced
+  string unsanitized (minor CRLF log-injection risk, not otherwise actionable).
+
 ## Not backlogged (reviewed, no action needed)
 
 - **Hard-coded secrets** — re-checked with a broader grep across `.py`/`.js`/`.json`/
